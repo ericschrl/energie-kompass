@@ -1,9 +1,18 @@
+import { writeDailyBriefing } from './brief/dailyBriefing.js';
 import { getDb } from './db/connection.js';
 import { runMigrations } from './db/migrate.js';
 import { lastRuns } from './db/repositories/runs.js';
 import { formatOutcomes, ingestAll, syncSeeds } from './ingest.js';
+import { writeProjection } from './project/generateDataJs.js';
 
 const [, , command, ...args] = process.argv;
+
+function prepared() {
+  const db = getDb();
+  runMigrations(db);
+  syncSeeds(db);
+  return db;
+}
 
 async function main(): Promise<number> {
   switch (command) {
@@ -20,12 +29,38 @@ async function main(): Promise<number> {
       return 0;
     }
     case 'ingest': {
-      const db = getDb();
-      runMigrations(db);
-      syncSeeds(db);
-      const outcomes = await ingestAll(db, args[0]);
+      const outcomes = await ingestAll(prepared(), args[0]);
       console.log(`Ingestion (${outcomes.length} Quellen):\n${formatOutcomes(outcomes)}`);
       return outcomes.some((o) => o.status === 'error') ? 1 : 0;
+    }
+    case 'project': {
+      const { path, result } = writeProjection(prepared());
+      console.log(
+        `data.js generiert: ${path}\n` +
+          `  GESETZE ${result.data.GESETZE.length} | NEWS ${result.data.NEWS.length}` +
+          `${result.news.usedFallback ? ' (Fallback — DB noch ohne News)' : ''} | ` +
+          `TERMINE ${result.data.TERMINE.length} | STAKEHOLDER ${result.data.STAKEHOLDER.length} | ` +
+          `KONTAKTE ${result.data.KONTAKTE.length}`,
+      );
+      return 0;
+    }
+    case 'brief': {
+      const { path, neueMeldungen } = writeDailyBriefing(prepared());
+      console.log(`Briefing geschrieben: ${path} (${neueMeldungen} neue Meldungen)`);
+      return 0;
+    }
+    case 'daily': {
+      // Tageslauf: einsammeln → data.js generieren → Briefing.
+      // Ingestion-Fehler (z. B. offline) stoppen die Generierung NICHT —
+      // die Projektion fällt dann auf Fallback-/Bestandsdaten zurück.
+      const db = prepared();
+      const outcomes = await ingestAll(db);
+      console.log(`Ingestion:\n${formatOutcomes(outcomes)}`);
+      const { path, result } = writeProjection(db);
+      console.log(`data.js generiert: ${path} (NEWS ${result.data.NEWS.length}${result.news.usedFallback ? ', Fallback' : ''})`);
+      const brief = writeDailyBriefing(db);
+      console.log(`Briefing: ${brief.path} (${brief.neueMeldungen} neue Meldungen)`);
+      return 0;
     }
     case 'status': {
       const db = getDb();
@@ -46,14 +81,11 @@ async function main(): Promise<number> {
     }
     case 'enrich':
     case 'cluster':
-    case 'project':
-    case 'brief':
-    case 'daily':
-      console.error(`Befehl "${command}" ist noch nicht implementiert.`);
+      console.error(`Befehl "${command}" ist für eine spätere Ausbaustufe vorgesehen (LLM-/Regel-Anreicherung, Dossier-Clustering).`);
       return 1;
     default:
       console.error(
-        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|enrich|cluster|project|brief|daily|status>',
+        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|project|brief|daily|status>',
       );
       return command ? 1 : 0;
   }
