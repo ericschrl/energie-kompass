@@ -16,15 +16,24 @@
       "attributionRequired": true,
       "attributionText": "Quelle: Deutscher Bundestag, DIP"
     },
-    "rateLimit": { "requestsPerMinute": 50, "minDelayMs": 1200 },
-    "credentials": { "type": "api_key", "envVar": "DIP_API_KEY" },
+    "rateLimit": {
+      "requestsPerMinute": 50,
+      "minDelayMs": 1200
+    },
+    "credentials": {
+      "type": "api_key",
+      "envVar": "DIP_API_KEY"
+    },
     "defaultPolicyArea": "gesetzgebung",
     "config": {
       "wahlperiode": 21,
-      "sachgebiete": ["Energie"],
+      "sachgebiete": [
+        "Energie"
+      ],
       "vorgangstyp": "Gesetzgebung",
       "maxVorgaengeProLauf": 40
-    }
+    },
+    "enabled": false
   },
   {
     "slug": "lobbyregister",
@@ -43,12 +52,23 @@
       "attributionRequired": true,
       "attributionText": "Quelle: Lobbyregister beim Deutschen Bundestag"
     },
-    "rateLimit": { "requestsPerMinute": 20, "minDelayMs": 3000 },
+    "rateLimit": {
+      "requestsPerMinute": 20,
+      "minDelayMs": 3000
+    },
     "defaultPolicyArea": "lobby",
     "config": {
-      "queries": ["Energiewirtschaft", "Strommarkt", "Netzentgelte", "Erneuerbare Energien", "Wasserstoff", "Ladeinfrastruktur"],
+      "queries": [
+        "Energiewirtschaft",
+        "Strommarkt",
+        "Netzentgelte",
+        "Erneuerbare Energien",
+        "Wasserstoff",
+        "Ladeinfrastruktur"
+      ],
       "maxSeitenProQuery": 3
-    }
+    },
+    "enabled": false
   },
   {
     "slug": "rss-bnetza",
@@ -67,14 +87,21 @@
       "attributionRequired": true,
       "attributionText": "Quelle: Bundesnetzagentur"
     },
-    "rateLimit": { "requestsPerMinute": 10, "minDelayMs": 2000 },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
     "defaultPolicyArea": "regulierung",
     "config": {
       "verifyUrl": true,
       "feeds": [
-        { "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml", "docType": "pressemitteilung" }
+        {
+          "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml",
+          "docType": "pressemitteilung"
+        }
       ]
-    }
+    },
+    "enabled": true
   },
   {
     "slug": "rss-bmwe",
@@ -93,14 +120,21 @@
       "attributionRequired": true,
       "attributionText": "Quelle: BMWE"
     },
-    "rateLimit": { "requestsPerMinute": 10, "minDelayMs": 2000 },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
     "defaultPolicyArea": "regierung",
     "config": {
       "verifyUrl": true,
       "feeds": [
-        { "url": "https://www.bmwk.de/SiteGlobals/BMWK/Functions/RSSFeed/DE/Pressemitteilungen/rssnewsfeed_pressemitteilungen.xml", "docType": "pressemitteilung" }
+        {
+          "url": "https://www.bmwk.de/SiteGlobals/BMWK/Functions/RSSFeed/DE/Pressemitteilungen/rssnewsfeed_pressemitteilungen.xml",
+          "docType": "pressemitteilung"
+        }
       ]
-    }
+    },
+    "enabled": true
   },
   {
     "slug": "rss-bundesregierung",
@@ -119,14 +153,21 @@
       "attributionRequired": true,
       "attributionText": "Quelle: Bundesregierung"
     },
-    "rateLimit": { "requestsPerMinute": 10, "minDelayMs": 2000 },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
     "defaultPolicyArea": "regierung",
     "config": {
       "verifyUrl": true,
       "feeds": [
-        { "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml", "docType": "pressemitteilung" }
+        {
+          "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+          "docType": "pressemitteilung"
+        }
       ]
-    }
+    },
+    "enabled": false
   },
   {
     "slug": "bundesrat",
@@ -145,13 +186,17 @@
       "attributionRequired": true,
       "attributionText": "Quelle: Bundesrat"
     },
-    "rateLimit": { "requestsPerMinute": 10, "minDelayMs": 2000 },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
     "defaultPolicyArea": "gesetzgebung",
     "config": {
       "verifyUrl": true,
       "feedUrl": "https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/rssnewsfeed.xml",
       "tagesordnungUrl": "https://www.bundesrat.de/DE/plenum/to-plenum/to-plenum-node.html"
-    }
+    },
+    "enabled": false
   },
   {
     "slug": "eurlex",
@@ -170,17 +215,30 @@
       "attributionRequired": true,
       "attributionText": "Quelle: © Europäische Union, EUR-Lex"
     },
-    "rateLimit": { "requestsPerMinute": 20, "minDelayMs": 2500 },
+    "rateLimit": {
+      "requestsPerMinute": 20,
+      "minDelayMs": 2500
+    },
     "defaultPolicyArea": "eu-energie",
     "config": {
       "eurovocConcepts": [
-        { "uri": "http://eurovoc.europa.eu/2046", "label": "Energiepolitik" },
-        { "uri": "http://eurovoc.europa.eu/1158", "label": "Elektrische Energie" },
-        { "uri": "http://eurovoc.europa.eu/2052", "label": "Erneuerbare Energie" }
+        {
+          "uri": "http://eurovoc.europa.eu/2046",
+          "label": "Energiepolitik"
+        },
+        {
+          "uri": "http://eurovoc.europa.eu/1158",
+          "label": "Elektrische Energie"
+        },
+        {
+          "uri": "http://eurovoc.europa.eu/2052",
+          "label": "Erneuerbare Energie"
+        }
       ],
       "verifyUrl": true,
       "fensterTage": 30,
       "maxProLauf": 200
-    }
+    },
+    "enabled": false
   }
 ]
