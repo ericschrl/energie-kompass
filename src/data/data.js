@@ -1,5 +1,5 @@
 // ─── Energie-Kompass Data ───
-// GENERIERT durch pipeline/ – nicht von Hand editieren (Stand: 2026-06-12T14:09:14.095Z)
+// GENERIERT durch pipeline/ – nicht von Hand editieren (Stand: 2026-06-12T15:36:19.709Z)
 // Kuratierte Inhalte pflegen in pipeline/curated/, dann: cd pipeline && npm run project
 
 const GESETZE = [
