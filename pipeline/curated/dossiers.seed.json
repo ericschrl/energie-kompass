@@ -1,0 +1,175 @@
+[
+  {
+    "slug": "eeg-novelle",
+    "title": "EEG-Novelle / Erneuerbaren-Ausbau",
+    "description": "Weiterentwicklung des EEG: Ausschreibungen, Bürgerenergie, Netzintegration, Förderdesign.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "hoch",
+    "frontendGesetzId": "eeg-2024",
+    "matchRules": {
+      "keywords": ["EEG", "Erneuerbare-Energien-Gesetz", "Erneuerbaren-Ausbau", "Ausschreibungsmengen", "Bürgerenergie", "Solarpaket", "Einspeisevergütung", "Marktprämie"],
+      "patterns": ["\\bEEG\\b", "Erneuerbare[n]?-Energien-Gesetz"],
+      "topics": ["eeg"]
+    }
+  },
+  {
+    "slug": "netzausbau",
+    "title": "Netzausbau & Netzplanung",
+    "description": "Beschleunigung Stromnetzausbau, NABEG/EnWG-Planung, Übertragungs- und Verteilnetze, Offshore-Anbindung.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "hoch",
+    "frontendGesetzId": "netzpaket",
+    "matchRules": {
+      "keywords": ["Netzausbau", "NABEG", "Übertragungsnetz", "Verteilnetz", "Netzentwicklungsplan", "Offshore-Netzanbindung", "Stromnetz", "Netzbooster", "Höchstspannung"],
+      "patterns": ["Netzausbau", "Netzentwicklungsplan"],
+      "topics": ["netz"]
+    }
+  },
+  {
+    "slug": "genehmigungsmodernisierung",
+    "title": "Planungs- und Genehmigungsbeschleunigung",
+    "description": "Modernisierung von Planungs-/Genehmigungsverfahren (GModG, BImSchG-Novellen, Digitalisierung).",
+    "dossierType": "gesetzgebung_de",
+    "priority": "mittel",
+    "frontendGesetzId": "gmodg",
+    "matchRules": {
+      "keywords": ["Genehmigungsverfahren", "Planungsbeschleunigung", "Genehmigungsmodernisierung", "BImSchG", "Umweltverträglichkeitsprüfung", "Verfahrensbeschleunigung"],
+      "patterns": ["Genehmigungs(modernisierung|beschleunigung)", "Planungsbeschleunigung"],
+      "topics": ["netz"]
+    }
+  },
+  {
+    "slug": "v2g-bidirektional",
+    "title": "Bidirektionales Laden / V2G",
+    "description": "Regulatorischer Rahmen für Vehicle-to-Grid: Rückspeisung, Speicherdefinition, Netzentgelt-/Abgabenbehandlung.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "hoch",
+    "frontendGesetzId": "bidirektional",
+    "matchRules": {
+      "keywords": ["bidirektionales Laden", "Vehicle-to-Grid", "V2G", "Rückspeisung", "mobiler Speicher", "Elektromobilität Speicher"],
+      "patterns": ["\\bV2G\\b", "bidirektional"],
+      "topics": ["emob", "v2g"]
+    }
+  },
+  {
+    "slug": "netzentgelte",
+    "title": "Netzentgelte & Regulierungsrahmen",
+    "description": "Reform der Netzentgeltsystematik (AgNeS/NEST), StromNEV/ARegV, Baukostenzuschüsse, Verteilung der Netzkosten.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "hoch",
+    "frontendGesetzId": "netzentgelte",
+    "matchRules": {
+      "keywords": ["Netzentgelt", "Netzentgelte", "StromNEV", "ARegV", "AgNeS", "NEST", "Baukostenzuschuss", "Netzkosten", "Anreizregulierung", "Beschlusskammer 8", "BK8", "BK4"],
+      "patterns": ["Netzentgelt", "Anreizregulierung"],
+      "topics": ["netz", "netzentgelte"]
+    }
+  },
+  {
+    "slug": "14a-enwg",
+    "title": "§14a EnWG / steuerbare Verbrauchseinrichtungen",
+    "description": "Steuerbare Verbrauchseinrichtungen, Dimmen, netzorientierte Steuerung, Modul-Entgelte.",
+    "dossierType": "dauerthema",
+    "priority": "hoch",
+    "matchRules": {
+      "keywords": ["§14a", "§ 14a", "steuerbare Verbrauchseinrichtungen", "netzorientierte Steuerung", "Wärmepumpe Steuerung", "Wallbox Steuerung"],
+      "patterns": ["§\\s*14a", "14a\\s*EnWG"],
+      "topics": ["netz", "14a-enwg", "emob"]
+    }
+  },
+  {
+    "slug": "kraftwerksstrategie",
+    "title": "Kraftwerksstrategie / KWSG",
+    "description": "Kraftwerkssicherheitsgesetz, H2-ready-Gaskraftwerke, Kapazitätsmechanismen, Versorgungssicherheit.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "hoch",
+    "matchRules": {
+      "keywords": ["Kraftwerksstrategie", "Kraftwerkssicherheitsgesetz", "KWSG", "Kapazitätsmechanismus", "Kapazitätsmarkt", "H2-ready", "Gaskraftwerke", "Versorgungssicherheit Strom"],
+      "patterns": ["Kraftwerks(strategie|sicherheitsgesetz)", "Kapazitätsmechanismus"],
+      "topics": ["markt", "kraftwerksstrategie"]
+    }
+  },
+  {
+    "slug": "afir-ladeinfrastruktur",
+    "title": "AFIR / Ladeinfrastruktur",
+    "description": "EU-Verordnung alternative Kraftstoffe, Ladesäulenausbau, Schnellladenetz, Masterplan Ladeinfrastruktur.",
+    "dossierType": "gesetzgebung_eu",
+    "priority": "hoch",
+    "matchRules": {
+      "keywords": ["AFIR", "Ladeinfrastruktur", "Ladesäule", "Schnellladepunkt", "alternative Kraftstoffe", "Ladepunkt", "Deutschlandnetz"],
+      "patterns": ["\\bAFIR\\b", "Lades(ä|ae)ule", "Ladeinfrastruktur"],
+      "topics": ["emob", "afir"]
+    }
+  },
+  {
+    "slug": "red-iii",
+    "title": "RED III / EU-Erneuerbaren-Richtlinie",
+    "description": "Umsetzung der Erneuerbare-Energien-Richtlinie (EU) 2023/2413: Ausbauziele, Genehmigungen, RFNBO/H2-Kriterien.",
+    "dossierType": "gesetzgebung_eu",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["RED III", "RED-III", "Erneuerbaren-Richtlinie", "renewable energy directive", "RFNBO", "2023/2413"],
+      "patterns": ["RED\\s*III", "2023/2413"],
+      "topics": ["eeg", "red-iii"]
+    }
+  },
+  {
+    "slug": "wasserstoff",
+    "title": "Wasserstoff & H2-Infrastruktur",
+    "description": "Wasserstoffkernnetz, H2-Hochlauf, Elektrolyse, Importstrategie, delegierte Rechtsakte.",
+    "dossierType": "dauerthema",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["Wasserstoff", "Wasserstoffkernnetz", "Elektrolyseur", "H2Global", "IPCEI Wasserstoff", "grüner Wasserstoff", "Hydrogen"],
+      "patterns": ["Wasserstoff", "\\bH2\\b", "hydrogen"],
+      "topics": ["markt", "h2"]
+    }
+  },
+  {
+    "slug": "waermenetze",
+    "title": "Wärmenetze & kommunale Wärmeplanung",
+    "description": "Wärmeplanungsgesetz, Fernwärme, AVBFernwärmeV, BEW-Förderung, GEG-Schnittstellen.",
+    "dossierType": "dauerthema",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["Wärmeplanung", "Wärmenetz", "Fernwärme", "Wärmeplanungsgesetz", "AVBFernwärmeV", "Gebäudeenergiegesetz", "GEG", "Wärmepumpe"],
+      "patterns": ["W(ä|ae)rme(netz|planung)", "Fernw(ä|ae)rme"],
+      "topics": ["markt", "waerme"]
+    }
+  },
+  {
+    "slug": "baugb-speicher",
+    "title": "BauGB / Privilegierung Batteriespeicher",
+    "description": "Baurechtliche Privilegierung von (Groß-)Batteriespeichern, BauGB-Novellen, Außenbereich.",
+    "dossierType": "gesetzgebung_de",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["Batteriespeicher", "Großspeicher", "BauGB", "Baugesetzbuch", "Privilegierung Speicher", "Außenbereich Speicher", "Stromspeicher Baurecht"],
+      "patterns": ["Batteriespeicher", "BauGB"],
+      "topics": ["markt", "speicher"]
+    }
+  },
+  {
+    "slug": "ets-co2",
+    "title": "Emissionshandel / CO2-Bepreisung",
+    "description": "EU-ETS 1/2, BEHG, CBAM, Klimasozialfonds, nationale CO2-Bepreisung.",
+    "dossierType": "gesetzgebung_eu",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["Emissionshandel", "ETS 2", "ETS2", "BEHG", "CO2-Preis", "CBAM", "Klimasozialfonds", "Zertifikatehandel"],
+      "patterns": ["\\bETS\\s*2?\\b", "CO2-?(Preis|Bepreisung)", "Emissionshandel"],
+      "topics": ["ets"]
+    }
+  },
+  {
+    "slug": "strommarktdesign",
+    "title": "Strommarktdesign & Flexibilität",
+    "description": "Reform Strommarktdesign (EU/DE), Flexibilitäten, Speicher im Markt, Spitzenglättung, dynamische Tarife.",
+    "dossierType": "dauerthema",
+    "priority": "mittel",
+    "matchRules": {
+      "keywords": ["Strommarktdesign", "Strommarktreform", "Flexibilität", "dynamische Tarife", "Differenzverträge", "CfD", "Kapazitätszahlungen", "electricity market design"],
+      "patterns": ["Strommarkt(design|reform)", "\\bCfD\\b"],
+      "topics": ["markt"]
+    }
+  }
+]

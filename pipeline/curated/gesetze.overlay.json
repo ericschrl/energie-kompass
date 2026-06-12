@@ -1,0 +1,550 @@
+{
+  "eeg-2024": {
+    "name": "EEG-Novelle 2024",
+    "kurz": "EEG",
+    "beschreibung": "Erneuerbare-Energien-Gesetz – Novelle zur Weiterentwicklung der Ausschreibungsmengen, Bürgerenergiegesellschaften und Netzintegration",
+    "ressort": "BMWK",
+    "referat": "IVB5",
+    "prioritaet": "hoch",
+    "tags": [
+      "eeg"
+    ],
+    "ansprechpartner": {
+      "ministerium": [
+        {
+          "name": "Dr. Julia Mehring",
+          "funktion": "Referatsleiterin IVB5",
+          "email": "j.mehring@bmwk.bund.de"
+        },
+        {
+          "name": "Klaus Berger",
+          "funktion": "Referent EEG-Grundsätze",
+          "email": "k.berger@bmwk.bund.de"
+        }
+      ],
+      "bundestag": [
+        {
+          "name": "Dr. Nina Scheer",
+          "fraktion": "SPD",
+          "funktion": "Berichterstatterin EE",
+          "partei_color": "#e52d20"
+        },
+        {
+          "name": "Ingrid Nestle",
+          "fraktion": "Grüne",
+          "funktion": "Sprecherin Energiepolitik",
+          "partei_color": "#1fa12d"
+        },
+        {
+          "name": "Andreas Lenz",
+          "fraktion": "CDU/CSU",
+          "funktion": "Berichterstatter Energie",
+          "partei_color": "#0e1d37"
+        },
+        {
+          "name": "Michael Kruse",
+          "fraktion": "FDP",
+          "funktion": "Sprecher Energiepolitik",
+          "partei_color": "#e5c400"
+        }
+      ]
+    },
+    "positionen": [
+      {
+        "akteur": "BDEW",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Begrüßt erhöhte Ausschreibungsmengen, fordert Nachbesserung bei Netzanschluss"
+      },
+      {
+        "akteur": "BNetzA",
+        "typ": "Behörde",
+        "position": "neutral",
+        "kommentar": "Hinweise zu Ausschreibungsdesign und Monitoring"
+      },
+      {
+        "akteur": "VKU",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Positiv zu Bürgerenergiegesellschaften"
+      },
+      {
+        "akteur": "E.ON",
+        "typ": "Unternehmen",
+        "position": "pro",
+        "kommentar": "Unterstützt Ausbauziele, kritisch zu Netzintegration"
+      },
+      {
+        "akteur": "RWE",
+        "typ": "Unternehmen",
+        "position": "pro",
+        "kommentar": "Begrüßt Ausschreibungserhöhung"
+      },
+      {
+        "akteur": "BEE",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Fordert höhere Ausbaupfade"
+      },
+      {
+        "akteur": "Agora Energiewende",
+        "typ": "Thinktank",
+        "position": "neutral",
+        "kommentar": "Systemwirtschaftliche Bedenken beim Ausbautempo"
+      }
+    ],
+    "fallback": {
+      "phase": 3,
+      "phasen": [
+        {
+          "label": "Referenten-\nentwurf",
+          "datum": "Feb 2024",
+          "status": "done"
+        },
+        {
+          "label": "Verbände-\nanhörung",
+          "datum": "Mär 2024",
+          "status": "done"
+        },
+        {
+          "label": "Kabinett",
+          "datum": "Mai 2024",
+          "status": "done"
+        },
+        {
+          "label": "1. Lesung",
+          "datum": "Jun 2024",
+          "status": "active"
+        },
+        {
+          "label": "Ausschuss",
+          "datum": "Sep 2024",
+          "status": "pending"
+        },
+        {
+          "label": "Verab-\nschiedung",
+          "datum": "Nov 2024",
+          "status": "pending"
+        }
+      ],
+      "letzteAktion": "Kabinettsbeschluss 15.05.2024",
+      "naechsterSchritt": "1. Lesung im Bundestag – 20.06.2024",
+      "news": [
+        "news-1",
+        "news-3",
+        "news-7"
+      ]
+    }
+  },
+  "netzpaket": {
+    "name": "Netzausbau-Paket",
+    "kurz": "Netzpaket",
+    "beschreibung": "Gesetz zur Beschleunigung des Stromnetzausbaus inkl. Windenergieanlagen an Land, Offshore und Übertragungsnetz",
+    "ressort": "BMWK",
+    "referat": "IIC1",
+    "prioritaet": "hoch",
+    "tags": [
+      "netz"
+    ],
+    "ansprechpartner": {
+      "ministerium": [
+        {
+          "name": "Dr. Franziska Lang",
+          "funktion": "Referatsleiterin IIC1",
+          "email": "f.lang@bmwk.bund.de"
+        },
+        {
+          "name": "Tobias Winkler",
+          "funktion": "Referent Netzplanung",
+          "email": "t.winkler@bmwk.bund.de"
+        }
+      ],
+      "bundestag": [
+        {
+          "name": "Bengt Bergt",
+          "fraktion": "SPD",
+          "funktion": "Berichterstatter Netze",
+          "partei_color": "#e52d20"
+        },
+        {
+          "name": "Sandra Detzer",
+          "fraktion": "Grüne",
+          "funktion": "Stellv. Fraktionsvorsitz",
+          "partei_color": "#1fa12d"
+        },
+        {
+          "name": "Thomas Bareiß",
+          "fraktion": "CDU/CSU",
+          "funktion": "Sprecher Energie",
+          "partei_color": "#0e1d37"
+        }
+      ]
+    },
+    "positionen": [
+      {
+        "akteur": "BDEW",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Grundsätzlich positiv, Detailkritik bei Genehmigungsfristen"
+      },
+      {
+        "akteur": "VKU",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Begrüßt Vereinfachungen für Verteilnetz"
+      },
+      {
+        "akteur": "E.ON",
+        "typ": "Unternehmen",
+        "position": "pro",
+        "kommentar": "Positiv zu Planungs- und Genehmigungsbeschleunigung"
+      },
+      {
+        "akteur": "NABU",
+        "typ": "NGO",
+        "position": "contra",
+        "kommentar": "Naturschutzbedenken bei Genehmigungsvereinfachungen"
+      },
+      {
+        "akteur": "Übertragungsnetzbetreiber (4)",
+        "typ": "Unternehmen",
+        "position": "pro",
+        "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
+      }
+    ],
+    "fallback": {
+      "phase": 4,
+      "phasen": [
+        {
+          "label": "Referenten-\nentwurf",
+          "datum": "Jan 2024",
+          "status": "done"
+        },
+        {
+          "label": "Verbände-\nanhörung",
+          "datum": "Feb 2024",
+          "status": "done"
+        },
+        {
+          "label": "Kabinett",
+          "datum": "Apr 2024",
+          "status": "done"
+        },
+        {
+          "label": "1. Lesung",
+          "datum": "Mai 2024",
+          "status": "done"
+        },
+        {
+          "label": "Ausschuss",
+          "datum": "Jun 2024",
+          "status": "active"
+        },
+        {
+          "label": "Verab-\nschiedung",
+          "datum": "Jul 2024",
+          "status": "pending"
+        }
+      ],
+      "letzteAktion": "1. Lesung abgeschlossen, Überweisung an EnWiAusschuss",
+      "naechsterSchritt": "Ausschussanhörung Sachverständige – 19.06.2024",
+      "news": [
+        "news-2",
+        "news-5",
+        "news-8"
+      ]
+    }
+  },
+  "gmodg": {
+    "name": "Genehmigungsmodernisierungsgesetz",
+    "kurz": "GModG",
+    "beschreibung": "Gesetz zur Modernisierung und Beschleunigung von Planungs- und Genehmigungsverfahren",
+    "ressort": "BMWK / BMJ",
+    "referat": "IIA5",
+    "prioritaet": "mittel",
+    "tags": [
+      "netz"
+    ],
+    "ansprechpartner": {
+      "ministerium": [
+        {
+          "name": "Axel Homann",
+          "funktion": "Referatsleiter IIA5",
+          "email": "a.homann@bmwk.bund.de"
+        }
+      ],
+      "bundestag": [
+        {
+          "name": "Dirk Wiese",
+          "fraktion": "SPD",
+          "funktion": "Berichterstatter",
+          "partei_color": "#e52d20"
+        },
+        {
+          "name": "Till Mansmann",
+          "fraktion": "FDP",
+          "funktion": "Stellv. Sprecher",
+          "partei_color": "#e5c400"
+        }
+      ]
+    },
+    "positionen": [
+      {
+        "akteur": "BDI",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Begrüßt Digitalisierung, fordert weitere Beschleunigung"
+      },
+      {
+        "akteur": "DIHK",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Positiv"
+      },
+      {
+        "akteur": "E.ON",
+        "typ": "Unternehmen",
+        "position": "neutral",
+        "kommentar": "Stellungnahme in Vorbereitung"
+      },
+      {
+        "akteur": "Umweltverbände",
+        "typ": "NGO",
+        "position": "contra",
+        "kommentar": "Befürchten Aushöhlung von Umweltprüfungen"
+      }
+    ],
+    "fallback": {
+      "phase": 2,
+      "phasen": [
+        {
+          "label": "Referenten-\nentwurf",
+          "datum": "Mär 2024",
+          "status": "done"
+        },
+        {
+          "label": "Verbände-\nanhörung",
+          "datum": "Mai 2024",
+          "status": "active"
+        },
+        {
+          "label": "Kabinett",
+          "datum": "Jul 2024",
+          "status": "pending"
+        },
+        {
+          "label": "1. Lesung",
+          "datum": "Okt 2024",
+          "status": "pending"
+        },
+        {
+          "label": "Ausschuss",
+          "datum": "Nov 2024",
+          "status": "pending"
+        },
+        {
+          "label": "Verab-\nschiedung",
+          "datum": "Dez 2024",
+          "status": "pending"
+        }
+      ],
+      "letzteAktion": "Verbändeanhörung läuft – Frist 15.06.2024",
+      "naechsterSchritt": "Stellungnahme E.ON einreichen – Frist 15.06.2024 ⚠️",
+      "news": [
+        "news-4",
+        "news-9"
+      ]
+    }
+  },
+  "bidirektional": {
+    "name": "Bidirektionales Laden (V2G)",
+    "kurz": "V2G",
+    "beschreibung": "Regulatorischer Rahmen für bidirektionales Laden und Vehicle-to-Grid-Integration in Deutschland",
+    "ressort": "BMWK / BMDV",
+    "referat": "IVD2",
+    "prioritaet": "mittel",
+    "tags": [
+      "emob"
+    ],
+    "ansprechpartner": {
+      "ministerium": [
+        {
+          "name": "Sabine Frisch",
+          "funktion": "Referentin V2G / Ladeinfrastruktur",
+          "email": "s.frisch@bmwk.bund.de"
+        }
+      ],
+      "bundestag": [
+        {
+          "name": "Kerstin Andreae",
+          "fraktion": "Grüne",
+          "funktion": "Sprecherin Elektromobilität",
+          "partei_color": "#1fa12d"
+        }
+      ]
+    },
+    "positionen": [
+      {
+        "akteur": "VDA",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Technologieoffene Lösung gefordert"
+      },
+      {
+        "akteur": "BDEW",
+        "typ": "Verband",
+        "position": "pro",
+        "kommentar": "Klare Regelung für Netzdienlichkeit notwendig"
+      },
+      {
+        "akteur": "E.ON",
+        "typ": "Unternehmen",
+        "position": "pro",
+        "kommentar": "V2G als Geschäftsfeld, aktive Beteiligung am Konsultationsprozess"
+      }
+    ],
+    "fallback": {
+      "phase": 0,
+      "phasen": [
+        {
+          "label": "Referenten-\nentwurf",
+          "datum": "Q4 2024",
+          "status": "active"
+        },
+        {
+          "label": "Verbände-\nanhörung",
+          "datum": "Q1 2025",
+          "status": "pending"
+        },
+        {
+          "label": "Kabinett",
+          "datum": "Q2 2025",
+          "status": "pending"
+        },
+        {
+          "label": "1. Lesung",
+          "datum": "Q3 2025",
+          "status": "pending"
+        },
+        {
+          "label": "Ausschuss",
+          "datum": "Q4 2025",
+          "status": "pending"
+        },
+        {
+          "label": "Verab-\nschiedung",
+          "datum": "2025",
+          "status": "pending"
+        }
+      ],
+      "letzteAktion": "Konzultationspapier veröffentlicht März 2024",
+      "naechsterSchritt": "Referentenentwurf erwartet Q4 2024",
+      "news": [
+        "news-6",
+        "news-10"
+      ]
+    }
+  },
+  "netzentgelte": {
+    "name": "Netzentgeltsystematik-Reform",
+    "kurz": "Netzentgelte",
+    "beschreibung": "Reform der Netzentgeltsystematik mit Fokus auf Flexibilisierung, Leistungspreismodell und Kostenverteilung",
+    "ressort": "BMWK / BNetzA",
+    "referat": "IIC3",
+    "prioritaet": "hoch",
+    "tags": [
+      "netz",
+      "markt"
+    ],
+    "ansprechpartner": {
+      "ministerium": [
+        {
+          "name": "Dr. Wolfgang Peters",
+          "funktion": "Referatsleiter IIC3",
+          "email": "w.peters@bmwk.bund.de"
+        }
+      ],
+      "bundestag": [
+        {
+          "name": "Dr. Nina Scheer",
+          "fraktion": "SPD",
+          "funktion": "Berichterstatterin",
+          "partei_color": "#e52d20"
+        },
+        {
+          "name": "Andreas Lenz",
+          "fraktion": "CDU/CSU",
+          "funktion": "Sprecher",
+          "partei_color": "#0e1d37"
+        }
+      ]
+    },
+    "positionen": [
+      {
+        "akteur": "BDEW",
+        "typ": "Verband",
+        "position": "neutral",
+        "kommentar": "Wünscht transparente Kostenverteilung"
+      },
+      {
+        "akteur": "VKU",
+        "typ": "Verband",
+        "position": "neutral",
+        "kommentar": "Kritisch zu Leistungspreismodell für Haushaltskunden"
+      },
+      {
+        "akteur": "E.ON",
+        "typ": "Unternehmen",
+        "position": "neutral",
+        "kommentar": "Interne Analyse läuft, erhebliche Auswirkungen auf E.ON-Netze"
+      },
+      {
+        "akteur": "BNetzA",
+        "typ": "Behörde",
+        "position": "neutral",
+        "kommentar": "Eigenes Konsultationsverfahren parallel"
+      }
+    ],
+    "fallback": {
+      "phase": 1,
+      "phasen": [
+        {
+          "label": "Referenten-\nentwurf",
+          "datum": "Jun 2024",
+          "status": "active"
+        },
+        {
+          "label": "Verbände-\nanhörung",
+          "datum": "Aug 2024",
+          "status": "pending"
+        },
+        {
+          "label": "Kabinett",
+          "datum": "Okt 2024",
+          "status": "pending"
+        },
+        {
+          "label": "1. Lesung",
+          "datum": "Jan 2025",
+          "status": "pending"
+        },
+        {
+          "label": "Ausschuss",
+          "datum": "Mär 2025",
+          "status": "pending"
+        },
+        {
+          "label": "Verab-\nschiedung",
+          "datum": "Mai 2025",
+          "status": "pending"
+        }
+      ],
+      "letzteAktion": "Eckpunktepapier BMWK veröffentlicht April 2024",
+      "naechsterSchritt": "Referentenentwurf erwartet Juni 2024",
+      "news": [
+        "news-2",
+        "news-11"
+      ]
+    }
+  }
+}

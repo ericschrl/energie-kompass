@@ -1,0 +1,244 @@
+[
+  {
+    "slug": "dip",
+    "name": "Bundestag DIP",
+    "institution": "Deutscher Bundestag",
+    "connector": "dip",
+    "sourceType": "api",
+    "accessType": "api_key",
+    "baseUrl": "https://search.dip.bundestag.de/api/v1",
+    "licence": {
+      "status": "public-sector",
+      "name": "Amtliches Werk (§5 UrhG) / Nutzungsbedingungen DIP",
+      "url": "https://dip.bundestag.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: Deutscher Bundestag, DIP"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 50,
+      "minDelayMs": 1200
+    },
+    "credentials": {
+      "type": "api_key",
+      "envVar": "DIP_API_KEY"
+    },
+    "defaultPolicyArea": "gesetzgebung",
+    "config": {
+      "wahlperiode": 21,
+      "sachgebiete": [
+        "Energie"
+      ],
+      "vorgangstyp": "Gesetzgebung",
+      "maxVorgaengeProLauf": 40
+    },
+    "enabled": false
+  },
+  {
+    "slug": "lobbyregister",
+    "name": "Lobbyregister",
+    "institution": "Deutscher Bundestag",
+    "connector": "lobbyregister",
+    "sourceType": "api",
+    "accessType": "public",
+    "baseUrl": "https://www.lobbyregister.bundestag.de",
+    "licence": {
+      "status": "public-sector",
+      "name": "Lobbyregistergesetz / öffentliches Register",
+      "url": "https://www.lobbyregister.bundestag.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: Lobbyregister beim Deutschen Bundestag"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 20,
+      "minDelayMs": 3000
+    },
+    "defaultPolicyArea": "lobby",
+    "config": {
+      "queries": [
+        "Energiewirtschaft",
+        "Strommarkt",
+        "Netzentgelte",
+        "Erneuerbare Energien",
+        "Wasserstoff",
+        "Ladeinfrastruktur"
+      ],
+      "maxSeitenProQuery": 3
+    },
+    "enabled": false
+  },
+  {
+    "slug": "rss-bnetza",
+    "name": "Bundesnetzagentur",
+    "institution": "Bundesnetzagentur",
+    "connector": "rss",
+    "sourceType": "rss",
+    "accessType": "public",
+    "baseUrl": "https://www.bundesnetzagentur.de",
+    "licence": {
+      "status": "public-sector",
+      "name": "Amtliche Pressemitteilungen",
+      "url": "https://www.bundesnetzagentur.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: Bundesnetzagentur"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
+    "defaultPolicyArea": "regulierung",
+    "config": {
+      "verifyUrl": true,
+      "feeds": [
+        {
+          "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml",
+          "docType": "pressemitteilung"
+        }
+      ]
+    },
+    "enabled": true
+  },
+  {
+    "slug": "rss-bmwe",
+    "name": "BMWE",
+    "institution": "Bundesministerium für Wirtschaft und Energie",
+    "connector": "rss",
+    "sourceType": "rss",
+    "accessType": "public",
+    "baseUrl": "https://www.bmwk.de",
+    "licence": {
+      "status": "public-sector",
+      "name": "Amtliche Pressemitteilungen",
+      "url": "https://www.bmwk.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: BMWE"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
+    "defaultPolicyArea": "regierung",
+    "config": {
+      "verifyUrl": true,
+      "feeds": [
+        {
+          "url": "https://www.bmwk.de/SiteGlobals/BMWK/Functions/RSSFeed/DE/Pressemitteilungen/rssnewsfeed_pressemitteilungen.xml",
+          "docType": "pressemitteilung"
+        }
+      ]
+    },
+    "enabled": true
+  },
+  {
+    "slug": "rss-bundesregierung",
+    "name": "Bundesregierung",
+    "institution": "Presse- und Informationsamt der Bundesregierung",
+    "connector": "rss",
+    "sourceType": "rss",
+    "accessType": "public",
+    "baseUrl": "https://www.bundesregierung.de",
+    "licence": {
+      "status": "public-sector",
+      "name": "Amtliche Mitteilungen",
+      "url": "https://www.bundesregierung.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: Bundesregierung"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
+    "defaultPolicyArea": "regierung",
+    "config": {
+      "verifyUrl": true,
+      "feeds": [
+        {
+          "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+          "docType": "pressemitteilung"
+        }
+      ]
+    },
+    "enabled": false
+  },
+  {
+    "slug": "bundesrat",
+    "name": "Bundesrat",
+    "institution": "Bundesrat",
+    "connector": "bundesrat",
+    "sourceType": "rss",
+    "accessType": "public",
+    "baseUrl": "https://www.bundesrat.de",
+    "licence": {
+      "status": "public-sector",
+      "name": "Amtliche Mitteilungen/Tagesordnungen",
+      "url": "https://www.bundesrat.de",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: Bundesrat"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 10,
+      "minDelayMs": 2000
+    },
+    "defaultPolicyArea": "gesetzgebung",
+    "config": {
+      "verifyUrl": true,
+      "feedUrl": "https://www.bundesrat.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/rssnewsfeed.xml",
+      "tagesordnungUrl": "https://www.bundesrat.de/DE/plenum/to-plenum/to-plenum-node.html"
+    },
+    "enabled": false
+  },
+  {
+    "slug": "eurlex",
+    "name": "EUR-Lex",
+    "institution": "Amt für Veröffentlichungen der EU",
+    "connector": "eurlex",
+    "sourceType": "api",
+    "accessType": "public",
+    "baseUrl": "https://publications.europa.eu/webapi/rdf/sparql",
+    "licence": {
+      "status": "open",
+      "name": "EU-Weiterverwendungsbeschluss 2011/833/EU",
+      "url": "https://eur-lex.europa.eu/content/legal-notice/legal-notice.html",
+      "allowsFulltextStorage": true,
+      "allowsRepublication": true,
+      "attributionRequired": true,
+      "attributionText": "Quelle: © Europäische Union, EUR-Lex"
+    },
+    "rateLimit": {
+      "requestsPerMinute": 20,
+      "minDelayMs": 2500
+    },
+    "defaultPolicyArea": "eu-energie",
+    "config": {
+      "eurovocConcepts": [
+        {
+          "uri": "http://eurovoc.europa.eu/2046",
+          "label": "Energiepolitik"
+        },
+        {
+          "uri": "http://eurovoc.europa.eu/1158",
+          "label": "Elektrische Energie"
+        },
+        {
+          "uri": "http://eurovoc.europa.eu/2052",
+          "label": "Erneuerbare Energie"
+        }
+      ],
+      "verifyUrl": true,
+      "fensterTage": 30,
+      "maxProLauf": 200
+    },
+    "enabled": false
+  }
+]
