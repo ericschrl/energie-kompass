@@ -1,0 +1,75 @@
+# Täglicher Monitoring-Lauf für den Energie-Kompass-MVP:
+# RSS einsammeln (nur öffentliche Quellen, keine Secrets) → src/data/data.js
+# generieren → Briefing schreiben → Tests als Gate → nur Datendateien committen.
+#
+# Die SQLite-DB (Cursor-/Dedup-Zustand) wird NICHT committet (Repo ist öffentlich),
+# sondern über den Actions-Cache von Lauf zu Lauf weitergereicht. Geht der Cache
+# verloren, heilt sich der Lauf selbst: Re-Ingest + Dedup, data.js bleibt korrekt.
+
+name: Energie-Kompass Monitoring
+
+on:
+  schedule:
+    # 03:30 UTC ≈ 05:30 Berlin (Sommerzeit) bzw. 04:30 (Winterzeit)
+    - cron: '30 3 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+concurrency:
+  group: energie-kompass-monitoring
+  cancel-in-progress: false
+
+jobs:
+  daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v4
+
+      - name: Node 22 einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: SQLite-Zustand aus Cache wiederherstellen
+        uses: actions/cache@v4
+        with:
+          path: pipeline/db/energie-kompass.db
+          # run_id ist eindeutig => am Jobende wird immer der neue Stand gesichert;
+          # restore-keys holt den jeweils letzten vorhandenen Stand.
+          key: energie-kompass-db-${{ github.run_id }}
+          restore-keys: |
+            energie-kompass-db-
+
+      - name: Abhängigkeiten installieren
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Tageslauf (ingest → data.js → Briefing)
+        working-directory: pipeline
+        run: npm run daily
+
+      - name: Format-Gate (Tests müssen grün sein, sonst kein Commit)
+        working-directory: pipeline
+        run: npm test
+
+      - name: Ingestion-Status ins Job-Log
+        working-directory: pipeline
+        run: npm run status
+
+      - name: Nur src/data/data.js und briefings/*.md committen
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/data/data.js briefings/
+          if git diff --cached --quiet; then
+            echo "Keine Datenänderungen – nichts zu committen."
+          else
+            git commit -m "Daten-Update: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
