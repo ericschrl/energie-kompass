@@ -1,0 +1,120 @@
+[
+  {
+    "id": "bdew",
+    "name": "BDEW",
+    "vollname": "Bundesverband der Energie- und Wasserwirtschaft",
+    "typ": "Verband",
+    "relevanz": "hoch",
+    "hauptthemen": [
+      "eeg",
+      "netz",
+      "markt"
+    ],
+    "ansprechpartner": "Dr. Kerstin Andreae (HGF)",
+    "position_gesamt": "konstruktiv",
+    "lobbyregister_id": "R001234",
+    "notizen": "Strategisch wichtigster Verband. Enge Abstimmung vor großen Anhörungen notwendig."
+  },
+  {
+    "id": "vku",
+    "name": "VKU",
+    "vollname": "Verband kommunaler Unternehmen",
+    "typ": "Verband",
+    "relevanz": "hoch",
+    "hauptthemen": [
+      "netz",
+      "markt"
+    ],
+    "ansprechpartner": "Ingbert Liebing (HGF)",
+    "position_gesamt": "neutral",
+    "lobbyregister_id": "R002345",
+    "notizen": "Wichtig für kommunale Sicht, teils andere Position als E.ON."
+  },
+  {
+    "id": "bnetza",
+    "name": "BNetzA",
+    "vollname": "Bundesnetzagentur",
+    "typ": "Behörde",
+    "relevanz": "hoch",
+    "hauptthemen": [
+      "netz",
+      "markt"
+    ],
+    "ansprechpartner": "Klaus Müller (Präsident)",
+    "position_gesamt": "neutral",
+    "lobbyregister_id": null,
+    "notizen": "Regulierungsbehörde. Kein klassisches Lobbying, aber wichtige Konsultationspartner."
+  },
+  {
+    "id": "agora",
+    "name": "Agora Energiewende",
+    "vollname": "Agora Energiewende",
+    "typ": "Thinktank",
+    "relevanz": "mittel",
+    "hauptthemen": [
+      "eeg",
+      "markt"
+    ],
+    "ansprechpartner": "Simon Müller (Direktor)",
+    "position_gesamt": "neutral",
+    "lobbyregister_id": "R003456",
+    "notizen": "Einflussreicher Thinktank, Studien oft Basis für Politikpositionen."
+  },
+  {
+    "id": "rwe",
+    "name": "RWE",
+    "vollname": "RWE AG",
+    "typ": "Wettbewerber",
+    "relevanz": "mittel",
+    "hauptthemen": [
+      "eeg",
+      "netz"
+    ],
+    "ansprechpartner": "Markus Krebber (CEO)",
+    "position_gesamt": "pro",
+    "lobbyregister_id": "R004567",
+    "notizen": "Wettbewerber, häufig ähnliche Positionen zu Netz und EEG."
+  },
+  {
+    "id": "nabu",
+    "name": "NABU",
+    "vollname": "Naturschutzbund Deutschland",
+    "typ": "NGO",
+    "relevanz": "mittel",
+    "hauptthemen": [
+      "eeg"
+    ],
+    "ansprechpartner": "Jörg-Andreas Krüger (Präsident)",
+    "position_gesamt": "contra",
+    "lobbyregister_id": "R005678",
+    "notizen": "Kritisch zu Genehmigungsvereinfachungen, Windkraft an Land."
+  },
+  {
+    "id": "vda",
+    "name": "VDA",
+    "vollname": "Verband der Automobilindustrie",
+    "typ": "Verband",
+    "relevanz": "mittel",
+    "hauptthemen": [
+      "emob"
+    ],
+    "ansprechpartner": "Hildegard Müller (Präsidentin)",
+    "position_gesamt": "pro",
+    "lobbyregister_id": "R006789",
+    "notizen": "Relevant für E-Mobilität und V2G-Themen."
+  },
+  {
+    "id": "bee",
+    "name": "BEE",
+    "vollname": "Bundesverband Erneuerbare Energie",
+    "typ": "Verband",
+    "relevanz": "mittel",
+    "hauptthemen": [
+      "eeg"
+    ],
+    "ansprechpartner": "Simone Peter (Präsidentin)",
+    "position_gesamt": "pro",
+    "lobbyregister_id": "R007890",
+    "notizen": "Fordert stets ambitioniertere Ausbauziele als Regierung plant."
+  }
+]

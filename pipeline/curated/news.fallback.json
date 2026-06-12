@@ -1,0 +1,145 @@
+[
+  {
+    "id": "news-1",
+    "titel": "Bundestag: Erste Lesung EEG-Novelle – Koalition signalisiert Mehrheit",
+    "quelle": "energate messenger",
+    "quelleColor": "#ea0016",
+    "datum": "Heute, 09:14",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Die Ampelkoalition hat in der ersten Lesung zur EEG-Novelle Einigkeit signalisiert. Kritik kommt von CDU/CSU, die höhere Ausbaupfade fordern.",
+    "link": "#",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Netzpaket: Sachverständigenanhörung terminiert – E.ON-Experte geladen",
+    "quelle": "Tagesspiegel Background",
+    "quelleColor": "#0066cc",
+    "datum": "Heute, 07:52",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Der Ausschuss für Klimaschutz und Energie hat die Sachverständigenliste für die Anhörung zum Netzausbaupaket beschlossen. Auch E.ON-Vertreter wurden eingeladen.",
+    "link": "#",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "BDEW-Stellungnahme zum EEG: Netzintegration weiter unklar",
+    "quelle": "BDEW Pressemitteilung",
+    "quelleColor": "#2ecc71",
+    "datum": "Gestern, 15:30",
+    "tags": [
+      "eeg",
+      "netz"
+    ],
+    "zusammenfassung": "Der BDEW begrüßt die erhöhten Ausschreibungsmengen, mahnt aber Nachbesserungen bei der Netzintegration an und fordert verbindliche Ausbaupfade.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-4",
+    "titel": "GModG-Verbändeanhörung: Frist 15. Juni – Stellungnahmen gefragt",
+    "quelle": "Bundestag Pressedienst",
+    "quelleColor": "#666",
+    "datum": "Gestern, 11:22",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Das BMWK hat die Konsultationsfrist für das Genehmigungsmodernisierungsgesetz gesetzt. Alle eingehenden Stellungnahmen werden veröffentlicht.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-5",
+    "titel": "Kontroverse um Netzausbau-Entflechtung: Koalition uneins",
+    "quelle": "Handelsblatt Energie",
+    "quelleColor": "#003B75",
+    "datum": "Gestern, 08:45",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Innerhalb der Ampelkoalition gibt es Streit über Teile des Netzausbaupakets. FDP blockiert weitreichendere Entflechtungsregeln.",
+    "link": "#",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "V2G-Pilotprojekt: E.ON und VW testen Vehicle-to-Grid in Bayern",
+    "quelle": "E.ON Pressemitteilung",
+    "quelleColor": "#ea0016",
+    "datum": "12.06.2024",
+    "tags": [
+      "emob"
+    ],
+    "zusammenfassung": "E.ON und Volkswagen starten ein gemeinsames Pilotprojekt für bidirektionales Laden in Bayern. Das Projekt soll Erkenntnisse für die kommende V2G-Regulierung liefern.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-7",
+    "titel": "Agora: EEG-Novelle reicht nicht für 2030-Ziele",
+    "quelle": "Contexte Energy Briefing",
+    "quelleColor": "#8b5cf6",
+    "datum": "11.06.2024",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Agora Energiewende warnt, dass die geplanten EEG-Ausbaumengen nicht ausreichen, um die Ziele für 2030 zu erreichen. Es seien mindestens 30 GW zusätzlich nötig.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-8",
+    "titel": "Bundesrat kündigt Änderungsanträge zum Netzpaket an",
+    "quelle": "Bundesrat",
+    "quelleColor": "#555",
+    "datum": "11.06.2024",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Bayern und Baden-Württemberg haben angekündigt, Änderungsanträge zur Lastenverteilung beim Netzausbau in den Bundesrat einzubringen.",
+    "link": "#",
+    "gelesen": false
+  },
+  {
+    "id": "news-9",
+    "titel": "GModG: Umweltverbände mobilisieren gegen Genehmigungsverfahren",
+    "quelle": "Der Spiegel Online",
+    "quelleColor": "#e31e24",
+    "datum": "10.06.2024",
+    "tags": [],
+    "zusammenfassung": "BUND, NABU und weitere Umweltverbände haben eine gemeinsame Erklärung gegen das Genehmigungsmodernisierungsgesetz veröffentlicht.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-10",
+    "titel": "EU-Kommission: Neue Standards für bidirektionales Laden kommen 2025",
+    "quelle": "Europäische Kommission",
+    "quelleColor": "#003399",
+    "datum": "10.06.2024",
+    "tags": [
+      "emob"
+    ],
+    "zusammenfassung": "Die EU-Kommission hat angekündigt, bis Ende 2025 europaweit einheitliche Standards für bidirektionales Laden einzuführen.",
+    "link": "#",
+    "gelesen": true
+  },
+  {
+    "id": "news-11",
+    "titel": "BNetzA eröffnet Konsultation zur Netzentgeltsystematik",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "09.06.2024",
+    "tags": [
+      "netz",
+      "markt"
+    ],
+    "zusammenfassung": "Die Bundesnetzagentur hat ein eigenes Konsultationsverfahren zur Reform der Netzentgeltsystematik gestartet, parallel zur geplanten Gesetzgebung.",
+    "link": "#",
+    "gelesen": false
+  }
+]

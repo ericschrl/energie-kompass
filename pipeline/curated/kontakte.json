@@ -1,0 +1,95 @@
+[
+  {
+    "id": "k1",
+    "name": "Dr. Julia Mehring",
+    "organisation": "BMWK",
+    "funktion": "Referatsleiterin IVB5 – Erneuerbare Energien",
+    "telefon": "+49 30 2014-5421",
+    "email": "j.mehring@bmwk.bund.de",
+    "gesetze_ref": [
+      "eeg-2024"
+    ],
+    "letzter_kontakt": "22.05.2024",
+    "notizen": "Persönlicher Kontakt. Bevorzugt Kommunikation per E-Mail.",
+    "initials": "JM",
+    "typ": "ministerium"
+  },
+  {
+    "id": "k2",
+    "name": "Dr. Nina Scheer",
+    "organisation": "SPD-Bundestagsfraktion",
+    "funktion": "Berichterstatterin Erneuerbare Energien & Netzentgelte",
+    "telefon": "+49 30 227-78210",
+    "email": "nina.scheer@bundestag.de",
+    "gesetze_ref": [
+      "eeg-2024",
+      "netzentgelte"
+    ],
+    "letzter_kontakt": "10.06.2024",
+    "notizen": "Guter Kontakt. Treffen Anfang Juli geplant.",
+    "initials": "NS",
+    "typ": "bundestag"
+  },
+  {
+    "id": "k3",
+    "name": "Ingrid Nestle",
+    "organisation": "Grüne Bundestagsfraktion",
+    "funktion": "Sprecherin Energiepolitik",
+    "telefon": "+49 30 227-77890",
+    "email": "ingrid.nestle@bundestag.de",
+    "gesetze_ref": [
+      "eeg-2024",
+      "netzpaket"
+    ],
+    "letzter_kontakt": "05.06.2024",
+    "notizen": "Sehr sachkundig, direkte Kommunikation bevorzugt.",
+    "initials": "IN",
+    "typ": "bundestag"
+  },
+  {
+    "id": "k4",
+    "name": "Dr. Franziska Lang",
+    "organisation": "BMWK",
+    "funktion": "Referatsleiterin IIC1 – Netzausbau",
+    "telefon": "+49 30 2014-6234",
+    "email": "f.lang@bmwk.bund.de",
+    "gesetze_ref": [
+      "netzpaket"
+    ],
+    "letzter_kontakt": "15.05.2024",
+    "notizen": "Neu im Amt seit Februar 2024. Erstkontakt lief gut.",
+    "initials": "FL",
+    "typ": "ministerium"
+  },
+  {
+    "id": "k5",
+    "name": "Michael Kruse",
+    "organisation": "FDP-Bundestagsfraktion",
+    "funktion": "Sprecher Energiepolitik",
+    "telefon": "+49 30 227-79430",
+    "email": "michael.kruse@bundestag.de",
+    "gesetze_ref": [
+      "eeg-2024"
+    ],
+    "letzter_kontakt": "01.06.2024",
+    "notizen": "Kritisch zu staatlichen Interventionen, konstruktiv bei Marktdesign.",
+    "initials": "MK",
+    "typ": "bundestag"
+  },
+  {
+    "id": "k6",
+    "name": "Klaus Müller",
+    "organisation": "Bundesnetzagentur",
+    "funktion": "Präsident",
+    "telefon": "+49 228 14-0",
+    "email": "poststelle@bnetza.de",
+    "gesetze_ref": [
+      "netzentgelte",
+      "netzpaket"
+    ],
+    "letzter_kontakt": "20.04.2024",
+    "notizen": "Kontakt über offizielle Kanäle und Veranstaltungen.",
+    "initials": "KM",
+    "typ": "behoerde"
+  }
+]
