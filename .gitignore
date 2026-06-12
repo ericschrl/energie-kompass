@@ -1,0 +1,9 @@
+# --- Energie-Kompass Pipeline ---
+node_modules/
+pipeline/db/*.db
+pipeline/db/*.db-*
+pipeline/raw-store/
+pipeline/.env
+pipeline/coverage/
+*.log
+.DS_Store
