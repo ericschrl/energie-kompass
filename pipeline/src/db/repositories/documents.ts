@@ -7,6 +7,7 @@ import { findCrossSourceDuplicate } from '../../core/dedupe.js';
 import { contentHash, sha256, stableStringify, titleDateHash } from '../../core/hash.js';
 import type { LicenceDeclaration, NormalizedInput, RawFormat } from '../../core/types.js';
 import { config } from '../../config.js';
+import { getDossierIdBySlug, linkDocumentToDossier } from './dossiers.js';
 
 const RAW_INLINE_MAX_BYTES = 64 * 1024;
 
@@ -133,6 +134,7 @@ export function upsertNormalized(
       licenceStatus, metaJson, hash, existing.id,
     );
     insertEntities(db, existing.id, input);
+    linkTopicsAndDossiers(db, existing.id, input);
     return { id: existing.id, outcome: 'updated' };
   }
 
@@ -161,7 +163,27 @@ export function upsertNormalized(
     );
   const id = Number(res.lastInsertRowid);
   insertEntities(db, id, input);
+  linkTopicsAndDossiers(db, id, input);
   return { id, outcome: 'new', duplicateOf };
+}
+
+/** Generischer Schreibpfad für document_topics + dossier_documents (z.B. aus dem DIP-Connector). */
+function linkTopicsAndDossiers(db: DatabaseSync, docId: number, input: NormalizedInput): void {
+  if (input.topics?.length) {
+    const stmt = db.prepare(
+      `INSERT INTO document_topics (normalized_document_id, topic, frontend_tag, score, method)
+       VALUES (?,?,?,?,'rule')
+       ON CONFLICT(normalized_document_id, topic) DO UPDATE SET
+         frontend_tag=excluded.frontend_tag, score=MAX(score, excluded.score)`,
+    );
+    for (const t of input.topics) stmt.run(docId, t.topic, t.frontendTag ?? null, t.score ?? 0.5);
+  }
+  if (input.dossierSlugs?.length) {
+    for (const slug of input.dossierSlugs) {
+      const dossierId = getDossierIdBySlug(db, slug);
+      if (dossierId) linkDocumentToDossier(db, dossierId, docId, 0.7, 'rule');
+    }
+  }
 }
 
 function insertEntities(db: DatabaseSync, docId: number, input: NormalizedInput): void {
