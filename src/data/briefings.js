@@ -1659,6 +1659,19 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
+                  "text": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538"
+                },
+                {
+                  "text": " — Heute, 13:30"
+                }
+              ],
+              "sub": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die weit über die großen Städte hinausreicht. Im Vorfeld sagte Staatsminister Weimer: „Ich freue mich auf einen einzigartigen kulturellen Roadtrip, der mich zu beeindruckenden Orten in Deutschland führen wird. Ich kann nur jeden ermutigen, sich ebenfalls auf Entdeckungsreise zu begeben!“ Er fügte hinzu: „Kulturbauten erzählen die Geschichte unseres Landes. Sie bewahren Erinnerungen, stiften Identität und schaffen Orte der Begegnung – nicht nur in den großen Städten. Gerade in kleineren Gemeinden tragen Museen, Klöster und Schlösser wesentlich zum kulturellen Leben und zum gesellschaftlichen Zusammenhalt bei. Diese Leistungen verdienen Sichtbarkeit und Anerkennung.“ Zu Beg..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
                   "text": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
                   "href": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-president-emmanuel-macron-chancellor-friedrich-merz-prime-minister-giorgia-meloni-and-prime-minister-keir-starmer-2440456"
                 },

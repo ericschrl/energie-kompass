@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8"
+      "news-9"
     ]
   },
   {
@@ -549,6 +549,17 @@ const NEWS = [
   },
   {
     "id": "news-2",
+    "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 13:30",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die w…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -559,7 +570,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -570,7 +581,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -581,7 +592,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -592,7 +603,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -605,7 +616,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -616,7 +627,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -629,7 +640,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -640,7 +651,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -653,7 +664,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -664,7 +675,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juni 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -675,7 +686,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Bundesregierung gedenkt zum 12. Mal der Opfer von Flucht und Vertreibung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -686,7 +697,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Bundesregierung gedenkt der Opfer des Volksaufstandes vom 17. Juni 1953",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -697,7 +708,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -708,7 +719,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Commonwealth der Bahamas, Philip Edward Davis",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -719,7 +730,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Jahresbericht Telekommunikation 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -730,7 +741,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin des Königreichs Dänemark, Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -741,7 +752,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Malta, Robert Abela",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -752,7 +763,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz zur Wahl der nichtständigen Mitglieder für den Sicherheitsrat der Vereinten Nationen für die Periode 2027/28",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -763,7 +774,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Schärfung des Auftrags der Deutschen Welle: Kabinett unterstützt Fokus auf Freiheit, Innovation und Dialog – Staatsminister Weimer: „Die De…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -774,7 +785,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -785,7 +796,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Bundesnetzagentur wird zuständige Behörde für den Data Act in Deutschland",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -796,7 +807,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Kulturstaatsminister verleiht 76. Deutschen Filmpreis Weimer: „Deutscher Film von seiner besten Seite“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -807,7 +818,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Argentinischen Republik, Javier Milei",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -818,7 +829,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -829,7 +840,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz nimmt am EU-Westbalkan-Gipfel in Montenegro teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -840,7 +851,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Verfahren wegen mangelnder Umsetzung der Netzentgeltreduzierungen für Elektrofahrzeuge und Wärmepumpen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -853,7 +864,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Bundesnetzagentur stellt aktuelle Überlegungen zur Reform der Netzentgeltsystematik Strom vor",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -863,19 +874,6 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Machen Netzentgelte fit für die Herausforderungen der Energiewende“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-30",
-    "titel": "Im Fokus: Wettbewerbsfähige Strompreise - Industriestrompreis entlastet die Industrie",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "26.05.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Im Fokus: Wettbewerbsfähige Strompreise - Industriestrompreis entlastet die Industrie",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/06/02-wettbewerbsfaehige-strompreise.html",
     "gelesen": false
   }
 ];
