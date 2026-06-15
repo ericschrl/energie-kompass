@@ -6,6 +6,7 @@ import { formatOutcomes, ingestAll, syncSeeds } from './ingest.js';
 import { formatProbeResults, probeFeeds } from './probe.js';
 import { writeProjection } from './project/generateDataJs.js';
 import { writeBriefingsIndex } from './project/briefingsIndex.js';
+import { collectDipCandidates, formatDipCandidates } from './project/dipCandidates.js';
 
 const [, , command, ...args] = process.argv;
 
@@ -85,6 +86,11 @@ async function main(): Promise<number> {
       }
       return 0;
     }
+    case 'dip-candidates': {
+      // Read-only: zeigt verknüpfte DIP-Vorgänge je Gesetz-Dossier zum Kuratieren von dip_vorgang_id.
+      console.log(formatDipCandidates(collectDipCandidates(prepared())));
+      return 0;
+    }
     case 'probe': {
       // Reine Verifikation von Feed-URLs — schreibt nichts, berührt die DB nicht.
       const results = await probeFeeds();
@@ -97,7 +103,7 @@ async function main(): Promise<number> {
       return 1;
     default:
       console.error(
-        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|project|brief|daily|status|probe>',
+        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|project|brief|daily|status|probe|dip-candidates>',
       );
       return command ? 1 : 0;
   }
