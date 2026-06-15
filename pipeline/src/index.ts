@@ -5,6 +5,7 @@ import { lastRuns } from './db/repositories/runs.js';
 import { formatOutcomes, ingestAll, syncSeeds } from './ingest.js';
 import { formatProbeResults, probeFeeds } from './probe.js';
 import { writeProjection } from './project/generateDataJs.js';
+import { writeBriefingsIndex } from './project/briefingsIndex.js';
 
 const [, , command, ...args] = process.argv;
 
@@ -48,6 +49,8 @@ async function main(): Promise<number> {
     case 'brief': {
       const { path, neueMeldungen } = writeDailyBriefing(prepared());
       console.log(`Briefing geschrieben: ${path} (${neueMeldungen} neue Meldungen)`);
+      const idx = writeBriefingsIndex();
+      console.log(`Briefing-Index: ${idx.path} (${idx.count} Briefings)`);
       return 0;
     }
     case 'daily': {
@@ -61,6 +64,8 @@ async function main(): Promise<number> {
       console.log(`data.js generiert: ${path} (NEWS ${result.data.NEWS.length}${result.news.usedFallback ? ', Fallback' : ''})`);
       const brief = writeDailyBriefing(db);
       console.log(`Briefing: ${brief.path} (${brief.neueMeldungen} neue Meldungen)`);
+      const idx = writeBriefingsIndex();
+      console.log(`Briefing-Index: ${idx.path} (${idx.count} Briefings)`);
       return 0;
     }
     case 'status': {

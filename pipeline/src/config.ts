@@ -29,6 +29,7 @@ export const config = {
   curatedDir: resolve(PIPELINE_ROOT, 'curated'),
   briefingsDir: resolve(REPO_ROOT, 'briefings'),
   dataJsPath: resolve(REPO_ROOT, 'src/data/data.js'),
+  briefingsDataPath: resolve(REPO_ROOT, 'src/data/briefings.js'),
   timezone: 'Europe/Berlin',
   llm: {
     enabled: env('LLM_ENRICH') !== '0' && env('ANTHROPIC_API_KEY') !== undefined,
