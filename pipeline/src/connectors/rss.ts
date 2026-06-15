@@ -124,6 +124,62 @@ function toIso(pubDate: string | undefined): string | undefined {
   return Number.isNaN(d.getTime()) ? undefined : d.toISOString();
 }
 
+export type DateSource = 'feed' | 'url' | 'description' | 'collected';
+
+function plausibleYmd(y: number, m: number, d: number, now: Date): boolean {
+  if (m < 1 || m > 12 || d < 1 || d > 31) return false;
+  const t = Date.UTC(y, m - 1, d);
+  if (Number.isNaN(t)) return false;
+  // Datum darf nicht vor 2000 und nicht (nennenswert) in der Zukunft liegen.
+  return t >= Date.UTC(2000, 0, 1) && t <= now.getTime() + 2 * 86_400_000;
+}
+
+/** Datums-only-Wert: auf 12:00 UTC ankern, damit die Europe/Berlin-Anzeige nicht auf den Vortag kippt. */
+function isoDateOnly(y: number, m: number, d: number): string {
+  return new Date(Date.UTC(y, m - 1, d, 12, 0, 0)).toISOString();
+}
+
+/**
+ * Echtes Veröffentlichungsdatum aus der Link-/GUID-URL ziehen — z.B. die
+ * BNetzA-CMS-Pfade .../DE/2026/20260615_slug.html (YYYYMMDD im Dateinamen)
+ * oder .../2026/06/15/. Bewusst NICHT aus dem Titel (enthält Jahresspannen wie
+ * "2025-2037/2045", die kein Datum sind).
+ */
+export function dateFromUrl(url: string | undefined, now: Date): string | undefined {
+  if (!url) return undefined;
+  let m = /\/(20\d{2})(\d{2})(\d{2})[._-]/.exec(url);
+  if (m && plausibleYmd(+m[1]!, +m[2]!, +m[3]!, now)) return isoDateOnly(+m[1]!, +m[2]!, +m[3]!);
+  m = /\/(20\d{2})[-/](\d{2})[-/](\d{2})(?:[/._-]|$)/.exec(url);
+  if (m && plausibleYmd(+m[1]!, +m[2]!, +m[3]!, now)) return isoDateOnly(+m[1]!, +m[2]!, +m[3]!);
+  return undefined;
+}
+
+/** Datum aus Freitext (Beschreibung): strikt dd.mm.yyyy oder ISO yyyy-mm-dd. */
+export function dateFromText(text: string | undefined, now: Date): string | undefined {
+  if (!text) return undefined;
+  let m = /\b(\d{1,2})\.(\d{1,2})\.(20\d{2})\b/.exec(text);
+  if (m && plausibleYmd(+m[3]!, +m[2]!, +m[1]!, now)) return isoDateOnly(+m[3]!, +m[2]!, +m[1]!);
+  m = /\b(20\d{2})-(\d{2})-(\d{2})\b/.exec(text);
+  if (m && plausibleYmd(+m[1]!, +m[2]!, +m[3]!, now)) return isoDateOnly(+m[1]!, +m[2]!, +m[3]!);
+  return undefined;
+}
+
+/**
+ * Belastbares Datum je Feed-Item ableiten — ohne Fake:
+ * 1) echtes Feed-Datum (pubDate/dc:date/…), 2) Datum aus der Link-URL,
+ * 3) Datum aus der Beschreibung. Findet sich keines, bleibt das Datum offen
+ * (source='collected') — dann dient collected_at nur der internen Sortierung.
+ */
+export function resolveItemDate(item: ParsedFeedItem, now: Date = new Date()): { iso?: string; source: DateSource } {
+  const feed = toIso(item.pubDate);
+  if (feed) return { iso: feed, source: 'feed' };
+  const fromUrl = dateFromUrl(item.link ?? item.guid, now);
+  if (fromUrl) return { iso: fromUrl, source: 'url' };
+  const fromText = dateFromText(item.description, now);
+  if (fromText) return { iso: fromText, source: 'description' };
+  return { source: 'collected' };
+}
+
 /**
  * Generischer Multi-Feed-RSS/Atom-Connector. Feeds stehen in descriptor.config.feeds
  * (curated/sources.seed.json). Inkrement je Feed über ETag/Last-Modified + pubDate-Cursor.
@@ -170,14 +226,14 @@ export function rssConnector(descriptor: SourceDescriptor): SourceConnector {
         const since = cursor[sinceKey] as string | undefined;
         let maxSeen = since ?? '';
         for (const it of parsed) {
-          const iso = toIso(it.pubDate);
+          const { iso, source } = resolveItemDate(it, ctx.now());
           if (since && iso && iso <= since) continue;
           if (iso && iso > maxSeen) maxSeen = iso;
           items.push({
             externalId: it.guid ?? it.link,
             url: it.link,
             rawFormat: 'json',
-            payload: JSON.stringify({ ...it, docType: feed.docType ?? 'pressemitteilung' }),
+            payload: JSON.stringify({ ...it, docType: feed.docType ?? 'pressemitteilung', _pubIso: iso ?? null, _dateSource: source }),
             publishedAt: iso,
           });
         }
@@ -190,21 +246,32 @@ export function rssConnector(descriptor: SourceDescriptor): SourceConnector {
       return { items, nextCursor, exhausted: true };
     },
     normalize(item: FetchedItem): NormalizedInput[] {
-      const data = JSON.parse(item.payload) as ParsedFeedItem & { docType: string };
+      const data = JSON.parse(item.payload) as ParsedFeedItem & {
+        docType: string;
+        _pubIso?: string | null;
+        _dateSource?: DateSource;
+      };
       const title = htmlToText(data.title ?? '');
       if (!title) return [];
       const summary = data.description ? htmlToText(data.description) : undefined;
+      // Datum aus fetchSince übernehmen; bei Direktaufruf (Tests) neu ableiten.
+      const resolved = data._dateSource
+        ? { iso: data._pubIso ?? undefined, source: data._dateSource }
+        : resolveItemDate(data);
       return [
         {
           docType: data.docType,
           title,
           authorOrInstitution: descriptor.institution,
-          publishedAt: toIso(data.pubDate),
+          publishedAt: resolved.iso,
           originalUrl: data.link,
           externalId: item.externalId,
           normalizedText: summary ?? null,
           summary,
           language: 'de',
+          // date_source dokumentiert die Herkunft des Datums; 'collected' = kein
+          // Quelldatum gefunden, dann zählt nur collected_at (interne Sortierung).
+          meta: { date_source: resolved.source, ...(resolved.source === 'collected' ? { date_estimated: true } : {}) },
         },
       ];
     },
