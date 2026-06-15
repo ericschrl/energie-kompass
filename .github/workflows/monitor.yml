@@ -68,11 +68,11 @@ jobs:
         working-directory: pipeline
         run: npm run status
 
-      - name: Nur src/data/data.js und briefings/*.md committen
+      - name: Nur Datendateien und briefings/*.md committen
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add src/data/data.js briefings/
+          git add src/data/data.js src/data/briefings.js briefings/
           if git diff --cached --quiet; then
             echo "Keine Datenänderungen – nichts zu committen."
           else
