@@ -49,6 +49,11 @@ export function listDossiers(db: DatabaseSync): DossierRow[] {
   return db.prepare('SELECT * FROM dossiers ORDER BY slug').all() as unknown as DossierRow[];
 }
 
+export function getDossierIdBySlug(db: DatabaseSync, slug: string): number | undefined {
+  const row = db.prepare('SELECT id FROM dossiers WHERE slug = ?').get(slug) as { id: number } | undefined;
+  return row?.id;
+}
+
 /** Dokument ↔ Dossier verknüpfen (idempotent; bester Score gewinnt). */
 export function linkDocumentToDossier(
   db: DatabaseSync,

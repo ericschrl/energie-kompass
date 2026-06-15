@@ -69,7 +69,7 @@ export function projectNews(db: DatabaseSync, overlays: Overlays, now: Date, lim
        JOIN source_licences sl ON sl.source_id = s.id
        WHERE nd.duplicate_of IS NULL
          AND nd.published_at IS NOT NULL
-         AND nd.doc_type IN ('pressemitteilung','rss_article')
+         AND nd.doc_type IN ('pressemitteilung','rss_article','vorgang')
          AND sl.allows_republication = 1
          AND nd.licence_status NOT IN ('private-use-only','restricted')
        ORDER BY nd.published_at DESC

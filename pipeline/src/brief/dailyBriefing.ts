@@ -39,10 +39,10 @@ export function writeDailyBriefing(db: DatabaseSync, now: Date = new Date()): { 
        WHERE nd.duplicate_of IS NULL
          AND sl.allows_republication = 1
          AND nd.licence_status NOT IN ('private-use-only')
-         AND COALESCE(nd.published_at, nd.collected_at) >= ?
+         AND (COALESCE(nd.published_at, nd.collected_at) >= ? OR nd.created_at >= ?)
        ORDER BY s.name, COALESCE(nd.published_at, nd.collected_at) DESC`,
     )
-    .all(sinceIso) as unknown as BriefRow[];
+    .all(sinceIso, sinceIso) as unknown as BriefRow[];
 
   const lines: string[] = [];
   lines.push(`# Energie-Kompass Briefing — ${formatDatumKurz(now.toISOString())}`);

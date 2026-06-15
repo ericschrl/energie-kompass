@@ -1,0 +1,31 @@
+{
+  "numFound": 2,
+  "cursor": "CURSOR_PAGE2",
+  "documents": [
+    {
+      "id": "310001",
+      "typ": "Vorgang",
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Entwurf eines Gesetzes zur Änderung des Energiewirtschaftsgesetzes (EnWG) – Netzentgelte und § 14a",
+      "datum": "2026-06-10",
+      "aktualisiert": "2026-06-12T09:00:00+02:00",
+      "wahlperiode": 21,
+      "beratungsstand": "Überwiesen",
+      "gesta": "X001",
+      "initiative": ["Bundesregierung"],
+      "sachgebiet": ["Energie"],
+      "abstract": "Anpassungen bei Netzentgelten und steuerbaren Verbrauchseinrichtungen nach § 14a EnWG.",
+      "fundstelle": { "pdf_url": "https://dserver.bundestag.de/btd/21/100/2110001.pdf", "dokumentnummer": "21/10001" }
+    },
+    {
+      "id": "310002",
+      "typ": "Vorgang",
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Antrag: Förderung des Tierwohls in der Landwirtschaft",
+      "datum": "2026-06-11",
+      "aktualisiert": "2026-06-12T08:00:00+02:00",
+      "wahlperiode": 21,
+      "beratungsstand": "Überwiesen"
+    }
+  ]
+}

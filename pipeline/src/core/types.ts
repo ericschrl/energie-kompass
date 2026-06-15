@@ -70,6 +70,14 @@ export interface NormalizedInput {
     normalizedName?: string;
     externalRef?: string;
   }>;
+  /** Feingranulare Themen → document_topics (frontendTag muss zur fixen UI-Taxonomie passen). */
+  topics?: Array<{
+    topic: string;
+    frontendTag?: 'eeg' | 'netz' | 'emob' | 'ets' | 'markt';
+    score?: number;
+  }>;
+  /** Slugs getroffener Dossiers → dossier_documents (Verknüpfung über bestehende MatchRules). */
+  dossierSlugs?: string[];
 }
 
 export interface Logger {

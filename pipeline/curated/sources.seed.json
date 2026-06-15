@@ -27,13 +27,28 @@
     "defaultPolicyArea": "gesetzgebung",
     "config": {
       "wahlperiode": 21,
-      "sachgebiete": [
-        "Energie"
-      ],
       "vorgangstyp": "Gesetzgebung",
-      "maxVorgaengeProLauf": 40
+      "keywords": [
+        "Energiewirtschaftsgesetz",
+        "EnWG",
+        "Erneuerbare-Energien-Gesetz",
+        "EEG",
+        "Netzentgelt",
+        "Kraftwerk",
+        "Wasserstoff",
+        "Wärmeplanung",
+        "Wärmenetz",
+        "Ladeinfrastruktur",
+        "Ladesäule",
+        "Batteriespeicher",
+        "Strommarkt",
+        "Solarpaket",
+        "Windenergie"
+      ],
+      "maxVorgaengeProLauf": 40,
+      "maxPagesPerKeyword": 5
     },
-    "enabled": false
+    "enabled": true
   },
   {
     "slug": "lobbyregister",
