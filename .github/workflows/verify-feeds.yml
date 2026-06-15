@@ -7,6 +7,15 @@ name: Feeds verifizieren
 
 on:
   workflow_dispatch: {}
+  # Läuft automatisch auf PRs, die Quellen/Probe berühren — so wird die Feed-
+  # Verifikation im Runner (offener Egress) Teil der PR-Prüfung, ohne Merge.
+  pull_request:
+    paths:
+      - 'pipeline/curated/feed-candidates.json'
+      - 'pipeline/curated/sources.seed.json'
+      - 'pipeline/src/probe.ts'
+      - 'pipeline/src/connectors/rss.ts'
+      - '.github/workflows/verify-feeds.yml'
 
 permissions:
   contents: read
