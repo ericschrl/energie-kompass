@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import iconv from 'iconv-lite';
 
-import { decodeXmlBuffer, htmlToText, parseFeed, rssConnector } from '../src/connectors/rss.js';
+import { dateFromText, dateFromUrl, decodeXmlBuffer, htmlToText, parseFeed, resolveItemDate, rssConnector } from '../src/connectors/rss.js';
 import type { ConnectorContext, HttpClient, HttpResponse } from '../src/core/types.js';
 
 const RSS_XML = `<?xml version="1.0" encoding="UTF-8"?>
@@ -142,5 +142,80 @@ describe('RSS-Connector', () => {
 
   it('htmlToText: Tags, <br>, Whitespace', () => {
     expect(htmlToText('Zeile1<br/>Zeile2 <a href="#">Link&nbsp;Text</a>')).toBe('Zeile1 Zeile2 Link Text');
+  });
+});
+
+describe('BNetzA-Datumsableitung (ohne Fake)', () => {
+  const NOW = new Date('2026-06-30T00:00:00Z');
+
+  it('dateFromUrl: BNetzA-CMS-Pfad mit YYYYMMDD im Dateinamen', () => {
+    expect(
+      dateFromUrl('http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260615_NEP_Gas.html', NOW),
+    ).toBe('2026-06-15T12:00:00.000Z');
+  });
+
+  it('dateFromUrl: /YYYY/MM/DD/-Pfadform', () => {
+    expect(dateFromUrl('https://example.org/2026/06/05/artikel.html', NOW)).toBe('2026-06-05T12:00:00.000Z');
+  });
+
+  it('dateFromUrl: kein Datum / unplausibel / Zukunft → undefined', () => {
+    expect(dateFromUrl('https://www.bundesnetzagentur.de/presse/a1.html', NOW)).toBeUndefined();
+    expect(dateFromUrl('https://example.org/2026/13/40/x', NOW)).toBeUndefined(); // Monat 13 / Tag 40
+    expect(dateFromUrl('https://example.org/2027/20271231_x.html', NOW)).toBeUndefined(); // weit in der Zukunft
+  });
+
+  it('dateFromText: dd.mm.yyyy und ISO; Jahresspannen werden ignoriert', () => {
+    expect(dateFromText('Frist: Stellungnahme bis 30.06.2026.', NOW)).toBe('2026-06-30T12:00:00.000Z');
+    expect(dateFromText('Stand 2026-06-05 veröffentlicht', NOW)).toBe('2026-06-05T12:00:00.000Z');
+    // "2025-2037/2045" ist eine Jahresspanne, kein Datum:
+    expect(dateFromText('Netzentwicklungsplan 2025-2037/2045', NOW)).toBeUndefined();
+  });
+
+  it('resolveItemDate: Reihenfolge Feed → URL → Beschreibung → collected', () => {
+    expect(resolveItemDate({ pubDate: 'Fri, 12 Jun 2026 06:30:00 GMT', link: 'https://x/2024/20240101_a.html' }, NOW))
+      .toEqual({ iso: '2026-06-12T06:30:00.000Z', source: 'feed' });
+    expect(resolveItemDate({ link: 'https://www.bundesnetzagentur.de/.../2026/20260615_NEP_Gas.html' }, NOW))
+      .toEqual({ iso: '2026-06-15T12:00:00.000Z', source: 'url' });
+    expect(resolveItemDate({ description: 'erschienen am 05.06.2026' }, NOW))
+      .toEqual({ iso: '2026-06-05T12:00:00.000Z', source: 'description' });
+    expect(resolveItemDate({ title: 'Plan 2025-2037/2045', link: 'https://x/presse/ohne-datum.html' }, NOW))
+      .toEqual({ source: 'collected' });
+  });
+
+  it('normalize: BNetzA-Item ohne pubDate erhält echtes Datum aus dem Link + date_source=url', () => {
+    const c = rssConnector({
+      slug: 'rss-bnetza', name: 'Bundesnetzagentur', institution: 'Bundesnetzagentur',
+      sourceType: 'rss', accessType: 'public',
+      licence: { status: 'public-sector', allowsFulltextStorage: true, allowsRepublication: true },
+      rateLimit: { requestsPerMinute: 30 },
+      config: { feeds: [{ url: 'https://x/feed.xml', docType: 'pressemitteilung' }] },
+    });
+    const [doc] = c.normalize({
+      externalId: 'pm1', rawFormat: 'json',
+      payload: JSON.stringify({
+        title: 'Konsultation Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045',
+        link: 'http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2024/20240115_NEP.html',
+        docType: 'pressemitteilung',
+      }),
+    });
+    expect(doc?.publishedAt).toBe('2024-01-15T12:00:00.000Z');
+    expect((doc?.meta as Record<string, unknown>)?.date_source).toBe('url');
+  });
+
+  it('normalize: ganz ohne Datum → publishedAt undefined, sauber als collected markiert', () => {
+    const c = rssConnector({
+      slug: 'rss-bnetza', name: 'Bundesnetzagentur', institution: 'Bundesnetzagentur',
+      sourceType: 'rss', accessType: 'public',
+      licence: { status: 'public-sector', allowsFulltextStorage: true, allowsRepublication: true },
+      rateLimit: { requestsPerMinute: 30 },
+      config: { feeds: [{ url: 'https://x/feed.xml', docType: 'pressemitteilung' }] },
+    });
+    const [doc] = c.normalize({
+      externalId: 'gas1', rawFormat: 'json',
+      payload: JSON.stringify({ title: 'Aktuelle Lage der Gasversorgung', link: 'https://www.bundesnetzagentur.de/gas/lage.html', docType: 'rss_article' }),
+    });
+    expect(doc?.publishedAt).toBeUndefined();
+    expect((doc?.meta as Record<string, unknown>)?.date_source).toBe('collected');
+    expect((doc?.meta as Record<string, unknown>)?.date_estimated).toBe(true);
   });
 });
