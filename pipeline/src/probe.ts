@@ -55,10 +55,14 @@ export async function probeFeeds(candidatesFile?: string): Promise<ProbeResult[]
           continue;
         }
         const $ = cheerio.load(res.text);
+        // GSB-Seiten (Bund) setzen relative Feed-Links gegen ein <base href>;
+        // ohne das landet man auf falschen Pfaden (404).
+        const baseHref = $('base[href]').attr('href');
+        const resolveBase = baseHref ? new URL(baseHref, page).toString() : page;
         $('a[href]').each((_, el) => {
           const href = $(el).attr('href');
           if (!href || !XML_LINK.test(href)) return;
-          const abs = new URL(href, page).toString();
+          const abs = new URL(href, resolveBase).toString();
           if (!urls.has(abs)) urls.set(abs, 'overview-link');
         });
       } catch (err) {

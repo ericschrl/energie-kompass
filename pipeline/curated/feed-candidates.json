@@ -9,9 +9,10 @@
         "https://www.bundesnetzagentur.de/DE/Service/RSSNewsfeed/rssnewsfeed_node.html"
       ],
       "candidates": [
-        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml",
-        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/rssnewsfeed.xml",
-        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/rssnewsfeed.xml"
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_Aktuelles_neu.xml?nn=693926",
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_EEG.xml?nn=693926",
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_GAS.xml?nn=693926",
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_Amtsblatt.xml?nn=693926"
       ]
     },
     {
