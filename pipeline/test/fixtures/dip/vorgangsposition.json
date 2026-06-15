@@ -1,0 +1,21 @@
+{
+  "numFound": 2,
+  "documents": [
+    {
+      "id": "770001",
+      "vorgangsposition": "Gesetzentwurf",
+      "zuordnung": "BT",
+      "datum": "2026-06-10",
+      "vorgang_id": "310001",
+      "fundstelle": { "pdf_url": "https://dserver.bundestag.de/btd/21/100/2110001.pdf", "dokumentnummer": "21/10001", "dokumentart": "Drucksache", "drucksachetyp": "Gesetzentwurf" }
+    },
+    {
+      "id": "770002",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "datum": "2026-06-12",
+      "vorgang_id": "310001",
+      "fundstelle": { "pdf_url": "https://dserver.bundestag.de/btp/21/21050.pdf", "dokumentnummer": "21/50", "dokumentart": "Plenarprotokoll" }
+    }
+  ]
+}
