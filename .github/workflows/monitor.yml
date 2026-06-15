@@ -24,6 +24,8 @@ concurrency:
 env:
   # node:sqlite-Experimental-Warnung aus den Logs halten.
   NODE_OPTIONS: --disable-warning=ExperimentalWarning
+  # DIP-API-Key (optional): fehlt das Secret, überspringt der DIP-Connector sauber.
+  DIP_API_KEY: ${{ secrets.DIP_API_KEY }}
 
 jobs:
   daily:
