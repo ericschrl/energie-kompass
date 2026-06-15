@@ -93,11 +93,14 @@
     },
     "defaultPolicyArea": "regulierung",
     "config": {
-      "verifyUrl": true,
       "feeds": [
         {
-          "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml",
+          "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_Pressemitteilungen.xml?nn=693926",
           "docType": "pressemitteilung"
+        },
+        {
+          "url": "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/RSSNewsfeed_EEG.xml?nn=693926",
+          "docType": "rss_article"
         }
       ]
     },
@@ -110,11 +113,11 @@
     "connector": "rss",
     "sourceType": "rss",
     "accessType": "public",
-    "baseUrl": "https://www.bmwk.de",
+    "baseUrl": "https://www.bundeswirtschaftsministerium.de",
     "licence": {
       "status": "public-sector",
       "name": "Amtliche Pressemitteilungen",
-      "url": "https://www.bmwk.de",
+      "url": "https://www.bundeswirtschaftsministerium.de",
       "allowsFulltextStorage": true,
       "allowsRepublication": true,
       "attributionRequired": true,
@@ -126,11 +129,14 @@
     },
     "defaultPolicyArea": "regierung",
     "config": {
-      "verifyUrl": true,
       "feeds": [
         {
-          "url": "https://www.bmwk.de/SiteGlobals/BMWK/Functions/RSSFeed/DE/Pressemitteilungen/rssnewsfeed_pressemitteilungen.xml",
+          "url": "https://www.bundeswirtschaftsministerium.de/SiteGlobals/BMWI/Functions/RSSFeed/DE/RSSFeed-Pressemitteilung.xml",
           "docType": "pressemitteilung"
+        },
+        {
+          "url": "https://www.bundeswirtschaftsministerium.de/SiteGlobals/BMWI/Functions/RSSFeed/DE/RSSFeed-Energie.xml",
+          "docType": "rss_article"
         }
       ]
     },
@@ -159,7 +165,6 @@
     },
     "defaultPolicyArea": "regierung",
     "config": {
-      "verifyUrl": true,
       "feeds": [
         {
           "url": "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
@@ -167,7 +172,7 @@
         }
       ]
     },
-    "enabled": false
+    "enabled": true
   },
   {
     "slug": "bundesrat",

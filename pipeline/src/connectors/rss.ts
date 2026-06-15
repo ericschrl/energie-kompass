@@ -91,7 +91,11 @@ export function parseFeed(xml: string): ParsedFeedItem[] {
       link: text(it.link),
       title: text(it.title),
       description: text(it.description) ?? text(it['content:encoded']),
-      pubDate: text(it.pubDate) ?? text(it['dc:date']),
+      // Datumsfeld variiert je Quelle (BNetzA-GSB-Feeds nutzen z.B. dcterms:date/date
+      // statt pubDate); mehrere Kandidaten prüfen, damit published_at gesetzt wird.
+      pubDate:
+        text(it.pubDate) ?? text(it['dc:date']) ?? text(it['dcterms:date']) ??
+        text(it['dcterms:created']) ?? text(it.date) ?? text(it.published) ?? text(it.updated),
       feedTitle,
     }));
   }
