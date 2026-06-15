@@ -18,6 +18,7 @@
     "brief": "tsx src/index.ts brief",
     "daily": "tsx src/index.ts daily",
     "status": "tsx src/index.ts status",
+    "probe": "tsx src/index.ts probe",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },

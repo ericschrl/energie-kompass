@@ -1,0 +1,38 @@
+# Feed-Verifikation: testet die Kandidaten-URLs aus pipeline/curated/feed-candidates.json
+# im GitHub-Runner (dort ist der Egress zu den Behörden-Servern offen, anders als in der
+# Entwicklungs-Sandbox). Schreibt NICHTS, committet NICHTS, berührt die DB NICHT —
+# reine Diagnose. Nur manuell startbar.
+
+name: Feeds verifizieren
+
+on:
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+env:
+  NODE_OPTIONS: --disable-warning=ExperimentalWarning
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Repository auschecken
+        uses: actions/checkout@v5
+
+      - name: Node 22 einrichten
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: pipeline/package-lock.json
+
+      - name: Abhängigkeiten installieren
+        working-directory: pipeline
+        run: npm ci
+
+      - name: Feed-URLs proben (nur Diagnose, kein Commit)
+        working-directory: pipeline
+        run: npm run probe

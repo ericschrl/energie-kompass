@@ -1,0 +1,42 @@
+{
+  "_hinweis": "Kandidaten für die Feed-Verifikation (npm run probe). overviewPages werden nach *.xml-Links durchsucht, candidates direkt getestet. Wird NICHT in die DB geschrieben und nicht committet außer dieser Datei selbst.",
+  "quellen": [
+    {
+      "slug": "rss-bnetza",
+      "name": "Bundesnetzagentur",
+      "overviewPages": [
+        "https://www.bundesnetzagentur.de/DE/Service/RSSNewsfeed/rssnewsfeed.html",
+        "https://www.bundesnetzagentur.de/DE/Service/RSSNewsfeed/rssnewsfeed_node.html"
+      ],
+      "candidates": [
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSS/RSSNewsfeed/RSSNewsfeed_Presse.xml",
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/rssnewsfeed.xml",
+        "https://www.bundesnetzagentur.de/SiteGlobals/Functions/RSSFeed/RSSNewsfeed/rssnewsfeed.xml"
+      ]
+    },
+    {
+      "slug": "rss-bmwe",
+      "name": "BMWE",
+      "overviewPages": [
+        "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Textsammlungen/Service/rss.html",
+        "https://www.bundeswirtschaftsministerium.de/Navigation/DE/Service/RSS-Newsfeed/rss-newsfeed.html"
+      ],
+      "candidates": [
+        "https://www.bundeswirtschaftsministerium.de/SiteGlobals/BMWI/Functions/RSSFeed/DE/RSSFeed-Pressemitteilung.xml",
+        "https://www.bundeswirtschaftsministerium.de/SiteGlobals/BMWE/Functions/RSSFeed/DE/RSSFeed-Pressemitteilung.xml",
+        "https://www.bmwk.de/SiteGlobals/BMWK/Functions/RSSFeed/DE/Pressemitteilungen/rssnewsfeed_pressemitteilungen.xml"
+      ]
+    },
+    {
+      "slug": "rss-bundesregierung",
+      "name": "Bundesregierung",
+      "overviewPages": [
+        "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/rss-newsfeed"
+      ],
+      "candidates": [
+        "https://www.bundesregierung.de/service/rss/breg-de/1151244/feed.xml",
+        "https://www.bundesregierung.de/breg-de/service/newsletter-und-abos/rss-newsfeed-1532882/feed.xml"
+      ]
+    }
+  ]
+}

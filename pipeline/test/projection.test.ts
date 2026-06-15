@@ -123,10 +123,18 @@ describe('Format-Helfer (Europe/Berlin)', () => {
   it('serializeDataJs hält Umlaute roh und escapet eingebettete Newlines', () => {
     const out = serializeDataJs(
       { GESETZE: [{ 'nächsterSchritt': 'Prüfung', phasen: [{ label: 'Referenten-\nentwurf' }] }], NEWS: [], TERMINE: [], STAKEHOLDER: [], KONTAKTE: [] },
-      FIXED_NOW,
     );
     expect(out).toContain('"nächsterSchritt": "Prüfung"');
     expect(out).toContain('Referenten-\\nentwurf');
+  });
+
+  it('serializeDataJs enthält keinen Zeitstempel (verhindert Leerlauf-Commits)', () => {
+    const data = { GESETZE: [], NEWS: [], TERMINE: [], STAKEHOLDER: [], KONTAKTE: [] };
+    const a = serializeDataJs(data);
+    const b = serializeDataJs(data);
+    expect(a).toBe(b); // deterministisch — gleiche Daten ⇒ identische Datei
+    expect(a).not.toMatch(/Stand:/);
+    expect(a).not.toMatch(/\d{4}-\d{2}-\d{2}T\d{2}:\d{2}/);
   });
 });
 

@@ -21,23 +21,27 @@ concurrency:
   group: energie-kompass-monitoring
   cancel-in-progress: false
 
+env:
+  # node:sqlite-Experimental-Warnung aus den Logs halten.
+  NODE_OPTIONS: --disable-warning=ExperimentalWarning
+
 jobs:
   daily:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
       - name: Repository auschecken
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Node 22 einrichten
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@v5
         with:
           node-version: 22
           cache: npm
           cache-dependency-path: pipeline/package-lock.json
 
       - name: SQLite-Zustand aus Cache wiederherstellen
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: pipeline/db/energie-kompass.db
           # run_id ist eindeutig => am Jobende wird immer der neue Stand gesichert;
