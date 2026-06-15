@@ -3,6 +3,7 @@ import { getDb } from './db/connection.js';
 import { runMigrations } from './db/migrate.js';
 import { lastRuns } from './db/repositories/runs.js';
 import { formatOutcomes, ingestAll, syncSeeds } from './ingest.js';
+import { formatProbeResults, probeFeeds } from './probe.js';
 import { writeProjection } from './project/generateDataJs.js';
 
 const [, , command, ...args] = process.argv;
@@ -79,13 +80,19 @@ async function main(): Promise<number> {
       }
       return 0;
     }
+    case 'probe': {
+      // Reine Verifikation von Feed-URLs — schreibt nichts, berührt die DB nicht.
+      const results = await probeFeeds();
+      console.log(formatProbeResults(results));
+      return results.some((r) => r.isFeed && (r.itemCount ?? 0) > 0) ? 0 : 1;
+    }
     case 'enrich':
     case 'cluster':
       console.error(`Befehl "${command}" ist für eine spätere Ausbaustufe vorgesehen (LLM-/Regel-Anreicherung, Dossier-Clustering).`);
       return 1;
     default:
       console.error(
-        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|project|brief|daily|status>',
+        'Verwendung: tsx src/index.ts <migrate|seed|ingest [slug]|project|brief|daily|status|probe>',
       );
       return command ? 1 : 0;
   }

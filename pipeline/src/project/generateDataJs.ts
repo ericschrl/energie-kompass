@@ -37,7 +37,7 @@ export function buildProjection(
     STAKEHOLDER: overlays.stakeholder,
     KONTAKTE: overlays.kontakte,
   };
-  return { content: serializeDataJs(data, now), data, news };
+  return { content: serializeDataJs(data), data, news };
 }
 
 /**

@@ -96,11 +96,14 @@ export function serializeDataJs(data: {
   TERMINE: unknown[];
   STAKEHOLDER: unknown[];
   KONTAKTE: unknown[];
-}, generatedAt: Date): string {
+}): string {
   const block = (name: keyof typeof data) => `const ${name} = ${JSON.stringify(data[name], null, 2)};`;
+  // Bewusst KEIN Zeitstempel im Header: data.js darf sich nur bei echten
+  // Inhaltsänderungen ändern, sonst entstehen täglich Leerlauf-Commits.
+  // Der Generierungsstand steht im Briefing und im Commit-Datum.
   return [
     '// ─── Energie-Kompass Data ───',
-    `// GENERIERT durch pipeline/ – nicht von Hand editieren (Stand: ${generatedAt.toISOString()})`,
+    '// GENERIERT durch pipeline/ – nicht von Hand editieren.',
     '// Kuratierte Inhalte pflegen in pipeline/curated/, dann: cd pipeline && npm run project',
     '',
     block('GESETZE'),

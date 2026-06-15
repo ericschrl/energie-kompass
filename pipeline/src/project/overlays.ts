@@ -29,6 +29,8 @@ export interface ManualTermin {
   typ: 'anhörung' | 'frist' | 'treffen' | 'ausschuss';
   gesetze_ref: string | null;
   uhrzeit?: string;
+  /** URL der öffentlichen Belegstelle (Nachweis; wird beim Projizieren ignoriert). */
+  quelle?: string;
 }
 
 function readJson<T>(name: string, fallback: T, dir: string): T {
