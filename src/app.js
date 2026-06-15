@@ -24,6 +24,7 @@ function switchPage(page) {
     case 'news':        renderNews();         break;
     case 'kalender':    renderKalender();     break;
     case 'kontakte':    renderKontakte();     break;
+    case 'briefing':    renderBriefing();     break;
   }
 }
 
