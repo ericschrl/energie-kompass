@@ -534,6 +534,19 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [
+      "markt"
+    ],
+    "zusammenfassung": "Präsident Müller: „Der Netzentwicklungsplan Gas und Wasserstoff ist ein zentrales Instrument zur Sicherstellung einer zuverlässigen und zukunftsfähigen Energieversorgung in Deutschland.“",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260615_NEP_Gas.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -544,7 +557,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -555,7 +568,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -566,7 +579,31 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
+    "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "12.06.2026",
+    "tags": [],
+    "zusammenfassung": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_DSC.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "12.06.2026",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Präsident Müller: „Der beschleunigte Ausbau der Stromnetze bleibt wichtig, um das Energiesystem zukunftsfest zu machen.“",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_NEP.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -577,7 +614,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -588,7 +625,20 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
+    "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "09.06.2026",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260609_BioAusschreibung.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-10",
     "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -599,7 +649,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juni 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -610,7 +660,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "Bundesregierung gedenkt zum 12. Mal der Opfer von Flucht und Vertreibung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -621,7 +671,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "Bundesregierung gedenkt der Opfer des Volksaufstandes vom 17. Juni 1953",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -632,7 +682,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -643,7 +693,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Commonwealth der Bahamas, Philip Edward Davis",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -654,7 +704,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-16",
+    "titel": "Jahresbericht Telekommunikation 2025",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "05.06.2026",
+    "tags": [],
+    "zusammenfassung": "Jahresbericht Telekommunikation 2025",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260605_TK_JB.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-17",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin des Königreichs Dänemark, Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -665,7 +726,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Malta, Robert Abela",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +737,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz zur Wahl der nichtständigen Mitglieder für den Sicherheitsrat der Vereinten Nationen für die Periode 2027/28",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -687,7 +748,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-20",
     "titel": "Schärfung des Auftrags der Deutschen Welle: Kabinett unterstützt Fokus auf Freiheit, Innovation und Dialog – Staatsminister Weimer: „Die De…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -698,7 +759,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -709,7 +770,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-22",
+    "titel": "Bundesnetzagentur wird zuständige Behörde für den Data Act in Deutschland",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "30.05.2026",
+    "tags": [],
+    "zusammenfassung": "Bundesnetzagentur wird zuständige Behörde für den Data Act in Deutschland",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260530_DA.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-23",
     "titel": "Kulturstaatsminister verleiht 76. Deutschen Filmpreis Weimer: „Deutscher Film von seiner besten Seite“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -720,7 +792,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Argentinischen Republik, Javier Milei",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -731,7 +803,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -742,7 +814,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz nimmt am EU-Westbalkan-Gipfel in Montenegro teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -753,7 +825,33 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-27",
+    "titel": "Verfahren wegen mangelnder Umsetzung der Netzentgeltreduzierungen für Elektrofahrzeuge und Wärmepumpen",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "28.05.2026",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Verfahren wegen mangelnder Umsetzung der Netzentgeltreduzierungen für Elektrofahrzeuge und Wärmepumpen",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260528_14a.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-28",
+    "titel": "Bundesnetzagentur stellt aktuelle Überlegungen zur Reform der Netzentgeltsystematik Strom vor",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "27.05.2026",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Präsident Müller: „Machen Netzentgelte fit für die Herausforderungen der Energiewende“",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-29",
     "titel": "Im Fokus: Wettbewerbsfähige Strompreise - Industriestrompreis entlastet die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -766,7 +864,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-30",
     "titel": "Grenzüberschreitende Energiekooperationen mit Polen – ein kraftvolles Signal für die europäische Zusammenarbeit bei Dekarbonisierung und En…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -774,96 +872,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Grenzüberschreitende Energiekooperationen mit Polen – ein kraftvolles Signal für die europäische Zusammenarbeit bei Dekarbonisierung und Energiesicherheit",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/06/04-grenzueberschreitenden-energiekooperationen-mit-polen.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-23",
-    "titel": "Konjunkturschlaglicht",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "26.05.2026",
-    "tags": [],
-    "zusammenfassung": "Energiepreisanstieg bremst wirtschaftliche Erholung",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/06/01-konjunkturschlaglicht.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-24",
-    "titel": "Freihandel und Wirtschaftssicherheit – Staatssekretär Steffen beim Handelsministerrat in Brüssel",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "22.05.2026",
-    "tags": [],
-    "zusammenfassung": "Freihandel und Wirtschaftssicherheit – Staatssekretär Steffen beim Handelsministerrat in Brüssel",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260522-staatssekretaer-steffen-handelsministerrat-bruessel.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-25",
-    "titel": "Bundestag ebnet Weg für moderne Regelungen zu Ökodesign und Energieverbrauchskennzeichnung",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "21.05.2026",
-    "tags": [],
-    "zusammenfassung": "Bundestag ebnet Weg für moderne Regelungen zu Ökodesign und Energieverbrauchskennzeichnung",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260521-bundestag-ebnet-weg-fuer-moderne-regelungen-zu-oekodesign-und-energieverbrauchskennzeichnung.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-26",
-    "titel": "Stellungnahme zu Empfehlungen der Monopolkommission für mehr Wettbewerb und Effizienz auf den Energiemärkten",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.05.2026",
-    "tags": [],
-    "zusammenfassung": "Stellungnahme zu Empfehlungen der Monopolkommission für mehr Wettbewerb und Effizienz auf den Energiemärkten",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-stellungnahme-zu-empfehlungen-monopolkommission.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "Zitat zur erzielten Einigung zur Umsetzung des EU-US-Zollabkommens",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.05.2026",
-    "tags": [],
-    "zusammenfassung": "Zitat zur erzielten Einigung zur Umsetzung des EU-US-Zollabkommens",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-zitat-zum-eu-us-zollabkommen.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-28",
-    "titel": "Digitale Datendrehscheibe bei der Bundesnetzagentur verbessert die Transparenz bei Kurzzeitvermietungen und ermöglicht eine evidenzbasierte…",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.05.2026",
-    "tags": [],
-    "zusammenfassung": "Digitale Datendrehscheibe bei der Bundesnetzagentur verbessert die Transparenz bei Kurzzeitvermietungen und ermöglicht eine evidenzbasierte Steuerung",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-digitale-datendrehscheibe-bundesnetzagentur-verbessert-transparenz-kurzzeitvermietungen.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesregierung: Roadmaps der Hightech Agenda Deutschland starten in die Umsetzung mit Wirtschaft, Wissenschaft und Ländern",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.05.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesregierung: Roadmaps der Hightech Agenda Deutschland starten in die Umsetzung mit Wirtschaft, Wissenschaft und Ländern",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-bundesregierung-roadmaps-der-hightech-agenda-deutschland-starten-in-die-umsetzung-mit-wirtschaft-wissenschaft-und-laendern.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-30",
-    "titel": "Dritter Europäischer Gipfel für bidirektionales Laden: Für mehr Innovationen, Kosteneffizienz und Resilienz.",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.05.2026",
-    "tags": [
-      "emob"
-    ],
-    "zusammenfassung": "Dritter Europäischer Gipfel für bidirektionales Laden: Für mehr Innovationen, Kosteneffizienz und Resilienz.",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-dritter-europaeischer-gipfel-fuer-bidirektionales-laden.html",
     "gelesen": false
   }
 ];
