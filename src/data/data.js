@@ -15,32 +15,32 @@ const GESETZE = [
     "phasen": [
       {
         "label": "Referenten-\nentwurf",
-        "datum": "Feb 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Verbände-\nanhörung",
-        "datum": "Mär 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Kabinett",
-        "datum": "Mai 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "1. Lesung",
-        "datum": "Jun 2024",
+        "datum": "Jun 2026",
         "status": "active"
       },
       {
         "label": "Ausschuss",
-        "datum": "Sep 2024",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Verab-\nschiedung",
-        "datum": "Nov 2024",
+        "datum": "",
         "status": "pending"
       }
     ],
@@ -48,7 +48,7 @@ const GESETZE = [
       "eeg"
     ],
     "letzteAktion": "1. Beratung (BT) – 11.06.2026",
-    "nächsterSchritt": "1. Lesung im Bundestag – 20.06.2024",
+    "nächsterSchritt": "Weitere Beratung im federführenden Ausschuss",
     "ansprechpartner": {
       "ministerium": [
         {
@@ -135,13 +135,18 @@ const GESETZE = [
     ],
     "news": [
       "news-1"
-    ]
+    ],
+    "quelle": {
+      "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
+      "datum": "2026-06-11",
+      "typ": "DIP"
+    }
   },
   {
     "id": "netzpaket",
     "name": "Netzausbau-Paket",
     "kurz": "Netzpaket",
-    "beschreibung": "Gesetz zur Beschleunigung des Stromnetzausbaus inkl. Windenergieanlagen an Land, Offshore und Übertragungsnetz",
+    "beschreibung": "EnWG-Novelle Netzanschluss: regionale Vergabe und Reservierung von Netzanschlusskapazitäten, flexible Netzanschlussvereinbarungen, bessere Auslastung vorhandener Netze",
     "ressort": "BMWK",
     "referat": "IIC1",
     "prioritaet": "hoch",
@@ -149,40 +154,40 @@ const GESETZE = [
     "phasen": [
       {
         "label": "Referenten-\nentwurf",
-        "datum": "Jan 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Verbände-\nanhörung",
-        "datum": "Feb 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Kabinett",
-        "datum": "Apr 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "1. Lesung",
-        "datum": "Mai 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Ausschuss",
-        "datum": "Jun 2024",
+        "datum": "",
         "status": "active"
       },
       {
         "label": "Verab-\nschiedung",
-        "datum": "Jul 2024",
+        "datum": "",
         "status": "pending"
       }
     ],
     "tags": [
       "netz"
     ],
-    "letzteAktion": "(BR) – 27.03.2026",
-    "nächsterSchritt": "Ausschussanhörung Sachverständige – 19.06.2024",
+    "letzteAktion": "Den Ausschüssen zugewiesen – 28.04.2026",
+    "nächsterSchritt": "Beratung in den Ausschüssen",
     "ansprechpartner": {
       "ministerium": [
         {
@@ -249,7 +254,12 @@ const GESETZE = [
         "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
       }
     ],
-    "news": []
+    "news": [],
+    "quelle": {
+      "url": "https://dip.bundestag.de/vorgang/332638",
+      "datum": "2026-04-28",
+      "typ": "DIP"
+    }
   },
   {
     "id": "gmodg",
@@ -302,7 +312,12 @@ const GESETZE = [
       "bundestag": []
     },
     "positionen": [],
-    "news": []
+    "news": [],
+    "quelle": {
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260513-gemeinsame-pressemitteilung-neue-weichenstellung-fuer-den-gebaeudebereich-bundeskabinett-beschliesst-gebaeudemodernisierungsgesetz.html",
+      "datum": "2026-05-13",
+      "typ": "BMWE"
+    }
   },
   {
     "id": "bidirektional",
@@ -316,40 +331,40 @@ const GESETZE = [
     "phasen": [
       {
         "label": "Referenten-\nentwurf",
-        "datum": "Q4 2024",
+        "datum": "",
         "status": "active"
       },
       {
         "label": "Verbände-\nanhörung",
-        "datum": "Q1 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Kabinett",
-        "datum": "Q2 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "1. Lesung",
-        "datum": "Q3 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Ausschuss",
-        "datum": "Q4 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Verab-\nschiedung",
-        "datum": "2025",
+        "datum": "",
         "status": "pending"
       }
     ],
     "tags": [
       "emob"
     ],
-    "letzteAktion": "Konzultationspapier veröffentlicht März 2024",
-    "nächsterSchritt": "Referentenentwurf erwartet Q4 2024",
+    "letzteAktion": "Kein laufendes Gesetzgebungsverfahren (kuratierter Stand)",
+    "nächsterSchritt": "Kein terminierter nächster Schritt",
     "ansprechpartner": {
       "ministerium": [
         {
@@ -387,7 +402,12 @@ const GESETZE = [
         "kommentar": "V2G als Geschäftsfeld, aktive Beteiligung am Konsultationsprozess"
       }
     ],
-    "news": []
+    "news": [],
+    "quelle": {
+      "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-dritter-europaeischer-gipfel-fuer-bidirektionales-laden.html",
+      "datum": "2026-05-20",
+      "typ": "BMWE"
+    }
   },
   {
     "id": "netzentgelte",
@@ -397,36 +417,36 @@ const GESETZE = [
     "ressort": "BMWK / BNetzA",
     "referat": "IIC3",
     "prioritaet": "hoch",
-    "phase": 1,
+    "phase": 0,
     "phasen": [
       {
         "label": "Referenten-\nentwurf",
-        "datum": "Jun 2024",
+        "datum": "",
         "status": "active"
       },
       {
         "label": "Verbände-\nanhörung",
-        "datum": "Aug 2024",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Kabinett",
-        "datum": "Okt 2024",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "1. Lesung",
-        "datum": "Jan 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Ausschuss",
-        "datum": "Mär 2025",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Verab-\nschiedung",
-        "datum": "Mai 2025",
+        "datum": "",
         "status": "pending"
       }
     ],
@@ -434,8 +454,8 @@ const GESETZE = [
       "netz",
       "markt"
     ],
-    "letzteAktion": "Eckpunktepapier BMWK veröffentlicht April 2024",
-    "nächsterSchritt": "Referentenentwurf erwartet Juni 2024",
+    "letzteAktion": "BNetzA: Überlegungen zur Reform der Netzentgeltsystematik vorgestellt – 27.05.2026",
+    "nächsterSchritt": "BNetzA-Konsultation zur Netzentgeltsystematik läuft",
     "ansprechpartner": {
       "ministerium": [
         {
@@ -485,7 +505,12 @@ const GESETZE = [
         "kommentar": "Eigenes Konsultationsverfahren parallel"
       }
     ],
-    "news": []
+    "news": [],
+    "quelle": {
+      "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
+      "datum": "2026-05-27",
+      "typ": "BNetzA"
+    }
   }
 ];
 
@@ -501,7 +526,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br /> Änderung §§ 28 und 101 Erneuerbare-Energie…",
     "link": "https://dip.bundestag.de/vorgang/331000",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-2",
@@ -514,7 +539,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Der Netzentwicklungsplan Gas und Wasserstoff ist ein zentrales Instrument zur Sicherstellung einer zuverlässigen und zukunftsfähigen Energieversorgung in Deutschland.“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260615_NEP_Gas.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-3",
@@ -569,7 +594,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_DSC.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -582,7 +607,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Der beschleunigte Ausbau der Stromnetze bleibt wichtig, um das Energiesystem zukunftsfest zu machen.“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_NEP.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-9",
@@ -617,7 +642,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260609_BioAusschreibung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -694,7 +719,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Jahresbericht Telekommunikation 2025",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260605_TK_JB.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -760,7 +785,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur wird zuständige Behörde für den Data Act in Deutschland",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260530_DA.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -817,7 +842,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Verfahren wegen mangelnder Umsetzung der Netzentgeltreduzierungen für Elektrofahrzeuge und Wärmepumpen",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260528_14a.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -830,7 +855,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Machen Netzentgelte fit für die Herausforderungen der Energiewende“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
