@@ -19,7 +19,20 @@ export interface GesetzOverlay {
     letzteAktion: string;
     naechsterSchritt: string;
     news: string[];
+    /**
+     * Provenienz des kuratierten Stands (URL/Datum/Quellentyp). Belegt, woher der
+     * Fallback-Stand stammt, und ist die Basis für die Projektion, wenn kein
+     * Live-Signal vorliegt. Wird von einem abgeleiteten Signal überschrieben.
+     */
+    quelle?: { url: string | null; datum: string | null; typ: string };
   };
+}
+
+/** Provenienz einer Gesetzgebungs-Aktualisierung (im data.js als GESETZE[].quelle). */
+export interface GesetzQuelle {
+  url: string | null;
+  datum: string | null; // 'YYYY-MM-DD'
+  typ: string; // 'DIP' | 'BMWE' | 'Bundesregierung' | 'BNetzA' | 'kuratiert' | …
 }
 
 export interface ManualTermin {

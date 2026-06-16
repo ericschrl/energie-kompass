@@ -1,12 +1,20 @@
 let selectedGesetz = null;
 
+function gesetzeStand() {
+  // „Stand" aus dem jüngsten belegten Quellendatum ableiten (kein hartkodiertes Datum).
+  const daten = GESETZE.map(g => g.quelle && g.quelle.datum).filter(Boolean).sort();
+  if (!daten.length) return '';
+  const [y, m, d] = daten[daten.length - 1].split('-');
+  return ` · Stand: ${d}.${m}.${y}`;
+}
+
 function renderGesetze() {
   const el = document.getElementById('page-gesetze');
   el.innerHTML = `
     <div class="page-header">
       <div class="page-header-left">
         <h1>Gesetzgebungs-Tracker</h1>
-        <p>${GESETZE.length} aktive Vorhaben · Stand: 14.06.2024</p>
+        <p>${GESETZE.length} aktive Vorhaben${gesetzeStand()}</p>
       </div>
       <div style="display:flex;gap:8px;align-items:center;">
         <div class="filter-tabs">
@@ -127,6 +135,7 @@ function openDetailPanel(id) {
       <div class="section-title">Aktueller Stand</div>
       <div class="alert alert-amber">${g.nächsterSchritt}</div>
       <div style="font-size:12px;color:var(--text-muted);margin-top:6px;">Letzte Aktion: ${g.letzteAktion}</div>
+      ${g.quelle && g.quelle.url ? `<div style="font-size:11px;margin-top:4px;"><a href="${g.quelle.url}" target="_blank" rel="noopener" style="color:var(--accent);text-decoration:none;">Quelle: ${g.quelle.typ}${g.quelle.datum ? ' · ' + g.quelle.datum.split('-').reverse().join('.') : ''} ↗</a></div>` : ''}
     </div>
 
     <div style="margin-bottom:20px;">
