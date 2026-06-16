@@ -1,5 +1,5 @@
 import { registerConnector } from '../core/registry.js';
-import { loadDossierSeeds } from '../db/seedLoader.js';
+import { loadDossierRules, matchDossiers, type DossierMatch, type DossierRule, type FrontendTag } from '../enrich/dossierMatch.js';
 import type {
   ConnectorContext, Cursor, FetchedItem, FetchResult, NormalizedInput, SourceConnector, SourceDescriptor,
 } from '../core/types.js';
@@ -8,65 +8,11 @@ import type {
 // Endpunkte: /vorgang (Spine) + /vorgangsposition?f.vorgang=<id>.
 // Auth ausschließlich über ENV/Secret DIP_API_KEY (Header "Authorization: ApiKey …").
 // Ohne Key überspringt der Connector sauber (0 Items), ohne den Lauf zu brechen.
+// Dossier-Matchlogik liegt zentral in ../enrich/dossierMatch.ts (geteilt mit RSS).
 
-type FrontendTag = 'eeg' | 'netz' | 'emob' | 'ets' | 'markt';
-
-/** Feingranulare Dossier-Topics → fixe Frontend-Taxonomie (sonst kein Frontend-Tag). */
-const TOPIC_TO_TAG: Record<string, FrontendTag> = {
-  eeg: 'eeg', 'red-iii': 'eeg',
-  netz: 'netz', netzentgelte: 'netz', '14a-enwg': 'netz',
-  emob: 'emob', v2g: 'emob', afir: 'emob',
-  ets: 'ets',
-  markt: 'markt', kraftwerksstrategie: 'markt', h2: 'markt', waerme: 'markt', speicher: 'markt',
-};
-
-export interface DossierRule {
-  slug: string;
-  keywords: string[];
-  patterns: RegExp[];
-  topics: string[];
-}
-
-export function loadDossierRules(): DossierRule[] {
-  return loadDossierSeeds().map((d) => ({
-    slug: d.slug,
-    keywords: d.matchRules.keywords,
-    patterns: d.matchRules.patterns.map((p) => safeRegex(p)).filter((r): r is RegExp => r !== null),
-    topics: d.matchRules.topics,
-  }));
-}
-
-function safeRegex(src: string): RegExp | null {
-  try {
-    return new RegExp(src, 'iu');
-  } catch {
-    return null;
-  }
-}
-
-export interface DossierMatch {
-  slugs: string[];
-  topics: Array<{ topic: string; frontendTag?: FrontendTag }>;
-}
-
-/** Relevanz-Gate: liefert getroffene Dossiers + deren Topics. Leer ⇒ nicht energiepolitisch relevant. */
-export function matchDossiers(text: string, rules: DossierRule[]): DossierMatch {
-  const haystack = text.toLowerCase();
-  const slugs: string[] = [];
-  const topicSet = new Set<string>();
-  for (const rule of rules) {
-    const hitKeyword = rule.keywords.some((k) => haystack.includes(k.toLowerCase()));
-    const hitPattern = rule.patterns.some((re) => re.test(text));
-    if (hitKeyword || hitPattern) {
-      slugs.push(rule.slug);
-      for (const t of rule.topics) topicSet.add(t);
-    }
-  }
-  return {
-    slugs,
-    topics: [...topicSet].map((topic) => ({ topic, frontendTag: TOPIC_TO_TAG[topic] })),
-  };
-}
+// Re-Export für bestehende Importe/Tests, die diese Symbole aus dip.js beziehen.
+export { loadDossierRules, matchDossiers };
+export type { DossierMatch, DossierRule, FrontendTag };
 
 interface DipConfig {
   keywords: string[];
@@ -291,7 +237,7 @@ export function dipConnector(descriptor: SourceDescriptor, deps: { rules?: Dossi
             originalUrl: p.fundstelle?.pdf_url ?? undefined,
             summary: [p.fundstelle?.dokumentart, p.fundstelle?.drucksachetyp].filter(Boolean).join(' ') || title,
             legalReference: p.fundstelle?.dokumentnummer,
-            meta: { event_date: toIso(p.datum), zuordnung: p.zuordnung, vorgang_id: data.vorgangId, matched_dossiers: data.match.slugs },
+            meta: { event_date: toIso(p.datum), positionstyp: p.vorgangsposition, zuordnung: p.zuordnung, vorgang_id: data.vorgangId, matched_dossiers: data.match.slugs },
           },
         ];
       }

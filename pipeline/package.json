@@ -19,6 +19,7 @@
     "daily": "tsx src/index.ts daily",
     "status": "tsx src/index.ts status",
     "probe": "tsx src/index.ts probe",
+    "dip-candidates": "tsx src/index.ts dip-candidates",
     "test": "vitest run",
     "typecheck": "tsc --noEmit"
   },

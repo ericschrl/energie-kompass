@@ -145,6 +145,39 @@ describe('RSS-Connector', () => {
   });
 });
 
+describe('RSS: Dossier-Zuordnung (geteilte MatchRules)', () => {
+  const rules = [
+    { slug: 'netzentgelte', keywords: ['Netzentgelt', 'Netzentgelte'], patterns: [], topics: ['netz', 'netzentgelte'] },
+  ];
+  function c() {
+    return rssConnector({
+      slug: 'rss-bnetza', name: 'Bundesnetzagentur', institution: 'Bundesnetzagentur',
+      sourceType: 'rss', accessType: 'public',
+      licence: { status: 'public-sector', allowsFulltextStorage: true, allowsRepublication: true },
+      rateLimit: { requestsPerMinute: 30 },
+      config: { feeds: [{ url: 'https://x/feed.xml', docType: 'pressemitteilung' }] },
+    }, { rules });
+  }
+
+  it('setzt dossierSlugs + topics, wenn der Titel zu einem Dossier passt', () => {
+    const [doc] = c().normalize({
+      externalId: 'a', rawFormat: 'json',
+      payload: JSON.stringify({ title: 'BNetzA: Festlegung zu Netzentgelten 2027', link: 'https://x/a', docType: 'pressemitteilung' }),
+    });
+    expect(doc?.dossierSlugs).toEqual(['netzentgelte']);
+    expect(doc?.topics).toEqual([{ topic: 'netz', frontendTag: 'netz' }, { topic: 'netzentgelte', frontendTag: 'netz' }]);
+  });
+
+  it('lässt dossierSlugs weg, wenn kein Dossier passt', () => {
+    const [doc] = c().normalize({
+      externalId: 'b', rawFormat: 'json',
+      payload: JSON.stringify({ title: 'Hinweise zum Tierwohl', link: 'https://x/b', docType: 'pressemitteilung' }),
+    });
+    expect(doc?.dossierSlugs).toBeUndefined();
+    expect(doc?.topics).toBeUndefined();
+  });
+});
+
 describe('BNetzA-Datumsableitung (ohne Fake)', () => {
   const NOW = new Date('2026-06-30T00:00:00Z');
 

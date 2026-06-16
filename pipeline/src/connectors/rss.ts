@@ -2,6 +2,7 @@ import { XMLParser } from 'fast-xml-parser';
 import iconv from 'iconv-lite';
 
 import { registerConnector } from '../core/registry.js';
+import { loadDossierRules, matchDossiers, type DossierRule } from '../enrich/dossierMatch.js';
 import type {
   ConnectorContext, Cursor, FetchedItem, FetchResult, NormalizedInput, SourceConnector, SourceDescriptor,
 } from '../core/types.js';
@@ -184,8 +185,9 @@ export function resolveItemDate(item: ParsedFeedItem, now: Date = new Date()): {
  * Generischer Multi-Feed-RSS/Atom-Connector. Feeds stehen in descriptor.config.feeds
  * (curated/sources.seed.json). Inkrement je Feed über ETag/Last-Modified + pubDate-Cursor.
  */
-export function rssConnector(descriptor: SourceDescriptor): SourceConnector {
+export function rssConnector(descriptor: SourceDescriptor, deps: { rules?: DossierRule[] } = {}): SourceConnector {
   const feeds = ((descriptor.config?.feeds as FeedConfig[] | undefined) ?? []).filter((f) => f?.url);
+  const rules = deps.rules ?? loadDossierRules();
   return {
     descriptor,
     async fetchSince(cursor: Cursor, ctx: ConnectorContext): Promise<FetchResult> {
@@ -258,6 +260,8 @@ export function rssConnector(descriptor: SourceDescriptor): SourceConnector {
       const resolved = data._dateSource
         ? { iso: data._pubIso ?? undefined, source: data._dateSource }
         : resolveItemDate(data);
+      // Dossier-Bezug rein regelbasiert (gleiche Logik wie DIP) → speist GESETZE.news.
+      const match = matchDossiers(`${title} ${summary ?? ''}`, rules);
       return [
         {
           docType: data.docType,
@@ -272,10 +276,11 @@ export function rssConnector(descriptor: SourceDescriptor): SourceConnector {
           // date_source dokumentiert die Herkunft des Datums; 'collected' = kein
           // Quelldatum gefunden, dann zählt nur collected_at (interne Sortierung).
           meta: { date_source: resolved.source, ...(resolved.source === 'collected' ? { date_estimated: true } : {}) },
+          ...(match.slugs.length ? { dossierSlugs: match.slugs, topics: match.topics } : {}),
         },
       ];
     },
   };
 }
 
-registerConnector('rss', rssConnector);
+registerConnector('rss', (descriptor) => rssConnector(descriptor));
