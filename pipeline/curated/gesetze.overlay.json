@@ -98,48 +98,53 @@
       "phasen": [
         {
           "label": "Referenten-\nentwurf",
-          "datum": "Feb 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "Verbände-\nanhörung",
-          "datum": "Mär 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "Kabinett",
-          "datum": "Mai 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "1. Lesung",
-          "datum": "Jun 2024",
+          "datum": "Jun 2026",
           "status": "active"
         },
         {
           "label": "Ausschuss",
-          "datum": "Sep 2024",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Verab-\nschiedung",
-          "datum": "Nov 2024",
+          "datum": "",
           "status": "pending"
         }
       ],
-      "letzteAktion": "Kabinettsbeschluss 15.05.2024",
-      "naechsterSchritt": "1. Lesung im Bundestag – 20.06.2024",
+      "letzteAktion": "1. Beratung (BT) – 11.06.2026",
+      "naechsterSchritt": "Weitere Beratung im federführenden Ausschuss",
       "news": [
         "news-1",
         "news-3",
         "news-7"
-      ]
+      ],
+      "quelle": {
+        "url": "https://dip.bundestag.de/vorgang/331000",
+        "datum": "2026-06-11",
+        "typ": "DIP"
+      }
     }
   },
   "netzpaket": {
     "name": "Netzausbau-Paket",
     "kurz": "Netzpaket",
-    "beschreibung": "Gesetz zur Beschleunigung des Stromnetzausbaus inkl. Windenergieanlagen an Land, Offshore und Übertragungsnetz",
+    "beschreibung": "EnWG-Novelle Netzanschluss: regionale Vergabe und Reservierung von Netzanschlusskapazitäten, flexible Netzanschlussvereinbarungen, bessere Auslastung vorhandener Netze",
     "ressort": "BMWK",
     "referat": "IIC1",
     "prioritaet": "hoch",
@@ -217,42 +222,47 @@
       "phasen": [
         {
           "label": "Referenten-\nentwurf",
-          "datum": "Jan 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "Verbände-\nanhörung",
-          "datum": "Feb 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "Kabinett",
-          "datum": "Apr 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "1. Lesung",
-          "datum": "Mai 2024",
+          "datum": "",
           "status": "done"
         },
         {
           "label": "Ausschuss",
-          "datum": "Jun 2024",
+          "datum": "",
           "status": "active"
         },
         {
           "label": "Verab-\nschiedung",
-          "datum": "Jul 2024",
+          "datum": "",
           "status": "pending"
         }
       ],
-      "letzteAktion": "1. Lesung abgeschlossen, Überweisung an EnWiAusschuss",
-      "naechsterSchritt": "Ausschussanhörung Sachverständige – 19.06.2024",
+      "letzteAktion": "Den Ausschüssen zugewiesen",
+      "naechsterSchritt": "Beratung in den Ausschüssen",
       "news": [
         "news-2",
         "news-5",
         "news-8"
-      ]
+      ],
+      "quelle": {
+        "url": "https://dip.bundestag.de/vorgang/332638",
+        "datum": null,
+        "typ": "DIP"
+      }
     }
   },
   "gmodg": {
@@ -306,7 +316,12 @@
       ],
       "letzteAktion": "Kabinettsbeschluss 13.05.2026",
       "naechsterSchritt": "Zuleitung an Bundestag, 1. Lesung steht aus",
-      "news": []
+      "news": [],
+      "quelle": {
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260513-gemeinsame-pressemitteilung-neue-weichenstellung-fuer-den-gebaeudebereich-bundeskabinett-beschliesst-gebaeudemodernisierungsgesetz.html",
+        "datum": "2026-05-13",
+        "typ": "BMWE"
+      }
     }
   },
   "bidirektional": {
@@ -361,41 +376,46 @@
       "phasen": [
         {
           "label": "Referenten-\nentwurf",
-          "datum": "Q4 2024",
+          "datum": "",
           "status": "active"
         },
         {
           "label": "Verbände-\nanhörung",
-          "datum": "Q1 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Kabinett",
-          "datum": "Q2 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "1. Lesung",
-          "datum": "Q3 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Ausschuss",
-          "datum": "Q4 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Verab-\nschiedung",
-          "datum": "2025",
+          "datum": "",
           "status": "pending"
         }
       ],
-      "letzteAktion": "Konzultationspapier veröffentlicht März 2024",
-      "naechsterSchritt": "Referentenentwurf erwartet Q4 2024",
+      "letzteAktion": "Kein laufendes Gesetzgebungsverfahren (kuratierter Stand)",
+      "naechsterSchritt": "Kein terminierter nächster Schritt",
       "news": [
         "news-6",
         "news-10"
-      ]
+      ],
+      "quelle": {
+        "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260520-dritter-europaeischer-gipfel-fuer-bidirektionales-laden.html",
+        "datum": "2026-05-20",
+        "typ": "BMWE"
+      }
     }
   },
   "netzentgelte": {
@@ -459,45 +479,50 @@
       }
     ],
     "fallback": {
-      "phase": 1,
+      "phase": 0,
       "phasen": [
         {
           "label": "Referenten-\nentwurf",
-          "datum": "Jun 2024",
+          "datum": "",
           "status": "active"
         },
         {
           "label": "Verbände-\nanhörung",
-          "datum": "Aug 2024",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Kabinett",
-          "datum": "Okt 2024",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "1. Lesung",
-          "datum": "Jan 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Ausschuss",
-          "datum": "Mär 2025",
+          "datum": "",
           "status": "pending"
         },
         {
           "label": "Verab-\nschiedung",
-          "datum": "Mai 2025",
+          "datum": "",
           "status": "pending"
         }
       ],
-      "letzteAktion": "Eckpunktepapier BMWK veröffentlicht April 2024",
-      "naechsterSchritt": "Referentenentwurf erwartet Juni 2024",
+      "letzteAktion": "BNetzA: Überlegungen zur Reform der Netzentgeltsystematik vorgestellt – 27.05.2026",
+      "naechsterSchritt": "BNetzA-Konsultation zur Netzentgeltsystematik läuft",
       "news": [
         "news-2",
         "news-11"
-      ]
+      ],
+      "quelle": {
+        "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
+        "datum": "2026-05-27",
+        "typ": "BNetzA"
+      }
     }
   }
 }

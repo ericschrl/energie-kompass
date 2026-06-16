@@ -12,193 +12,6 @@ const BRIEFINGS = {
           "blocks": []
         },
         {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260615_NEP_Gas.html"
-                },
-                {
-                  "text": " — Gestern, 14:00"
-                }
-              ],
-              "sub": "Präsident Müller: „Der Netzentwicklungsplan Gas und Wasserstoff ist ein zentrales Instrument zur Sicherstellung einer zuverlässigen und zukunftsfähigen Energieversorgung in Deutschland.“"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "30.04.2021 - Innovationsausschreibungen / Ergebnisse 1. April 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/BeendeteAusschreibungen/Gebotstermin010421/Innov_010421.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "14.06.2021 - Ausschreibung Wind an Land 2021 / Gebotstermin 1. MAi 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/2021/Gebotstermin_01_05_2021/Gebotstermin_01_05_21.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "15.07.2021 - Ausschreibung Solaranlagen 2021 / Ergebnisse 1. Juni. 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/BeendeteAusschreibungen/2021/Gebotstermin_01_06_2021/gebotstermin_01_06_2021.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "15.07.2021 - Ausschreibung Solaranlagen 2021 / Ergebnisse 1. Juni. 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/BeendeteAusschreibungen/2021/Gebotstermin_01_06_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "18.08.2021 - Innovationsausschreibungen / Ergebnisse 1. August 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/BeendeteAusschreibungen/Gebortstermin_210801/Innov_010821.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.09.2021 - Ausschreibung innovative KWK-Systeme 2021 / Ergebnisse Gebotstermin 1. Juni 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/KWK/BeendeteAusschreibungen/iKWK/InnovativeKWK_01_06_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.09.2021 - Ausschreibung KWK 2021 / Ergebnisse Gebotstermin 1. Juni 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/KWK/BeendeteAusschreibungen/KWK/Gebotstermin_01_06_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "14.10.2021 - Ausschreibung Wind an Land 2021 / Gebotstermin 1. September 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/2021/Gebotstermin_01_09_2021/Gebotstermin_01_09_21.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "14.10.2021 - Ausschreibungen Biomasse-Anlagen / Bekanntmachung Gebotstermin 1. September 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/BeendeteAusschreibungen/Sep_2021/gebotstermin_0109_2021.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "30.11.2021 - Solaranlagen (Photovoltaik, erstes Segment): Bekanntgabe der Zuschläge für den Gebotstermin 1. November 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/BeendeteAusschreibungen/2021/Gebotstermin_01_11_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.12.2021 - Ausschreibung KWK 2021 / Ergebnisse Gebotstermin 1. Dezember 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/KWK/BeendeteAusschreibungen/KWK/Gebotstermin_01_12_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.12.2021 - Ausschreibung innovative KWK-Systeme 2021 / Ergebnisse Gebotstermin 1. Dezember 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/KWK/BeendeteAusschreibungen/iKWK/InnovativeKWK_01_12_2021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "14.01.2022 - Biomethan: Bekanntgabe der Ergebnisse des Gebotstermins 1. Dezember 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/01122021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "14.01.2022 - Solar Aufdach: Bekanntgabe der Ergebnisse des Gebotstermins 1. Dezember 2021",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/BeendeteAusschreibungen/2021/Gebotstermin01122021/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "heading": "Bundesregierung",
           "level": 3,
           "blocks": [
@@ -266,7 +79,7 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: 1. Lesung im Bundestag – 20.06.2024"
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
                 }
               ]
             },
@@ -274,7 +87,7 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Ausschussanhörung Sachverständige – 19.06.2024"
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
                 }
               ]
             },
@@ -290,7 +103,7 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Referentenentwurf erwartet Q4 2024"
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
                 }
               ]
             },
@@ -298,7 +111,7 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
-                  "text": "Netzentgelte (netzentgelte): Phase „Verbände-anhörung\" — nächster Schritt: Referentenentwurf erwartet Juni 2024"
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
                 }
               ]
             },
