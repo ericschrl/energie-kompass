@@ -4,7 +4,7 @@
 const GESETZE = [
   {
     id: 'eeg-2024',
-    name: 'EEG-Novelle 2024',
+    name: 'EEG-Novelle 2026',
     kurz: 'EEG',
     beschreibung: 'Erneuerbare-Energien-Gesetz – Novelle zur Weiterentwicklung der Ausschreibungsmengen, Bürgerenergiegesellschaften und Netzintegration',
     ressort: 'BMWK',
