@@ -1253,6 +1253,33 @@ const BRIEFINGS = {
           ]
         },
         {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
+                  "href": "https://dip.bundestag.de/vorgang/331000"
+                },
+                {
+                  "text": " — Heute, 09:30"
+                }
+              ],
+              "sub": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br />"
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Änderung §§ 28 und 101 Erneuerbare-Energien-Gesetz"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "heading": "Anstehende Termine",
           "level": 2,
           "blocks": [

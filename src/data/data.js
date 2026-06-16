@@ -5,7 +5,7 @@
 const GESETZE = [
   {
     "id": "eeg-2024",
-    "name": "EEG-Novelle 2024",
+    "name": "EEG-Novelle 2026",
     "kurz": "EEG",
     "beschreibung": "Erneuerbare-Energien-Gesetz – Novelle zur Weiterentwicklung der Ausschreibungsmengen, Bürgerenergiegesellschaften und Netzintegration",
     "ressort": "BMWK",
@@ -47,7 +47,7 @@ const GESETZE = [
     "tags": [
       "eeg"
     ],
-    "letzteAktion": "Kabinettsbeschluss 15.05.2024",
+    "letzteAktion": "1. Beratung (BT) – 11.06.2026",
     "nächsterSchritt": "1. Lesung im Bundestag – 20.06.2024",
     "ansprechpartner": {
       "ministerium": [
@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-9"
+      "news-1"
     ]
   },
   {
@@ -181,7 +181,7 @@ const GESETZE = [
     "tags": [
       "netz"
     ],
-    "letzteAktion": "1. Lesung abgeschlossen, Überweisung an EnWiAusschuss",
+    "letzteAktion": "(BR) – 27.03.2026",
     "nächsterSchritt": "Ausschussanhörung Sachverständige – 19.06.2024",
     "ansprechpartner": {
       "ministerium": [
@@ -536,6 +536,19 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Heute, 09:30",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br /> Änderung §§ 28 und 101 Erneuerbare-Energie…",
+    "link": "https://dip.bundestag.de/vorgang/331000",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -548,7 +561,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -559,7 +572,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -567,10 +580,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "We warmly welcome the announcement of the memorandum of understanding between the US and Iran. We congratulate the United States, the Iranian government and all those involved, including Pakistan, Qatar and all other mediators, on this diplomatic breakthrough. This is a moment of opportunity to restore regional stabil…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-president-emmanuel-macron-chancellor-friedrich-merz-prime-minister-giorgia-meloni-and-prime-minister-keir-starmer-2440456",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -578,10 +591,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Bundesregierung begrüßt, dass sich die Vereinigten Staaten und Iran auf ein Rahmenabkommen geeinigt haben. Zu diesem diplomatischen Durchbruch gratuliert sie Präsident Trump und der iranischen Seite. Sie dankt allen Partnern, die mitgeholfen haben, dies zu ermöglichen. Das Abkommen kann den Weg zu einer Erholung d…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-von-bundeskanzler-friedrich-merz-zur-vereinbarung-zwischen-den-vereinigten-staaten-und-iran-2440458",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -589,10 +602,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Bundeskanzleramt herausragenden Persönlichkeiten aus Kunst und Kultur den Verdienstorden der Bundesrepublik Deutschland ausgehändigt. Der Orden ist die höchste Auszeichnung, die die Bundesrepublik Deutschland für Verdienste um das Gemeinwesen vergibt. Die Auszeichnung w…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-ueberreicht-bundesverdienstkreuz-an-personen-des-kulturlebens-weimer-wichtige-vorbilder-fuer-den-zusammenhalt-in-unserem-land--2440028",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -603,7 +616,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -616,7 +629,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -624,20 +637,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Den Kanzler-Hubschrauber besichtigen, mit ESA-Astronauten sprechen und den direkten Dialog mit Mitgliedern der Bundesregierung suchen – all das ist möglich am 20. und 21. Juni in Berlin. Früher als in den Vorjahren öffnen das Kanzleramt, die Bundesministerien und das Bundespresseamt dieses Mal schon im Juni ihre Tore…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/endlich-wieder-tag-der-offenen-tuer-bei-der-bundesregierung-2439836",
-    "gelesen": false
-  },
-  {
-    "id": "news-9",
-    "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "12.06.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br /> Änderung §§ 28 und 101 Erneuerbare-Energie…",
-    "link": "https://dip.bundestag.de/vorgang/331000",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -648,7 +648,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/nach-dem-gespraech-mit-vertreterinnen-und-vertretern-der-regierungsparteien-wirtschaftsverbaende-und-gewerkschaften-am-10-juni-2026-im-bundeskanzleramt-2438840",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -672,7 +672,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer ist für zwei Tage nach Barcelona gereist. Mit seinem Besuch unterstreicht Staatsminister Weimer die Bedeutung des deutsch-spanischen Kulturaustauschs sowie die verbindende Kraft von Kultur, Architektur und religiösem Erbe in Europa. Höhepunkt der Reise ist die morgig…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-wuerdigt-bei-den-feierlichkeiten-in-der-sagrada-fam%C3%ADlia-in-barcelona-insbesondere-das-deutsche-turmkreuz-2438540",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -683,7 +683,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-juni-2026-2438050",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -694,7 +694,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Am 20. Juni 2026 begeht die Bundesregierung mit der 12. Gedenkstunde im Konzerthaus Berlin den diesjährigen Gedenktag für die Opfer von Flucht und Vertreibung. Seit 2015 wird mit diesem Gedenktag jährlich am 20. Juni an die Opfer von Flucht und Vertreibung weltweit sowie insbesondere an die deutschen Vertriebenen erin…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-zum-12-mal-der-opfer-von-flucht-und-vertreibung-2437922",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -705,7 +705,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Gedenkveranstaltung der Bundesregierung zum 73. Jahrestag des Volksaufstandes vom 17. Juni 1953 in Ost-Berlin und weiten Teilen der ehemaligen DDR findet am Mittwoch, dem 17. Juni 2026, am Mahnmal für die Opfer des Volksaufstandes auf dem Friedhof Seestraße 92 in 13347 Berlin (Wedding) statt. An der Gedenkveransta…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-der-opfer-des-volksaufstandes-vom-17-juni-1953-2437920",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -716,7 +716,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Prime Minister Keir Starmer of the United Kingdom, President Emmanuel Macron of France, and Chancellor Friedrich Merz of Germany met on 7 June with President Volodymyr Zelenskyy of Ukraine to reiterate their unwavering support for Ukraine in its defence against Russia’s illegal invasion and next steps in negotiations…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-of-the-leaders-of-france-the-united-kingdom-germany-and-ukraine-2437802",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -727,7 +727,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrer Wiederwahl zum Premierminister des Commonwealth der Bahamas übermittle ich Ihnen meine herzlichen Glückwünsche. Die Beziehungen zwischen unseren beiden Ländern sind von Vertrauen und respektvoller Partnerschaft geprägt. Ich freue mich darauf, den konstruktiven Austausch zwi…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-des-commonwealth-der-bahamas-philip-edward-davis-2437730",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -749,7 +749,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Ministerpräsidentin, zu Ihrer erneuten Ernennung übermittle ich Ihnen meine herzlichen Glückwünsche. Ich freue mich darauf, gemeinsam mit Ihnen die sehr gute Zusammenarbeit zwischen Deutschland und Dänemark weiter zu vertiefen. Für die vor Ihnen liegenden verantwortungsvollen Aufgaben wünsche ich Ihn…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-ministerpraesidentin-des-koenigreichs-daenemark-mette-frederiksen-2437036",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -760,7 +760,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrer erneuten Vereidung zum Premierminister der Republik Malta gratuliere ich Ihnen sehr herzlich. Malta und Deutschland sind durch gemeinsame Interessen und Werte eng miteinander verbunden – als bilaterale Partner mit vielfältigen Verflechtungen und als Mitgliedstaaten in der E…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-der-republik-malta-robert-abela-2436500",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -771,7 +771,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Wir haben uns mit Überzeugung beworben. Wir haben das Ziel nicht erreicht. Mein Glückwunsch gilt allen gewählten Staaten, besonders unseren direkten Mitbewerbern Portugal und Österreich. Mit beiden Ländern verbindet uns eine enge europäische Partnerschaft und die gemeinsame Verantwortung in den Vereinten Nationen. Di…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-wahl-der-nichtstaendigen-mitglieder-fuer-den-sicherheitsrat-der-vereinten-nationen-fuer-die-periode-2027-28-2436186",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -782,7 +782,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Das Bundeskabinett hat heute die Stellungnahme der Bundesregierung zur Aufgabenplanung der Deutschen Welle (DW) für 2026 bis 2029 beschlossen. Die Bundesregierung begrüßt darin ausdrücklich, dass die DW den verantwortungsvollen Einsatz von KI, die technologische Modernisierung und die Sicherung journalistischer Standa…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/schaerfung-des-auftrags-der-deutschen-welle-kabinett-unterstuetzt-fokus-auf-freiheit-innovation-und-dialog-staatsminister-weimer-die-deutsche-welle-wird-die-kraeftige-stimme-der-freiheit-in-einer-autokratisch-werdenden-welt--2436152",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -793,7 +793,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt übermittle ich Ihnen meine herzlichen Glückwünsche. Ich freue mich auf die weitere enge und freundschaftliche Zusammenarbeit im Rahmen der Europäischen Union und der NATO zum Wohle unserer Länder sowie für die Sicherheit in Europa. In einer Zeit besonderer Her…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-lettland-andris-kulbergs-2434740",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -815,7 +815,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Staatsminister für Kultur und Medien, Wolfram Weimer, hat heute in Berlin gemeinsam mit der Präsidentin und dem Präsidenten der Deutschen Filmakademie, Vicky Krieps und Florian Gallenberger, den Deutschen Filmpreis 2026 verliehen. Die Goldene Lola für den besten Film ging an Mascha Schilinski, Louise Peter für „IN…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-verleiht-76-deutschen-filmpreis-weimer-deutscher-film-von-seiner-besten-seite--2434464",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -826,7 +826,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-praesidenten-der-argentinischen-republik-javier-milei-2434462",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -837,7 +837,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundeskanzler Friedrich Merz wird am 2. Juni 2026 um 12 Uhr den ungarischen Ministerpräsidenten Péter Magyar zu seinem Antrittsbesuch mit militärischen Ehren im Bundeskanzleramt empfangen. In ihrem anschließenden Gespräch werden neben bilateralen und europapolitischen Themen auch die weitere Unterstützung der Ukraine…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-ungarischen-ministerpraesidenten-magyar-2434136",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -848,7 +848,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-westbalkan-gipfel-in-montenegro-teil-2434124",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
