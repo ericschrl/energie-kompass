@@ -12,6 +12,132 @@ const BRIEFINGS = {
           "blocks": []
         },
         {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland ist Partnerland der VivaTech 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html"
+                },
+                {
+                  "text": " — Heute, 11:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260612-wirt-lage-deutschland-juni-2026.html"
+                },
+                {
+                  "text": " — 12.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "300 Aussteller auf dem Innovationstag Mittelstand",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260611-300-aufsteller-auf-dem-innovationstag.html"
+                },
+                {
+                  "text": " — 11.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-luftfahrtstrategie-der-bundesregierung.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-reform-des-nationalen-wasserstoffrats.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen für Sicherheitsbehörden",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-bmwe-vereinfacht-oeffentliche-beschaffung.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-deutsch-japanischer-aerospace-roundtable.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-foerderaufruf-fuer-cross-innovationen_nl.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Personalie im Bundesministerium für Wirtschaft und Energie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260603-neue-personalie-im-bmwe.html"
+                },
+                {
+                  "text": " — 03.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Fortsetzung Gespräch zur Chemieagenda: Schritte auf dem Weg zu einer starken und wettbewerbsfähigen Chemieindustrie in Deutschland und Europa",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260601-fortsetzung-gespraech-zur-chemieagenda.html"
+                },
+                {
+                  "text": " — 01.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "heading": "Bundesregierung",
           "level": 3,
           "blocks": [
