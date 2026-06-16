@@ -27,15 +27,15 @@
   },
   {
     "slug": "genehmigungsmodernisierung",
-    "title": "Planungs- und Genehmigungsbeschleunigung",
-    "description": "Modernisierung von Planungs-/Genehmigungsverfahren (GModG, BImSchG-Novellen, Digitalisierung).",
+    "title": "Gebäudemodernisierungsgesetz (GEG/GEIG/Wärme)",
+    "description": "Novelle: Änderung des Gebäudeenergiegesetzes (GEG), des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes (GEIG) und weiterer Vorschriften im Wärmebereich (Kabinettsbeschluss 13.05.2026). Technischer Dossier-Slug aus Kompatibilitätsgründen beibehalten.",
     "dossierType": "gesetzgebung_de",
     "priority": "mittel",
     "frontendGesetzId": "gmodg",
     "matchRules": {
-      "keywords": ["Genehmigungsverfahren", "Planungsbeschleunigung", "Genehmigungsmodernisierung", "BImSchG", "Umweltverträglichkeitsprüfung", "Verfahrensbeschleunigung"],
-      "patterns": ["Genehmigungs(modernisierung|beschleunigung)", "Planungsbeschleunigung"],
-      "topics": ["netz"]
+      "keywords": ["Gebäudemodernisierungsgesetz", "GebMoG", "Gebäude-Elektromobilitätsinfrastruktur-Gesetz", "GEIG", "Gebäudebereich"],
+      "patterns": ["Geb(ä|ae)udemodernisierungs"],
+      "topics": ["waerme"]
     }
   },
   {
