@@ -253,99 +253,55 @@ const GESETZE = [
   },
   {
     "id": "gmodg",
-    "name": "Genehmigungsmodernisierungsgesetz",
-    "kurz": "GModG",
-    "beschreibung": "Gesetz zur Modernisierung und Beschleunigung von Planungs- und Genehmigungsverfahren",
-    "ressort": "BMWK / BMJ",
-    "referat": "IIA5",
+    "name": "Gebäudemodernisierungsgesetz",
+    "kurz": "GebMoG",
+    "beschreibung": "Novelle zur Änderung des Gebäudeenergiegesetzes (GEG), des Gebäude-Elektromobilitätsinfrastruktur-Gesetzes (GEIG) und weiterer Vorschriften im Wärmebereich",
+    "ressort": "BMWE",
+    "referat": "k. A.",
     "prioritaet": "mittel",
-    "phase": 2,
+    "phase": 3,
     "phasen": [
       {
         "label": "Referenten-\nentwurf",
-        "datum": "Mär 2024",
+        "datum": "",
         "status": "done"
       },
       {
         "label": "Verbände-\nanhörung",
-        "datum": "Mai 2024",
-        "status": "active"
+        "datum": "",
+        "status": "done"
       },
       {
         "label": "Kabinett",
-        "datum": "Jul 2024",
-        "status": "pending"
+        "datum": "Mai 2026",
+        "status": "done"
       },
       {
         "label": "1. Lesung",
-        "datum": "Okt 2024",
-        "status": "pending"
+        "datum": "",
+        "status": "active"
       },
       {
         "label": "Ausschuss",
-        "datum": "Nov 2024",
+        "datum": "",
         "status": "pending"
       },
       {
         "label": "Verab-\nschiedung",
-        "datum": "Dez 2024",
+        "datum": "",
         "status": "pending"
       }
     ],
     "tags": [
-      "netz"
+      "markt"
     ],
-    "letzteAktion": "Verbändeanhörung läuft – Frist 15.06.2024",
-    "nächsterSchritt": "Stellungnahme E.ON einreichen – Frist 15.06.2024 ⚠️",
+    "letzteAktion": "Kabinettsbeschluss 13.05.2026",
+    "nächsterSchritt": "Zuleitung an Bundestag, 1. Lesung steht aus",
     "ansprechpartner": {
-      "ministerium": [
-        {
-          "name": "Axel Homann",
-          "funktion": "Referatsleiter IIA5",
-          "email": "a.homann@bmwk.bund.de"
-        }
-      ],
-      "bundestag": [
-        {
-          "name": "Dirk Wiese",
-          "fraktion": "SPD",
-          "funktion": "Berichterstatter",
-          "partei_color": "#e52d20"
-        },
-        {
-          "name": "Till Mansmann",
-          "fraktion": "FDP",
-          "funktion": "Stellv. Sprecher",
-          "partei_color": "#e5c400"
-        }
-      ]
+      "ministerium": [],
+      "bundestag": []
     },
-    "positionen": [
-      {
-        "akteur": "BDI",
-        "typ": "Verband",
-        "position": "pro",
-        "kommentar": "Begrüßt Digitalisierung, fordert weitere Beschleunigung"
-      },
-      {
-        "akteur": "DIHK",
-        "typ": "Verband",
-        "position": "pro",
-        "kommentar": "Positiv"
-      },
-      {
-        "akteur": "E.ON",
-        "typ": "Unternehmen",
-        "position": "neutral",
-        "kommentar": "Stellungnahme in Vorbereitung"
-      },
-      {
-        "akteur": "Umweltverbände",
-        "typ": "NGO",
-        "position": "contra",
-        "kommentar": "Befürchten Aushöhlung von Umweltprüfungen"
-      }
-    ],
+    "positionen": [],
     "news": []
   },
   {
