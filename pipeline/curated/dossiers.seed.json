@@ -6,6 +6,7 @@
     "dossierType": "gesetzgebung_de",
     "priority": "hoch",
     "frontendGesetzId": "eeg-2024",
+    "dipVorgangId": "331000",
     "matchRules": {
       "keywords": ["EEG", "Erneuerbare-Energien-Gesetz", "Erneuerbaren-Ausbau", "Ausschreibungsmengen", "Bürgerenergie", "Solarpaket", "Einspeisevergütung", "Marktprämie"],
       "patterns": ["\\bEEG\\b", "Erneuerbare[n]?-Energien-Gesetz"],
@@ -19,6 +20,7 @@
     "dossierType": "gesetzgebung_de",
     "priority": "hoch",
     "frontendGesetzId": "netzpaket",
+    "dipVorgangId": "332638",
     "matchRules": {
       "keywords": ["Netzausbau", "NABEG", "Übertragungsnetz", "Verteilnetz", "Netzentwicklungsplan", "Offshore-Netzanbindung", "Stromnetz", "Netzbooster", "Höchstspannung"],
       "patterns": ["Netzausbau", "Netzentwicklungsplan"],
