@@ -3,6 +3,263 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-06-17",
+      "title": "Energie-Kompass Briefing — 17.06.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland ist Partnerland der VivaTech 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html"
+                },
+                {
+                  "text": " — Gestern, 11:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260612-wirt-lage-deutschland-juni-2026.html"
+                },
+                {
+                  "text": " — 12.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "300 Aussteller auf dem Innovationstag Mittelstand",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260611-300-aufsteller-auf-dem-innovationstag.html"
+                },
+                {
+                  "text": " — 11.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-luftfahrtstrategie-der-bundesregierung.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-reform-des-nationalen-wasserstoffrats.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen für Sicherheitsbehörden",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-bmwe-vereinfacht-oeffentliche-beschaffung.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-deutsch-japanischer-aerospace-roundtable.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-foerderaufruf-fuer-cross-innovationen_nl.html"
+                },
+                {
+                  "text": " — 10.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260604-12-gesetz-wettbewerbsbeschraenkungen.html"
+                },
+                {
+                  "text": " — 04.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Personalie im Bundesministerium für Wirtschaft und Energie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260603-neue-personalie-im-bmwe.html"
+                },
+                {
+                  "text": " — 03.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Fortsetzung Gespräch zur Chemieagenda: Schritte auf dem Weg zu einer starken und wettbewerbsfähigen Chemieindustrie in Deutschland und Europa",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260601-fortsetzung-gespraech-zur-chemieagenda.html"
+                },
+                {
+                  "text": " — 01.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“ – Gestaltungswettbewerb für Denkmal für Opfer der kommunistischen Diktatur in Deutschland beginnt",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-an-die-opfer-des-volksaufstandes-und-des-widerstands-in-der-ddr-staatsminister-weimer-ihre-namen-duerfen-nie-vergessen-werden-gestaltungswettbewerb-fuer-denkmal-fuer-opfer-der-kommunistischen-diktatur-in-deutschland-beginnt-2441578"
+                },
+                {
+                  "text": " — Heute, 09:42"
+                }
+              ],
+              "sub": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies Deutschland einzusetzen, bewegt mich zutiefst.“ Der Aufstand wurde durch sowjetische Panzer brutal niedergeschlagen. An die Opfer des SED-Unrechts soll künftig auch im Herzen Berlins erinnert werden. Nun geht das Projekt in eine entscheidende Phase: Am 18. Juni werden die Auslobungsunterlagen für den künstlerischen Gestaltungswettbewerb für das Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland an die bereits ausgewählten Wettbewerbsteilnehmerinnen und -teilnehmer versandt. Dazu Weimer: „Dieses Denkmal in unmittelbarer Nähe des Deutschen Bundestages und des Bundeskanzleramtes schließt nicht nur eine schmerzlich empfundene Lücke..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538"
+                },
+                {
+                  "text": " — 15.06.2026"
+                }
+              ],
+              "sub": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die weit über die großen Städte hinausreicht. Im Vorfeld sagte Staatsminister Weimer: „Ich freue mich auf einen einzigartigen kulturellen Roadtrip, der mich zu beeindruckenden Orten in Deutschland führen wird. Ich kann nur jeden ermutigen, sich ebenfalls auf Entdeckungsreise zu begeben!“ Er fügte hinzu: „Kulturbauten erzählen die Geschichte unseres Landes. Sie bewahren Erinnerungen, stiften Identität und schaffen Orte der Begegnung – nicht nur in den großen Städten. Gerade in kleineren Gemeinden tragen Museen, Klöster und Schlösser wesentlich zum kulturellen Leben und zum gesellschaftlichen Zusammenhalt bei. Diese Leistungen verdienen Sichtbarkeit und Anerkennung.“ Zu Beg..."
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-16",
       "title": "Energie-Kompass Briefing — 16.06.2026",
       "sections": [

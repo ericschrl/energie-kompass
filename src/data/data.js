@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-3"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -517,21 +517,32 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 09:42",
+    "tags": [],
+    "zusammenfassung": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-an-die-opfer-des-volksaufstandes-und-des-widerstands-in-der-ddr-staatsminister-weimer-ihre-namen-duerfen-nie-vergessen-werden-gestaltungswettbewerb-fuer-denkmal-fuer-opfer-der-kommunistischen-diktatur-in-deutschland-beginnt-2441578",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Deutschland ist Partnerland der VivaTech 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 11:00",
+    "datum": "Gestern, 11:00",
     "tags": [],
     "zusammenfassung": "Deutschland ist Partnerland der VivaTech 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 09:30",
+    "datum": "Gestern, 09:30",
     "tags": [
       "eeg"
     ],
@@ -540,11 +551,11 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "15.06.2026",
     "tags": [
       "markt"
     ],
@@ -553,40 +564,40 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:30",
+    "datum": "15.06.2026",
     "tags": [],
     "zusammenfassung": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die w…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 08:12",
+    "datum": "15.06.2026",
     "tags": [],
     "zusammenfassung": "We warmly welcome the announcement of the memorandum of understanding between the US and Iran. We congratulate the United States, the Iranian government and all those involved, including Pakistan, Qatar and all other mediators, on this diplomatic breakthrough. This is a moment of opportunity to restore regional stabil…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-president-emmanuel-macron-chancellor-friedrich-merz-prime-minister-giorgia-meloni-and-prime-minister-keir-starmer-2440456",
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 08:10",
+    "datum": "15.06.2026",
     "tags": [],
     "zusammenfassung": "Die Bundesregierung begrüßt, dass sich die Vereinigten Staaten und Iran auf ein Rahmenabkommen geeinigt haben. Zu diesem diplomatischen Durchbruch gratuliert sie Präsident Trump und der iranischen Seite. Sie dankt allen Partnern, die mitgeholfen haben, dies zu ermöglichen. Das Abkommen kann den Weg zu einer Erholung d…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-von-bundeskanzler-friedrich-merz-zur-vereinbarung-zwischen-den-vereinigten-staaten-und-iran-2440458",
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -597,7 +608,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -608,7 +619,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -621,7 +632,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -632,7 +643,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -643,7 +654,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "300 Aussteller auf dem Innovationstag Mittelstand",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -654,7 +665,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -665,7 +676,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -676,7 +687,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -689,7 +700,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen fü…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -700,7 +711,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -711,7 +722,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -722,7 +733,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -735,7 +746,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -746,7 +757,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juni 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -757,7 +768,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Bundesregierung gedenkt zum 12. Mal der Opfer von Flucht und Vertreibung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -768,7 +779,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Bundesregierung gedenkt der Opfer des Volksaufstandes vom 17. Juni 1953",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -779,7 +790,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -790,7 +801,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Commonwealth der Bahamas, Philip Edward Davis",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -801,7 +812,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Jahresbericht Telekommunikation 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -812,7 +823,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin des Königreichs Dänemark, Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -823,7 +834,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Malta, Robert Abela",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -834,26 +845,15 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz zur Wahl der nichtständigen Mitglieder für den Sicherheitsrat der Vereinten Nationen für die Periode 2027/28",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.06.2026",
-    "tags": [],
-    "zusammenfassung": "„Wir haben uns mit Überzeugung beworben. Wir haben das Ziel nicht erreicht. Mein Glückwunsch gilt allen gewählten Staaten, besonders unseren direkten Mitbewerbern Portugal und Österreich. Mit beiden Ländern verbindet uns eine enge europäische Partnerschaft und die gemeinsame Verantwortung in den Vereinten Nationen. Di…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-wahl-der-nichtstaendigen-mitglieder-fuer-den-sicherheitsrat-der-vereinten-nationen-fuer-die-periode-2027-28-2436186",
-    "gelesen": true
-  },
-  {
     "id": "news-30",
-    "titel": "Schärfung des Auftrags der Deutschen Welle: Kabinett unterstützt Fokus auf Freiheit, Innovation und Dialog – Staatsminister Weimer: „Die De…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.06.2026",
+    "titel": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "04.06.2026",
     "tags": [],
-    "zusammenfassung": "Das Bundeskabinett hat heute die Stellungnahme der Bundesregierung zur Aufgabenplanung der Deutschen Welle (DW) für 2026 bis 2029 beschlossen. Die Bundesregierung begrüßt darin ausdrücklich, dass die DW den verantwortungsvollen Einsatz von KI, die technologische Modernisierung und die Sicherung journalistischer Standa…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/schaerfung-des-auftrags-der-deutschen-welle-kabinett-unterstuetzt-fokus-auf-freiheit-innovation-und-dialog-staatsminister-weimer-die-deutsche-welle-wird-die-kraeftige-stimme-der-freiheit-in-einer-autokratisch-werdenden-welt--2436152",
-    "gelesen": true
+    "zusammenfassung": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260604-12-gesetz-wettbewerbsbeschraenkungen.html",
+    "gelesen": false
   }
 ];
 
