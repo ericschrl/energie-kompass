@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-3"
+      "news-6"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -517,6 +517,17 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für W…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 13:13",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen seiner einwöchigen Kulturbautenreise hat Staatsminister Wolfram Weimer, Beauftragter der Bundesregierung für Kultur und Medien, heute die Kulturhauptstadt Weimar besucht. Gemeinsam mit Thüringens Kulturminister Christian Tischner und Weimars Oberbürgermeister Peter Kleine unterzeichnete er im Beisein von Prä…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-wolfram-weimer-besucht-weimar-finanzierungsabkommen-fuer-die-klassik-stiftung-weimar-unterzeichnet-spatenstich-fuer-werkstattneubau-des-deutschen-nationaltheaters-weimar-2442018",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -527,7 +538,29 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
+    "titel": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 08:55",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen des Deutsch-Polnischen Forums sind heute verschiedene Kulturgüter an die Republik Polen zurückgegeben worden, die während der deutschen Besatzung Polens im Zweiten Weltkrieg entzogen oder verlagert wurden. Die Rückgaben stehen für die enge deutsch-polnische Zusammenarbeit bei der Aufarbeitung historischen Un…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-verantwortung-fuer-die-geschichte-europas-deutschland-gibt-weitere-kriegsbedingt-verbrachte-kulturgueter-an-polen-zurueck-2441550",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 02:00",
+    "tags": [],
+    "zusammenfassung": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260617-bmwe-tag-der-offenen-tuer-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "Deutschland ist Partnerland der VivaTech 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -538,7 +571,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -551,7 +584,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -564,7 +597,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -575,7 +608,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -586,7 +619,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -597,7 +630,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -608,7 +641,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -619,7 +652,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -632,7 +665,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -643,7 +676,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -654,7 +687,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "300 Aussteller auf dem Innovationstag Mittelstand",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -665,7 +698,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +709,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -687,7 +720,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -700,7 +733,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen fü…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -711,7 +744,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -722,7 +755,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -733,7 +766,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -746,7 +779,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -757,7 +790,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juni 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -768,7 +801,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundesregierung gedenkt zum 12. Mal der Opfer von Flucht und Vertreibung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -779,7 +812,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundesregierung gedenkt der Opfer des Volksaufstandes vom 17. Juni 1953",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -790,7 +823,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -801,7 +834,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Commonwealth der Bahamas, Philip Edward Davis",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,7 +845,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Jahresbericht Telekommunikation 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -821,39 +854,6 @@ const NEWS = [
     "zusammenfassung": "Jahresbericht Telekommunikation 2025",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260605_TK_JB.html",
     "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin des Königreichs Dänemark, Mette Frederiksen",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.06.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrte Frau Ministerpräsidentin, zu Ihrer erneuten Ernennung übermittle ich Ihnen meine herzlichen Glückwünsche. Ich freue mich darauf, gemeinsam mit Ihnen die sehr gute Zusammenarbeit zwischen Deutschland und Dänemark weiter zu vertiefen. Für die vor Ihnen liegenden verantwortungsvollen Aufgaben wünsche ich Ihn…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-ministerpraesidentin-des-koenigreichs-daenemark-mette-frederiksen-2437036",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Malta, Robert Abela",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.06.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrer erneuten Vereidung zum Premierminister der Republik Malta gratuliere ich Ihnen sehr herzlich. Malta und Deutschland sind durch gemeinsame Interessen und Werte eng miteinander verbunden – als bilaterale Partner mit vielfältigen Verflechtungen und als Mitgliedstaaten in der E…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-der-republik-malta-robert-abela-2436500",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "04.06.2026",
-    "tags": [],
-    "zusammenfassung": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260604-12-gesetz-wettbewerbsbeschraenkungen.html",
-    "gelesen": false
   }
 ];
 

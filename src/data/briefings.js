@@ -19,6 +19,18 @@ const BRIEFINGS = {
               "kind": "bullet",
               "spans": [
                 {
+                  "text": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260617-bmwe-tag-der-offenen-tuer-2026.html"
+                },
+                {
+                  "text": " — Heute, 02:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
                   "text": "Deutschland ist Partnerland der VivaTech 2026",
                   "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html"
                 },
@@ -146,6 +158,162 @@ const BRIEFINGS = {
                   "text": " — 01.06.2026"
                 }
               ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerium verkündet Gewinner des deutschen „Auctions-as-a-Service“ (AaaS) Fensters der IF25-Auktion der Europäischen Wasserstoffbank",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-gewinner-auctions-as-a-service-fenster.html"
+                },
+                {
+                  "text": " — 29.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Auftakt des Staatsekretärs-Steuerungskreises für die Umsetzung und Weiterentwicklung der Chemieagenda 2045",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-auftakt-des-staatsekretaers.html"
+                },
+                {
+                  "text": " — 29.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "50.000. Antrag auf „Förderzentrale Deutschland“ gestellt",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-50000-antrag-auf-foerderzentrale.html"
+                },
+                {
+                  "text": " — 29.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Binnenmarkt vertiefen, Wertschöpfung aufbauen, Resilienz stärken – Rat für Wettbewerbsfähigkeit berät Industrial Accelerator Act und Rechtsform EU Inc.",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-wertschoepfung-resilienz.html"
+                },
+                {
+                  "text": " — 28.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ministerin Reiche trifft in China den Parteisekretär der Provinz Guangdong, Huang Kunming, sowie den Gouverneur der Provinz Guangdong, Meng Fanli",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-huang-kunming-meng-fanli.html"
+                },
+                {
+                  "text": " — 28.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Politische Gespräche im Rahmen der China-Reise der Ministerin am 27.05.2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-politische-gespraeche-china-reise.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutliche Entlastung kleiner Kommunen - Bundeskabinett beschließt Novelle des Wärmeplanungsgesetzes",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-novelle-waermeplanungsgesetz.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Konstruktiver Dialog, Transparenz und langfristige Kooperation – Ministerin Reiche reist nach China",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung (SVR) hat sein Frühjahrsgutachten vorgestellt.",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-zitat-gutachten-wirtschaft-entwicklung.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den Stellvertretenden Vorsitzenden der Nationalen Entwicklungs- und Reformkommission der Volksrepublik China, Zhou Haibing",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-zhou-haibing.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den chinesischen Handelsminister Wang Wentao",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-wang-wentao.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den für Wirtschaftsfragen zuständigen Vize-Ministerpräsidenten der Volksrepublik China, He Lifeng",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-he-lifeng.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "SEFE und Ksi Lisims LNG unterzeichnen Absichtserklärung über langfristigen LNG-Liefervertrag",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-absichtserklaerung-lng-liefervertrag.html"
+                },
+                {
+                  "text": " — 27.05.2026"
+                }
+              ]
             }
           ]
         },
@@ -153,6 +321,19 @@ const BRIEFINGS = {
           "heading": "Bundesregierung",
           "level": 3,
           "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für Werkstattneubau des Deutschen Nationaltheaters Weimar",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-wolfram-weimer-besucht-weimar-finanzierungsabkommen-fuer-die-klassik-stiftung-weimar-unterzeichnet-spatenstich-fuer-werkstattneubau-des-deutschen-nationaltheaters-weimar-2442018"
+                },
+                {
+                  "text": " — Heute, 13:13"
+                }
+              ],
+              "sub": "Im Rahmen seiner einwöchigen Kulturbautenreise hat Staatsminister Wolfram Weimer, Beauftragter der Bundesregierung für Kultur und Medien, heute die Kulturhauptstadt Weimar besucht. Gemeinsam mit Thüringens Kulturminister Christian Tischner und Weimars Oberbürgermeister Peter Kleine unterzeichnete er im Beisein von Präsidentin der Klassik Stiftung Weimar, Dr. Ulrike Lorenz, das Finanzierungsabkommen für die Klassik Stiftung Weimar für die Jahre 2027 bis 2031. Die Unterzeichnung fand in den restaurierten Dichterzimmern des Residenzschlosses Weimar statt. Am Nachmittag folgte der erste Spatenstich für den Werkstattneubau des Deutschen Nationaltheaters Weimar. Die Klassik Stiftung Weimar zählt zu den größten und bedeutendsten Kulturstiftungen in der Bundesrepublik. Sie ist nicht nur für zwölf UNESCO-Welterbestätten in und um Weimar verantwortlich, sondern auch für singuläre Sammlungen wie die handschriftlichen Nachlässe Johann Wolfgang von Goethes und Friedrich Nietzsches oder die von ..."
+            },
             {
               "kind": "bullet",
               "spans": [
@@ -165,6 +346,19 @@ const BRIEFINGS = {
                 }
               ],
               "sub": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies Deutschland einzusetzen, bewegt mich zutiefst.“ Der Aufstand wurde durch sowjetische Panzer brutal niedergeschlagen. An die Opfer des SED-Unrechts soll künftig auch im Herzen Berlins erinnert werden. Nun geht das Projekt in eine entscheidende Phase: Am 18. Juni werden die Auslobungsunterlagen für den künstlerischen Gestaltungswettbewerb für das Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland an die bereits ausgewählten Wettbewerbsteilnehmerinnen und -teilnehmer versandt. Dazu Weimer: „Dieses Denkmal in unmittelbarer Nähe des Deutschen Bundestages und des Bundeskanzleramtes schließt nicht nur eine schmerzlich empfundene Lücke..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-verantwortung-fuer-die-geschichte-europas-deutschland-gibt-weitere-kriegsbedingt-verbrachte-kulturgueter-an-polen-zurueck-2441550"
+                },
+                {
+                  "text": " — Heute, 08:55"
+                }
+              ],
+              "sub": "Im Rahmen des Deutsch-Polnischen Forums sind heute verschiedene Kulturgüter an die Republik Polen zurückgegeben worden, die während der deutschen Besatzung Polens im Zweiten Weltkrieg entzogen oder verlagert wurden. Die Rückgaben stehen für die enge deutsch-polnische Zusammenarbeit bei der Aufarbeitung historischen Unrechts und sind Ausdruck der deutschen Verantwortung gegenüber Polen. Außenminister Johann Wadephul würdigte die Rückgaben: „80 Jahre nach dem Ende des Zweiten Weltkrieges können heute in enger Zusammenarbeit mit den bewahrenden Einrichtungen und der polnischen Seite Kulturgüter an Polen zurückgegeben werden, die während Krieg und Besatzung geraubt wurden. Die Rückgabe ist Ausdruck von gegenseitigem Respekt, bleibender deutscher Verantwortung und unserer vertrauensvollen Partnerschaft. Sie stärkt aus Anlass des 35. Jubiläums des Deutsch-Polnisches Freundschaftsvertrages die festen Bande zwischen unseren Ländern weiter. Erinnerung an das Geschehene, Verantwortung für d..."
             },
             {
               "kind": "bullet",
