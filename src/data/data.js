@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8"
+      "news-11"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -517,72 +517,107 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 13:00",
+    "tags": [],
+    "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 12:55",
+    "tags": [],
+    "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [
+      "markt"
+    ],
+    "zusammenfassung": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Heute, 14:00",
+    "datum": "Gestern, 14:00",
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 03:00",
+    "datum": "Gestern, 03:00",
     "tags": [],
     "zusammenfassung": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260618-eine-starke-partnerschaft-tuerkeireise.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für W…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:13",
+    "datum": "17.06.2026",
     "tags": [],
     "zusammenfassung": "Im Rahmen seiner einwöchigen Kulturbautenreise hat Staatsminister Wolfram Weimer, Beauftragter der Bundesregierung für Kultur und Medien, heute die Kulturhauptstadt Weimar besucht. Gemeinsam mit Thüringens Kulturminister Christian Tischner und Weimars Oberbürgermeister Peter Kleine unterzeichnete er im Beisein von Prä…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-wolfram-weimer-besucht-weimar-finanzierungsabkommen-fuer-die-klassik-stiftung-weimar-unterzeichnet-spatenstich-fuer-werkstattneubau-des-deutschen-nationaltheaters-weimar-2442018",
-    "gelesen": false
-  },
-  {
-    "id": "news-4",
-    "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Gestern, 09:42",
-    "tags": [],
-    "zusammenfassung": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-an-die-opfer-des-volksaufstandes-und-des-widerstands-in-der-ddr-staatsminister-weimer-ihre-namen-duerfen-nie-vergessen-werden-gestaltungswettbewerb-fuer-denkmal-fuer-opfer-der-kommunistischen-diktatur-in-deutschland-beginnt-2441578",
-    "gelesen": false
-  },
-  {
-    "id": "news-5",
-    "titel": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Gestern, 08:55",
-    "tags": [],
-    "zusammenfassung": "Im Rahmen des Deutsch-Polnischen Forums sind heute verschiedene Kulturgüter an die Republik Polen zurückgegeben worden, die während der deutschen Besatzung Polens im Zweiten Weltkrieg entzogen oder verlagert wurden. Die Rückgaben stehen für die enge deutsch-polnische Zusammenarbeit bei der Aufarbeitung historischen Un…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-verantwortung-fuer-die-geschichte-europas-deutschland-gibt-weitere-kriegsbedingt-verbrachte-kulturgueter-an-polen-zurueck-2441550",
-    "gelesen": false
-  },
-  {
-    "id": "news-6",
-    "titel": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 02:00",
-    "tags": [],
-    "zusammenfassung": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260617-bmwe-tag-der-offenen-tuer-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
+    "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "17.06.2026",
+    "tags": [],
+    "zusammenfassung": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-an-die-opfer-des-volksaufstandes-und-des-widerstands-in-der-ddr-staatsminister-weimer-ihre-namen-duerfen-nie-vergessen-werden-gestaltungswettbewerb-fuer-denkmal-fuer-opfer-der-kommunistischen-diktatur-in-deutschland-beginnt-2441578",
+    "gelesen": true
+  },
+  {
+    "id": "news-8",
+    "titel": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "17.06.2026",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen des Deutsch-Polnischen Forums sind heute verschiedene Kulturgüter an die Republik Polen zurückgegeben worden, die während der deutschen Besatzung Polens im Zweiten Weltkrieg entzogen oder verlagert wurden. Die Rückgaben stehen für die enge deutsch-polnische Zusammenarbeit bei der Aufarbeitung historischen Un…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-verantwortung-fuer-die-geschichte-europas-deutschland-gibt-weitere-kriegsbedingt-verbrachte-kulturgueter-an-polen-zurueck-2441550",
+    "gelesen": true
+  },
+  {
+    "id": "news-9",
+    "titel": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "17.06.2026",
+    "tags": [],
+    "zusammenfassung": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260617-bmwe-tag-der-offenen-tuer-2026.html",
+    "gelesen": true
+  },
+  {
+    "id": "news-10",
     "titel": "Deutschland ist Partnerland der VivaTech 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -590,10 +625,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Deutschland ist Partnerland der VivaTech 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -606,7 +641,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -619,7 +654,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -627,10 +662,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die w…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -641,7 +676,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -652,7 +687,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -663,7 +698,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -674,7 +709,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -687,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -698,7 +733,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -706,10 +741,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260612-wirt-lage-deutschland-juni-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "300 Aussteller auf dem Innovationstag Mittelstand",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -717,10 +752,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "300 Aussteller auf dem Innovationstag Mittelstand",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260611-300-aufsteller-auf-dem-innovationstag.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -731,7 +766,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -739,10 +774,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-luftfahrtstrategie-der-bundesregierung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -752,10 +787,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-reform-des-nationalen-wasserstoffrats.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen fü…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -763,10 +798,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen für Sicherheitsbehörden",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-bmwe-vereinfacht-oeffentliche-beschaffung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -774,10 +809,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-deutsch-japanischer-aerospace-roundtable.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -785,10 +820,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-foerderaufruf-fuer-cross-innovationen_nl.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -801,7 +836,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,7 +847,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juni 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -820,39 +855,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-juni-2026-2438050",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundesregierung gedenkt zum 12. Mal der Opfer von Flucht und Vertreibung",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "08.06.2026",
-    "tags": [],
-    "zusammenfassung": "Am 20. Juni 2026 begeht die Bundesregierung mit der 12. Gedenkstunde im Konzerthaus Berlin den diesjährigen Gedenktag für die Opfer von Flucht und Vertreibung. Seit 2015 wird mit diesem Gedenktag jährlich am 20. Juni an die Opfer von Flucht und Vertreibung weltweit sowie insbesondere an die deutschen Vertriebenen erin…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-zum-12-mal-der-opfer-von-flucht-und-vertreibung-2437922",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesregierung gedenkt der Opfer des Volksaufstandes vom 17. Juni 1953",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "08.06.2026",
-    "tags": [],
-    "zusammenfassung": "Die Gedenkveranstaltung der Bundesregierung zum 73. Jahrestag des Volksaufstandes vom 17. Juni 1953 in Ost-Berlin und weiten Teilen der ehemaligen DDR findet am Mittwoch, dem 17. Juni 2026, am Mahnmal für die Opfer des Volksaufstandes auf dem Friedhof Seestraße 92 in 13347 Berlin (Wedding) statt. An der Gedenkveransta…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-der-opfer-des-volksaufstandes-vom-17-juni-1953-2437920",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Joint Statement of the Leaders of France, the United Kingdom, Germany and Ukraine",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "07.06.2026",
-    "tags": [],
-    "zusammenfassung": "Prime Minister Keir Starmer of the United Kingdom, President Emmanuel Macron of France, and Chancellor Friedrich Merz of Germany met on 7 June with President Volodymyr Zelenskyy of Ukraine to reiterate their unwavering support for Ukraine in its defence against Russia’s illegal invasion and next steps in negotiations…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-of-the-leaders-of-france-the-united-kingdom-germany-and-ukraine-2437802",
     "gelesen": true
   }
 ];
