@@ -3,6 +3,186 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-06-21",
+      "title": "Energie-Kompass Briefing — 21.06.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260618-eine-starke-partnerschaft-tuerkeireise.html"
+                },
+                {
+                  "text": " — 18.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html"
+                },
+                {
+                  "text": " — 18.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tausende-gaeste-stroemen-zum-tag-der-offenen-tuer-der-bundesregierung-viele-highlights-am-sonntag-geplant-2443814"
+                },
+                {
+                  "text": " — Gestern, 16:00"
+                }
+              ],
+              "sub": "Die Bundesregierung lädt an diesem Wochenende zum „Tag der offenen Tür“ ein. Bei warmem Sommerwetter entschieden sich viele Bürgerinnen und Bürger für Politik statt Badesee. Tausende Besucherinnen und Besucher nutzten die Gelegenheit, einen Blick hinter die politischen Kulissen im Bundeskanzleramt, der Bundesministerien und des Presse- und Informationsamts der Bundesregierung zu werfen. Im Gespräch mit dem Bundeskanzler und vielen Regierungsmitgliedern Und auch am morgigen Sonntag können die Gäste vielen Regierungsmitgliedern live begegnen. Viele Ministerinnen und Minister freuen sich darauf, sich und ihre Themen vorzustellen und mit den Besucherinnen und Besuchern direkt ins Gespräch zu kommen. Bundeskanzler Friedrich Merz wird am Sonntag, den 21. Juni, um 16 Uhr, auf der Bühne im Bundeskanzleramt zu Gast sein. Zuvor wird dort der Chef des Bundeskanzleramts, Thorsten Frei, auf der Bühne über die Regierungsarbeit sprechen. Das Bundespresseamt bietet ebenfalls ein vielfältiges..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ],
+              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ],
+              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-20",
       "title": "Energie-Kompass Briefing — 20.06.2026",
       "sections": [
