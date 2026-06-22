@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-12"
+      "news-17"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -517,17 +517,72 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 11:30",
+    "tags": [],
+    "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-zitat-reiche-knds.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundesregierung strebt Beteiligung an Rüstungskonzern KNDS an",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 10:00",
+    "tags": [],
+    "zusammenfassung": "Regierungssprecher Stefan Kornelius teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-strebt-beteiligung-an-ruestungskonzern-knds-an-2444320",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Spendenkampagne für ukrainischen Energiesektor",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 10:00",
+    "tags": [],
+    "zusammenfassung": "Die Energieinfrastruktur der Ukraine steht seit Beginn des russischen Angriffskriegs unter enormem Druck. Mit einer umfassenden Spendenkampagne unterstützt das BMWE den Wiederaufbau und die stabile Versorgung vor Ort. Unternehmen in Deutschland können sich aktiv beteiligen und dringend benötigte Energiegüter bereitste…",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/ukraine/spendenkampagne-fuer-den-ukrainischen-energiesektor.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 01:00",
+    "tags": [],
+    "zusammenfassung": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-neue-mitglieder-wissenschaftlicher-beirat.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Tag der offenen Tür: Ein großes Dankeschön an die vielen interessierten Besucherinnen und Besucher",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:45",
+    "tags": [],
+    "zusammenfassung": "Mit den Auftritten des Bundeskanzlers und zahlreicher Regierungsmitglieder ist am Sonntag der Tag der offenen Tür der Bundesregierung zu Ende gegangen. Auch in diesem Jahr hat die Bundesregierung ihre Türen für interessierte Bürgerinnen und Bürger geöffnet und am Sonnabend und Sonntag ein vielfältiges Programm geboten…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/tag-der-offenen-tuer-ein-grosses-dankeschoen-an-die-vielen-interessierten-besucherinnen-und-besucher-2444296",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 16:00",
+    "datum": "20.06.2026",
     "tags": [],
     "zusammenfassung": "Die Bundesregierung lädt an diesem Wochenende zum „Tag der offenen Tür“ ein. Bei warmem Sommerwetter entschieden sich viele Bürgerinnen und Bürger für Politik statt Badesee. Tausende Besucherinnen und Besucher nutzten die Gelegenheit, einen Blick hinter die politischen Kulissen im Bundeskanzleramt, der Bundesministeri…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/tausende-gaeste-stroemen-zum-tag-der-offenen-tuer-der-bundesregierung-viele-highlights-am-sonntag-geplant-2443814",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -538,7 +593,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -549,7 +604,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -562,7 +617,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-10",
     "titel": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -573,7 +628,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-11",
     "titel": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -584,7 +639,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-12",
     "titel": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für W…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -595,7 +650,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-13",
     "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -606,7 +661,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-14",
     "titel": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -617,7 +672,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-15",
     "titel": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -628,7 +683,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-16",
     "titel": "Deutschland ist Partnerland der VivaTech 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -639,7 +694,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-17",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -652,7 +707,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -665,7 +720,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-19",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +731,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-20",
     "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -687,7 +742,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-21",
     "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -698,7 +753,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-22",
     "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -709,7 +764,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-23",
     "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -720,7 +775,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-24",
     "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -733,7 +788,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-25",
     "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -744,7 +799,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-26",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -755,7 +810,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-27",
     "titel": "300 Aussteller auf dem Innovationstag Mittelstand",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -766,7 +821,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-28",
     "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -777,7 +832,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-29",
     "titel": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -788,7 +843,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-30",
     "titel": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -798,63 +853,6 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-reform-des-nationalen-wasserstoffrats.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-26",
-    "titel": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen fü…",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.06.2026",
-    "tags": [],
-    "zusammenfassung": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen für Sicherheitsbehörden",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-bmwe-vereinfacht-oeffentliche-beschaffung.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.06.2026",
-    "tags": [],
-    "zusammenfassung": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-deutsch-japanischer-aerospace-roundtable.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.06.2026",
-    "tags": [],
-    "zusammenfassung": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-foerderaufruf-fuer-cross-innovationen_nl.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "09.06.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Ergebnisse der Ausschreibungen für Biomasse- und Biomethananlagen zum 1. April 2026",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260609_BioAusschreibung.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Kulturstaatsminister Weimer würdigt bei den Feierlichkeiten in der Sagrada Família in Barcelona insbesondere das deutsche Turmkreuz",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "09.06.2026",
-    "tags": [],
-    "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer ist für zwei Tage nach Barcelona gereist. Mit seinem Besuch unterstreicht Staatsminister Weimer die Bedeutung des deutsch-spanischen Kulturaustauschs sowie die verbindende Kraft von Kultur, Architektur und religiösem Erbe in Europa. Höhepunkt der Reise ist die morgig…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-wuerdigt-bei-den-feierlichkeiten-in-der-sagrada-fam%C3%ADlia-in-barcelona-insbesondere-das-deutsche-turmkreuz-2438540",
     "gelesen": true
   }
 ];
