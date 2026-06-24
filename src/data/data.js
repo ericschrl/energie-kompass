@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-18"
+      "news-28"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -517,61 +517,171 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [],
+    "zusammenfassung": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260624_Messwoche.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Einweihung des Mahnmals für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas – Staatsminister Weimer: „Wir schließen ein…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 12:15",
+    "tags": [],
+    "zusammenfassung": "Gemeinsam mit der Präsidentin des Deutschen Bundestages, Julia Klöckner, hat der Staatsminister für Kultur und Medien, Wolfram Weimer, heute im Berliner Tiergarten das Mahnmal für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas der Öffentlichkeit übergeben. Bei der feierlichen Einweihung waren nebe…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/einweihung-des-mahnmals-fuer-die-im-nationalsozialismus-verfolgten-und-ermordeten-zeugen-jehovas-staatsminister-weimer-wir-schliessen-eine-luecke-in-unserer-erinnerungskultur--2444790",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Vereinfachungen umgesetzt und Bürokratie reduziert - Bundeskabinett beschließt Energieeffizienzgesetz",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "Vereinfachungen umgesetzt und Bürokratie reduziert - Bundeskabinett beschließt Energieeffizienzgesetz",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-bundeskabinett-beschliesst-eeg.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Im Fokus: Wettbewerb und Künstliche Intelligenz - Expertenkommission legt Abschlussbericht vor",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "Im Fokus: Wettbewerb und Künstliche Intelligenz - Expertenkommission legt Abschlussbericht vor",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/02-wettbewerb-und-kuenstliche-intelligenz.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Neue Standards für den Baustoffsektor in Ghana – Internationale Verwaltungspartnerschaft mit Ghana verbessert den Marktzugang zur Baubranche",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "Neue Standards für den Baustoffsektor in Ghana – Internationale Verwaltungspartnerschaft mit Ghana verbessert den Marktzugang zur Baubranche",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/03-verwaltungspartnerschaft-mit-ghana.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "30 Jahre TAIEX: Bessere Institutionen, besseres Leben",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "30 Jahre TAIEX: Bessere Institutionen, besseres Leben",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/04-30-jahre-taiex.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
+    "titel": "BIP Nowcast für das zweite Quartal 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "BIP Nowcast für das zweite Quartal 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/06-bip-nowcast.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-8",
+    "titel": "Die wirtschaftliche Entwicklung im ersten Quartal 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "Die wirtschaftliche Entwicklung im ersten Quartal 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/07-wirtschaftliche-entwicklung.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-9",
+    "titel": "Wirtschaftstag mit Kenia: Bundesregierung und deutsche Wirtschaft gemeinsam mit kenianischen Partnern für nachhaltige Entwicklung und Wachs…",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 10:00",
+    "tags": [],
+    "zusammenfassung": "Wirtschaftstag mit Kenia: Bundesregierung und deutsche Wirtschaft gemeinsam mit kenianischen Partnern für nachhaltige Entwicklung und Wachstumschancen in afrikanischen Märkten",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-wirtschaftstag-mit-kenia.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-10",
     "titel": "„Schriftliches Kulturgut erhalten“: Neu aufgelegtes Programm fördert 92 Projekte – Staatsminister Weimer: „Unser kollektives Gedächtnis wir…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 11:10",
+    "datum": "Gestern, 11:10",
     "tags": [],
     "zusammenfassung": "Mit dem in 2026 neu aufgelegten Förderprogramm „Schriftliches Kulturgut erhalten“ wurden jetzt 92 Projekte zur Bewahrung historischer Originale ausgewählt, die mit insgesamt rund 1,5 Millionen Euro gefördert werden. Das Förderprogramm stößt schon in seinem ersten Jahr auf großes Interesse: Rund 200 Projektanträge ging…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/-schriftliches-kulturgut-erhalten-neu-aufgelegtes-programm-foerdert-92-projekte-staatsminister-weimer-unser-kollektives-gedaechtnis-wird-fuer-kommende-generationen-bewahrt--2444498",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-11",
+    "titel": "Rede von Bundeswirtschaftsministerin Katherina Reiche am Tag der Industrie (TDI) des BDI",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:00",
+    "tags": [],
+    "zusammenfassung": "EUREF-Campus Berlin (Gasometer Stage) Es gilt das gesprochene Wort!",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Reden/2026/rede-katherina-reiche-beim-ersten-wirtschaftspolitischen-symposium-in-berlin.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-12",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:30",
+    "datum": "22.06.2026",
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-zitat-reiche-knds.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-13",
     "titel": "Bundesregierung strebt Beteiligung an Rüstungskonzern KNDS an",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 10:00",
+    "datum": "22.06.2026",
     "tags": [],
     "zusammenfassung": "Regierungssprecher Stefan Kornelius teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-strebt-beteiligung-an-ruestungskonzern-knds-an-2444320",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-14",
     "titel": "Spendenkampagne für ukrainischen Energiesektor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:00",
+    "datum": "22.06.2026",
     "tags": [],
     "zusammenfassung": "Die Energieinfrastruktur der Ukraine steht seit Beginn des russischen Angriffskriegs unter enormem Druck. Mit einer umfassenden Spendenkampagne unterstützt das BMWE den Wiederaufbau und die stabile Versorgung vor Ort. Unternehmen in Deutschland können sich aktiv beteiligen und dringend benötigte Energiegüter bereitste…",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/ukraine/spendenkampagne-fuer-den-ukrainischen-energiesektor.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-15",
     "titel": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 01:00",
+    "datum": "22.06.2026",
     "tags": [],
     "zusammenfassung": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-neue-mitglieder-wissenschaftlicher-beirat.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-16",
     "titel": "Tag der offenen Tür: Ein großes Dankeschön an die vielen interessierten Besucherinnen und Besucher",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -582,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-17",
     "titel": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -593,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -604,7 +714,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -615,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-20",
     "titel": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -628,7 +738,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-21",
     "titel": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -639,7 +749,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-22",
     "titel": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -650,7 +760,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-23",
     "titel": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für W…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -661,7 +771,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-24",
     "titel": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -672,7 +782,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-25",
     "titel": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -683,7 +793,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-26",
     "titel": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -694,7 +804,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-27",
     "titel": "Deutschland ist Partnerland der VivaTech 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -705,7 +815,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-28",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -718,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-29",
     "titel": "Bundesnetzagentur startet Konsultation für Netzentwicklungsplan Gas und Wasserstoff 2025-2037/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -731,7 +841,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-30",
     "titel": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -739,118 +849,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die w…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538",
-    "gelesen": true
-  },
-  {
-    "id": "news-21",
-    "titel": "Statement by President Emmanuel Macron, Chancellor Friedrich Merz, Prime Minister Giorgia Meloni and Prime Minister Keir Starmer",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.06.2026",
-    "tags": [],
-    "zusammenfassung": "We warmly welcome the announcement of the memorandum of understanding between the US and Iran. We congratulate the United States, the Iranian government and all those involved, including Pakistan, Qatar and all other mediators, on this diplomatic breakthrough. This is a moment of opportunity to restore regional stabil…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-president-emmanuel-macron-chancellor-friedrich-merz-prime-minister-giorgia-meloni-and-prime-minister-keir-starmer-2440456",
-    "gelesen": true
-  },
-  {
-    "id": "news-22",
-    "titel": "Statement von Bundeskanzler Friedrich Merz zur Vereinbarung zwischen den Vereinigten Staaten und Iran",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.06.2026",
-    "tags": [],
-    "zusammenfassung": "Die Bundesregierung begrüßt, dass sich die Vereinigten Staaten und Iran auf ein Rahmenabkommen geeinigt haben. Zu diesem diplomatischen Durchbruch gratuliert sie Präsident Trump und der iranischen Seite. Sie dankt allen Partnern, die mitgeholfen haben, dies zu ermöglichen. Das Abkommen kann den Weg zu einer Erholung d…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-von-bundeskanzler-friedrich-merz-zur-vereinbarung-zwischen-den-vereinigten-staaten-und-iran-2440458",
-    "gelesen": true
-  },
-  {
-    "id": "news-23",
-    "titel": "Staatsminister Weimer überreicht Bundesverdienstkreuz an Personen des Kulturlebens – Weimer: „Wichtige Vorbilder für den Zusammenhalt in un…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "12.06.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Bundeskanzleramt herausragenden Persönlichkeiten aus Kunst und Kultur den Verdienstorden der Bundesrepublik Deutschland ausgehändigt. Der Orden ist die höchste Auszeichnung, die die Bundesrepublik Deutschland für Verdienste um das Gemeinwesen vergibt. Die Auszeichnung w…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-ueberreicht-bundesverdienstkreuz-an-personen-des-kulturlebens-weimer-wichtige-vorbilder-fuer-den-zusammenhalt-in-unserem-land--2440028",
-    "gelesen": true
-  },
-  {
-    "id": "news-24",
-    "titel": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "12.06.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesnetzagentur leitet Ermittlungen gegen Gaming-Plattform Steam ein",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_DSC.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-25",
-    "titel": "Bundesnetzagentur startet Konsultation des Netzentwicklungsplans zum Stromnetzausbau",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "12.06.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "Präsident Müller: „Der beschleunigte Ausbau der Stromnetze bleibt wichtig, um das Energiesystem zukunftsfest zu machen.“",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260612_NEP.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-26",
-    "titel": "Endlich wieder Tag der offenen Tür bei der Bundesregierung",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "12.06.2026",
-    "tags": [],
-    "zusammenfassung": "Den Kanzler-Hubschrauber besichtigen, mit ESA-Astronauten sprechen und den direkten Dialog mit Mitgliedern der Bundesregierung suchen – all das ist möglich am 20. und 21. Juni in Berlin. Früher als in den Vorjahren öffnen das Kanzleramt, die Bundesministerien und das Bundespresseamt dieses Mal schon im Juni ihre Tore…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/endlich-wieder-tag-der-offenen-tuer-bei-der-bundesregierung-2439836",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "12.06.2026",
-    "tags": [],
-    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260612-wirt-lage-deutschland-juni-2026.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "300 Aussteller auf dem Innovationstag Mittelstand",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "11.06.2026",
-    "tags": [],
-    "zusammenfassung": "300 Aussteller auf dem Innovationstag Mittelstand",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260611-300-aufsteller-auf-dem-innovationstag.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Nach dem Gespräch mit Vertreterinnen und Vertretern der Regierungsparteien, Wirtschaftsverbände und Gewerkschaften am 10. Juni 2026 im Bund…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "10.06.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/nach-dem-gespraech-mit-vertreterinnen-und-vertretern-der-regierungsparteien-wirtschaftsverbaende-und-gewerkschaften-am-10-juni-2026-im-bundeskanzleramt-2438840",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.06.2026",
-    "tags": [],
-    "zusammenfassung": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-luftfahrtstrategie-der-bundesregierung.html",
     "gelesen": true
   }
 ];
