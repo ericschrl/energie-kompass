@@ -3,6 +3,458 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-06-25",
+      "title": "Energie-Kompass Briefing — 25.06.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Vereinfachungen umgesetzt und Bürokratie reduziert - Bundeskabinett beschließt Energieeffizienzgesetz",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-bundeskabinett-beschliesst-eeg.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Im Fokus: Wettbewerb und Künstliche Intelligenz - Expertenkommission legt Abschlussbericht vor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/02-wettbewerb-und-kuenstliche-intelligenz.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Standards für den Baustoffsektor in Ghana – Internationale Verwaltungspartnerschaft mit Ghana verbessert den Marktzugang zur Baubranche",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/03-verwaltungspartnerschaft-mit-ghana.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "30 Jahre TAIEX: Bessere Institutionen, besseres Leben",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/04-30-jahre-taiex.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BIP Nowcast für das zweite Quartal 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/06-bip-nowcast.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Entwicklung im ersten Quartal 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/07-wirtschaftliche-entwicklung.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im Juni 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/05-wirtschaftliche-lage.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wirtschaftstag mit Kenia: Bundesregierung und deutsche Wirtschaft gemeinsam mit kenianischen Partnern für nachhaltige Entwicklung und Wachstumschancen in afrikanischen Märkten",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-wirtschaftstag-mit-kenia.html"
+                },
+                {
+                  "text": " — Gestern, 10:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Rede von Bundeswirtschaftsministerin Katherina Reiche am Tag der Industrie (TDI) des BDI",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Reden/2026/rede-katherina-reiche-beim-ersten-wirtschaftspolitischen-symposium-in-berlin.html"
+                },
+                {
+                  "text": " — 23.06.2026"
+                }
+              ],
+              "sub": "EUREF-Campus Berlin (Gasometer Stage) Es gilt das gesprochene Wort!"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-zitat-reiche-knds.html"
+                },
+                {
+                  "text": " — 22.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Spendenkampagne für ukrainischen Energiesektor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/ukraine/spendenkampagne-fuer-den-ukrainischen-energiesektor.html"
+                },
+                {
+                  "text": " — 22.06.2026"
+                }
+              ],
+              "sub": "Die Energieinfrastruktur der Ukraine steht seit Beginn des russischen Angriffskriegs unter enormem Druck. Mit einer umfassenden Spendenkampagne unterstützt das BMWE den Wiederaufbau und die stabile Versorgung vor Ort. Unternehmen in Deutschland können sich aktiv beteiligen und dringend benötigte Energiegüter bereitstellen."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-neue-mitglieder-wissenschaftlicher-beirat.html"
+                },
+                {
+                  "text": " — 22.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260618-eine-starke-partnerschaft-tuerkeireise.html"
+                },
+                {
+                  "text": " — 18.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "25.06.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/BeendeteAusschreibungen/GT1052026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "25.06.2026 - Wind an Land (Onshore)",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/2026/GT01052026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Hohes Wettbewerbsniveau bei der Aus­schrei­bung für Wind an Land und der In­no­va­ti­ons­aus­schrei­bung zum 1. Mai 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260625_WindInno.html"
+                },
+                {
+                  "text": " — Heute, 14:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260624_Messwoche.html"
+                },
+                {
+                  "text": " — Gestern, 14:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html"
+                },
+                {
+                  "text": " — 18.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "E5 Leaders’ Statement",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/e5-leaders-statement-2444880"
+                },
+                {
+                  "text": " — Gestern, 19:00"
+                }
+              ],
+              "sub": "Against the backdrop of the current threats and challenges to the security environment, leaders of France, Germany, Italy, Poland and United Kingdom met today in Berlin. The Secretary General of NATO joined the meeting from Washington. Leaders affirmed their unwavering commitment to Euro-Atlantic security and the transatlantic bond, recognising the vital role the US continues to play in the Alliance. They agreed to collectively work towards a successful NATO summit in Ankara hosted by President Erdogan on 7-8 July 2026. They expressed their strong determination to build a stronger Europe in a stronger NATO and to pursue their respective defence industrial endeavors in the closest possible cooperation. Leaders decided to move forward in five specific areas: European Leadership and Burden Sharing: Leaders are committed to a stronger European role within NATO with Europe taking greater responsibility for our shared transatlantic security, coordinating closely with the US. Leaders w..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Cabo Verde, Francisco Carvalho",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-der-republik-cabo-verde-francisco-carvalho-2444846"
+                },
+                {
+                  "text": " — Gestern, 15:15"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Premierminister, zu Ihrer Ernennung zum Premierminister der Republik Cabo Verde gratuliere ich Ihnen herzlich. Deutschland und Cabo Verde sind durch vertrauensvolle Beziehungen und geteilte Werte verbunden. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen Erfolg und gutes Gelingen. Ihr Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Einweihung des Mahnmals für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas – Staatsminister Weimer: „Wir schließen eine Lücke in unserer Erinnerungskultur.“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/einweihung-des-mahnmals-fuer-die-im-nationalsozialismus-verfolgten-und-ermordeten-zeugen-jehovas-staatsminister-weimer-wir-schliessen-eine-luecke-in-unserer-erinnerungskultur--2444790"
+                },
+                {
+                  "text": " — Gestern, 12:15"
+                }
+              ],
+              "sub": "Gemeinsam mit der Präsidentin des Deutschen Bundestages, Julia Klöckner, hat der Staatsminister für Kultur und Medien, Wolfram Weimer, heute im Berliner Tiergarten das Mahnmal für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas der Öffentlichkeit übergeben. Bei der feierlichen Einweihung waren neben dem Künstler Matthias Leeck auch zahlreiche Angehörige der Opfergruppe und etwa 700 Gäste anwesend. Staatsminister Weimer sagte im Vorfeld: „Mit diesem Mahnmal erhält eine lange Zeit weniger bekannte Opfergruppe des Nationalsozialismus einen sichtbaren Ort des Erinnerns und Gedenkens. Damit setzen wir ein Zeichen für religiöse Toleranz und erinnern an Menschen, die sich in den 1930er Jahren - mit als Erste - dem totalitären Anspruch der Nationalsozialisten widersetzt haben. Menschen, die für ihren Glauben und ihre Überzeugung gelitten haben, die verfolgt und gejagt wurden, die Folter und Konzentrationslager erlitten, die umgebracht wurden.“ Das Mahnmal erinnert an..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "„Schriftliches Kulturgut erhalten“: Neu aufgelegtes Programm fördert 92 Projekte – Staatsminister Weimer: „Unser kollektives Gedächtnis wird für kommende Generationen bewahrt“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/-schriftliches-kulturgut-erhalten-neu-aufgelegtes-programm-foerdert-92-projekte-staatsminister-weimer-unser-kollektives-gedaechtnis-wird-fuer-kommende-generationen-bewahrt--2444498"
+                },
+                {
+                  "text": " — 23.06.2026"
+                }
+              ],
+              "sub": "Mit dem in 2026 neu aufgelegten Förderprogramm „Schriftliches Kulturgut erhalten“ wurden jetzt 92 Projekte zur Bewahrung historischer Originale ausgewählt, die mit insgesamt rund 1,5 Millionen Euro gefördert werden. Das Förderprogramm stößt schon in seinem ersten Jahr auf großes Interesse: Rund 200 Projektanträge gingen ein. Staatsminister Wolfram Weimer: „Schriftliches Kulturgut ist unverzichtbarer Bestandteil unseres kollektiven Gedächtnisses. Ohne authentische Quellen wäre eine lebendige Auseinandersetzung mit Geschichte und Kultur nicht möglich. Gerade in Zeiten, in denen historische Fakten zunehmend infrage gestellt werden, sind Archive, Bibliotheken und Museen als Orte der Überlieferung für unsere Demokratie wichtiger denn je. Es ist unsere gesamtstaatliche Aufgabe, dieses Erbe für kommende Generationen zu bewahren und für die Gesellschaft zugänglich zu machen. Der erfolgreiche Start des Förderprogramms ist deshalb eine großartige Nachricht für den Originalerhalt in Deutschla..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung strebt Beteiligung an Rüstungskonzern KNDS an",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-strebt-beteiligung-an-ruestungskonzern-knds-an-2444320"
+                },
+                {
+                  "text": " — 22.06.2026"
+                }
+              ],
+              "sub": "Regierungssprecher Stefan Kornelius teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Tag der offenen Tür: Ein großes Dankeschön an die vielen interessierten Besucherinnen und Besucher",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tag-der-offenen-tuer-ein-grosses-dankeschoen-an-die-vielen-interessierten-besucherinnen-und-besucher-2444296"
+                },
+                {
+                  "text": " — 21.06.2026"
+                }
+              ],
+              "sub": "Mit den Auftritten des Bundeskanzlers und zahlreicher Regierungsmitglieder ist am Sonntag der Tag der offenen Tür der Bundesregierung zu Ende gegangen. Auch in diesem Jahr hat die Bundesregierung ihre Türen für interessierte Bürgerinnen und Bürger geöffnet und am Sonnabend und Sonntag ein vielfältiges Programm geboten. Dabei verzeichneten das Kanzleramt, die Bundesministerien und das Presse- und Informationsamt der Bundesregierung trotz großer Hitze und vereinzelter Unwetter insgesamt mehr als 80.000 Besuche. Auf großes Interesse bei den Gästen stieß erneut das Bundeskanzleramt. Bundeskanzler Friedrich Merz und Kanzleramtschef Thorsten Frei sprachen dort am Sonntag mit Bürgerinnen und Bürgern über ihre Regierungsarbeit. Ein weiteres Highlight: die Kinder- und Jugendpressekonferenz mit Regierungssprecher Stefan Kornelius im Presse- und Informationsamt der Bundesregierung. Das große Interesse bei den vielen Bürgerdialogen der Regierungsmitglieder zeigt: Gerade in diesen heraufordern..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tausende-gaeste-stroemen-zum-tag-der-offenen-tuer-der-bundesregierung-viele-highlights-am-sonntag-geplant-2443814"
+                },
+                {
+                  "text": " — 20.06.2026"
+                }
+              ],
+              "sub": "Die Bundesregierung lädt an diesem Wochenende zum „Tag der offenen Tür“ ein. Bei warmem Sommerwetter entschieden sich viele Bürgerinnen und Bürger für Politik statt Badesee. Tausende Besucherinnen und Besucher nutzten die Gelegenheit, einen Blick hinter die politischen Kulissen im Bundeskanzleramt, der Bundesministerien und des Presse- und Informationsamts der Bundesregierung zu werfen. Im Gespräch mit dem Bundeskanzler und vielen Regierungsmitgliedern Und auch am morgigen Sonntag können die Gäste vielen Regierungsmitgliedern live begegnen. Viele Ministerinnen und Minister freuen sich darauf, sich und ihre Themen vorzustellen und mit den Besucherinnen und Besuchern direkt ins Gespräch zu kommen. Bundeskanzler Friedrich Merz wird am Sonntag, den 21. Juni, um 16 Uhr, auf der Bühne im Bundeskanzleramt zu Gast sein. Zuvor wird dort der Chef des Bundeskanzleramts, Thorsten Frei, auf der Bühne über die Regierungsarbeit sprechen. Das Bundespresseamt bietet ebenfalls ein vielfältiges..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ],
+              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264"
+                },
+                {
+                  "text": " — 19.06.2026"
+                }
+              ],
+              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-24",
       "title": "Energie-Kompass Briefing — 24.06.2026",
       "sections": [
