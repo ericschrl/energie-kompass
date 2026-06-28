@@ -520,35 +520,35 @@ const NEWS = [
     "titel": "Bundeskanzler Merz empfängt die Staats- und Regierungschefs der baltischen Länder Lettland, Estland und Litauen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:45",
+    "datum": "26.06.2026",
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-die-staats-und-regierungschefs-der-baltischen-laender-lettland-estland-und-litauen-2445336",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-2",
     "titel": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:00",
+    "datum": "26.06.2026",
     "tags": [],
     "zusammenfassung": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260626-gesetz-zum-begriff-universalpostdienst.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-3",
     "titel": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:00",
+    "datum": "26.06.2026",
     "tags": [
       "netz"
     ],
     "zusammenfassung": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260626-eu-energierat-ausbau-stromnetze.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-4",
@@ -559,7 +559,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bund und Länder stellen Fortschrittsberichte zur Staatsmodernisierung und Planungsbeschleunigung vor",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/beschluesse-von-bund-und-laendern-fuer-einen-modernen-staat-2445158",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-5",
@@ -570,7 +570,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Hohes Wettbewerbsniveau bei der Aus­schrei­bung für Wind an Land und der In­no­va­ti­ons­aus­schrei­bung zum 1. Mai 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260625_WindInno.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-6",
@@ -581,7 +581,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatssekretär Dr. Steffen auf der Ukraine Recovery Conference 2026 in Danzig",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260625-ukraine-recovery-conference-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -592,7 +592,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Against the backdrop of the current threats and challenges to the security environment, leaders of France, Germany, Italy, Poland and United Kingdom met today in Berlin. The Secretary General of NATO joined the meeting from Washington. Leaders affirmed their unwavering commitment to Euro-Atlantic security and the tran…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/e5-leaders-statement-2444880",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -603,7 +603,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrer Ernennung zum Premierminister der Republik Cabo Verde gratuliere ich Ihnen herzlich. Deutschland und Cabo Verde sind durch vertrauensvolle Beziehungen und geteilte Werte verbunden. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen Erfolg und gutes Gelingen. Ihr Friedri…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-der-republik-cabo-verde-francisco-carvalho-2444846",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-9",
@@ -614,7 +614,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260624_Messwoche.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -625,7 +625,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Gemeinsam mit der Präsidentin des Deutschen Bundestages, Julia Klöckner, hat der Staatsminister für Kultur und Medien, Wolfram Weimer, heute im Berliner Tiergarten das Mahnmal für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas der Öffentlichkeit übergeben. Bei der feierlichen Einweihung waren nebe…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/einweihung-des-mahnmals-fuer-die-im-nationalsozialismus-verfolgten-und-ermordeten-zeugen-jehovas-staatsminister-weimer-wir-schliessen-eine-luecke-in-unserer-erinnerungskultur--2444790",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -636,7 +636,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Vereinfachungen umgesetzt und Bürokratie reduziert - Bundeskabinett beschließt Energieeffizienzgesetz",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-bundeskabinett-beschliesst-eeg.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -647,7 +647,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Fokus: Wettbewerb und Künstliche Intelligenz - Expertenkommission legt Abschlussbericht vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/02-wettbewerb-und-kuenstliche-intelligenz.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -658,7 +658,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Neue Standards für den Baustoffsektor in Ghana – Internationale Verwaltungspartnerschaft mit Ghana verbessert den Marktzugang zur Baubranche",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/03-verwaltungspartnerschaft-mit-ghana.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -669,7 +669,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "30 Jahre TAIEX: Bessere Institutionen, besseres Leben",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/04-30-jahre-taiex.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -680,7 +680,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BIP Nowcast für das zweite Quartal 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/06-bip-nowcast.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -691,7 +691,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Entwicklung im ersten Quartal 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/07-wirtschaftliche-entwicklung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -702,7 +702,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im Juni 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/07/05-wirtschaftliche-lage.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -713,7 +713,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Wirtschaftstag mit Kenia: Bundesregierung und deutsche Wirtschaft gemeinsam mit kenianischen Partnern für nachhaltige Entwicklung und Wachstumschancen in afrikanischen Märkten",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260624-wirtschaftstag-mit-kenia.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -724,7 +724,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mit dem in 2026 neu aufgelegten Förderprogramm „Schriftliches Kulturgut erhalten“ wurden jetzt 92 Projekte zur Bewahrung historischer Originale ausgewählt, die mit insgesamt rund 1,5 Millionen Euro gefördert werden. Das Förderprogramm stößt schon in seinem ersten Jahr auf großes Interesse: Rund 200 Projektanträge ging…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/-schriftliches-kulturgut-erhalten-neu-aufgelegtes-programm-foerdert-92-projekte-staatsminister-weimer-unser-kollektives-gedaechtnis-wird-fuer-kommende-generationen-bewahrt--2444498",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -735,7 +735,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "EUREF-Campus Berlin (Gasometer Stage) Es gilt das gesprochene Wort!",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Reden/2026/rede-katherina-reiche-beim-ersten-wirtschaftspolitischen-symposium-in-berlin.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -746,7 +746,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-zitat-reiche-knds.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -757,7 +757,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Regierungssprecher Stefan Kornelius teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-strebt-beteiligung-an-ruestungskonzern-knds-an-2444320",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -768,7 +768,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Energieinfrastruktur der Ukraine steht seit Beginn des russischen Angriffskriegs unter enormem Druck. Mit einer umfassenden Spendenkampagne unterstützt das BMWE den Wiederaufbau und die stabile Versorgung vor Ort. Unternehmen in Deutschland können sich aktiv beteiligen und dringend benötigte Energiegüter bereitste…",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/ukraine/spendenkampagne-fuer-den-ukrainischen-energiesektor.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -779,7 +779,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-neue-mitglieder-wissenschaftlicher-beirat.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -790,7 +790,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mit den Auftritten des Bundeskanzlers und zahlreicher Regierungsmitglieder ist am Sonntag der Tag der offenen Tür der Bundesregierung zu Ende gegangen. Auch in diesem Jahr hat die Bundesregierung ihre Türen für interessierte Bürgerinnen und Bürger geöffnet und am Sonnabend und Sonntag ein vielfältiges Programm geboten…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/tag-der-offenen-tuer-ein-grosses-dankeschoen-an-die-vielen-interessierten-besucherinnen-und-besucher-2444296",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -801,7 +801,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Bundesregierung lädt an diesem Wochenende zum „Tag der offenen Tür“ ein. Bei warmem Sommerwetter entschieden sich viele Bürgerinnen und Bürger für Politik statt Badesee. Tausende Besucherinnen und Besucher nutzten die Gelegenheit, einen Blick hinter die politischen Kulissen im Bundeskanzleramt, der Bundesministeri…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/tausende-gaeste-stroemen-zum-tag-der-offenen-tuer-der-bundesregierung-viele-highlights-am-sonntag-geplant-2443814",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -812,7 +812,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -823,7 +823,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -836,7 +836,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -847,7 +847,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
