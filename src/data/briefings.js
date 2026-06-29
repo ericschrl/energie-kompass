@@ -3,6 +3,163 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-06-29",
+      "title": "Energie-Kompass Briefing — 29.06.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260629-bundesministerin-reist-nach-kasachstan.html"
+                },
+                {
+                  "text": " — Heute, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html"
+                },
+                {
+                  "text": " — Gestern, 05:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dip.bundestag.de/vorgang/332638"
+                },
+                {
+                  "text": " — Heute, 09:36"
+                }
+              ],
+              "sub": "Den Ausschüssen zugewiesen — Maßnahmen zur Berücksichtigung regionaler Erfordernisse bei der Vergabe von Netzanschlüssen zur besseren Auslastung vorhandener und geplanter Netzkapazitäten, zur Ermöglichung weiteren Zubaus an erneuerbaren Energien, Senkung des Redispatches sowie Schaffung von Rechtssicherheit: Reservierung von Netzanschlusskapazitäten für Lasten und Stromspeicher für maximal fünf Jahre an einzelnen Netzanschlusspunkten, z.B. im Falle ausgewiesener Gewerbe- oder Industriegebiete, Priorisierung von Anschlussnehmern mit Bereitschaft zur Überbauung von Lasten und Batteriespeichern mit erneuerbaren Energien, Angebot einer flexiblen Netzanschlussvereinbarung durch den Netzbetreiber auf Verlangen des Anschlussnehmers, Anschluss von Stand-Alone-Batteriespeichern ausschließlich mit einer flexiblen Netzanschlussvereinbarung;<br />"
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Änderung § 17 Energiewirtschaftsgesetz"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Empfehlungen der Ausschüsse (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf"
+                },
+                {
+                  "text": " — Heute, 02:00"
+                }
+              ],
+              "sub": "Drucksache Empfehlungen"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-06-28",
       "title": "Energie-Kompass Briefing — 28.06.2026",
       "sections": [

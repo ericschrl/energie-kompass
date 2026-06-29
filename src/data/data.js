@@ -184,7 +184,7 @@ const GESETZE = [
     "tags": [
       "netz"
     ],
-    "letzteAktion": "Den Ausschüssen zugewiesen – 28.04.2026",
+    "letzteAktion": "Empfehlungen der Ausschüsse (BR) – 29.06.2026",
     "nächsterSchritt": "Beratung in den Ausschüssen",
     "ansprechpartner": {
       "ministerium": [
@@ -253,11 +253,11 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-3"
+      "news-6"
     ],
     "quelle": {
-      "url": "https://dip.bundestag.de/vorgang/332638",
-      "datum": "2026-04-28",
+      "url": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf",
+      "datum": "2026-06-29",
       "typ": "DIP"
     }
   },
@@ -517,6 +517,42 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:00",
+    "tags": [],
+    "zusammenfassung": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260629-bundesministerin-reist-nach-kasachstan.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Heute, 09:36",
+    "tags": [
+      "eeg",
+      "netz"
+    ],
+    "zusammenfassung": "Den Ausschüssen zugewiesen — Maßnahmen zur Berücksichtigung regionaler Erfordernisse bei der Vergabe von Netzanschlüssen zur besseren Auslastung vorhandener und geplanter Netzkapazitäten, zur Ermöglichung weiteren Zubaus an erneuerbaren Energien, Senkung des Redispatches sowie Schaffung von Rechtssicherheit: Reservier…",
+    "link": "https://dip.bundestag.de/vorgang/332638",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 05:00",
+    "tags": [],
+    "zusammenfassung": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Bundeskanzler Merz empfängt die Staats- und Regierungschefs der baltischen Länder Lettland, Estland und Litauen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -527,7 +563,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -538,7 +574,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -551,7 +587,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Beschlüsse von Bund und Ländern für einen modernen Staat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -562,7 +598,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Hohes Wettbewerbsniveau bei der Aus­schrei­bung für Wind an Land und der In­no­va­ti­ons­aus­schrei­bung zum 1. Mai 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -573,7 +609,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Staatssekretär Dr. Steffen auf der Ukraine Recovery Conference 2026 in Danzig",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -584,7 +620,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "E5 Leaders’ Statement",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -595,7 +631,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Cabo Verde, Francisco Carvalho",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -606,7 +642,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -617,7 +653,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Einweihung des Mahnmals für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas – Staatsminister Weimer: „Wir schließen ein…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -628,7 +664,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Vereinfachungen umgesetzt und Bürokratie reduziert - Bundeskabinett beschließt Energieeffizienzgesetz",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -639,7 +675,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Im Fokus: Wettbewerb und Künstliche Intelligenz - Expertenkommission legt Abschlussbericht vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -650,7 +686,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Neue Standards für den Baustoffsektor in Ghana – Internationale Verwaltungspartnerschaft mit Ghana verbessert den Marktzugang zur Baubranche",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -661,7 +697,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "30 Jahre TAIEX: Bessere Institutionen, besseres Leben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -672,7 +708,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "BIP Nowcast für das zweite Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -683,7 +719,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Die wirtschaftliche Entwicklung im ersten Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -694,7 +730,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -705,7 +741,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Wirtschaftstag mit Kenia: Bundesregierung und deutsche Wirtschaft gemeinsam mit kenianischen Partnern für nachhaltige Entwicklung und Wachs…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -716,7 +752,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "„Schriftliches Kulturgut erhalten“: Neu aufgelegtes Programm fördert 92 Projekte – Staatsminister Weimer: „Unser kollektives Gedächtnis wir…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -727,7 +763,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Rede von Bundeswirtschaftsministerin Katherina Reiche am Tag der Industrie (TDI) des BDI",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -738,7 +774,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -749,7 +785,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Bundesregierung strebt Beteiligung an Rüstungskonzern KNDS an",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -760,7 +796,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Spendenkampagne für ukrainischen Energiesektor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -771,7 +807,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -782,7 +818,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Tag der offenen Tür: Ein großes Dankeschön an die vielen interessierten Besucherinnen und Besucher",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -793,7 +829,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -804,7 +840,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,41 +848,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "19.06.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "19.06.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "18.06.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html",
     "gelesen": true
   }
 ];
