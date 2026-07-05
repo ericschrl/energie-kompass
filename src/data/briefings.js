@@ -3,6 +3,374 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-07-05",
+      "title": "Energie-Kompass Briefing — 05.07.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-marktueberwachung-onlinehandel.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-pi4-industrielle-ki.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Abschluss des Bundeseinstiegs bei TenneT Germany",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-bundeseinstieg-bei-tennet-germany.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deutschland",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-mode-im-scheinwerferlicht.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-koalitionsausschuss.html"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über dessen aktuelle erfolgreiche Finanzierungsrunde",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-quantum-systems.html"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zweite Verordnung zur Änderung der Biomasseverordnung",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20251124-zweite-aenderung-biomasseverordnung.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-zitat-reiche-gesetz-zu-reservisten.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-ipcei-projekte-fuer-europa.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-mittelstandsdialog.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-Vorgaben um",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-reform-der-biomasseverordnung.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260630-halbleiteroekosystem-deutschland-kanada.html"
+                },
+                {
+                  "text": " — 30.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260629-bundesministerin-reist-nach-kasachstan.html"
+                },
+                {
+                  "text": " — 29.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html"
+                },
+                {
+                  "text": " — 28.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260701_Eisenbahnen.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260630_WettebwerbFernverkehr.html"
+                },
+                {
+                  "text": " — 30.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990"
+                },
+                {
+                  "text": " — Gestern, 12:47"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-us-praesident-trump-zum-250-jahrestag-der-unabhaengigkeit-der-vereinigten-staaten-2445974"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-zum-nato-gipfel-nach-ankara-2445930"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Menschen“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/oeffentliche-bibliotheken-duerfen-zukuenftig-sonntags-oeffnen-staatsminister-weimer-entspricht-viel-besser-der-lebensrealitaet-vieler-menschen--2445812"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ],
+              "sub": "Der Koalitionsausschuss hat beschlossen, dass öffentlichen Bibliotheken künftig die Sonn- und Feiertagsöffnung ermöglicht werden soll. Damit sollen Bibliotheken anderen Kulturorten wie Konzerthäusern, Theatern, Kinos und Museen gleichgestellt werden. Dazu erklärt Staatsminister Wolfram Weimer: „Wir stärken Bibliotheken als lebendige Kultur- und Bildungsorte. Denn diese sind weit mehr als nur Ausleihe von Büchern, sie sind auch offene Räume für Begegnung und Austausch. Dass zukünftig mehr Bibliotheken auch sonntags öffnen dürfen, ist ein großer Gewinn für die kulturelle Teilhabe. Gerade Berufstätige und Familien bekommen so die Möglichkeit, Bibliotheken dann zu nutzen, wenn sie Zeit haben. Das macht den Zugang zu Wissen, Kultur und Gemeinschaft einfacher und passt besser zum Alltag vieler Menschen.“ Mit der geplanten Neuregelung setzt die Bundesregierung eine Vereinbarung des Koalitionsvertrags um. Sie trägt der gewandelten Rolle öffentlicher Bibliotheken Rechnung: Bibliotheken si..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Empfehlungen der Ausschüsse (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf"
+                },
+                {
+                  "text": " — 29.06.2026"
+                }
+              ],
+              "sub": "Drucksache Empfehlungen"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-04",
       "title": "Energie-Kompass Briefing — 04.07.2026",
       "sections": [

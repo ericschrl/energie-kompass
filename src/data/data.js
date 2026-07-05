@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-23"
+      "news-24"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf",
@@ -517,72 +517,83 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:47",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 19:10",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-us-praesident-trump-zum-250-jahrestag-der-unabhaengigkeit-der-vereinigten-staaten-2445974",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:20",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-zum-nato-gipfel-nach-ankara-2445930",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:30",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-marktueberwachung-onlinehandel.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:30",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-pi4-industrielle-ki.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Abschluss des Bundeseinstiegs bei TenneT Germany",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:30",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Abschluss des Bundeseinstiegs bei TenneT Germany",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-bundeseinstieg-bei-tennet-germany.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deut…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 03:30",
+    "datum": "03.07.2026",
     "tags": [],
     "zusammenfassung": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deutschland",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-mode-im-scheinwerferlicht.html",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Mensch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -593,7 +604,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -604,7 +615,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -615,7 +626,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -626,7 +637,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Zweite Verordnung zur Änderung der Biomasseverordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -637,7 +648,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -648,7 +659,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -659,7 +670,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -670,7 +681,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-V…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -681,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -692,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -703,7 +714,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -714,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -728,7 +739,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -739,7 +750,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz empfängt die Staats- und Regierungschefs der baltischen Länder Lettland, Estland und Litauen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -750,7 +761,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -761,7 +772,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -774,7 +785,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Beschlüsse von Bund und Ländern für einen modernen Staat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -785,7 +796,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Hohes Wettbewerbsniveau bei der Aus­schrei­bung für Wind an Land und der In­no­va­ti­ons­aus­schrei­bung zum 1. Mai 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -796,7 +807,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Staatssekretär Dr. Steffen auf der Ukraine Recovery Conference 2026 in Danzig",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -807,7 +818,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "E5 Leaders’ Statement",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -818,7 +829,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Cabo Verde, Francisco Carvalho",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -829,7 +840,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -837,17 +848,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260624_Messwoche.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Einweihung des Mahnmals für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas – Staatsminister Weimer: „Wir schließen ein…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "24.06.2026",
-    "tags": [],
-    "zusammenfassung": "Gemeinsam mit der Präsidentin des Deutschen Bundestages, Julia Klöckner, hat der Staatsminister für Kultur und Medien, Wolfram Weimer, heute im Berliner Tiergarten das Mahnmal für die im Nationalsozialismus verfolgten und ermordeten Zeugen Jehovas der Öffentlichkeit übergeben. Bei der feierlichen Einweihung waren nebe…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/einweihung-des-mahnmals-fuer-die-im-nationalsozialismus-verfolgten-und-ermordeten-zeugen-jehovas-staatsminister-weimer-wir-schliessen-eine-luecke-in-unserer-erinnerungskultur--2444790",
     "gelesen": true
   }
 ];
