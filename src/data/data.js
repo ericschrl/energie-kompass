@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-24"
+      "news-26"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf",
@@ -517,17 +517,39 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [],
+    "zusammenfassung": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260706_DSC_ebay.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 08:30",
+    "tags": [],
+    "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260706-entwicklung-verarbeitendes-gewerbe-mai.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:47",
+    "datum": "04.07.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -538,7 +560,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -549,7 +571,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -560,7 +582,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -571,7 +593,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "Abschluss des Bundeseinstiegs bei TenneT Germany",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -582,7 +604,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deut…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -593,7 +615,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Mensch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -604,7 +626,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -615,7 +637,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -626,7 +648,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -637,7 +659,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Zweite Verordnung zur Änderung der Biomasseverordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -648,7 +670,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -659,18 +681,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
-    "titel": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "01.07.2026",
-    "tags": [],
-    "zusammenfassung": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-ipcei-projekte-fuer-europa.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -681,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-V…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -692,7 +703,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
+    "titel": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "01.07.2026",
+    "tags": [],
+    "zusammenfassung": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-ipcei-projekte-fuer-europa.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-19",
     "titel": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -703,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -714,7 +736,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -725,7 +747,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -739,7 +761,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -750,7 +772,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz empfängt die Staats- und Regierungschefs der baltischen Länder Lettland, Estland und Litauen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -761,7 +783,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -772,7 +794,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -785,7 +807,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Beschlüsse von Bund und Ländern für einen modernen Staat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -796,7 +818,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Hohes Wettbewerbsniveau bei der Aus­schrei­bung für Wind an Land und der In­no­va­ti­ons­aus­schrei­bung zum 1. Mai 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -807,7 +829,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Staatssekretär Dr. Steffen auf der Ukraine Recovery Conference 2026 in Danzig",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -818,7 +840,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "E5 Leaders’ Statement",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -826,28 +848,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Against the backdrop of the current threats and challenges to the security environment, leaders of France, Germany, Italy, Poland and United Kingdom met today in Berlin. The Secretary General of NATO joined the meeting from Washington. Leaders affirmed their unwavering commitment to Euro-Atlantic security and the tran…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/e5-leaders-statement-2444880",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz gratuliert dem Premierminister der Republik Cabo Verde, Francisco Carvalho",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "24.06.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrer Ernennung zum Premierminister der Republik Cabo Verde gratuliere ich Ihnen herzlich. Deutschland und Cabo Verde sind durch vertrauensvolle Beziehungen und geteilte Werte verbunden. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen Erfolg und gutes Gelingen. Ihr Friedri…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-der-republik-cabo-verde-francisco-carvalho-2444846",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "24.06.2026",
-    "tags": [],
-    "zusammenfassung": "#CheckDeinNetz: Mitmach-Aktion für besseren Mobilfunk gestartet",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260624_Messwoche.html",
     "gelesen": true
   }
 ];
