@@ -252,9 +252,7 @@ const GESETZE = [
         "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
       }
     ],
-    "news": [
-      "news-30"
-    ],
+    "news": [],
     "quelle": {
       "url": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf",
       "datum": "2026-06-29",
@@ -517,72 +515,107 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 10:30",
+    "tags": [
+      "markt"
+    ],
+    "zusammenfassung": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260708-strompreiskompensation.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Canada-Germany Joint Statement",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:35",
+    "tags": [],
+    "zusammenfassung": "Today, the Prime Minister of Canada, Mark Carney, and the Chancellor of Germany, Friedrich Merz, announced the launch of negotiations towards a Canada-Germany Strategic Partnership Agreement (“Partnership Agreement”). Canada and Germany benefit from a robust bilateral relationship, with established cooperation across…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/canada-germany-joint-statement-2446108",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Statement by Prime Minister Mark Carney, Chancellor Friedrich Merz and Prime Minister Jonas Gahr Støre",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:01",
+    "tags": [],
+    "zusammenfassung": "In times of profound geopolitical change, Canada, Germany and Norway are determined to build a strategic, long-term security partnership built on shared values and interests. Yesterday’s Canadian decision to join the German-Norwegian Type 212CD submarine cooperation creates a unique opportunity to boost our defence in…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-prime-minister-mark-carney-chancellor-friedrich-merz-and-prime-minister-jonas-gahr-st%C3%B8re-2446106",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 08:00",
+    "datum": "Gestern, 08:00",
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Mai 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260707-entwicklung-produktion-mai.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Bundeskanzler Merz äußerte sich heute angesichts der kanadischen Entscheidung zur Beschaffung von U-Booten der 212-CD Klasse:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 22:30",
+    "datum": "06.07.2026",
     "tags": [],
     "zusammenfassung": "„Premierminister Mark Carney hat soeben verkündet, dass sich Kanada für die Beschaffung deutsch-norwegischer U-Boote der 212CD-Klasse entschieden hat. Vor dem morgen beginnenden NATO-Gipfel setzt die kanadische Regierung damit ein starkes Zeichen der transatlantischen und europäischen Zusammenarbeit in der Verteidigun…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-aeusserte-sich-heute-angesichts-der-kanadischen-entscheidung-zur-beschaffung-von-u-booten-der-212-cd-klasse--2446064",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juli 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 20:42",
+    "datum": "06.07.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-juli-2026-2446048",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundesregierung gedenkt der Ermordeten des Widerstands gegen die nationalsozialistische Gewaltherrschaft",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 19:05",
+    "datum": "06.07.2026",
     "tags": [],
     "zusammenfassung": "Die Bundesregierung erinnert am 20. Juli 2026 – dem 82. Jahrestag des Attentats- und Umsturzversuchs gegen Hitler – mit einer Feierstunde um 11:00 Uhr im Ehrenhof des Bendlerblocks in Berlin, Stauffenbergstraße, an den Widerstand gegen die nationalsozialistische Gewaltherrschaft. Nach der Begrüßung durch den Vorstands…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-der-ermordeten-des-widerstands-gegen-die-nationalsozialistische-gewaltherrschaft-2446030",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "06.07.2026",
     "tags": [],
     "zusammenfassung": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260706_DSC_ebay.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "06.07.2026",
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260706-entwicklung-verarbeitendes-gewerbe-mai.html",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -593,7 +626,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -604,7 +637,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -615,7 +648,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -626,7 +659,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -637,7 +670,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Abschluss des Bundeseinstiegs bei TenneT Germany",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -648,7 +681,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deut…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -659,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Mensch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -670,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -681,7 +714,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -692,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -703,7 +736,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Zweite Verordnung zur Änderung der Biomasseverordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -714,7 +747,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -725,7 +758,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -736,7 +769,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-V…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -747,7 +780,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -758,7 +791,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -769,7 +802,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -780,7 +813,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -791,7 +824,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -805,7 +838,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -814,41 +847,6 @@ const NEWS = [
     "zusammenfassung": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html",
     "gelesen": false
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz empfängt die Staats- und Regierungschefs der baltischen Länder Lettland, Estland und Litauen",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "26.06.2026",
-    "tags": [],
-    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-die-staats-und-regierungschefs-der-baltischen-laender-lettland-estland-und-litauen-2445336",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "26.06.2026",
-    "tags": [],
-    "zusammenfassung": "Entwurf eines Gesetzes zur Umsetzung der Rechtsprechung des Europäischen Gerichtshofs zum Begriff des Universalpostdienstes",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260626-gesetz-zum-begriff-universalpostdienst.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "26.06.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "EU-Energierat berät beschleunigten Ausbau der Stromnetze",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260626-eu-energierat-ausbau-stromnetze.html",
-    "gelesen": true
   }
 ];
 

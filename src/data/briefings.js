@@ -3,6 +3,499 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-07-08",
+      "title": "Energie-Kompass Briefing — 08.07.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260708-strompreiskompensation.html"
+                },
+                {
+                  "text": " — Heute, 10:30"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Mai 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260707-entwicklung-produktion-mai.html"
+                },
+                {
+                  "text": " — Gestern, 08:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260706-entwicklung-verarbeitendes-gewerbe-mai.html"
+                },
+                {
+                  "text": " — 06.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-marktueberwachung-onlinehandel.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-pi4-industrielle-ki.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Abschluss des Bundeseinstiegs bei TenneT Germany",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-bundeseinstieg-bei-tennet-germany.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deutschland",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-mode-im-scheinwerferlicht.html"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-koalitionsausschuss.html"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über dessen aktuelle erfolgreiche Finanzierungsrunde",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-quantum-systems.html"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zweite Verordnung zur Änderung der Biomasseverordnung",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20251124-zweite-aenderung-biomasseverordnung.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-zitat-reiche-gesetz-zu-reservisten.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-mittelstandsdialog.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-Vorgaben um",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-reform-der-biomasseverordnung.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-ipcei-projekte-fuer-europa.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260630-halbleiteroekosystem-deutschland-kanada.html"
+                },
+                {
+                  "text": " — 30.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260629-bundesministerin-reist-nach-kasachstan.html"
+                },
+                {
+                  "text": " — 29.06.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html"
+                },
+                {
+                  "text": " — 28.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "08.07.2026 - Wind an Land (Onshore)",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260706_DSC_ebay.html"
+                },
+                {
+                  "text": " — 06.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260701_Eisenbahnen.html"
+                },
+                {
+                  "text": " — 01.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260630_WettebwerbFernverkehr.html"
+                },
+                {
+                  "text": " — 30.06.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Canada-Germany Joint Statement",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/canada-germany-joint-statement-2446108"
+                },
+                {
+                  "text": " — Gestern, 19:35"
+                }
+              ],
+              "sub": "Today, the Prime Minister of Canada, Mark Carney, and the Chancellor of Germany, Friedrich Merz, announced the launch of negotiations towards a Canada-Germany Strategic Partnership Agreement (“Partnership Agreement”). Canada and Germany benefit from a robust bilateral relationship, with established cooperation across a number of shared priorities. The Partnership Agreement will serve as a flexible strategic framework through which Canada and Germany will shape and advance cooperation, and direct investment in key strategic industries, for years to come. Amongst others, key areas of cooperation will include: (I) Security and Defence; (II) Technology, Artificial Intelligence and Space; (III) Supply Chains and Critical Minerals; (IV) Energy; and (V) Investment. The Prime Minister and Chancellor invite their Ministers of Foreign Affairs with advancing negotiations, with the intention of finalising the Partnership Agreement by the end of year. Höflichkeitsübersetz..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Statement by Prime Minister Mark Carney, Chancellor Friedrich Merz and Prime Minister Jonas Gahr Støre",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-prime-minister-mark-carney-chancellor-friedrich-merz-and-prime-minister-jonas-gahr-st%C3%B8re-2446106"
+                },
+                {
+                  "text": " — Gestern, 19:01"
+                }
+              ],
+              "sub": "In times of profound geopolitical change, Canada, Germany and Norway are determined to build a strategic, long-term security partnership built on shared values and interests. Yesterday’s Canadian decision to join the German-Norwegian Type 212CD submarine cooperation creates a unique opportunity to boost our defence industrial and military cooperation. We are seizing this opportunity to bring Canada, Germany and Norway closer together for decades to come in a spirit of friendship and trust. Together, we will assume greater responsibility for transatlantic security and collective defence. Our commitment extends beyond security and defence, encompassing strategic areas such as investment, energy, artificial intelligence, space and critical minerals. Höflichkeitsübersetzung Erklärung von Bundeskanzler Friedrich Merz, Premierminister Mark Carney und Ministerpräsident Jonas Gahr Støre In Zeiten tiefgreifender geopolitischer Veränderungen sind Deutschland, Kanada und Norwegen ent..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz äußerte sich heute angesichts der kanadischen Entscheidung zur Beschaffung von U-Booten der 212-CD Klasse:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-aeusserte-sich-heute-angesichts-der-kanadischen-entscheidung-zur-beschaffung-von-u-booten-der-212-cd-klasse--2446064"
+                },
+                {
+                  "text": " — 06.07.2026"
+                }
+              ],
+              "sub": "„Premierminister Mark Carney hat soeben verkündet, dass sich Kanada für die Beschaffung deutsch-norwegischer U-Boote der 212CD-Klasse entschieden hat. Vor dem morgen beginnenden NATO-Gipfel setzt die kanadische Regierung damit ein starkes Zeichen der transatlantischen und europäischen Zusammenarbeit in der Verteidigungsindustrie. Dies ist ein großes, strategisches Vorhaben, das Kanada, Deutschland und Norwegen auf Jahrzehnte verbindet. Es ist Ausdruck unserer auf Dauer angelegten Partnerschaft, die weit über die Sicherheits- und Verteidigungspolitik hinausreicht. Mit Mark Carney und meinem norwegischen Amtskollegen Jonas Gahr Støre arbeite ich seit vielen Monaten intensiv an dieser Partnerschaft. Für dieses gegenseitige Vertrauen danke ich beiden. Deutschland wird es auch in Zukunft honorieren.“"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sitzung des Nationalen Sicherheitsrates im Juli 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-juli-2026-2446048"
+                },
+                {
+                  "text": " — 06.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung gedenkt der Ermordeten des Widerstands gegen die nationalsozialistische Gewaltherrschaft",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-gedenkt-der-ermordeten-des-widerstands-gegen-die-nationalsozialistische-gewaltherrschaft-2446030"
+                },
+                {
+                  "text": " — 06.07.2026"
+                }
+              ],
+              "sub": "Die Bundesregierung erinnert am 20. Juli 2026 – dem 82. Jahrestag des Attentats- und Umsturzversuchs gegen Hitler – mit einer Feierstunde um 11:00 Uhr im Ehrenhof des Bendlerblocks in Berlin, Stauffenbergstraße, an den Widerstand gegen die nationalsozialistische Gewaltherrschaft. Nach der Begrüßung durch den Vorstandsvorsitzenden der Stiftung 20. Juli 1944, Prof. Dr. Robert von Steinau-Steinrück und dem Grußwort des Bürgermeisters von Berlin und Senators für Finanzen, Stefan Evers, wird die Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend, Karin Prien, die Ansprache halten. Anschließend wird Valerie Riedesel Freifrau zu Eisenbach (Kuratoriumsvorsitzende der Stiftung 20. Juli 1944) das Totengedenken sprechen. Die Vizepräsidentin des Deutschen Bundestages Andrea Lindholz legt danach, begleitet vom Generalinspekteur der Bundeswehr, Carsten Breuer, an dem Ort, an dem Claus Schenk Graf von Stauffenberg und weitere Widerstandsbeteiligte in der Nacht zum 21. Juli 1944 ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990"
+                },
+                {
+                  "text": " — 04.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-us-praesident-trump-zum-250-jahrestag-der-unabhaengigkeit-der-vereinigten-staaten-2445974"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-zum-nato-gipfel-nach-ankara-2445930"
+                },
+                {
+                  "text": " — 03.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Menschen“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/oeffentliche-bibliotheken-duerfen-zukuenftig-sonntags-oeffnen-staatsminister-weimer-entspricht-viel-besser-der-lebensrealitaet-vieler-menschen--2445812"
+                },
+                {
+                  "text": " — 02.07.2026"
+                }
+              ],
+              "sub": "Der Koalitionsausschuss hat beschlossen, dass öffentlichen Bibliotheken künftig die Sonn- und Feiertagsöffnung ermöglicht werden soll. Damit sollen Bibliotheken anderen Kulturorten wie Konzerthäusern, Theatern, Kinos und Museen gleichgestellt werden. Dazu erklärt Staatsminister Wolfram Weimer: „Wir stärken Bibliotheken als lebendige Kultur- und Bildungsorte. Denn diese sind weit mehr als nur Ausleihe von Büchern, sie sind auch offene Räume für Begegnung und Austausch. Dass zukünftig mehr Bibliotheken auch sonntags öffnen dürfen, ist ein großer Gewinn für die kulturelle Teilhabe. Gerade Berufstätige und Familien bekommen so die Möglichkeit, Bibliotheken dann zu nutzen, wenn sie Zeit haben. Das macht den Zugang zu Wissen, Kultur und Gemeinschaft einfacher und passt besser zum Alltag vieler Menschen.“ Mit der geplanten Neuregelung setzt die Bundesregierung eine Vereinbarung des Koalitionsvertrags um. Sie trägt der gewandelten Rolle öffentlicher Bibliotheken Rechnung: Bibliotheken si..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Empfehlungen der Ausschüsse (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf"
+                },
+                {
+                  "text": " — 29.06.2026"
+                }
+              ],
+              "sub": "Drucksache Empfehlungen"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-07",
       "title": "Energie-Kompass Briefing — 07.07.2026",
       "sections": [
