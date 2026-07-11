@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-9"
+      "news-1"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -186,7 +186,7 @@ const GESETZE = [
     "tags": [
       "netz"
     ],
-    "letzteAktion": "Empfehlungen der Ausschüsse (BR) – 29.06.2026",
+    "letzteAktion": "BR-Sitzung (BR) – 10.07.2026",
     "nächsterSchritt": "Beratung in den Ausschüssen",
     "ansprechpartner": {
       "ministerium": [
@@ -256,8 +256,8 @@ const GESETZE = [
     ],
     "news": [],
     "quelle": {
-      "url": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf",
-      "datum": "2026-06-29",
+      "url": "https://dserver.bundestag.de/brp/1067.pdf",
+      "datum": "2026-07-10",
       "typ": "DIP"
     }
   },
@@ -313,7 +313,8 @@ const GESETZE = [
     },
     "positionen": [],
     "news": [
-      "news-14"
+      "news-8",
+      "news-16"
     ],
     "quelle": {
       "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260513-gemeinsame-pressemitteilung-neue-weichenstellung-fuer-den-gebaeudebereich-bundeskabinett-beschliesst-gebaeudemodernisierungsgesetz.html",
@@ -519,54 +520,23 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Heute, 13:00",
-    "tags": [],
-    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/26-deutsch-franzoesischer-ministerrat-und-deutsch-franzoesischer-verteidigungs-und-sicherheitsrat-2446612",
+    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 17:09",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Überwiesen",
+    "link": "https://dip.bundestag.de/vorgang/336979",
     "gelesen": false
   },
   {
     "id": "news-2",
-    "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Heute, 12:50",
-    "tags": [],
-    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-demokratischen-volksrepublik-algerien-tebboune-2446658",
-    "gelesen": false
-  },
-  {
-    "id": "news-3",
-    "titel": "Bundeskanzler Merz reist nach Paris",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Heute, 12:40",
-    "tags": [],
-    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-paris-2446620",
-    "gelesen": false
-  },
-  {
-    "id": "news-4",
-    "titel": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Heute, 12:20",
-    "tags": [],
-    "zusammenfassung": "Die Bewerbungsphase für den Deutschen Verlagspreis 2026 hat begonnen. Ab sofort können sich unabhängige Verlage wieder für die Auszeichnung bewerben. Mit dem Preis würdigt die Bundesregierung bereits zum achten Mal Verlage, die sich durch außergewöhnliche Programme, ein spezielles kulturelles Engagement sowie innovati…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/zwei-millionen-euro-fuer-unabhaengige-verlage-bewerbungsstart-fuer-den-deutschen-verlagspreis-2026-2446652",
-    "gelesen": false
-  },
-  {
-    "id": "news-5",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 12:04",
+    "datum": "Gestern, 16:29",
     "tags": [
       "eeg",
       "netz"
@@ -576,57 +546,112 @@ const NEWS = [
     "gelesen": true
   },
   {
+    "id": "news-3",
+    "titel": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:00",
+    "tags": [],
+    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/26-deutsch-franzoesischer-ministerrat-und-deutsch-franzoesischer-verteidigungs-und-sicherheitsrat-2446612",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:50",
+    "tags": [],
+    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-demokratischen-volksrepublik-algerien-tebboune-2446658",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Bundeskanzler Merz reist nach Paris",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:40",
+    "tags": [],
+    "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-paris-2446620",
+    "gelesen": false
+  },
+  {
     "id": "news-6",
+    "titel": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:20",
+    "tags": [],
+    "zusammenfassung": "Die Bewerbungsphase für den Deutschen Verlagspreis 2026 hat begonnen. Ab sofort können sich unabhängige Verlage wieder für die Auszeichnung bewerben. Mit dem Preis würdigt die Bundesregierung bereits zum achten Mal Verlage, die sich durch außergewöhnliche Programme, ein spezielles kulturelles Engagement sowie innovati…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/zwei-millionen-euro-fuer-unabhaengige-verlage-bewerbungsstart-fuer-den-deutschen-verlagspreis-2026-2446652",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
+    "titel": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 10:30",
+    "tags": [
+      "markt"
+    ],
+    "zusammenfassung": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-meilenstein-fuer-versorgungssicherheit.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-8",
+    "titel": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 10:30",
+    "tags": [],
+    "zusammenfassung": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-gebaeudemodernisierungsgesetz.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-9",
     "titel": "Bundeskanzler Merz telefoniert mit dem israelischen Ministerpräsidenten Netanjahu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 18:50",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-israelischen-ministerpraesidenten-netanjahu-2446526",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260709_Messwoche.html",
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin der Republik Korea, Han Seong-sook",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:40",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Ministerpräsidentin, zu Ihrem Amtsantritt als Ministerpräsidentin der Republik Korea gratuliere ich Ihnen herzlich. Deutschland und die Republik Korea verbindet eine vielfältige und vertrauensvolle Partnerschaft, die auf gemeinsamen Werten und Interessen gründet. Umso mehr freue ich mich darauf, in n…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-ministerpraesidentin-der-republik-korea-han-seong-sook-2446408",
     "gelesen": false
   },
   {
-    "id": "news-9",
-    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 12:12",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Noch nicht beraten",
-    "link": "https://dip.bundestag.de/vorgang/336979",
-    "gelesen": false
-  },
-  {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Neue Mitglieder in den reformierten Nationalen Wasserstoffrat berufen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "09.07.2026",
     "tags": [
       "markt"
     ],
@@ -635,51 +660,51 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-plan-zur-staerkeren-beteiligung.html",
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-monopolkommission-hauptgutachten.html",
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Bund und Länder vergeben Stipendienplätze in Italien und Frankreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 10:15",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer gibt die Rompreisträgerinnen und Rompreisträger für einen Aufenthalt in der vom Bund getragenen Deutschen Akademie Rom Villa Massimo sowie die Stipendiatinnen und Stipendiaten für die Aufenthalte in der Deutschen Akademie Rom Casa Baldi in Olevano Romano und im Deutschen Studienzent…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-vergeben-stipendienplaetze-in-italien-und-frankreich-2446358",
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 02:00",
+    "datum": "09.07.2026",
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsgesetz",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-zitat-reiche-bundesverfassungsgericht-gmg.html",
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Popmusikgipfel im Kanzleramt: Weimer startet konzertierte Aktion zwischen Künstlern und Industrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -690,7 +715,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -703,7 +728,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Canada-Germany Joint Statement",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -714,7 +739,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Statement by Prime Minister Mark Carney, Chancellor Friedrich Merz and Prime Minister Jonas Gahr Støre",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -725,7 +750,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -736,7 +761,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz äußerte sich heute angesichts der kanadischen Entscheidung zur Beschaffung von U-Booten der 212-CD Klasse:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -747,7 +772,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juli 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -758,7 +783,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Bundesregierung gedenkt der Ermordeten des Widerstands gegen die nationalsozialistische Gewaltherrschaft",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -769,7 +794,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -780,7 +805,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -791,7 +816,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -802,7 +827,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -813,7 +838,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -824,7 +849,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -832,28 +857,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-marktueberwachung-onlinehandel.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "03.07.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-pi4-industrielle-ki.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Abschluss des Bundeseinstiegs bei TenneT Germany",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "03.07.2026",
-    "tags": [],
-    "zusammenfassung": "Abschluss des Bundeseinstiegs bei TenneT Germany",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-bundeseinstieg-bei-tennet-germany.html",
     "gelesen": true
   }
 ];
