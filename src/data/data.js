@@ -523,7 +523,7 @@ const NEWS = [
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 17:09",
+    "datum": "10.07.2026",
     "tags": [
       "eeg"
     ],
@@ -536,7 +536,7 @@ const NEWS = [
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 16:29",
+    "datum": "10.07.2026",
     "tags": [
       "eeg",
       "netz"
@@ -550,7 +550,7 @@ const NEWS = [
     "titel": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:00",
+    "datum": "10.07.2026",
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/26-deutsch-franzoesischer-ministerrat-und-deutsch-franzoesischer-verteidigungs-und-sicherheitsrat-2446612",
@@ -561,7 +561,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:50",
+    "datum": "10.07.2026",
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-demokratischen-volksrepublik-algerien-tebboune-2446658",
@@ -572,7 +572,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz reist nach Paris",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:40",
+    "datum": "10.07.2026",
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-paris-2446620",
@@ -583,7 +583,7 @@ const NEWS = [
     "titel": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:20",
+    "datum": "10.07.2026",
     "tags": [],
     "zusammenfassung": "Die Bewerbungsphase für den Deutschen Verlagspreis 2026 hat begonnen. Ab sofort können sich unabhängige Verlage wieder für die Auszeichnung bewerben. Mit dem Preis würdigt die Bundesregierung bereits zum achten Mal Verlage, die sich durch außergewöhnliche Programme, ein spezielles kulturelles Engagement sowie innovati…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/zwei-millionen-euro-fuer-unabhaengige-verlage-bewerbungsstart-fuer-den-deutschen-verlagspreis-2026-2446652",
@@ -594,7 +594,7 @@ const NEWS = [
     "titel": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "10.07.2026",
     "tags": [
       "markt"
     ],
@@ -607,7 +607,7 @@ const NEWS = [
     "titel": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "10.07.2026",
     "tags": [],
     "zusammenfassung": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-gebaeudemodernisierungsgesetz.html",
