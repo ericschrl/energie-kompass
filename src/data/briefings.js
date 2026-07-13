@@ -3,6 +3,370 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-07-13",
+      "title": "Energie-Kompass Briefing — 13.07.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-meilenstein-fuer-versorgungssicherheit.html"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-gebaeudemodernisierungsgesetz.html"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Mitglieder in den reformierten Nationalen Wasserstoffrat berufen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-neue-mitglieder-reformierter-nwr.html"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-plan-zur-staerkeren-beteiligung.html"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-monopolkommission-hauptgutachten.html"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsgesetz",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-zitat-reiche-bundesverfassungsgericht-gmg.html"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260709_Messwoche.html"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/26-deutsch-franzoesischer-ministerrat-und-deutsch-franzoesischer-verteidigungs-und-sicherheitsrat-2446612"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-demokratischen-volksrepublik-algerien-tebboune-2446658"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz reist nach Paris",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-paris-2446620"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/zwei-millionen-euro-fuer-unabhaengige-verlage-bewerbungsstart-fuer-den-deutschen-verlagspreis-2026-2446652"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Die Bewerbungsphase für den Deutschen Verlagspreis 2026 hat begonnen. Ab sofort können sich unabhängige Verlage wieder für die Auszeichnung bewerben. Mit dem Preis würdigt die Bundesregierung bereits zum achten Mal Verlage, die sich durch außergewöhnliche Programme, ein spezielles kulturelles Engagement sowie innovative Projekte oder die besondere Qualität ihrer verlegerischen Arbeit auszeichnen. Dafür stellt der Bund insgesamt zwei Millionen Euro zur Verfügung. Die Preisverleihung wird am 9. Oktober 2026 im Rahmen der Frankfurter Buchmesse stattfinden. Staatsminister für Kultur und Medien, Wolfram Weimer, sagte zum Start der Bewerbungsphase: „Unabhängige Verlage spüren mit Mut, viel Herzblut und Ausdauer literarische Entdeckungen abseits des Mainstreams auf. Sie eröffnen Einblicke in andere Perspektiven und Lebensentwürfe. Diese wertvolle verlegerische Vielstimmigkeit in unserem Land bewahrt unsere Demokratie vor Einfalt, vor einer Monopolisierung der Meinungen – darum wollen wir ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem israelischen Ministerpräsidenten Netanjahu",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-israelischen-ministerpraesidenten-netanjahu-2446526"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert der Ministerpräsidentin der Republik Korea, Han Seong-sook",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-ministerpraesidentin-der-republik-korea-han-seong-sook-2446408"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrte Frau Ministerpräsidentin, zu Ihrem Amtsantritt als Ministerpräsidentin der Republik Korea gratuliere ich Ihnen herzlich. Deutschland und die Republik Korea verbindet eine vielfältige und vertrauensvolle Partnerschaft, die auf gemeinsamen Werten und Interessen gründet. Umso mehr freue ich mich darauf, in naher Zukunft Ihr Land zu besuchen. Mit diesem Besuch verbinde ich den Wunsch, unsere Zusammenarbeit weiter zu vertiefen. Für Ihre verantwortungsvolle Aufgabe wünsche ich Ihnen Kraft, Erfolg und eine glückliche Hand. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Länder vergeben Stipendienplätze in Italien und Frankreich",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-vergeben-stipendienplaetze-in-italien-und-frankreich-2446358"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer gibt die Rompreisträgerinnen und Rompreisträger für einen Aufenthalt in der vom Bund getragenen Deutschen Akademie Rom Villa Massimo sowie die Stipendiatinnen und Stipendiaten für die Aufenthalte in der Deutschen Akademie Rom Casa Baldi in Olevano Romano und im Deutschen Studienzentrum in Venedig bekannt. Mit diesen Aufenthalten in Italien ermöglicht es die Bundesregierung hochbegabten und besonders qualifizierten Künstlerinnen und Künstlern aus Deutschland, sich künstlerisch weiterzuentwickeln. Die Stipendien werden vollständig aus dem Etat des Beauftragten der Bundesregierung für Kultur und Medien finanziert. Darüber hinaus werden die Stipendiatinnen und Stipendiaten für die Bundesateliers der Cité Internationale des Arts in Paris benannt. Diese Stipendien werden von den sechzehn Ländern finanziert. Die Kosten übernimmt jeweils das Land, in dem die Stipendiengäste ihren Wohnsitz haben. Für den Rompreis, der einen zehnmonatigen Aufenthalt in de..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Popmusikgipfel im Kanzleramt: Weimer startet konzertierte Aktion zwischen Künstlern und Industrie",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/popmusikgipfel-im-kanzleramt-weimer-startet-konzertierte-aktion-zwischen-kuenstlern-und-industrie-2446232"
+                },
+                {
+                  "text": " — 08.07.2026"
+                }
+              ],
+              "sub": "Der Staatsminister für Kultur und Medien, Wolfram Weimer, hat sich heute im Bundeskanzleramt mit Vertreterinnen und Vertretern der Musikbranche auf eine gemeinsame Zukunftsagenda für das Musikstreaming geeinigt. Dafür kamen zum ersten Mal alle Interessengruppen der Musikindustrie gemeinsam zusammen: Musiker wie Herbert Grönemeyer, Manager von Streamingdiensten und Musiklabels sowie Vertreter von Branchenverbänden. Die Zukunftsagenda sieht vor, dass unter Moderation des BKM gemeinsam mit der Branche in einer neu eingerichteten „Taskforce Musikstreaming“ an passgenauen Lösungen für aktuelle Herausforderungen gearbeitet wird. Hierzu gehört auch, einen „Vergütungskompass“ einzuführen, der erstmals belastbare Daten für den deutschen Markt bereitstellt. Kulturstaatsminister Weimer sagte vorab: „Kreatives Schaffen muss sich auch im digitalen Zeitalter lohnen. Die heute vereinbarte Zukunftsagenda eröffnet einen strukturierten Dialog über die Zukunft des Musikstreamings – insbesondere im H..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dip.bundestag.de/vorgang/336979"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Überwiesen"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BR-Sitzung (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dserver.bundestag.de/brp/1067.pdf"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussdrucksache (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+                  "href": "https://dserver.bundestag.de/brd/2026/0143-26B.pdf"
+                },
+                {
+                  "text": " — 10.07.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzentwurf"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "2. Beratung (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btp/21/21089.pdf#P.10968"
+                },
+                {
+                  "text": " — 09.07.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetzentwurf (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btd/21/069/2106914.pdf"
+                },
+                {
+                  "text": " — 07.07.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzentwurf"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-12",
       "title": "Energie-Kompass Briefing — 12.07.2026",
       "sections": [
@@ -11188,102 +11552,6 @@ const BRIEFINGS = {
     {
       "date": "2026-06-13",
       "title": "Energie-Kompass Briefing — 13.06.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine neuen Meldungen in den letzten 24 Stunden (oder noch kein Ingestion-Lauf)."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: 1. Lesung im Bundestag – 20.06.2024"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Ausschussanhörung Sachverständige – 19.06.2024"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GModG (gmodg): Phase „Kabinett\" — nächster Schritt: Stellungnahme E.ON einreichen – Frist 15.06.2024 ⚠️"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Referentenentwurf erwartet Q4 2024"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Verbände-anhörung\" — nächster Schritt: Referentenentwurf erwartet Juni 2024"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-12",
-      "title": "Energie-Kompass Briefing — 12.06.2026",
       "sections": [
         {
           "heading": "Neu seit gestern",
