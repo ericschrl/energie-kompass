@@ -313,8 +313,8 @@ const GESETZE = [
     },
     "positionen": [],
     "news": [
-      "news-9",
-      "news-17"
+      "news-12",
+      "news-20"
     ],
     "quelle": {
       "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260513-gemeinsame-pressemitteilung-neue-weichenstellung-fuer-den-gebaeudebereich-bundeskabinett-beschliesst-gebaeudemodernisierungsgesetz.html",
@@ -520,13 +520,13 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Der Orden Pour le mérite hat unter anderem Marina Abramović und Anselm Kiefer als neue Mitglieder gewählt",
+    "titel": "Kulturbauten-Initiative: Staatsminister Weimer übergibt Förderbescheide in Höhe von rund 43 Millionen Euro für Kulturbauten in Hamburg und…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 11:26",
+    "datum": "Gestern, 13:40",
     "tags": [],
-    "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 31. Mai 2026 in Berlin die Rechtswissenschaftlerin Angelika Nußberger und den bildenden Künstler Anselm Kiefer als inländische Mitglieder sowie die Performancekünstlerin Marina Abramović und den Wirtschaftswissenschaftler Ernst Fehr als ausländische Mitglieder in den Ord…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-unter-anderem-marina-abramovi%C4%87-und-anselm-kiefer-als-neue-mitglieder-gewaehlt-2446736",
+    "zusammenfassung": "Staatsminister Wolfram Weimer setzt seine Kulturbautenreise fort: Am 14. Juli besuchte er den Friedhof Ohlsdorf und die Schaugewächshäuser in Planten un Blomen in Hamburg. Anschließend reiste er nach Lübeck zur Kathedrale St. Marien und zum Dom zu Lübeck. Alle Institutionen erhielten Förderbescheide. Staatsminister We…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-uebergibt-foerderbescheide-in-hoehe-von-rund-43-millionen-euro-fuer-kulturbauten-in-hamburg-und-luebeck-2446910",
     "gelesen": false
   },
   {
@@ -534,7 +534,7 @@ const NEWS = [
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "10.07.2026",
+    "datum": "Gestern, 11:31",
     "tags": [
       "eeg"
     ],
@@ -544,6 +544,39 @@ const NEWS = [
   },
   {
     "id": "news-3",
+    "titel": "Aufbruch in der maritimen Branche – Maritimer Koordinator der Bundesregierung, Christoph Ploß, auf Sommerreise in Mecklenburg-Vorpommern",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 10:30",
+    "tags": [],
+    "zusammenfassung": "Aufbruch in der maritimen Branche – Maritimer Koordinator der Bundesregierung, Christoph Ploß, auf Sommerreise in Mecklenburg-Vorpommern",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260714-sommerreise-ploss-mecklenburg-vorpommern.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Die wirtschaftliche Lage in Deutschland im Juli 20261",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:00",
+    "tags": [],
+    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im Juli 20261",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260714-wirt-lage-deutschland-juli-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Der Orden Pour le mérite hat unter anderem Marina Abramović und Anselm Kiefer als neue Mitglieder gewählt",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "13.07.2026",
+    "tags": [],
+    "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 31. Mai 2026 in Berlin die Rechtswissenschaftlerin Angelika Nußberger und den bildenden Künstler Anselm Kiefer als inländische Mitglieder sowie die Performancekünstlerin Marina Abramović und den Wirtschaftswissenschaftler Ernst Fehr als ausländische Mitglieder in den Ord…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-unter-anderem-marina-abramovi%C4%87-und-anselm-kiefer-als-neue-mitglieder-gewaehlt-2446736",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -557,7 +590,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -568,7 +601,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -579,7 +612,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz reist nach Paris",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -590,7 +623,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -601,7 +634,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -614,7 +647,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -625,7 +658,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bundeskanzler Merz telefoniert mit dem israelischen Ministerpräsidenten Netanjahu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -636,7 +669,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -647,7 +680,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin der Republik Korea, Han Seong-sook",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -658,7 +691,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Neue Mitglieder in den reformierten Nationalen Wasserstoffrat berufen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -671,7 +704,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -682,7 +715,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -693,7 +726,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Bund und Länder vergeben Stipendienplätze in Italien und Frankreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -704,7 +737,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -715,7 +748,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Popmusikgipfel im Kanzleramt: Weimer startet konzertierte Aktion zwischen Künstlern und Industrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -726,7 +759,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -739,7 +772,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Canada-Germany Joint Statement",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -750,7 +783,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Statement by Prime Minister Mark Carney, Chancellor Friedrich Merz and Prime Minister Jonas Gahr Støre",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -761,7 +794,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -772,7 +805,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz äußerte sich heute angesichts der kanadischen Entscheidung zur Beschaffung von U-Booten der 212-CD Klasse:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -783,7 +816,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Sitzung des Nationalen Sicherheitsrates im Juli 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -794,7 +827,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Bundesregierung gedenkt der Ermordeten des Widerstands gegen die nationalsozialistische Gewaltherrschaft",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -805,7 +838,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -816,7 +849,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -824,39 +857,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260706-entwicklung-verarbeitendes-gewerbe-mai.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-us-praesident-trump-zum-250-jahrestag-der-unabhaengigkeit-der-vereinigten-staaten-2445974",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-zum-nato-gipfel-nach-ankara-2445930",
     "gelesen": true
   }
 ];
