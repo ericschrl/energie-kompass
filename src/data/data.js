@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8"
+      "news-13"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -313,8 +313,7 @@ const GESETZE = [
     },
     "positionen": [],
     "news": [
-      "news-18",
-      "news-26"
+      "news-23"
     ],
     "quelle": {
       "url": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260513-gemeinsame-pressemitteilung-neue-weichenstellung-fuer-den-gebaeudebereich-bundeskabinett-beschliesst-gebaeudemodernisierungsgesetz.html",
@@ -520,74 +519,131 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Bundeskabinett bringt Novelle des Wettbewerbsrecht auf den Weg – Staatsminister Weimer: „Mehr Spielraum für wirtschaftliche Stabilisierung…",
+    "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic R…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 18:45",
+    "datum": "Gestern, 16:35",
     "tags": [],
-    "zusammenfassung": "Das Bundeskabinett hat heute den Entwurf zur 12. Novelle des Gesetzes gegen Wettbewerbsbeschränkungen des Bundeswirtschaftsministeriums beschlossen. Sie enthält unter anderem wesentliche Verbesserungen zugunsten der Medienbranche, für die sich auch Medienminister Wolfram Weimer eingesetzt hat. Die neuen Regelungen bet…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-bringt-novelle-des-wettbewerbsrecht-auf-den-weg-staatsminister-weimer-mehr-spielraum-fuer-wirtschaftliche-stabilisierung-von-medienanbietern--2447142",
+    "zusammenfassung": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and coope…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336",
     "gelesen": false
   },
   {
     "id": "news-2",
-    "titel": "Energiewendekompetenz und Digitalisierung – Bundesnetzagentur misst nun auch die Netzleistungsfähigkeit der Netzbetreiber",
+    "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:25",
+    "tags": [],
+    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
     "datum": "Gestern, 14:00",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260716-gitta-connemann-austausch-mittelstand.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 06:00",
+    "tags": [],
+    "zusammenfassung": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "Bundeskabinett bringt Novelle des Wettbewerbsrecht auf den Weg – Staatsminister Weimer: „Mehr Spielraum für wirtschaftliche Stabilisierung…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "15.07.2026",
+    "tags": [],
+    "zusammenfassung": "Das Bundeskabinett hat heute den Entwurf zur 12. Novelle des Gesetzes gegen Wettbewerbsbeschränkungen des Bundeswirtschaftsministeriums beschlossen. Sie enthält unter anderem wesentliche Verbesserungen zugunsten der Medienbranche, für die sich auch Medienminister Wolfram Weimer eingesetzt hat. Die neuen Regelungen bet…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-bringt-novelle-des-wettbewerbsrecht-auf-den-weg-staatsminister-weimer-mehr-spielraum-fuer-wirtschaftliche-stabilisierung-von-medienanbietern--2447142",
+    "gelesen": true
+  },
+  {
+    "id": "news-7",
+    "titel": "Energiewendekompetenz und Digitalisierung – Bundesnetzagentur misst nun auch die Netzleistungsfähigkeit der Netzbetreiber",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "15.07.2026",
     "tags": [
       "netz"
     ],
     "zusammenfassung": "Energiewendekompetenz und Digitalisierung – Bundesnetzagentur misst nun auch die Netzleistungsfähigkeit der Netzbetreiber",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260715_Q.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-8",
     "titel": "Liberalisierungsinitiative für Kultur und Medien – Kulturstaatsminister Weimer: „Kultur entfesseln für mehr Freiheit und weniger Bürokratie“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:25",
+    "datum": "15.07.2026",
     "tags": [],
     "zusammenfassung": "Das Entlastungskabinett der Bundesregierung hat heute eine Reihe weiterer Maßnahmen zum Bürokratieabbau beschlossen. Diese Maßnahmen flankiert Kulturstaatsminister Wolfram Weimer mit einer eigenen Liberalisierungsinitiative zum Bürokratieabbau im Kulturbereich. Ziel ist es, bürokratischen Aufwand für Kreative und Kult…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/liberalisierungsinitiative-fuer-kultur-und-medien-kulturstaatsminister-weimer-kultur-entfesseln-fuer-mehr-freiheit-und-weniger-buerokratie--2447070",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Rüstungsexportpolitik der Bundesregierung im 1. Halbjahr 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:00",
+    "datum": "15.07.2026",
     "tags": [],
     "zusammenfassung": "Rüstungsexportpolitik der Bundesregierung im 1. Halbjahr 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260715-ruestungsexportpolitik-1-halbjahr-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-10",
     "titel": "Erfolgreiches erstes Halbjahr für den Deutschlandfonds: Erste Finanzierungen getätigt, neue Bausteine vor dem Start",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "15.07.2026",
     "tags": [],
     "zusammenfassung": "Erfolgreiches erstes Halbjahr für den Deutschlandfonds: Erste Finanzierungen getätigt, neue Bausteine vor dem Start",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260715-deutschlandfonds.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-11",
     "titel": "Entlastungskabinett dokumentiert erhebliche Entlastungen – Großteil davon resultiert aus Maßnahmen des Bundeswirtschaftsministeriums",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 03:00",
+    "datum": "15.07.2026",
     "tags": [],
     "zusammenfassung": "Entlastungskabinett dokumentiert erhebliche Entlastungen – Großteil davon resultiert aus Maßnahmen des Bundeswirtschaftsministeriums",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260715-entlastungskabinett.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-12",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer übergibt Förderbescheide in Höhe von rund 43 Millionen Euro für Kulturbauten in Hamburg und…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -595,10 +651,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister Wolfram Weimer setzt seine Kulturbautenreise fort: Am 14. Juli besuchte er den Friedhof Ohlsdorf und die Schaugewächshäuser in Planten un Blomen in Hamburg. Anschließend reiste er nach Lübeck zur Kathedrale St. Marien und zum Dom zu Lübeck. Alle Institutionen erhielten Förderbescheide. Staatsminister We…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-uebergibt-foerderbescheide-in-hoehe-von-rund-43-millionen-euro-fuer-kulturbauten-in-hamburg-und-luebeck-2446910",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-13",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -608,10 +664,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Überwiesen",
     "link": "https://dip.bundestag.de/vorgang/336979",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-14",
     "titel": "Aufbruch in der maritimen Branche – Maritimer Koordinator der Bundesregierung, Christoph Ploß, auf Sommerreise in Mecklenburg-Vorpommern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -619,10 +675,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Aufbruch in der maritimen Branche – Maritimer Koordinator der Bundesregierung, Christoph Ploß, auf Sommerreise in Mecklenburg-Vorpommern",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260714-sommerreise-ploss-mecklenburg-vorpommern.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-15",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juli 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -630,10 +686,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im Juli 20261",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260714-wirt-lage-deutschland-juli-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-16",
     "titel": "Der Orden Pour le mérite hat unter anderem Marina Abramović und Anselm Kiefer als neue Mitglieder gewählt",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -641,10 +697,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 31. Mai 2026 in Berlin die Rechtswissenschaftlerin Angelika Nußberger und den bildenden Künstler Anselm Kiefer als inländische Mitglieder sowie die Performancekünstlerin Marina Abramović und den Wirtschaftswissenschaftler Ernst Fehr als ausländische Mitglieder in den Ord…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-unter-anderem-marina-abramovi%C4%87-und-anselm-kiefer-als-neue-mitglieder-gewaehlt-2446736",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-17",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -658,7 +714,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "26. Deutsch-Französischer Ministerrat und Deutsch-Französischer Verteidigungs- und Sicherheitsrat",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -666,10 +722,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/26-deutsch-franzoesischer-ministerrat-und-deutsch-franzoesischer-verteidigungs-und-sicherheitsrat-2446612",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Demokratischen Volksrepublik Algerien, Tebboune",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -677,10 +733,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-demokratischen-volksrepublik-algerien-tebboune-2446658",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz reist nach Paris",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -688,10 +744,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-paris-2446620",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-21",
     "titel": "Zwei Millionen Euro für unabhängige Verlage – Bewerbungsstart für den Deutschen Verlagspreis 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -699,10 +755,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Bewerbungsphase für den Deutschen Verlagspreis 2026 hat begonnen. Ab sofort können sich unabhängige Verlage wieder für die Auszeichnung bewerben. Mit dem Preis würdigt die Bundesregierung bereits zum achten Mal Verlage, die sich durch außergewöhnliche Programme, ein spezielles kulturelles Engagement sowie innovati…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/zwei-millionen-euro-fuer-unabhaengige-verlage-bewerbungsstart-fuer-den-deutschen-verlagspreis-2026-2446652",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-22",
     "titel": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -712,10 +768,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Meilenstein für die Versorgungssicherheit: Kapazitätsmarkt sichert zukünftig die Stromversorgung ab",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-meilenstein-fuer-versorgungssicherheit.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-23",
     "titel": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -723,10 +779,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Gebäudemodernisierungsgesetz ist Investitionsprogramm für den Wärmemarkt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260710-gebaeudemodernisierungsgesetz.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz telefoniert mit dem israelischen Ministerpräsidenten Netanjahu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -734,10 +790,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-israelischen-ministerpraesidenten-netanjahu-2446526",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-25",
     "titel": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -745,10 +801,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Erste Ergebnisse der zweiten bundesweiten Mobilfunkmesswoche",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260709_Messwoche.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz gratuliert der Ministerpräsidentin der Republik Korea, Han Seong-sook",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -756,10 +812,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Ministerpräsidentin, zu Ihrem Amtsantritt als Ministerpräsidentin der Republik Korea gratuliere ich Ihnen herzlich. Deutschland und die Republik Korea verbindet eine vielfältige und vertrauensvolle Partnerschaft, die auf gemeinsamen Werten und Interessen gründet. Umso mehr freue ich mich darauf, in n…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-ministerpraesidentin-der-republik-korea-han-seong-sook-2446408",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-27",
     "titel": "Neue Mitglieder in den reformierten Nationalen Wasserstoffrat berufen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -769,10 +825,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Neue Mitglieder in den reformierten Nationalen Wasserstoffrat berufen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-neue-mitglieder-reformierter-nwr.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-28",
     "titel": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -780,10 +836,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklungs- und Wirtschaftsministerium stellen Plan zur stärkeren Beteiligung deutscher Unternehmen an Projektvergaben vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-plan-zur-staerkeren-beteiligung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-29",
     "titel": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -791,10 +847,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Monopolkommission übergibt Hauptgutachten an Bundeswirtschaftsministerium",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-monopolkommission-hauptgutachten.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-30",
     "titel": "Bund und Länder vergeben Stipendienplätze in Italien und Frankreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -802,63 +858,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer gibt die Rompreisträgerinnen und Rompreisträger für einen Aufenthalt in der vom Bund getragenen Deutschen Akademie Rom Villa Massimo sowie die Stipendiatinnen und Stipendiaten für die Aufenthalte in der Deutschen Akademie Rom Casa Baldi in Olevano Romano und im Deutschen Studienzent…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-vergeben-stipendienplaetze-in-italien-und-frankreich-2446358",
-    "gelesen": false
-  },
-  {
-    "id": "news-26",
-    "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsg…",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "09.07.2026",
-    "tags": [],
-    "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Urteil des Bundesverfassungsgerichts zum Gebäudemodernisierungsgesetz",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260709-zitat-reiche-bundesverfassungsgericht-gmg.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "Popmusikgipfel im Kanzleramt: Weimer startet konzertierte Aktion zwischen Künstlern und Industrie",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "08.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Staatsminister für Kultur und Medien, Wolfram Weimer, hat sich heute im Bundeskanzleramt mit Vertreterinnen und Vertretern der Musikbranche auf eine gemeinsame Zukunftsagenda für das Musikstreaming geeinigt. Dafür kamen zum ersten Mal alle Interessengruppen der Musikindustrie gemeinsam zusammen: Musiker wie Herber…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/popmusikgipfel-im-kanzleramt-weimer-startet-konzertierte-aktion-zwischen-kuenstlern-und-industrie-2446232",
-    "gelesen": false
-  },
-  {
-    "id": "news-28",
-    "titel": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "08.07.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Strompreiskompensation: EU-Kommission genehmigt zusätzliche Entlastungen für energieintensive Unternehmen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260708-strompreiskompensation.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Canada-Germany Joint Statement",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "07.07.2026",
-    "tags": [],
-    "zusammenfassung": "Today, the Prime Minister of Canada, Mark Carney, and the Chancellor of Germany, Friedrich Merz, announced the launch of negotiations towards a Canada-Germany Strategic Partnership Agreement (“Partnership Agreement”). Canada and Germany benefit from a robust bilateral relationship, with established cooperation across…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/canada-germany-joint-statement-2446108",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Statement by Prime Minister Mark Carney, Chancellor Friedrich Merz and Prime Minister Jonas Gahr Støre",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "07.07.2026",
-    "tags": [],
-    "zusammenfassung": "In times of profound geopolitical change, Canada, Germany and Norway are determined to build a strategic, long-term security partnership built on shared values and interests. Yesterday’s Canadian decision to join the German-Norwegian Type 212CD submarine cooperation creates a unique opportunity to boost our defence in…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-by-prime-minister-mark-carney-chancellor-friedrich-merz-and-prime-minister-jonas-gahr-st%C3%B8re-2446106",
     "gelesen": true
   }
 ];
