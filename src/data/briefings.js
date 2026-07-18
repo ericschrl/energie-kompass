@@ -3,6 +3,209 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-07-18",
+      "title": "Energie-Kompass Briefing — 18.07.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließen vertiefte Zusammenarbeit und gemeinsame Prioritäten bei kritischen Rohstoffen und der Vertiefung des EU-Binnenmarkts",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260717-bmwe-und-mefsien-vertiefen-zusammenarbeit.html"
+                },
+                {
+                  "text": " — Gestern, 05:30"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260716-gitta-connemann-austausch-mittelstand.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "16.07.2026 - Solar Aufdach: Gebotstermin",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Jun2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260717_EisenbahnenItalo.html"
+                },
+                {
+                  "text": " — Gestern, 14:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic Republic of Algeria",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ],
+              "sub": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and cooperation in addressing global challenges. In this context, both Sides reaffirm their commitment to multilateral cooperation with the United Nations at its core and the international order based on international law, including the respect for each state’s sovereignty, independence and territorial integrity as well as the protection of human rights and humanitarian principles. Both Sides recall the framework set out by the EU-Algeria Association Agreement and the European Union’s Pact for the Mediterranean that underpins their bilateral relations. Both Sides welcome the adoption of this Joint Declaration on a Strategic Agenda for their bilateral partnership as a milesto..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll unterstützen wird. Ich freue mich darauf, die deutsch-ukrainischen Beziehungen gemeinsam mit Ihnen und in beiderseitigem Interesse fortzuentwickeln. Um die europäische Perspektive der Ukraine weiter zu stärken, möchte ich Sie zu einer entschlossen Reformagenda ermutigen. Seien Sie versichert: Wir stehen dabei fest an der Seite der Ukraine. Für die Bewältigung der vor Ihnen liegenden Aufgaben wünsche ich Ihnen viel Glück und Erfolg. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-17",
       "title": "Energie-Kompass Briefing — 17.07.2026",
       "sections": [
@@ -9089,457 +9292,6 @@ const BRIEFINGS = {
                   "text": " — Heute, 14:00"
                 }
               ]
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-17",
-      "title": "Energie-Kompass Briefing — 17.06.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerium für Wirtschaft und Energie lädt zum Tag der offenen Tür 2026 ein",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260617-bmwe-tag-der-offenen-tuer-2026.html"
-                },
-                {
-                  "text": " — Heute, 02:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutschland ist Partnerland der VivaTech 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260616-vivatech-2026.html"
-                },
-                {
-                  "text": " — Gestern, 11:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die wirtschaftliche Lage in Deutschland im Juni 20261",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260612-wirt-lage-deutschland-juni-2026.html"
-                },
-                {
-                  "text": " — 12.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "300 Aussteller auf dem Innovationstag Mittelstand",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260611-300-aufsteller-auf-dem-innovationstag.html"
-                },
-                {
-                  "text": " — 11.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Luftfahrtstrategie der Bundesregierung – Deutschland als führende Luftfahrtnation, wettbewerbsfähig, souverän, resilient und nachhaltig.",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-luftfahrtstrategie-der-bundesregierung.html"
-                },
-                {
-                  "text": " — 10.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung beschließt Reform des Nationalen Wasserstoffrats",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-reform-des-nationalen-wasserstoffrats.html"
-                },
-                {
-                  "text": " — 10.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "BMWE vereinfacht und beschleunigt die öffentliche Beschaffung weiter – Kabinett erleichtert Direktaufträge an Startups und Beschaffungen für Sicherheitsbehörden",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-bmwe-vereinfacht-oeffentliche-beschaffung.html"
-                },
-                {
-                  "text": " — 10.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutsch‑Japanischer „Aerospace & Defence Industry Roundtable“ – ein Impuls für mehr Dual‑Use‑Kooperation",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-deutsch-japanischer-aerospace-roundtable.html"
-                },
-                {
-                  "text": " — 10.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeswirtschaftsministerium startet Förderaufruf für Cross-Innovationen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260610-foerderaufruf-fuer-cross-innovationen_nl.html"
-                },
-                {
-                  "text": " — 10.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwurf eines 12. Gesetzes zur Änderung des Gesetzes gegen Wettbewerbsbeschränkungen (12. GWB-Novelle)",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260604-12-gesetz-wettbewerbsbeschraenkungen.html"
-                },
-                {
-                  "text": " — 04.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neue Personalie im Bundesministerium für Wirtschaft und Energie",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260603-neue-personalie-im-bmwe.html"
-                },
-                {
-                  "text": " — 03.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Fortsetzung Gespräch zur Chemieagenda: Schritte auf dem Weg zu einer starken und wettbewerbsfähigen Chemieindustrie in Deutschland und Europa",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260601-fortsetzung-gespraech-zur-chemieagenda.html"
-                },
-                {
-                  "text": " — 01.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeswirtschaftsministerium verkündet Gewinner des deutschen „Auctions-as-a-Service“ (AaaS) Fensters der IF25-Auktion der Europäischen Wasserstoffbank",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-gewinner-auctions-as-a-service-fenster.html"
-                },
-                {
-                  "text": " — 29.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Auftakt des Staatsekretärs-Steuerungskreises für die Umsetzung und Weiterentwicklung der Chemieagenda 2045",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-auftakt-des-staatsekretaers.html"
-                },
-                {
-                  "text": " — 29.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "50.000. Antrag auf „Förderzentrale Deutschland“ gestellt",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260529-50000-antrag-auf-foerderzentrale.html"
-                },
-                {
-                  "text": " — 29.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Binnenmarkt vertiefen, Wertschöpfung aufbauen, Resilienz stärken – Rat für Wettbewerbsfähigkeit berät Industrial Accelerator Act und Rechtsform EU Inc.",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-binnenmarkt-wertschoepfung-resilienz.html"
-                },
-                {
-                  "text": " — 28.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ministerin Reiche trifft in China den Parteisekretär der Provinz Guangdong, Huang Kunming, sowie den Gouverneur der Provinz Guangdong, Meng Fanli",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260528-reiche-huang-kunming-meng-fanli.html"
-                },
-                {
-                  "text": " — 28.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Politische Gespräche im Rahmen der China-Reise der Ministerin am 27.05.2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-politische-gespraeche-china-reise.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutliche Entlastung kleiner Kommunen - Bundeskabinett beschließt Novelle des Wärmeplanungsgesetzes",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-novelle-waermeplanungsgesetz.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Konstruktiver Dialog, Transparenz und langfristige Kooperation – Ministerin Reiche reist nach China",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-ministerin-reiche-reist-nach-china.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung (SVR) hat sein Frühjahrsgutachten vorgestellt.",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-zitat-gutachten-wirtschaft-entwicklung.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den Stellvertretenden Vorsitzenden der Nationalen Entwicklungs- und Reformkommission der Volksrepublik China, Zhou Haibing",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-zhou-haibing.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den chinesischen Handelsminister Wang Wentao",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-wang-wentao.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin für Wirtschaft und Energie, Katherina Reiche, trifft den für Wirtschaftsfragen zuständigen Vize-Ministerpräsidenten der Volksrepublik China, He Lifeng",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-reiche-trifft-he-lifeng.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "SEFE und Ksi Lisims LNG unterzeichnen Absichtserklärung über langfristigen LNG-Liefervertrag",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/05/20260527-absichtserklaerung-lng-liefervertrag.html"
-                },
-                {
-                  "text": " — 27.05.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturstaatsminister Wolfram Weimer besucht Weimar: Finanzierungsabkommen für die Klassik Stiftung Weimar unterzeichnet – Spatenstich für Werkstattneubau des Deutschen Nationaltheaters Weimar",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-wolfram-weimer-besucht-weimar-finanzierungsabkommen-fuer-die-klassik-stiftung-weimar-unterzeichnet-spatenstich-fuer-werkstattneubau-des-deutschen-nationaltheaters-weimar-2442018"
-                },
-                {
-                  "text": " — Heute, 13:13"
-                }
-              ],
-              "sub": "Im Rahmen seiner einwöchigen Kulturbautenreise hat Staatsminister Wolfram Weimer, Beauftragter der Bundesregierung für Kultur und Medien, heute die Kulturhauptstadt Weimar besucht. Gemeinsam mit Thüringens Kulturminister Christian Tischner und Weimars Oberbürgermeister Peter Kleine unterzeichnete er im Beisein von Präsidentin der Klassik Stiftung Weimar, Dr. Ulrike Lorenz, das Finanzierungsabkommen für die Klassik Stiftung Weimar für die Jahre 2027 bis 2031. Die Unterzeichnung fand in den restaurierten Dichterzimmern des Residenzschlosses Weimar statt. Am Nachmittag folgte der erste Spatenstich für den Werkstattneubau des Deutschen Nationaltheaters Weimar. Die Klassik Stiftung Weimar zählt zu den größten und bedeutendsten Kulturstiftungen in der Bundesrepublik. Sie ist nicht nur für zwölf UNESCO-Welterbestätten in und um Weimar verantwortlich, sondern auch für singuläre Sammlungen wie die handschriftlichen Nachlässe Johann Wolfgang von Goethes und Friedrich Nietzsches oder die von ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gedenken an die Opfer des Volksaufstandes und des Widerstands in der DDR – Staatsminister Weimer: „Ihre Namen dürfen nie vergessen werden“ – Gestaltungswettbewerb für Denkmal für Opfer der kommunistischen Diktatur in Deutschland beginnt",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gedenken-an-die-opfer-des-volksaufstandes-und-des-widerstands-in-der-ddr-staatsminister-weimer-ihre-namen-duerfen-nie-vergessen-werden-gestaltungswettbewerb-fuer-denkmal-fuer-opfer-der-kommunistischen-diktatur-in-deutschland-beginnt-2441578"
-                },
-                {
-                  "text": " — Heute, 09:42"
-                }
-              ],
-              "sub": "Zum Jahrestag des DDR-Volksaufstandes erklärt Kulturstaatsminister Wolfram Weimer: „Am 17. Juni 1953 nahmen mutige Menschen – Arbeiterinnen und Arbeiter, Jugendliche, Enttäuschte aus der gesamten DDR – ihr Schicksal selbst in die Hand und erhoben sich gegen das SED-Regime. Der Mut dieser Menschen, sich für ein freies Deutschland einzusetzen, bewegt mich zutiefst.“ Der Aufstand wurde durch sowjetische Panzer brutal niedergeschlagen. An die Opfer des SED-Unrechts soll künftig auch im Herzen Berlins erinnert werden. Nun geht das Projekt in eine entscheidende Phase: Am 18. Juni werden die Auslobungsunterlagen für den künstlerischen Gestaltungswettbewerb für das Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland an die bereits ausgewählten Wettbewerbsteilnehmerinnen und -teilnehmer versandt. Dazu Weimer: „Dieses Denkmal in unmittelbarer Nähe des Deutschen Bundestages und des Bundeskanzleramtes schließt nicht nur eine schmerzlich empfundene Lücke..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gemeinsame Verantwortung für die Geschichte Europas – Deutschland gibt weitere kriegsbedingt verbrachte Kulturgüter an Polen zurück",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-verantwortung-fuer-die-geschichte-europas-deutschland-gibt-weitere-kriegsbedingt-verbrachte-kulturgueter-an-polen-zurueck-2441550"
-                },
-                {
-                  "text": " — Heute, 08:55"
-                }
-              ],
-              "sub": "Im Rahmen des Deutsch-Polnischen Forums sind heute verschiedene Kulturgüter an die Republik Polen zurückgegeben worden, die während der deutschen Besatzung Polens im Zweiten Weltkrieg entzogen oder verlagert wurden. Die Rückgaben stehen für die enge deutsch-polnische Zusammenarbeit bei der Aufarbeitung historischen Unrechts und sind Ausdruck der deutschen Verantwortung gegenüber Polen. Außenminister Johann Wadephul würdigte die Rückgaben: „80 Jahre nach dem Ende des Zweiten Weltkrieges können heute in enger Zusammenarbeit mit den bewahrenden Einrichtungen und der polnischen Seite Kulturgüter an Polen zurückgegeben werden, die während Krieg und Besatzung geraubt wurden. Die Rückgabe ist Ausdruck von gegenseitigem Respekt, bleibender deutscher Verantwortung und unserer vertrauensvollen Partnerschaft. Sie stärkt aus Anlass des 35. Jubiläums des Deutsch-Polnisches Freundschaftsvertrages die festen Bande zwischen unseren Ländern weiter. Erinnerung an das Geschehene, Verantwortung für d..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Orte, die Identität stiften: Staatsminister Weimer geht vom 15. bis zum 19. Juni auf Kulturbautenreise",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/orte-die-identitaet-stiften-staatsminister-weimer-geht-vom-15-bis-zum-19-juni-auf-kulturbautenreise-2440538"
-                },
-                {
-                  "text": " — 15.06.2026"
-                }
-              ],
-              "sub": "Im Rahmen einer einwöchigen Reise besucht der Staatsminister für Kultur und Medien, Wolfram Weimer, ausgewählte Kulturbauten in Deutschland. Ziel ist, die herausragende Bedeutung für die kulturelle Identität Deutschlands sichtbar zu machen und zugleich ein Zeichen für die Vielfalt der Kulturlandschaft zu setzen, die weit über die großen Städte hinausreicht. Im Vorfeld sagte Staatsminister Weimer: „Ich freue mich auf einen einzigartigen kulturellen Roadtrip, der mich zu beeindruckenden Orten in Deutschland führen wird. Ich kann nur jeden ermutigen, sich ebenfalls auf Entdeckungsreise zu begeben!“ Er fügte hinzu: „Kulturbauten erzählen die Geschichte unseres Landes. Sie bewahren Erinnerungen, stiften Identität und schaffen Orte der Begegnung – nicht nur in den großen Städten. Gerade in kleineren Gemeinden tragen Museen, Klöster und Schlösser wesentlich zum kulturellen Leben und zum gesellschaftlichen Zusammenhalt bei. Diese Leistungen verdienen Sichtbarkeit und Anerkennung.“ Zu Beg..."
             }
           ]
         },
