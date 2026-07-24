@@ -3,6 +3,472 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-07-24",
+      "title": "Energie-Kompass Briefing — 24.07.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260723-reiche-startet-sommerbesuche-2026.html"
+                },
+                {
+                  "text": " — Gestern, 12:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260722-start-up-scale-up-strategie-beschluss.html"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-zitat-reiche-methan-verordnung.html"
+                },
+                {
+                  "text": " — 21.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiamonds",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-foerderung-startup-quantumdiamonds.html"
+                },
+                {
+                  "text": " — 21.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sommerreise des Tourismuskoordinators der Bundesregierung: Dr. Christoph Ploß besucht Bayerns Tourismusregionen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260720-sommerreise-ploss.html"
+                },
+                {
+                  "text": " — 20.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (EEG-Novelle)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260718-eeg-novelle.html"
+                },
+                {
+                  "text": " — 18.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließen vertiefte Zusammenarbeit und gemeinsame Prioritäten bei kritischen Rohstoffen und der Vertiefung des EU-Binnenmarkts",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260717-bmwe-und-mefsien-vertiefen-zusammenarbeit.html"
+                },
+                {
+                  "text": " — 17.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260716-gitta-connemann-austausch-mittelstand.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "16.07.2026 - Solar Aufdach: Gebotstermin",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Jun2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Trassenengelte.html"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Versorgungssicherheit.html"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Leerrohre.html"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260721_StromVKG.html"
+                },
+                {
+                  "text": " — 21.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260717_EisenbahnenItalo.html"
+                },
+                {
+                  "text": " — 17.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-erklaert-zur-lage-im-roten-meer--2448204"
+                },
+                {
+                  "text": " — Gestern, 21:00"
+                }
+              ],
+              "sub": "„Die Bundesregierung verurteilt die Angriffe der Huthi auf saudische Schiffe im Roten Meer auf das Schärfste. Sie müssen unverzüglich eingestellt werden. Jede Form einer Seeblockade ist inakzeptabel. Diese rücksichtslosen Angriffe gefährden die Freiheit der Schifffahrt und drohen die regionale Stabilität weiter zu untergraben. Wir stehen solidarisch an der Seite von Saudi-Arabien und unseren Partnern in der Region.“"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutung“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-schloss-mainau-ein-einzigartiger-ort-mit-herausragender-kulturhistorischer-bedeutung--2448196"
+                },
+                {
+                  "text": " — Gestern, 15:25"
+                }
+              ],
+              "sub": "Im Rahmen seiner Kulturbautenreise besuchte Staatsminister Wolfram Weimer am 23. Juli Schloss Mainau am Bodensee. Der Beauftragte der Bundesregierung für Kultur und Medien förderte in den letzten Jahren einige Maßnahmen zur Sanierung des Schlosses mit rund 2,44 Millionen Euro. Gut eine weitere Million Euro stehen aus den sogenannten Denkmalschutz-Sonderprogrammen für Schloss und Schlosskirche bereit. Vor Ort konnte sich der Staatsminister ein Bild von den erfolgreichen Arbeiten machen. Staatsminister Weimer sagte vorab: „Die Insel Mainau mit ihrem Schlosskomplex und der Schlosskirche ist ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutung und ein lebendiges Zeugnis von Bau-, Garten- und Kulturgeschichte. Ein Ort, der zum Verweilen einlädt und gleichzeitig Geschichte erlebbar macht – ein Ort, der Identität stiftet. Ich danke dem Haushaltsausschuss des Deutschen Bundestages, der regelmäßig Mittel für Investitionen in bedeutende Kulturbauten bereitstellt.“ „Die Unte..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-litauen-herrn-mindaugas-sinkevi%C4%8Dius-2448120"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Amtsübernahme übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Litauen verbindet eine enge Partnerschaft, die sich sowohl bilateral als auch in der Europäischen Union und der NATO bewährt. Die Stationierung der deutschen Brigade in Litauen unterstreicht unser gemeinsames Bekenntnis zur Sicherheit Europas. Ich freue mich darauf, unsere enge Zusammenarbeit mit Ihrer Regierung fortzusetzen und sie auch im Rahmen Ihrer bevorstehenden EU-Ratspräsidentschaft weiter auszubauen. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-armenischen-ministerpraesidenten-paschinjan-2448108"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-irakischen-premierminister-ali-al-zaidi-2448100"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-von-bundeskanzler-merz-beim-irischen-premierminister-martin-in-dublin-2448092"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-moldau-vasile-tofan-2448080"
+                },
+                {
+                  "text": " — 22.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wahl zum Ministerpräsidenten der Republik Moldau übermittle ich Ihnen meine besten Glückwünsche. Deutschland und Moldau sind auf vielfältige Weise eng miteinander verbunden. Ich freue mich darauf, mit Ihnen gemeinsam unsere Beziehungen zum Wohle unserer beiden Länder weiter auszubauen. Auf dem Weg in die Europäische Union und bei den dafür notwendigen Reformen wird Deutschland auch weiterhin ein verlässlicher Partner der Republik Moldau sein. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen Erfolg und eine glückliche Hand. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the Republic of Azerbaijan",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-republic-of-azerbaijan-2447906"
+                },
+                {
+                  "text": " — 21.07.2026"
+                }
+              ],
+              "sub": "The Federal Republic of Germany and the Republic of Azerbaijan (hereinafter: Sides) recognise the long-standing and friendly relations between the Sides. They affirm their mutual desire to deepen their bilateral partnership and cooperation, based on mutual trust and convergence of interests in various fields. Recalling their respect for each other’s state sovereignty, independence and territorial integrity, the Sides reaffirm their joint commitment to the Charter of the United Nations, the Helsinki Final Act, the European Convention for the Protection of Human Rights and Fundamental Freedoms and other international legal instruments promoting peace and security. The Sides welcome the historic momentum in Azerbaijan-Armenia relations, notably the outcomes of the 8 August 2025 Washington Summit and the subsequent peace steps taken towards the normalisation of relations between the Republic of Azerbaijan and the Republic of Armenia. The Federal Republic of Germany reiterates its full ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem neuen britischen Premierminister Andrew Burnham",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-neuen-britischen-premierminister-andrew-burnham-2447854"
+                },
+                {
+                  "text": " — 20.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Premierminister des Vereinigten Königreichs Großbritannien und Nordirland, Andrew Burnham",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-des-vereinigten-koenigreichs-grossbritannien-und-nordirland-andrew-burnham-2447650"
+                },
+                {
+                  "text": " — 20.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Premierminister, zu Ihrem Amtsantritt als Premierminister möchte ich Ihnen meinen herzlichen Glückwunsch aussprechen. Das Vereinigte Königreich und Deutschland sind einander enge Verbündete und Partner. Gerade in diesen Zeiten beweist sich unsere tiefe Verbundenheit. Sehr gern möchte ich mich mit Ihnen zu den vor uns liegenden Herausforderungen austauschen und lade Sie daher gern zu einem baldigen Besuch nach Berlin ein. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen viel Erfolg, Kraft und gutes Gelingen. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Aserbaidschan, Alijew",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-aserbaidschan-alijew-2447654"
+                },
+                {
+                  "text": " — 20.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic Republic of Algeria",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ],
+              "sub": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and cooperation in addressing global challenges. In this context, both Sides reaffirm their commitment to multilateral cooperation with the United Nations at its core and the international order based on international law, including the respect for each state’s sovereignty, independence and territorial integrity as well as the protection of human rights and humanitarian principles. Both Sides recall the framework set out by the EU-Algeria Association Agreement and the European Union’s Pact for the Mediterranean that underpins their bilateral relations. Both Sides welcome the adoption of this Joint Declaration on a Strategic Agenda for their bilateral partnership as a milesto..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332"
+                },
+                {
+                  "text": " — 16.07.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll unterstützen wird. Ich freue mich darauf, die deutsch-ukrainischen Beziehungen gemeinsam mit Ihnen und in beiderseitigem Interesse fortzuentwickeln. Um die europäische Perspektive der Ukraine weiter zu stärken, möchte ich Sie zu einer entschlossen Reformagenda ermutigen. Seien Sie versichert: Wir stehen dabei fest an der Seite der Ukraine. Für die Bewältigung der vor Ihnen liegenden Aufgaben wünsche ich Ihnen viel Glück und Erfolg. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-07-23",
       "title": "Energie-Kompass Briefing — 23.07.2026",
       "sections": [
@@ -9554,286 +10020,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 22.06.2026"
-                }
-              ],
-              "sub": "Regierungssprecher Stefan Kornelius teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Tag der offenen Tür: Ein großes Dankeschön an die vielen interessierten Besucherinnen und Besucher",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tag-der-offenen-tuer-ein-grosses-dankeschoen-an-die-vielen-interessierten-besucherinnen-und-besucher-2444296"
-                },
-                {
-                  "text": " — 21.06.2026"
-                }
-              ],
-              "sub": "Mit den Auftritten des Bundeskanzlers und zahlreicher Regierungsmitglieder ist am Sonntag der Tag der offenen Tür der Bundesregierung zu Ende gegangen. Auch in diesem Jahr hat die Bundesregierung ihre Türen für interessierte Bürgerinnen und Bürger geöffnet und am Sonnabend und Sonntag ein vielfältiges Programm geboten. Dabei verzeichneten das Kanzleramt, die Bundesministerien und das Presse- und Informationsamt der Bundesregierung trotz großer Hitze und vereinzelter Unwetter insgesamt mehr als 80.000 Besuche. Auf großes Interesse bei den Gästen stieß erneut das Bundeskanzleramt. Bundeskanzler Friedrich Merz und Kanzleramtschef Thorsten Frei sprachen dort am Sonntag mit Bürgerinnen und Bürgern über ihre Regierungsarbeit. Ein weiteres Highlight: die Kinder- und Jugendpressekonferenz mit Regierungssprecher Stefan Kornelius im Presse- und Informationsamt der Bundesregierung. Das große Interesse bei den vielen Bürgerdialogen der Regierungsmitglieder zeigt: Gerade in diesen heraufordern..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Tausende Gäste strömen zum Tag der offenen Tür der Bundesregierung: Viele Highlights am Sonntag geplant",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tausende-gaeste-stroemen-zum-tag-der-offenen-tuer-der-bundesregierung-viele-highlights-am-sonntag-geplant-2443814"
-                },
-                {
-                  "text": " — 20.06.2026"
-                }
-              ],
-              "sub": "Die Bundesregierung lädt an diesem Wochenende zum „Tag der offenen Tür“ ein. Bei warmem Sommerwetter entschieden sich viele Bürgerinnen und Bürger für Politik statt Badesee. Tausende Besucherinnen und Besucher nutzten die Gelegenheit, einen Blick hinter die politischen Kulissen im Bundeskanzleramt, der Bundesministerien und des Presse- und Informationsamts der Bundesregierung zu werfen. Im Gespräch mit dem Bundeskanzler und vielen Regierungsmitgliedern Und auch am morgigen Sonntag können die Gäste vielen Regierungsmitgliedern live begegnen. Viele Ministerinnen und Minister freuen sich darauf, sich und ihre Themen vorzustellen und mit den Besucherinnen und Besuchern direkt ins Gespräch zu kommen. Bundeskanzler Friedrich Merz wird am Sonntag, den 21. Juni, um 16 Uhr, auf der Bühne im Bundeskanzleramt zu Gast sein. Zuvor wird dort der Chef des Bundeskanzleramts, Thorsten Frei, auf der Bühne über die Regierungsarbeit sprechen. Das Bundespresseamt bietet ebenfalls ein vielfältiges..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz nimmt an der Ukraine-Wiederaufbaukonferenz in Danzig teil",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-an-der-ukraine-wiederaufbaukonferenz-in-danzig-teil-2443278"
-                },
-                {
-                  "text": " — 19.06.2026"
-                }
-              ],
-              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Senegal, Bassirou Diomae Faye",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-senegal-bassirou-diomae-faye-2443264"
-                },
-                {
-                  "text": " — 19.06.2026"
-                }
-              ],
-              "sub": "Der stellv. Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-06-23",
-      "title": "Energie-Kompass Briefing — 23.06.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Beteiligung des Bundes an KNDS",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-zitat-reiche-knds.html"
-                },
-                {
-                  "text": " — Gestern, 11:30"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Spendenkampagne für ukrainischen Energiesektor",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/ukraine/spendenkampagne-fuer-den-ukrainischen-energiesektor.html"
-                },
-                {
-                  "text": " — Gestern, 10:00"
-                }
-              ],
-              "sub": "Die Energieinfrastruktur der Ukraine steht seit Beginn des russischen Angriffskriegs unter enormem Druck. Mit einer umfassenden Spendenkampagne unterstützt das BMWE den Wiederaufbau und die stabile Versorgung vor Ort. Unternehmen in Deutschland können sich aktiv beteiligen und dringend benötigte Energiegüter bereitstellen."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neue Mitglieder in den Wissenschaftlichen Beirat beim BMWE berufen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260622-neue-mitglieder-wissenschaftlicher-beirat.html"
-                },
-                {
-                  "text": " — Gestern, 01:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Parlamentarischer Staatssekretär für Wirtschaft und Energie unterzeichnet Absichtserklärung mit Australien für gemeinsame Wasserstoffauktion",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260619-absichtserklaerung-wasserstoffauktion.html"
-                },
-                {
-                  "text": " — 19.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Eine starke Partnerschaft für Wirtschafts- und Energiesicherheit – Bundesministerin Reiche besucht die Türkei",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260618-eine-starke-partnerschaft-tuerkeireise.html"
-                },
-                {
-                  "text": " — 18.06.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "02.04.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/BeendeteAusschreibungen/GT1052026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "07.04.2026 - Wind an Land (Onshore)",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/BeendeteAusschreibungen/2026/GT01052026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur veröffentlicht zehnten Jahresbericht der Breitbandmessung",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260618_Breitbandmessung.html"
-                },
-                {
-                  "text": " — 18.06.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "„Schriftliches Kulturgut erhalten“: Neu aufgelegtes Programm fördert 92 Projekte – Staatsminister Weimer: „Unser kollektives Gedächtnis wird für kommende Generationen bewahrt“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/-schriftliches-kulturgut-erhalten-neu-aufgelegtes-programm-foerdert-92-projekte-staatsminister-weimer-unser-kollektives-gedaechtnis-wird-fuer-kommende-generationen-bewahrt--2444498"
-                },
-                {
-                  "text": " — Heute, 11:10"
-                }
-              ],
-              "sub": "Mit dem in 2026 neu aufgelegten Förderprogramm „Schriftliches Kulturgut erhalten“ wurden jetzt 92 Projekte zur Bewahrung historischer Originale ausgewählt, die mit insgesamt rund 1,5 Millionen Euro gefördert werden. Das Förderprogramm stößt schon in seinem ersten Jahr auf großes Interesse: Rund 200 Projektanträge gingen ein. Staatsminister Wolfram Weimer: „Schriftliches Kulturgut ist unverzichtbarer Bestandteil unseres kollektiven Gedächtnisses. Ohne authentische Quellen wäre eine lebendige Auseinandersetzung mit Geschichte und Kultur nicht möglich. Gerade in Zeiten, in denen historische Fakten zunehmend infrage gestellt werden, sind Archive, Bibliotheken und Museen als Orte der Überlieferung für unsere Demokratie wichtiger denn je. Es ist unsere gesamtstaatliche Aufgabe, dieses Erbe für kommende Generationen zu bewahren und für die Gesellschaft zugänglich zu machen. Der erfolgreiche Start des Förderprogramms ist deshalb eine großartige Nachricht für den Originalerhalt in Deutschla..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung strebt Beteiligung an Rüstungskonzern KNDS an",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-strebt-beteiligung-an-ruestungskonzern-knds-an-2444320"
-                },
-                {
-                  "text": " — Gestern, 10:00"
                 }
               ],
               "sub": "Regierungssprecher Stefan Kornelius teilt mit:"
