@@ -134,8 +134,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-13",
-      "news-22"
+      "news-14",
+      "news-23"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -518,39 +518,50 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:10",
+    "tags": [],
+    "zusammenfassung": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 E…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 21:00",
+    "datum": "23.07.2026",
     "tags": [],
     "zusammenfassung": "„Die Bundesregierung verurteilt die Angriffe der Huthi auf saudische Schiffe im Roten Meer auf das Schärfste. Sie müssen unverzüglich eingestellt werden. Jede Form einer Seeblockade ist inakzeptabel. Diese rücksichtslosen Angriffe gefährden die Freiheit der Schifffahrt und drohen die regionale Stabilität weiter zu unt…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-erklaert-zur-lage-im-roten-meer--2448204",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutu…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:25",
+    "datum": "23.07.2026",
     "tags": [],
     "zusammenfassung": "Im Rahmen seiner Kulturbautenreise besuchte Staatsminister Wolfram Weimer am 23. Juli Schloss Mainau am Bodensee. Der Beauftragte der Bundesregierung für Kultur und Medien förderte in den letzten Jahren einige Maßnahmen zur Sanierung des Schlosses mit rund 2,44 Millionen Euro. Gut eine weitere Million Euro stehen aus…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-schloss-mainau-ein-einzigartiger-ort-mit-herausragender-kulturhistorischer-bedeutung--2448196",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:00",
+    "datum": "23.07.2026",
     "tags": [],
     "zusammenfassung": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260723-reiche-startet-sommerbesuche-2026.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -561,7 +572,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -572,7 +583,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -583,7 +594,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -594,7 +605,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -605,7 +616,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -616,7 +627,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -627,7 +638,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -638,7 +649,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -649,7 +660,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -663,7 +674,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the Republic of Azerbaijan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -674,7 +685,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -687,7 +698,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -698,7 +709,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiam…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -709,7 +720,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz telefoniert mit dem neuen britischen Premierminister Andrew Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -720,7 +731,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Vereinigten Königreichs Großbritannien und Nordirland, Andrew Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -731,7 +742,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Aserbaidschan, Alijew",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -742,7 +753,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Sommerreise des Tourismuskoordinators der Bundesregierung: Dr. Christoph Ploß besucht Bayerns Tourismusregionen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -753,7 +764,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -766,7 +777,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -777,7 +788,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließ…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -788,7 +799,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic R…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -799,7 +810,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -810,7 +821,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -823,7 +834,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -834,7 +845,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -843,17 +854,6 @@ const NEWS = [
     "zusammenfassung": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html",
     "gelesen": false
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskabinett bringt Novelle des Wettbewerbsrecht auf den Weg – Staatsminister Weimer: „Mehr Spielraum für wirtschaftliche Stabilisierung…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.07.2026",
-    "tags": [],
-    "zusammenfassung": "Das Bundeskabinett hat heute den Entwurf zur 12. Novelle des Gesetzes gegen Wettbewerbsbeschränkungen des Bundeswirtschaftsministeriums beschlossen. Sie enthält unter anderem wesentliche Verbesserungen zugunsten der Medienbranche, für die sich auch Medienminister Wolfram Weimer eingesetzt hat. Die neuen Regelungen bet…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-bringt-novelle-des-wettbewerbsrecht-auf-den-weg-staatsminister-weimer-mehr-spielraum-fuer-wirtschaftliche-stabilisierung-von-medienanbietern--2447142",
-    "gelesen": true
   }
 ];
 
