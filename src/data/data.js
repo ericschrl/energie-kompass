@@ -521,7 +521,7 @@ const NEWS = [
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:10",
+    "datum": "24.07.2026",
     "tags": [],
     "zusammenfassung": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 E…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258",
@@ -536,7 +536,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Die Bundesregierung verurteilt die Angriffe der Huthi auf saudische Schiffe im Roten Meer auf das Schärfste. Sie müssen unverzüglich eingestellt werden. Jede Form einer Seeblockade ist inakzeptabel. Diese rücksichtslosen Angriffe gefährden die Freiheit der Schifffahrt und drohen die regionale Stabilität weiter zu unt…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-erklaert-zur-lage-im-roten-meer--2448204",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-3",
@@ -547,7 +547,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen seiner Kulturbautenreise besuchte Staatsminister Wolfram Weimer am 23. Juli Schloss Mainau am Bodensee. Der Beauftragte der Bundesregierung für Kultur und Medien förderte in den letzten Jahren einige Maßnahmen zur Sanierung des Schlosses mit rund 2,44 Millionen Euro. Gut eine weitere Million Euro stehen aus…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-schloss-mainau-ein-einzigartiger-ort-mit-herausragender-kulturhistorischer-bedeutung--2448196",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-4",
@@ -558,7 +558,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260723-reiche-startet-sommerbesuche-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-5",
@@ -569,7 +569,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Amtsübernahme übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Litauen verbindet eine enge Partnerschaft, die sich sowohl bilateral als auch in der Europäischen Union und der NATO bewährt. Die Stationierung der deutschen Brigade in Litauen unterstreicht…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-litauen-herrn-mindaugas-sinkevi%C4%8Dius-2448120",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-6",
@@ -580,7 +580,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-armenischen-ministerpraesidenten-paschinjan-2448108",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -591,7 +591,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-irakischen-premierminister-ali-al-zaidi-2448100",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -602,7 +602,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Trassenengelte.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-9",
@@ -613,7 +613,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Versorgungssicherheit.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -624,7 +624,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Leerrohre.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -635,7 +635,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-von-bundeskanzler-merz-beim-irischen-premierminister-martin-in-dublin-2448092",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -646,7 +646,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wahl zum Ministerpräsidenten der Republik Moldau übermittle ich Ihnen meine besten Glückwünsche. Deutschland und Moldau sind auf vielfältige Weise eng miteinander verbunden. Ich freue mich darauf, mit Ihnen gemeinsam unsere Beziehungen zum Wohle unserer beiden Länder weit…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-moldau-vasile-tofan-2448080",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -657,7 +657,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260722-start-up-scale-up-strategie-beschluss.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -682,7 +682,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The Federal Republic of Germany and the Republic of Azerbaijan (hereinafter: Sides) recognise the long-standing and friendly relations between the Sides. They affirm their mutual desire to deepen their bilateral partnership and cooperation, based on mutual trust and convergence of interests in various fields. Recallin…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-republic-of-azerbaijan-2447906",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -695,7 +695,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260721_StromVKG.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -706,7 +706,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-zitat-reiche-methan-verordnung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -717,7 +717,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiamonds",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-foerderung-startup-quantumdiamonds.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -728,7 +728,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-neuen-britischen-premierminister-andrew-burnham-2447854",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -739,7 +739,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrem Amtsantritt als Premierminister möchte ich Ihnen meinen herzlichen Glückwunsch aussprechen. Das Vereinigte Königreich und Deutschland sind einander enge Verbündete und Partner. Gerade in diesen Zeiten beweist sich unsere tiefe Verbundenheit. Sehr gern möchte ich mich mit Ih…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-des-vereinigten-koenigreichs-grossbritannien-und-nordirland-andrew-burnham-2447650",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -750,7 +750,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-aserbaidschan-alijew-2447654",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -761,7 +761,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sommerreise des Tourismuskoordinators der Bundesregierung: Dr. Christoph Ploß besucht Bayerns Tourismusregionen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260720-sommerreise-ploss.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -774,7 +774,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (EEG-Novelle)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260718-eeg-novelle.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -785,7 +785,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260717_EisenbahnenItalo.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -796,7 +796,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließen vertiefte Zusammenarbeit und gemeinsame Prioritäten bei kritischen Rohstoffen und der Vertiefung des EU-Binnenmarkts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260717-bmwe-und-mefsien-vertiefen-zusammenarbeit.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -807,7 +807,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and coope…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -818,7 +818,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -831,7 +831,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -842,7 +842,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260716-gitta-connemann-austausch-mittelstand.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -853,7 +853,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
