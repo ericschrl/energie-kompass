@@ -521,7 +521,7 @@ const NEWS = [
     "titel": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:00",
+    "datum": "27.07.2026",
     "tags": [],
     "zusammenfassung": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260727-steiniger-neuer-staatssekretaer.html",
