@@ -134,8 +134,9 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-16",
-      "news-25"
+      "news-3",
+      "news-19",
+      "news-28"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -518,6 +519,42 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Gestern, 14:00",
+    "tags": [],
+    "zusammenfassung": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260729_KI_VO.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 11:33",
+    "tags": [],
+    "zusammenfassung": "Das Bundeskabinett hat heute die Prägung zweier Silber-Sondermünzen im Jahr 2027 beschlossen. Damit wird des 75. Geburtstags der Sängerin Tamara Danz und der Uraufführung des Films „Metropolis“ vor 100 Jahren gedacht. Staatsminister Wolfram Weimer erklärt: „Sondermünzen sind weit mehr als Zahlungsmittel. Sie erzählen…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-beschliesst-sondermuenzen-zu-tamara-danz-und-metropolis-staatsminister-weimer-echte-kunstwerke-fuer-die-hosentasche--2448656",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:30",
+    "tags": [
+      "eeg",
+      "netz"
+    ],
+    "zusammenfassung": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260729-eeg-novelle-und-netzanschlusspaket.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -528,7 +565,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -539,7 +576,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -550,7 +587,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -561,7 +598,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutu…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -572,7 +609,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -583,7 +620,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -594,7 +631,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -605,7 +642,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -616,7 +653,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -627,7 +664,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -638,7 +675,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -649,7 +686,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -660,7 +697,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -671,7 +708,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -682,7 +719,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -696,7 +733,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the Republic of Azerbaijan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -707,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -720,7 +757,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -731,7 +768,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiam…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -742,7 +779,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz telefoniert mit dem neuen britischen Premierminister Andrew Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -753,7 +790,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Vereinigten Königreichs Großbritannien und Nordirland, Andrew Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -764,7 +801,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Aserbaidschan, Alijew",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -775,7 +812,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Sommerreise des Tourismuskoordinators der Bundesregierung: Dr. Christoph Ploß besucht Bayerns Tourismusregionen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -786,7 +823,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -799,7 +836,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -810,7 +847,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließ…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -818,41 +855,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließen vertiefte Zusammenarbeit und gemeinsame Prioritäten bei kritischen Rohstoffen und der Vertiefung des EU-Binnenmarkts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260717-bmwe-und-mefsien-vertiefen-zusammenarbeit.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic R…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "16.07.2026",
-    "tags": [],
-    "zusammenfassung": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and coope…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "16.07.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "16.07.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html",
     "gelesen": true
   }
 ];
