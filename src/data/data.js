@@ -134,8 +134,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7",
-      "news-23"
+      "news-9",
+      "news-25"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -518,6 +518,28 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:10",
+    "tags": [],
+    "zusammenfassung": "Staatssekretär a.D. Uwe-Karsten Heye ist am 30. Juli 2026 im Alter von 85 Jahren verstorben. Er war von 1998 bis 2002 als Chef des Bundespresseamtes zugleich Sprecher der Bundesregierung unter Bundeskanzler Gerhard Schröder. Davor war StS a.D. Heye über lange Jahre für verschiedene Medien als Journalist tätig. Bevor e…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/ehemaliger-regierungssprecher-uwe-karsten-heye-verstorben-2448912",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro ber…",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:30",
+    "tags": [],
+    "zusammenfassung": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro bereit",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260803-deutschlandfonds-waechst-weiter.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -528,7 +550,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -539,7 +561,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -550,7 +572,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationa…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -561,7 +583,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -572,7 +594,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -583,7 +605,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -597,7 +619,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -608,7 +630,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -619,7 +641,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -630,7 +652,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -641,7 +663,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutu…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -652,7 +674,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -663,7 +685,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -674,7 +696,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -685,7 +707,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -696,7 +718,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -707,7 +729,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -718,7 +740,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -729,7 +751,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -740,7 +762,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -751,7 +773,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -762,7 +784,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -776,7 +798,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the Republic of Azerbaijan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -787,7 +809,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -800,7 +822,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -811,7 +833,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiam…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -822,7 +844,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz telefoniert mit dem neuen britischen Premierminister Andrew Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -830,28 +852,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-neuen-britischen-premierminister-andrew-burnham-2447854",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz gratuliert dem Premierminister des Vereinigten Königreichs Großbritannien und Nordirland, Andrew Burnham",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "20.07.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Premierminister, zu Ihrem Amtsantritt als Premierminister möchte ich Ihnen meinen herzlichen Glückwunsch aussprechen. Das Vereinigte Königreich und Deutschland sind einander enge Verbündete und Partner. Gerade in diesen Zeiten beweist sich unsere tiefe Verbundenheit. Sehr gern möchte ich mich mit Ih…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-des-vereinigten-koenigreichs-grossbritannien-und-nordirland-andrew-burnham-2447650",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Aserbaidschan, Alijew",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "20.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-aserbaidschan-alijew-2447654",
     "gelesen": true
   }
 ];
