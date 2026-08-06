@@ -3,6 +3,298 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-08-06",
+      "title": "Energie-Kompass Briefing — 06.08.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro bereit",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260803-deutschlandfonds-waechst-weiter.html"
+                },
+                {
+                  "text": " — 03.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/sommerbesuche-reiche-2026.html"
+                },
+                {
+                  "text": " — 31.07.2026"
+                }
+              ],
+              "sub": "Im Rahmen ihrer diesjährigen Sommerreise besuchte Bundeswirtschaftsministerin Katherina Reiche Unternehmen in ganz Deutschland. Konkret führte die Reise nach Nordrhein-Westfalen, Bayern und Baden-Württemberg sowie nach Sachsen-Anhalt und Niedersachsen. Im Mittelpunkt der Besuche stand der Austausch mit Unternehmen und Beschäftigten sowie Vertreterinnen und Vertretern aus Wirtschaft, Industrie und Energieversorgung."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260731-zitat-reiche-bip-geschaeftsklimaindex.html"
+                },
+                {
+                  "text": " — 31.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260729-eeg-novelle-und-netzanschlusspaket.html"
+                },
+                {
+                  "text": " — 29.07.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260727-steiniger-neuer-staatssekretaer.html"
+                },
+                {
+                  "text": " — 27.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "09.06.2026 - Ausschreibungen Biomethan",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/Apr_2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "27.07.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/GT1092026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "27.07.2026 - Ausschreibungen Biomethan",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/Sep_2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260729_KI_VO.html"
+                },
+                {
+                  "text": " — 29.07.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/ehemaliger-regierungssprecher-uwe-karsten-heye-verstorben-2448912"
+                },
+                {
+                  "text": " — 03.08.2026"
+                }
+              ],
+              "sub": "Staatssekretär a.D. Uwe-Karsten Heye ist am 30. Juli 2026 im Alter von 85 Jahren verstorben. Er war von 1998 bis 2002 als Chef des Bundespresseamtes zugleich Sprecher der Bundesregierung unter Bundeskanzler Gerhard Schröder. Davor war StS a.D. Heye über lange Jahre für verschiedene Medien als Journalist tätig. Bevor er 1998 zum Sprecher der Bundesregierung berufen wurde, nahm er ab 1990 bereits eine vergleichbare Funktion als Sprecher der niedersächsischen Landesregierung wahr. Nach seinem Ausscheiden aus dem Bundespresseamt übernahm Uwe-Karsten Heye 2003 die Leitung des Generalkonsulats New York im Geschäftsbereich des Auswärtigen Amtes. Von 2006 bis 2010 war er als Chefredakteur der SPD-Parteizeitung „Vorwärts“ tätig. Uwe-Karsten Heye war Vorstandsvorsitzender des Vereins „Gesicht Zeigen! Für ein weltoffenes Deutschland e.V.“, den er im Jahr 2000 mitgegründet hat. Regierungssprecher Stefan Kornelius: „Uwe-Karsten Heye stand für kollegialen, wertschätzenden Umgang mit Kollegi..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-zur-lage-in-ceuta--2448818"
+                },
+                {
+                  "text": " — 31.07.2026"
+                }
+              ],
+              "sub": "\"Der Schutz der Außengrenzen der Europäischen Union ist entscheidend für die Bekämpfung illegaler Migration. Ich habe die klare Erwartung an alle EU-Mitgliedstaaten, dass sie dieser Pflicht nachkommen. Wir stehen dazu in Kontakt mit der spanischen Regierung. Spanien will und muss die Situation in Ceuta schnellstmöglich wieder in den Griff bekommen. Ich begrüße daher die spanische Absicht, die illegalen Migranten nicht auf den europäischen Kontinent zu lassen. Von Marokko erwarten wir, dass sie die illegalen Migranten unverzüglich wieder zurücknehmen. Es ist gut, dass die Europäische Kommission und Kommissar Magnus Brunner ihre Unterstützung hierfür zugesagt haben. Die im Juni verabschiedete Rückkehrverordnung muss nun unverzüglich und umfassend umgesetzt werden.\""
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationaler Kulturarbeit stärken“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-kampnagel-als-leuchtturm-internationaler-kulturarbeit-staerken--2448778"
+                },
+                {
+                  "text": " — 30.07.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der Kulturbauten-Initiative bis zu 60 Millionen Euro für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg zugesagt. In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangreich modernisiert, erweitert und an steigende Bedarfe angepasst werden. Der offizielle Spatenstich ist für den 30. Oktober unter Teilnahme des Staatsministers geplant. Kulturstaatsminister Weimer: „Kampnagel ist ein Leuchtturm der freien Kulturszene. Seine internationale Kulturarbeit strahlt weit über Hamburg und Deutschland hinaus. Mit den Mitteln trägt der Bund erheblich dazu bei, auf dem historischen Gelände zeitgemäße Produktionsbedingungen zu schaffen. So kann sich Kampnagel auf dem gewohnt hohen künstlerischen Niveau als Spiel- und Produktionsstätte für die freie Szene und als Labor für spartenübergreifende Gegenwartskunst weiterentwickeln. Damit stärken wir gera..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-beschliesst-sondermuenzen-zu-tamara-danz-und-metropolis-staatsminister-weimer-echte-kunstwerke-fuer-die-hosentasche--2448656"
+                },
+                {
+                  "text": " — 29.07.2026"
+                }
+              ],
+              "sub": "Das Bundeskabinett hat heute die Prägung zweier Silber-Sondermünzen im Jahr 2027 beschlossen. Damit wird des 75. Geburtstags der Sängerin Tamara Danz und der Uraufführung des Films „Metropolis“ vor 100 Jahren gedacht. Staatsminister Wolfram Weimer erklärt: „Sondermünzen sind weit mehr als Zahlungsmittel. Sie erzählen Geschichten über unser Land, veranschaulichen seine kulturelle Identität. Sie sind echte Kunstwerke für die Hosentasche. Mit Tamara Danz und Metropolis würdigen wir zwei herausragende kulturelle Leistungen, die das Selbstverständnis unseres Landes bis heute – im wahrsten Sinne – mitprägen.“ Mit einer 35€-Sondermünze erinnert die Bundesrepublik an Tamara Danz. Sie war die weibliche Stimme der Rockmusik in der DDR. Mit ihrer Band Silly schuf sie Songs, deren poetische und zugleich unerschrockene Texte von den Hoffnungen, Widersprüchen und Erfahrungen eines Lebens im SED-Staat erzählten. Bis heute gilt sie als eine der bedeutendsten deutschen Rockmusikerinnen der 1980er-..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-schlaegt-steffen-bilger-fuer-das-amt-des-bundesministers-fuer-verkehr-vor-2448280"
+                },
+                {
+                  "text": " — 26.07.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258"
+                },
+                {
+                  "text": " — 24.07.2026"
+                }
+              ],
+              "sub": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 Euro. Die Mittel stammen aus dem Programm „Investitionen in national bedeutsame Kultureinrichtungen in Deutschland“. Sie kommen der Sanierung und barrierefreien Gestaltung des Ritterakademie-Trakts zur Einrichtung eines Museums zugute. Die Gesamtbaukosten belaufen sich auf 1,5 Millionen Euro. Weitere 431.000 Euro hat der Bund aus dem Denkmalschutz-Sonderprogramm für die denkmalgerechte Sanierung der Klostermauer in Aussicht gestellt. Das Kloster Ettal wurde im Jahr 1330 gegründet und ist bis heute von Benediktinermönchen bewohnt Staatsminister Weimer sagte im Vorfeld: „Das Benediktinerkloster Ettal ist nicht nur ein außergewöhnlicher Ort unserer Glaubens- und Kulturg..."
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-05",
       "title": "Energie-Kompass Briefing — 05.08.2026",
       "sections": [
@@ -8411,398 +8703,6 @@ const BRIEFINGS = {
               ],
               "sub": "Die Bundesregierung erinnert am 20. Juli 2026 – dem 82. Jahrestag des Attentats- und Umsturzversuchs gegen Hitler – mit einer Feierstunde um 11:00 Uhr im Ehrenhof des Bendlerblocks in Berlin, Stauffenbergstraße, an den Widerstand gegen die nationalsozialistische Gewaltherrschaft. Nach der Begrüßung durch den Vorstandsvorsitzenden der Stiftung 20. Juli 1944, Prof. Dr. Robert von Steinau-Steinrück und dem Grußwort des Bürgermeisters von Berlin und Senators für Finanzen, Stefan Evers, wird die Bundesministerin für Bildung, Familie, Senioren, Frauen und Jugend, Karin Prien, die Ansprache halten. Anschließend wird Valerie Riedesel Freifrau zu Eisenbach (Kuratoriumsvorsitzende der Stiftung 20. Juli 1944) das Totengedenken sprechen. Die Vizepräsidentin des Deutschen Bundestages Andrea Lindholz legt danach, begleitet vom Generalinspekteur der Bundeswehr, Carsten Breuer, an dem Ort, an dem Claus Schenk Graf von Stauffenberg und weitere Widerstandsbeteiligte in der Nacht zum 21. Juli 1944 ..."
             },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2445990"
-                },
-                {
-                  "text": " — 04.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert US-Präsident Trump zum 250. Jahrestag der Unabhängigkeit der Vereinigten Staaten",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-us-praesident-trump-zum-250-jahrestag-der-unabhaengigkeit-der-vereinigten-staaten-2445974"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz reist zum NATO-Gipfel nach Ankara",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-zum-nato-gipfel-nach-ankara-2445930"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Öffentliche Bibliotheken dürfen zukünftig sonntags öffnen – Staatsminister Weimer: „Entspricht viel besser der Lebensrealität vieler Menschen“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/oeffentliche-bibliotheken-duerfen-zukuenftig-sonntags-oeffnen-staatsminister-weimer-entspricht-viel-besser-der-lebensrealitaet-vieler-menschen--2445812"
-                },
-                {
-                  "text": " — 02.07.2026"
-                }
-              ],
-              "sub": "Der Koalitionsausschuss hat beschlossen, dass öffentlichen Bibliotheken künftig die Sonn- und Feiertagsöffnung ermöglicht werden soll. Damit sollen Bibliotheken anderen Kulturorten wie Konzerthäusern, Theatern, Kinos und Museen gleichgestellt werden. Dazu erklärt Staatsminister Wolfram Weimer: „Wir stärken Bibliotheken als lebendige Kultur- und Bildungsorte. Denn diese sind weit mehr als nur Ausleihe von Büchern, sie sind auch offene Räume für Begegnung und Austausch. Dass zukünftig mehr Bibliotheken auch sonntags öffnen dürfen, ist ein großer Gewinn für die kulturelle Teilhabe. Gerade Berufstätige und Familien bekommen so die Möglichkeit, Bibliotheken dann zu nutzen, wenn sie Zeit haben. Das macht den Zugang zu Wissen, Kultur und Gemeinschaft einfacher und passt besser zum Alltag vieler Menschen.“ Mit der geplanten Neuregelung setzt die Bundesregierung eine Vereinbarung des Koalitionsvertrags um. Sie trägt der gewandelten Rolle öffentlicher Bibliotheken Rechnung: Bibliotheken si..."
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Empfehlungen der Ausschüsse (BR): ... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
-                  "href": "https://dserver.bundestag.de/brd/2026/0143-1-26.pdf"
-                },
-                {
-                  "text": " — 29.06.2026"
-                }
-              ],
-              "sub": "Drucksache Empfehlungen"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-06",
-      "title": "Energie-Kompass Briefing — 06.07.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Mai 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260706-entwicklung-verarbeitendes-gewerbe-mai.html"
-                },
-                {
-                  "text": " — Heute, 08:30"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ergebnisse des Praxischecks „Marktüberwachung im Onlinehandel“: Impulse für wirksamere Kontrollen im E-Commerce",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-marktueberwachung-onlinehandel.html"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung, Wirtschaft und Forschung richten Plattform Industrie 4.0 auf industrielle KI aus",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-pi4-industrielle-ki.html"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Abschluss des Bundeseinstiegs bei TenneT Germany",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-bundeseinstieg-bei-tennet-germany.html"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Mode im Scheinwerferlicht: Empfang für die deutsche Modewirtschaft im Bundeskanzleramt - Bundesregierung bekennt sich zum Modestandort Deutschland",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260703-mode-im-scheinwerferlicht.html"
-                },
-                {
-                  "text": " — 03.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den Ergebnissen des Koalitionsausschusses",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-koalitionsausschuss.html"
-                },
-                {
-                  "text": " — 02.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Mitteilung des Münchner Drohnenherstellers Quantum Systems über dessen aktuelle erfolgreiche Finanzierungsrunde",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260702-zitat-reiche-quantum-systems.html"
-                },
-                {
-                  "text": " — 02.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zweite Verordnung zur Änderung der Biomasseverordnung",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20251124-zweite-aenderung-biomasseverordnung.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Gesetz zur Stärkung der Reserve",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-zitat-reiche-gesetz-zu-reservisten.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Mittelstandsdialog im Haus der Deutschen Wirtschaft: Praxischecks im Fokus",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-mittelstandsdialog.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neue Regelung zur Förderung der Stromerzeugung aus Holzbiomasse – Bundeskabinett beschließt Reform der Biomasseverordnung und setzt so EU-Vorgaben um",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-reform-der-biomasseverordnung.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutschland geht voran: erste IPCEI-Projekte für Europas nächste Generation der Halbleitertechnologien bei EU-Kommission eingereicht",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260701-ipcei-projekte-fuer-europa.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutschland und Kanada stärken Zusammenarbeit für ein leistungs- und widerstandsfähiges Halbleiterökosystem",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260630-halbleiteroekosystem-deutschland-kanada.html"
-                },
-                {
-                  "text": " — 30.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Starke Partnerschaft für Rohstoffsicherheit und wirtschaftliche Zusammenarbeit - Bundesministerin reist nach Kasachstan",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260629-bundesministerin-reist-nach-kasachstan.html"
-                },
-                {
-                  "text": " — 29.06.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin Reiche trifft chinesischen Handelsminister Wang",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/06/20260628-reiche-trifft-handelsminister-wang.html"
-                },
-                {
-                  "text": " — 28.06.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Digital Services Coordinator in der Bundesnetzagentur fordert eBay zur Einhaltung von Nutzerrechten nach dem Digital Services Act auf",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260706_DSC_ebay.html"
-                },
-                {
-                  "text": " — Heute, 14:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur veröffentlicht Bericht zu den Eisenbahn-Marktentwicklungen 2025",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260701_Eisenbahnen.html"
-                },
-                {
-                  "text": " — 01.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur will faire Chancen für neue Anbieter schaffen",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260630_WettebwerbFernverkehr.html"
-                },
-                {
-                  "text": " — 30.06.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
             {
               "kind": "bullet",
               "spans": [
