@@ -134,8 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-14",
-      "news-30"
+      "news-17"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -507,7 +506,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-5"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,21 +519,54 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:00",
+    "tags": [],
+    "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260807-zitat-reiche-niedrigwasser.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Beratung des Nationalen Sicherheitsrates am 7. August 2026",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 09:57",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/beratung-des-nationalen-sicherheitsrates-am-7-august-2026-2449228",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 08:00",
+    "tags": [],
+    "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260807-entwicklung-produktion-juni.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Bundeskanzler Merz gratuliert der Präsidentin der Republik Peru, Keiko Sofía Fujimori Higuchi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:15",
+    "datum": "06.08.2026",
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Präsidentin, zu Ihrer Amtseinführung als Präsidentin der Republik Peru übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Peru verbindet eine langjährige Partnerschaft, die auf gemeinsamen demokratischen Werten beruht. Ich freue mich darauf, die freundschaftlichen Beziehungen zwische…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-praesidentin-der-republik-peru-keiko-sof%C3%ADa-fujimori-higuchi-2449172",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Bundesnetzagentur startet Konsultation zur Reform der Netzentgeltsystematik Strom",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "06.08.2026",
     "tags": [
       "netz",
       "markt"
@@ -544,33 +576,33 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Neue Transparenzpflichten für KI in Deutschland – Staatsminister Weimer: „Ein wichtiger Meilenstein, der das Vertrauen in digitale Inhalte…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 09:43",
+    "datum": "06.08.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Weimer sieht die neuen KI-Transparenzpflichten als bedeutenden Erfolg für deutsche Unternehmen und als wichtigen Gewinn für den Kultur- und Medienbereich. Seit dem 2. August gelten in der Europäischen Union neue Transparenzpflichten für bestimmte KI-Systeme und KI-generierte Inhalte. Ziel der Neur…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neue-transparenzpflichten-fuer-ki-in-deutschland-staatsminister-weimer-ein-wichtiger-meilenstein-der-das-vertrauen-in-digitale-inhalte-staerkt--2449152",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "06.08.2026",
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260806-entwicklung-verarbeitendes-gewerbe-juni.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 03:00",
+    "datum": "06.08.2026",
     "tags": [
       "markt"
     ],
@@ -579,7 +611,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -590,7 +622,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro ber…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -601,7 +633,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -612,7 +644,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -623,7 +655,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -634,7 +666,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationa…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -645,7 +677,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -656,7 +688,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -667,7 +699,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -681,7 +713,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -692,7 +724,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -703,7 +735,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -714,7 +746,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -725,7 +757,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutu…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -736,7 +768,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -747,7 +779,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -758,7 +790,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -769,7 +801,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -780,7 +812,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -791,7 +823,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -802,7 +834,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -813,7 +845,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -821,42 +853,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-von-bundeskanzler-merz-beim-irischen-premierminister-martin-in-dublin-2448092",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "22.07.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wahl zum Ministerpräsidenten der Republik Moldau übermittle ich Ihnen meine besten Glückwünsche. Deutschland und Moldau sind auf vielfältige Weise eng miteinander verbunden. Ich freue mich darauf, mit Ihnen gemeinsam unsere Beziehungen zum Wohle unserer beiden Länder weit…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-moldau-vasile-tofan-2448080",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "22.07.2026",
-    "tags": [],
-    "zusammenfassung": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260722-start-up-scale-up-strategie-beschluss.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "21.07.2026",
-    "tags": [
-      "eeg",
-      "markt"
-    ],
-    "zusammenfassung": "Überwiesen — Umsetzung unionsrechtlicher Vorgaben zur Abschöpfung von Mehrerlösen von geförderten Erneuerbare-Energien-Anlagen in Hochpreisphasen durch Einführung eines Finanzierungsmodells in Form von zweiseitigen Differenzverträgen (\"Contracts for Difference\", CfDs): Ergänzung des vorhandenen Systems der geförderten…",
-    "link": "https://dip.bundestag.de/vorgang/336979",
     "gelesen": true
   }
 ];
