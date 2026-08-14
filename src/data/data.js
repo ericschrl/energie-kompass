@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-23"
+      "news-30"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -506,7 +506,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-11"
+      "news-18"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -519,28 +519,85 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeskanzler Merz gratuliert dem Präsidenten der Republik Kolumbien, Abelardo de la Espriella",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 18:30",
+    "tags": [],
+    "zusammenfassung": "Sehr geehrter Herr Präsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Deutschland und Kolumbien verbindet eine langjährige und vertrauensvolle Partnerschaft. Ich bin zuversichtlich, dass wir die enge und vielfältige Zusammenarbeit unserer Länder erfolgreich fortsetzen werden. Für die vor Ihnen liegenden ve…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-praesidenten-der-republik-kolumbien-abelardo-de-la-espriella-2449584",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "65. Jahrestag des Mauerbaus – Staatsminister Weimer: „Die Mauertoten mahnen uns, nichts zu verharmlosen.“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 10:18",
+    "tags": [],
+    "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gedenkt der Opfer des SED-Regimes. Mit dem 13. August 2026 jährt sich der Beginn des Berliner Mauerbaus zum 65. Mal. Heute nahm Staatsminister Weimer an der Gedenkveranstaltung für die Opfer von Mauer und Teilung teil. Staatsminister Weimer: „Die Berliner Mauer war f…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/65-jahrestag-des-mauerbaus-staatsminister-weimer-die-mauertoten-mahnen-uns-nichts-zu-verharmlosen--2449494",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Öffentlichen Ausgaben für staatliche Werbung",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:17",
+    "tags": [],
+    "zusammenfassung": "Öffentlichen Ausgaben für staatliche Werbung",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/Haushalt/medienfreiheitsgesetz.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Die wirtschaftliche Lage in Deutschland im August 20261",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:00",
+    "tags": [],
+    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im August 20261",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260813-wirt-lage-deutschland-august-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "CINEA Ausschreibung für CB-RES Status",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 08:27",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "CINEA Ausschreibung für CB-RES Status",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/cinea-ausschreibung-fuer-cb-res-status.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Bundeskabinett beschließt Reform des Rechts der Nachrichtendienste",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:30",
+    "datum": "12.08.2026",
     "tags": [],
     "zusammenfassung": "Der heute vom Bundeskabinett beschlossene Gesetzentwurf zur Reform des Nachrichtendienstrechts stellt die umfangreichste und grundlegendste Überarbeitung der gesetzlichen Grundlagen von Bundesnachrichtendienst und Bundesamt für Verfassungsschutz in der bundesdeutschen Geschichte dar. Bundesministerin für besondere Auf…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-beschliesst-reform-des-rechts-der-nachrichtendienste-2449432",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-7",
     "titel": "Neuer Rückenwind für den Mittelstand: Kleine und mittlere Unternehmen können jetzt auch 2027 von Mitteln aus dem ERP-Sondervermögen profiti…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:00",
+    "datum": "12.08.2026",
     "tags": [],
     "zusammenfassung": "Neuer Rückenwind für den Mittelstand: Kleine und mittlere Unternehmen können jetzt auch 2027 von Mitteln aus dem ERP-Sondervermögen profitieren",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260812-erp-sondervermoegen.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-8",
     "titel": "Künstlerin Gabriele Stötzer erhält das Johanna und Eduard Arnhold-Stipendium der Deutschen Akademie Rom Villa Massimo",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -551,7 +608,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -564,7 +621,31 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-10",
+    "titel": "Connecting Europe Facility (CEF)",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "11.08.2026",
+    "tags": [],
+    "zusammenfassung": "Connecting Europe Facility (CEF)",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/EU-Finanzen-Europaeisches-Semester/connecting-europe-facility.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-11",
+    "titel": "Ausschreibung eröffnet: Bewerbung für die 3. Liste der PCI/PMI-Projekte",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "11.08.2026",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Ausschreibung eröffnet: Bewerbung für die 3. Liste der PCI/PMI-Projekte",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/bewerbung-dritte-liste-pci-pmi-projekte.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-12",
     "titel": "„Gedächtnisstützen unserer Gesellschaft“ –Kulturstaatsminister Weimer stärkt Gedenkstätten mit zehn Millionen Euro zusätzlich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -575,7 +656,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-13",
     "titel": "Sommer-Rohstoffreise des Parlamentarischen Staatssekretärs Stefan Rouenhoff beginnt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -586,7 +667,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-14",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -597,7 +678,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-15",
     "titel": "Beratung des Nationalen Sicherheitsrates am 7. August 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -608,7 +689,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-16",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -619,7 +700,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz gratuliert der Präsidentin der Republik Peru, Keiko Sofía Fujimori Higuchi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -630,7 +711,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-18",
     "titel": "Bundesnetzagentur startet Konsultation zur Reform der Netzentgeltsystematik Strom",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -644,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-19",
     "titel": "Neue Transparenzpflichten für KI in Deutschland – Staatsminister Weimer: „Ein wichtiger Meilenstein, der das Vertrauen in digitale Inhalte…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -655,7 +736,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-20",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -666,7 +747,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-21",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -679,7 +760,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-22",
     "titel": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -690,7 +771,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-23",
     "titel": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro ber…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -701,7 +782,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-24",
     "titel": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -712,7 +793,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-25",
     "titel": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -723,7 +804,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-26",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -734,7 +815,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-27",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationa…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -745,7 +826,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-28",
     "titel": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -756,7 +837,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-29",
     "titel": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -767,7 +848,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-30",
     "titel": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -779,83 +860,6 @@ const NEWS = [
     "zusammenfassung": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260729-eeg-novelle-und-netzanschlusspaket.html",
     "gelesen": false
-  },
-  {
-    "id": "news-24",
-    "titel": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "27.07.2026",
-    "tags": [],
-    "zusammenfassung": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260727-steiniger-neuer-staatssekretaer.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-25",
-    "titel": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "26.07.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-schlaegt-steffen-bilger-fuer-das-amt-des-bundesministers-fuer-verkehr-vor-2448280",
-    "gelesen": false
-  },
-  {
-    "id": "news-26",
-    "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "24.07.2026",
-    "tags": [],
-    "zusammenfassung": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 E…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258",
-    "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "23.07.2026",
-    "tags": [],
-    "zusammenfassung": "„Die Bundesregierung verurteilt die Angriffe der Huthi auf saudische Schiffe im Roten Meer auf das Schärfste. Sie müssen unverzüglich eingestellt werden. Jede Form einer Seeblockade ist inakzeptabel. Diese rücksichtslosen Angriffe gefährden die Freiheit der Schifffahrt und drohen die regionale Stabilität weiter zu unt…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-erklaert-zur-lage-im-roten-meer--2448204",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutu…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "23.07.2026",
-    "tags": [],
-    "zusammenfassung": "Im Rahmen seiner Kulturbautenreise besuchte Staatsminister Wolfram Weimer am 23. Juli Schloss Mainau am Bodensee. Der Beauftragte der Bundesregierung für Kultur und Medien förderte in den letzten Jahren einige Maßnahmen zur Sanierung des Schlosses mit rund 2,44 Millionen Euro. Gut eine weitere Million Euro stehen aus…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-schloss-mainau-ein-einzigartiger-ort-mit-herausragender-kulturhistorischer-bedeutung--2448196",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "23.07.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260723-reiche-startet-sommerbesuche-2026.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "22.07.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Amtsübernahme übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Litauen verbindet eine enge Partnerschaft, die sich sowohl bilateral als auch in der Europäischen Union und der NATO bewährt. Die Stationierung der deutschen Brigade in Litauen unterstreicht…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-litauen-herrn-mindaugas-sinkevi%C4%8Dius-2448120",
-    "gelesen": true
   }
 ];
 
