@@ -520,7 +520,7 @@ const NEWS = [
     "titel": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "14.08.2026",
     "tags": [],
     "zusammenfassung": "„Klarer und verlässlicher Rahmen für Investitionen“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html",
@@ -535,7 +535,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Präsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Deutschland und Kolumbien verbindet eine langjährige und vertrauensvolle Partnerschaft. Ich bin zuversichtlich, dass wir die enge und vielfältige Zusammenarbeit unserer Länder erfolgreich fortsetzen werden. Für die vor Ihnen liegenden ve…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-praesidenten-der-republik-kolumbien-abelardo-de-la-espriella-2449584",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-3",
@@ -546,7 +546,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gedenkt der Opfer des SED-Regimes. Mit dem 13. August 2026 jährt sich der Beginn des Berliner Mauerbaus zum 65. Mal. Heute nahm Staatsminister Weimer an der Gedenkveranstaltung für die Opfer von Mauer und Teilung teil. Staatsminister Weimer: „Die Berliner Mauer war f…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/65-jahrestag-des-mauerbaus-staatsminister-weimer-die-mauertoten-mahnen-uns-nichts-zu-verharmlosen--2449494",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-4",
@@ -557,7 +557,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Öffentlichen Ausgaben für staatliche Werbung",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/Haushalt/medienfreiheitsgesetz.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-5",
@@ -568,7 +568,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im August 20261",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260813-wirt-lage-deutschland-august-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-6",
@@ -581,7 +581,7 @@ const NEWS = [
     ],
     "zusammenfassung": "CINEA Ausschreibung für CB-RES Status",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/cinea-ausschreibung-fuer-cb-res-status.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -592,7 +592,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der heute vom Bundeskabinett beschlossene Gesetzentwurf zur Reform des Nachrichtendienstrechts stellt die umfangreichste und grundlegendste Überarbeitung der gesetzlichen Grundlagen von Bundesnachrichtendienst und Bundesamt für Verfassungsschutz in der bundesdeutschen Geschichte dar. Bundesministerin für besondere Auf…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskabinett-beschliesst-reform-des-rechts-der-nachrichtendienste-2449432",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -603,7 +603,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Neuer Rückenwind für den Mittelstand: Kleine und mittlere Unternehmen können jetzt auch 2027 von Mitteln aus dem ERP-Sondervermögen profitieren",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260812-erp-sondervermoegen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-9",
@@ -614,7 +614,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Künstlerin, Autorin und Performerin Gabriele Stötzer wird mit dem Johanna und Eduard Arnhold-Stipendium der Deutschen Akademie Rom Villa Massimo ausgezeichnet. Dazu erklärt Staatsminister Weimer: „Mit der Auszeichnung von Gabriele Stötzer würdigt die Jury eine Künstlerin, die eindrucksvoll zeigt, wie Freiheit auch…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kuenstlerin-gabriele-stoetzer-erhaelt-das-johanna-und-eduard-arnhold-stipendium-der-deutschen-akademie-rom-villa-massimo-2449338",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -627,7 +627,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260811-entwurf-absicherung-ausbau-windenergie.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -638,7 +638,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Connecting Europe Facility (CEF)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/EU-Finanzen-Europaeisches-Semester/connecting-europe-facility.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -651,7 +651,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Ausschreibung eröffnet: Bewerbung für die 3. Liste der PCI/PMI-Projekte",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/bewerbung-dritte-liste-pci-pmi-projekte.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -662,7 +662,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer stellt den Gedenkstätten zur Aufarbeitung des Nationalsozialismus und der SED-Diktatur im kommenden Jahr zusätzlich zehn Millionen Euro zur Verfügung. Davon entfallen fünf Millionen Euro auf Projektförderungen und weitere fünf Millionen Euro auf die institutionelle Stärkung der vom…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/-gedaechtnisstuetzen-unserer-gesellschaft-kulturstaatsminister-weimer-staerkt-gedenkstaetten-mit-zehn-millionen-euro-zusaetzlich-2449282",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -673,7 +673,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sommer-Rohstoffreise des Parlamentarischen Staatssekretärs Stefan Rouenhoff beginnt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260810-sommer-rohstoffreise-rouenhoff.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -684,7 +684,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260807-zitat-reiche-niedrigwasser.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -695,7 +695,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/beratung-des-nationalen-sicherheitsrates-am-7-august-2026-2449228",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -706,7 +706,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260807-entwicklung-produktion-juni.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -717,7 +717,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Präsidentin, zu Ihrer Amtseinführung als Präsidentin der Republik Peru übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Peru verbindet eine langjährige Partnerschaft, die auf gemeinsamen demokratischen Werten beruht. Ich freue mich darauf, die freundschaftlichen Beziehungen zwische…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-praesidentin-der-republik-peru-keiko-sof%C3%ADa-fujimori-higuchi-2449172",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -731,7 +731,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Auf dem Weg zu mehr Flexibilität und Systemeffizienz im Strommarkt liegen wir gut im Zeitplan. Nach der heute gestarteten Konsultation wollen wir mit einer Festlegung zum Jahresende den Strommarktakteuren zwei Jahre Zeit für die Umsetzung der zukünftigen Entgeltsystematik geben.“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260806_Agnes.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -742,7 +742,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Weimer sieht die neuen KI-Transparenzpflichten als bedeutenden Erfolg für deutsche Unternehmen und als wichtigen Gewinn für den Kultur- und Medienbereich. Seit dem 2. August gelten in der Europäischen Union neue Transparenzpflichten für bestimmte KI-Systeme und KI-generierte Inhalte. Ziel der Neur…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neue-transparenzpflichten-fuer-ki-in-deutschland-staatsminister-weimer-ein-wichtiger-meilenstein-der-das-vertrauen-in-digitale-inhalte-staerkt--2449152",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -753,7 +753,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260806-entwicklung-verarbeitendes-gewerbe-juni.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -766,7 +766,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260806-zitat-reiche-strompreise-in-deutschland.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -777,7 +777,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatssekretär a.D. Uwe-Karsten Heye ist am 30. Juli 2026 im Alter von 85 Jahren verstorben. Er war von 1998 bis 2002 als Chef des Bundespresseamtes zugleich Sprecher der Bundesregierung unter Bundeskanzler Gerhard Schröder. Davor war StS a.D. Heye über lange Jahre für verschiedene Medien als Journalist tätig. Bevor e…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/ehemaliger-regierungssprecher-uwe-karsten-heye-verstorben-2448912",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -788,7 +788,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro bereit",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260803-deutschlandfonds-waechst-weiter.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -799,7 +799,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "\"Der Schutz der Außengrenzen der Europäischen Union ist entscheidend für die Bekämpfung illegaler Migration. Ich habe die klare Erwartung an alle EU-Mitgliedstaaten, dass sie dieser Pflicht nachkommen. Wir stehen dazu in Kontakt mit der spanischen Regierung. Spanien will und muss die Situation in Ceuta schnellstmöglic…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-zur-lage-in-ceuta--2448818",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -810,7 +810,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen ihrer diesjährigen Sommerreise besuchte Bundeswirtschaftsministerin Katherina Reiche Unternehmen in ganz Deutschland. Konkret führte die Reise nach Nordrhein-Westfalen, Bayern und Baden-Württemberg sowie nach Sachsen-Anhalt und Niedersachsen. Im Mittelpunkt der Besuche stand der Austausch mit Unternehmen und…",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/sommerbesuche-reiche-2026.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -821,7 +821,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260731-zitat-reiche-bip-geschaeftsklimaindex.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -832,7 +832,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der Kulturbauten-Initiative bis zu 60 Millionen Euro für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg zugesagt. In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangr…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-kampnagel-als-leuchtturm-internationaler-kulturarbeit-staerken--2448778",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -843,7 +843,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260729_KI_VO.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -854,7 +854,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Das Bundeskabinett hat heute die Prägung zweier Silber-Sondermünzen im Jahr 2027 beschlossen. Damit wird des 75. Geburtstags der Sängerin Tamara Danz und der Uraufführung des Films „Metropolis“ vor 100 Jahren gedacht. Staatsminister Wolfram Weimer erklärt: „Sondermünzen sind weit mehr als Zahlungsmittel. Sie erzählen…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-beschliesst-sondermuenzen-zu-tamara-danz-und-metropolis-staatsminister-weimer-echte-kunstwerke-fuer-die-hosentasche--2448656",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
