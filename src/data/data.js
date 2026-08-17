@@ -504,7 +504,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-19"
+      "news-21"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -517,6 +517,28 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Congratulations on India´s 80th Independence Day",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger.",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstleris…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 10:40",
+    "tags": [],
+    "zusammenfassung": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -527,7 +549,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "Bundeskanzler Merz gratuliert dem Präsidenten der Republik Kolumbien, Abelardo de la Espriella",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -538,7 +560,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "65. Jahrestag des Mauerbaus – Staatsminister Weimer: „Die Mauertoten mahnen uns, nichts zu verharmlosen.“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -549,7 +571,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "Öffentlichen Ausgaben für staatliche Werbung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -560,7 +582,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "Die wirtschaftliche Lage in Deutschland im August 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -571,7 +593,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "CINEA Ausschreibung für CB-RES Status",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -584,7 +606,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Bundeskabinett beschließt Reform des Rechts der Nachrichtendienste",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -595,7 +617,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Neuer Rückenwind für den Mittelstand: Kleine und mittlere Unternehmen können jetzt auch 2027 von Mitteln aus dem ERP-Sondervermögen profiti…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -606,7 +628,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Künstlerin Gabriele Stötzer erhält das Johanna und Eduard Arnhold-Stipendium der Deutschen Akademie Rom Villa Massimo",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -617,7 +639,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -630,7 +652,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Connecting Europe Facility (CEF)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -641,7 +663,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Ausschreibung eröffnet: Bewerbung für die 3. Liste der PCI/PMI-Projekte",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -654,7 +676,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "„Gedächtnisstützen unserer Gesellschaft“ –Kulturstaatsminister Weimer stärkt Gedenkstätten mit zehn Millionen Euro zusätzlich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -665,7 +687,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Sommer-Rohstoffreise des Parlamentarischen Staatssekretärs Stefan Rouenhoff beginnt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -676,7 +698,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -687,7 +709,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Beratung des Nationalen Sicherheitsrates am 7. August 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -698,7 +720,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -709,7 +731,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz gratuliert der Präsidentin der Republik Peru, Keiko Sofía Fujimori Higuchi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -720,7 +742,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Bundesnetzagentur startet Konsultation zur Reform der Netzentgeltsystematik Strom",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -734,7 +756,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Neue Transparenzpflichten für KI in Deutschland – Staatsminister Weimer: „Ein wichtiger Meilenstein, der das Vertrauen in digitale Inhalte…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -745,7 +767,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -756,7 +778,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -769,7 +791,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -780,7 +802,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro ber…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -791,7 +813,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -802,7 +824,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -813,7 +835,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -824,7 +846,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationa…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -832,28 +854,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der Kulturbauten-Initiative bis zu 60 Millionen Euro für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg zugesagt. In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangr…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-kampnagel-als-leuchtturm-internationaler-kulturarbeit-staerken--2448778",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "29.07.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260729_KI_VO.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "29.07.2026",
-    "tags": [],
-    "zusammenfassung": "Das Bundeskabinett hat heute die Prägung zweier Silber-Sondermünzen im Jahr 2027 beschlossen. Damit wird des 75. Geburtstags der Sängerin Tamara Danz und der Uraufführung des Films „Metropolis“ vor 100 Jahren gedacht. Staatsminister Wolfram Weimer erklärt: „Sondermünzen sind weit mehr als Zahlungsmittel. Sie erzählen…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-beschliesst-sondermuenzen-zu-tamara-danz-und-metropolis-staatsminister-weimer-echte-kunstwerke-fuer-die-hosentasche--2448656",
     "gelesen": true
   }
 ];
