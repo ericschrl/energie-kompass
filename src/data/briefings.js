@@ -3,6 +3,249 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-08-23",
+      "title": "Energie-Kompass Briefing — 23.08.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20260821-uebertragungsnetzkosten-2027-bis-2029.html"
+                },
+                {
+                  "text": " — 21.08.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "17.08.2026 - Ausschreibungen Biomethan",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/Sep_2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "18.08.2026 - Solaranlagen (Photovoltaik, erstes Segment): Ausschreibung 1. März 2024",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01072026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260819_EisenbahnMethoden.html"
+                },
+                {
+                  "text": " — 19.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260818_Solar1.html"
+                },
+                {
+                  "text": " — 18.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html"
+                },
+                {
+                  "text": " — 14.08.2026"
+                }
+              ],
+              "sub": "„Klarer und verlässlicher Rahmen für Investitionen“"
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister Weimer: Filmförderung des Bundes wirkt",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/erfolgsjahr-fuer-die-bundesfilmfoerderung-rekordanzahl-an-gefoerderten-filmen-und-serien-foerdermittel-bereits-ausgeschoepft-staatsminister-weimer-filmfoerderung-des-bundes-wirkt-2449928"
+                },
+                {
+                  "text": " — 21.08.2026"
+                }
+              ],
+              "sub": "Die Bundesfilmförderung blickt auf ein außergewöhnlich erfolgreiches Jahr 2026. Nachdem bereits 2025 eine deutlich gestiegene Nachfrage nach Fördermitteln zu verzeichnen war, setzt sich diese Entwicklung in diesem Jahr fort: Noch nie wurden auf Bundesebene so viele Film- und Serienproduktionen gefördert wie 2026. Die für die wirtschaftliche Filmförderung bereitgestellten Mittel sind bereits ausgeschöpft. Dazu Staatsminister Weimer: „Die Filmförderung des Bundes wirkt. Wir investieren in die Zukunft des Filmstandorts Deutschland und schaffen die Voraussetzungen dafür, dass es wieder mehr Filme und Serien made in Germany gibt. Das wird auch international für Aufmerksamkeit sorgen. Die Rekordnachfrage nach Fördermitteln ist zudem ein starkes Signal für die Leistungsfähigkeit unserer Wirtschaft.“ Allein für die wirtschaftliche Filmförderung stehen 2026 250 Millionen Euro aus dem Bundeshaushalt zur Verfügung. Das ist nahezu doppelt so viel wie im Vorjahr. Damit werden in den Jahren 202..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria and Greece on the E1 West Bank Settlement Plan",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-and-greece-on-the-e1-west-bank-settlement-plan-2449908"
+                },
+                {
+                  "text": " — 20.08.2026"
+                }
+              ],
+              "sub": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by driving a wedge through the West Bank and harming the territorial contiguity of the Palestinian Territories. International Law is clear that Israeli settlements in the West Bank are illegal. This is the position of the international community reaffirmed by the United Nations Security Council. At a time of grave instability in the West Bank with unprecedented levels of violence by settlers against civilians, and serious restrictions on the Palestinian economy, this decision is even more concerning. We urge the Government of Israel to retract these plans immediately and end its expansion of settlements in the West Bank. Not only will they take us further from peace, b..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bauhaus-Manifest – Breites Bündnis aus Kultur, Design, Handwerk, Architektur und Kirchen setzt Zeichen für Freiheit, Offenheit und Kreativität",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bauhaus-manifest-breites-buendnis-aus-kultur-design-handwerk-architektur-und-kirchen-setzt-zeichen-fuer-freiheit-offenheit-und-kreativitaet-2449872"
+                },
+                {
+                  "text": " — 20.08.2026"
+                }
+              ],
+              "sub": "Auf Initiative von Staatsminister Weimer haben Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Das Manifest versteht sich als ein aktuelles kultur- und gesellschaftspolitisches Bekenntnis zu den Prinzipien, die das Bauhaus bis heute zu einer weltweit prägenden kulturellen Ikone machen: Die Freiheit des künstlerischen Denkens, Offenheit gegenüber neuen Ideen, die Verbindung unterschiedlicher Disziplinen und die Überzeugung, dass kulturelle Innovation einen wichtigen Beitrag zur Entwicklung einer demokratischen Gesellschaft leisten kann. Gleichzeitig ist das Manifest ein Plädoyer dafür, die Prinzipien des Bauhauses gegen demokratiefeindliche Angriffe zu verteidigen. Zu den Unterzeichnern gehören: • Akademie der Künste: Prof. Manos Tsangaris, Präsident der Akademie der Künste • Beauftragter der Bundesregierung für Kultur und Medien: Dr. Wolfram Weimer, Staatsminister für Kultur und Medien ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Congratulations on India´s 80th Independence Day",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624"
+                },
+                {
+                  "text": " — 16.08.2026"
+                }
+              ],
+              "sub": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstlerische Akzente gesetzt“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622"
+                },
+                {
+                  "text": " — 16.08.2026"
+                }
+              ],
+              "sub": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus war der deutsche Film in nahezu allen Festivalsektionen präsent. Kulturstaatsminister Wolfram Weimer: „Der deutsche Film war in diesem Jahr geradezu prägend für das Festivalprogramm von Locarno. Deutschlands Filmkünstlerinnen und -künstler haben beindruckende Erfolge erzielt mit Geschichten, die weltweit ein Publikum finden sowie mit einer außergewöhnlichen Vielfalt an Perspektiven und filmischen Erzählformen. Damit haben sie der kreativen Kraft und internationalen Ausstrahlung des deutschen Films alle Ehre gemacht. Dafür danke ich allen Filmteams sehr.“ Staatsminister Weimer weiter: „Matheus Farias‘ und Enock Carvalhos Film „Das Flussufer“ wurde beim Locarno Film ..."
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-22",
       "title": "Energie-Kompass Briefing — 22.08.2026",
       "sections": [
@@ -7583,472 +7826,6 @@ const BRIEFINGS = {
                 }
               ],
               "sub": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 Euro. Die Mittel stammen aus dem Programm „Investitionen in national bedeutsame Kultureinrichtungen in Deutschland“. Sie kommen der Sanierung und barrierefreien Gestaltung des Ritterakademie-Trakts zur Einrichtung eines Museums zugute. Die Gesamtbaukosten belaufen sich auf 1,5 Millionen Euro. Weitere 431.000 Euro hat der Bund aus dem Denkmalschutz-Sonderprogramm für die denkmalgerechte Sanierung der Klostermauer in Aussicht gestellt. Das Kloster Ettal wurde im Jahr 1330 gegründet und ist bis heute von Benediktinermönchen bewohnt Staatsminister Weimer sagte im Vorfeld: „Das Benediktinerkloster Ettal ist nicht nur ein außergewöhnlicher Ort unserer Glaubens- und Kulturg..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-24",
-      "title": "Energie-Kompass Briefing — 24.07.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin Katherina Reiche startet Sommerbesuche 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260723-reiche-startet-sommerbesuche-2026.html"
-                },
-                {
-                  "text": " — Gestern, 12:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskabinett beschließt Startup- und Scaleup-Strategie",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260722-start-up-scale-up-strategie-beschluss.html"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zur Entscheidung der EU-Kommission über die Methan-Verordnung",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-zitat-reiche-methan-verordnung.html"
-                },
-                {
-                  "text": " — 21.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ausbau des deutschen Mikroelektronik-Ökosystems schreitet voran - Bundeswirtschaftsministerium fördert innovatives Chip-Startup QuantumDiamonds",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260721-foerderung-startup-quantumdiamonds.html"
-                },
-                {
-                  "text": " — 21.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Sommerreise des Tourismuskoordinators der Bundesregierung: Dr. Christoph Ploß besucht Bayerns Tourismusregionen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260720-sommerreise-ploss.html"
-                },
-                {
-                  "text": " — 20.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (EEG-Novelle)",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/20260718-eeg-novelle.html"
-                },
-                {
-                  "text": " — 18.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "BMWE und das französische Ministerium für Wirtschaft, Finanzen und industrielle, energiewirtschaftliche und digitale Souveränität beschließen vertiefte Zusammenarbeit und gemeinsame Prioritäten bei kritischen Rohstoffen und der Vertiefung des EU-Binnenmarkts",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260717-bmwe-und-mefsien-vertiefen-zusammenarbeit.html"
-                },
-                {
-                  "text": " — 17.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gitta Connemann vor Ort: Direkter Austausch mit dem Mittelstand in Nordrhein-Westfalen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260716-gitta-connemann-austausch-mittelstand.html"
-                },
-                {
-                  "text": " — 16.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bonner Klimakonferenz SB64: UNEP als Träger des Climate Technology Centre and Network bestätigt",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Dossier/NDE/News-und-Events/20260716-bonner-klimakonferenz-sb64.html"
-                },
-                {
-                  "text": " — 16.07.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "16.07.2026 - Solar Aufdach: Gebotstermin",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Jun2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur genehmigt Trassenentgelte 2026 nach Urteil des EuGH neu",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Trassenengelte.html"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur veröffentlicht Deutschlandkarte zur Versorgungsqualität der Verteilernetzbetreiber",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Versorgungssicherheit.html"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur legt die Bedingungen für den Zugang zu Leerrohren der Telekom fest",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260722_Leerrohre.html"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Start der Ausschreibungen für Langzeitkapazitäten nach StromVKG – Gebotstermin 8. September 2026",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260721_StromVKG.html"
-                },
-                {
-                  "text": " — 21.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Mehr Wettbewerb im Fernverkehr – Bundesnetzagentur schafft faire Chancen für neue Anbieter",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260717_EisenbahnenItalo.html"
-                },
-                {
-                  "text": " — 17.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ausschreibung für Aufdach-Solaranlagen zum 1. Juni 2026 trotz deutlichen Anstiegs der Gebotsmenge nochmals unterzeichnet",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260716_Solar2.html"
-                },
-                {
-                  "text": " — 16.07.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz erklärt zur Lage im Roten Meer:",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-erklaert-zur-lage-im-roten-meer--2448204"
-                },
-                {
-                  "text": " — Gestern, 21:00"
-                }
-              ],
-              "sub": "„Die Bundesregierung verurteilt die Angriffe der Huthi auf saudische Schiffe im Roten Meer auf das Schärfste. Sie müssen unverzüglich eingestellt werden. Jede Form einer Seeblockade ist inakzeptabel. Diese rücksichtslosen Angriffe gefährden die Freiheit der Schifffahrt und drohen die regionale Stabilität weiter zu untergraben. Wir stehen solidarisch an der Seite von Saudi-Arabien und unseren Partnern in der Region.“"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturbauten-Initiative: Staatsminister Weimer besucht Schloss Mainau: „Ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutung“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-schloss-mainau-ein-einzigartiger-ort-mit-herausragender-kulturhistorischer-bedeutung--2448196"
-                },
-                {
-                  "text": " — Gestern, 15:25"
-                }
-              ],
-              "sub": "Im Rahmen seiner Kulturbautenreise besuchte Staatsminister Wolfram Weimer am 23. Juli Schloss Mainau am Bodensee. Der Beauftragte der Bundesregierung für Kultur und Medien förderte in den letzten Jahren einige Maßnahmen zur Sanierung des Schlosses mit rund 2,44 Millionen Euro. Gut eine weitere Million Euro stehen aus den sogenannten Denkmalschutz-Sonderprogrammen für Schloss und Schlosskirche bereit. Vor Ort konnte sich der Staatsminister ein Bild von den erfolgreichen Arbeiten machen. Staatsminister Weimer sagte vorab: „Die Insel Mainau mit ihrem Schlosskomplex und der Schlosskirche ist ein einzigartiger Ort mit herausragender kulturhistorischer Bedeutung und ein lebendiges Zeugnis von Bau-, Garten- und Kulturgeschichte. Ein Ort, der zum Verweilen einlädt und gleichzeitig Geschichte erlebbar macht – ein Ort, der Identität stiftet. Ich danke dem Haushaltsausschuss des Deutschen Bundestages, der regelmäßig Mittel für Investitionen in bedeutende Kulturbauten bereitstellt.“ „Die Unte..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Litauen, Herrn Mindaugas Sinkevičius",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-litauen-herrn-mindaugas-sinkevi%C4%8Dius-2448120"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ],
-              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Amtsübernahme übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Litauen verbindet eine enge Partnerschaft, die sich sowohl bilateral als auch in der Europäischen Union und der NATO bewährt. Die Stationierung der deutschen Brigade in Litauen unterstreicht unser gemeinsames Bekenntnis zur Sicherheit Europas. Ich freue mich darauf, unsere enge Zusammenarbeit mit Ihrer Regierung fortzusetzen und sie auch im Rahmen Ihrer bevorstehenden EU-Ratspräsidentschaft weiter auszubauen. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz telefoniert mit dem armenischen Ministerpräsidenten Paschinjan",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-armenischen-ministerpraesidenten-paschinjan-2448108"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz telefoniert mit dem irakischen Premierminister Ali Al-Zaidi",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-irakischen-premierminister-ali-al-zaidi-2448100"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Besuch von Bundeskanzler Merz beim irischen Premierminister Martin in Dublin",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-von-bundeskanzler-merz-beim-irischen-premierminister-martin-in-dublin-2448092"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Moldau, Vasile Tofan",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-moldau-vasile-tofan-2448080"
-                },
-                {
-                  "text": " — 22.07.2026"
-                }
-              ],
-              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wahl zum Ministerpräsidenten der Republik Moldau übermittle ich Ihnen meine besten Glückwünsche. Deutschland und Moldau sind auf vielfältige Weise eng miteinander verbunden. Ich freue mich darauf, mit Ihnen gemeinsam unsere Beziehungen zum Wohle unserer beiden Länder weiter auszubauen. Auf dem Weg in die Europäische Union und bei den dafür notwendigen Reformen wird Deutschland auch weiterhin ein verlässlicher Partner der Republik Moldau sein. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen Erfolg und eine glückliche Hand. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the Republic of Azerbaijan",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-republic-of-azerbaijan-2447906"
-                },
-                {
-                  "text": " — 21.07.2026"
-                }
-              ],
-              "sub": "The Federal Republic of Germany and the Republic of Azerbaijan (hereinafter: Sides) recognise the long-standing and friendly relations between the Sides. They affirm their mutual desire to deepen their bilateral partnership and cooperation, based on mutual trust and convergence of interests in various fields. Recalling their respect for each other’s state sovereignty, independence and territorial integrity, the Sides reaffirm their joint commitment to the Charter of the United Nations, the Helsinki Final Act, the European Convention for the Protection of Human Rights and Fundamental Freedoms and other international legal instruments promoting peace and security. The Sides welcome the historic momentum in Azerbaijan-Armenia relations, notably the outcomes of the 8 August 2025 Washington Summit and the subsequent peace steps taken towards the normalisation of relations between the Republic of Azerbaijan and the Republic of Armenia. The Federal Republic of Germany reiterates its full ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz telefoniert mit dem neuen britischen Premierminister Andrew Burnham",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-neuen-britischen-premierminister-andrew-burnham-2447854"
-                },
-                {
-                  "text": " — 20.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert dem Premierminister des Vereinigten Königreichs Großbritannien und Nordirland, Andrew Burnham",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-premierminister-des-vereinigten-koenigreichs-grossbritannien-und-nordirland-andrew-burnham-2447650"
-                },
-                {
-                  "text": " — 20.07.2026"
-                }
-              ],
-              "sub": "Sehr geehrter Herr Premierminister, zu Ihrem Amtsantritt als Premierminister möchte ich Ihnen meinen herzlichen Glückwunsch aussprechen. Das Vereinigte Königreich und Deutschland sind einander enge Verbündete und Partner. Gerade in diesen Zeiten beweist sich unsere tiefe Verbundenheit. Sehr gern möchte ich mich mit Ihnen zu den vor uns liegenden Herausforderungen austauschen und lade Sie daher gern zu einem baldigen Besuch nach Berlin ein. Für die vor Ihnen liegenden Aufgaben wünsche ich Ihnen viel Erfolg, Kraft und gutes Gelingen. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Aserbaidschan, Alijew",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-aserbaidschan-alijew-2447654"
-                },
-                {
-                  "text": " — 20.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Joint Declaration on a Strategic Agenda for the Bilateral Partnership between the Federal Republic of Germany and the People’s Democratic Republic of Algeria",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-a-strategic-agenda-for-the-bilateral-partnership-between-the-federal-republic-of-germany-and-the-people-s-democratic-republic-of-algeria-2447336"
-                },
-                {
-                  "text": " — 16.07.2026"
-                }
-              ],
-              "sub": "The Federal Republic of Germany and the People’s Democratic Republic of Algeria recognise their long-standing and excellent relations. They affirm their mutual desire to deepen their bilateral partnership and cooperation in various fields. Both Sides emphasise the importance of dialogue, mutual understanding and cooperation in addressing global challenges. In this context, both Sides reaffirm their commitment to multilateral cooperation with the United Nations at its core and the international order based on international law, including the respect for each state’s sovereignty, independence and territorial integrity as well as the protection of human rights and humanitarian principles. Both Sides recall the framework set out by the EU-Algeria Association Agreement and the European Union’s Pact for the Mediterranean that underpins their bilateral relations. Both Sides welcome the adoption of this Joint Declaration on a Strategic Agenda for their bilateral partnership as a milesto..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Ukraine, Serhij Korezkyj",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-ukraine-serhij-korezkyj-2447332"
-                },
-                {
-                  "text": " — 16.07.2026"
-                }
-              ],
-              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen sehr herzlich. Sie übernehmen Ihr Amt in einer Zeit großer Herausforderungen für Ihr Land. Sie können sich darauf verlassen, dass Deutschland die Ukraine bei der Verteidigung gegen die russische Aggression weiter entschlossen und kraftvoll unterstützen wird. Ich freue mich darauf, die deutsch-ukrainischen Beziehungen gemeinsam mit Ihnen und in beiderseitigem Interesse fortzuentwickeln. Um die europäische Perspektive der Ukraine weiter zu stärken, möchte ich Sie zu einer entschlossen Reformagenda ermutigen. Seien Sie versichert: Wir stehen dabei fest an der Seite der Ukraine. Für die Bewältigung der vor Ihnen liegenden Aufgaben wünsche ich Ihnen viel Glück und Erfolg. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
             }
           ]
         },

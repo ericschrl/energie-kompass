@@ -523,7 +523,7 @@ const NEWS = [
     "titel": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:12",
+    "datum": "21.08.2026",
     "tags": [],
     "zusammenfassung": "Die Bundesfilmförderung blickt auf ein außergewöhnlich erfolgreiches Jahr 2026. Nachdem bereits 2025 eine deutlich gestiegene Nachfrage nach Fördermitteln zu verzeichnen war, setzt sich diese Entwicklung in diesem Jahr fort: Noch nie wurden auf Bundesebene so viele Film- und Serienproduktionen gefördert wie 2026. Die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/erfolgsjahr-fuer-die-bundesfilmfoerderung-rekordanzahl-an-gefoerderten-filmen-und-serien-foerdermittel-bereits-ausgeschoepft-staatsminister-weimer-filmfoerderung-des-bundes-wirkt-2449928",
@@ -534,7 +534,7 @@ const NEWS = [
     "titel": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 09:30",
+    "datum": "21.08.2026",
     "tags": [
       "netz"
     ],
@@ -544,13 +544,13 @@ const NEWS = [
   },
   {
     "id": "news-3",
-    "titel": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the Netherlands, Canada, Norway, Australia, New Zealand, Sw…",
+    "titel": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, A…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
     "datum": "20.08.2026",
     "tags": [],
     "zusammenfassung": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-netherlands-canada-norway-australia-new-zealand-sweden-and-belgium-on-the-e1-west-bank-settlement-plan-2449908",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-and-greece-on-the-e1-west-bank-settlement-plan-2449908",
     "gelesen": false
   },
   {
