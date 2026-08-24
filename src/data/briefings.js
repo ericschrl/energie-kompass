@@ -3,6 +3,249 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-08-24",
+      "title": "Energie-Kompass Briefing — 24.08.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20260821-uebertragungsnetzkosten-2027-bis-2029.html"
+                },
+                {
+                  "text": " — 21.08.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "17.08.2026 - Ausschreibungen Biomethan",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/Sep_2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "18.08.2026 - Solaranlagen (Photovoltaik, erstes Segment): Ausschreibung 1. März 2024",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01072026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260819_EisenbahnMethoden.html"
+                },
+                {
+                  "text": " — 19.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260818_Solar1.html"
+                },
+                {
+                  "text": " — 18.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html"
+                },
+                {
+                  "text": " — 14.08.2026"
+                }
+              ],
+              "sub": "„Klarer und verlässlicher Rahmen für Investitionen“"
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister Weimer: Filmförderung des Bundes wirkt",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/erfolgsjahr-fuer-die-bundesfilmfoerderung-rekordanzahl-an-gefoerderten-filmen-und-serien-foerdermittel-bereits-ausgeschoepft-staatsminister-weimer-filmfoerderung-des-bundes-wirkt-2449928"
+                },
+                {
+                  "text": " — 21.08.2026"
+                }
+              ],
+              "sub": "Die Bundesfilmförderung blickt auf ein außergewöhnlich erfolgreiches Jahr 2026. Nachdem bereits 2025 eine deutlich gestiegene Nachfrage nach Fördermitteln zu verzeichnen war, setzt sich diese Entwicklung in diesem Jahr fort: Noch nie wurden auf Bundesebene so viele Film- und Serienproduktionen gefördert wie 2026. Die für die wirtschaftliche Filmförderung bereitgestellten Mittel sind bereits ausgeschöpft. Dazu Staatsminister Weimer: „Die Filmförderung des Bundes wirkt. Wir investieren in die Zukunft des Filmstandorts Deutschland und schaffen die Voraussetzungen dafür, dass es wieder mehr Filme und Serien made in Germany gibt. Das wird auch international für Aufmerksamkeit sorgen. Die Rekordnachfrage nach Fördermitteln ist zudem ein starkes Signal für die Leistungsfähigkeit unserer Wirtschaft.“ Allein für die wirtschaftliche Filmförderung stehen 2026 250 Millionen Euro aus dem Bundeshaushalt zur Verfügung. Das ist nahezu doppelt so viel wie im Vorjahr. Damit werden in den Jahren 202..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria and Greece on the E1 West Bank Settlement Plan",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-and-greece-on-the-e1-west-bank-settlement-plan-2449908"
+                },
+                {
+                  "text": " — 20.08.2026"
+                }
+              ],
+              "sub": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by driving a wedge through the West Bank and harming the territorial contiguity of the Palestinian Territories. International Law is clear that Israeli settlements in the West Bank are illegal. This is the position of the international community reaffirmed by the United Nations Security Council. At a time of grave instability in the West Bank with unprecedented levels of violence by settlers against civilians, and serious restrictions on the Palestinian economy, this decision is even more concerning. We urge the Government of Israel to retract these plans immediately and end its expansion of settlements in the West Bank. Not only will they take us further from peace, b..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bauhaus-Manifest – Breites Bündnis aus Kultur, Design, Handwerk, Architektur und Kirchen setzt Zeichen für Freiheit, Offenheit und Kreativität",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bauhaus-manifest-breites-buendnis-aus-kultur-design-handwerk-architektur-und-kirchen-setzt-zeichen-fuer-freiheit-offenheit-und-kreativitaet-2449872"
+                },
+                {
+                  "text": " — 20.08.2026"
+                }
+              ],
+              "sub": "Auf Initiative von Staatsminister Weimer haben Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Das Manifest versteht sich als ein aktuelles kultur- und gesellschaftspolitisches Bekenntnis zu den Prinzipien, die das Bauhaus bis heute zu einer weltweit prägenden kulturellen Ikone machen: Die Freiheit des künstlerischen Denkens, Offenheit gegenüber neuen Ideen, die Verbindung unterschiedlicher Disziplinen und die Überzeugung, dass kulturelle Innovation einen wichtigen Beitrag zur Entwicklung einer demokratischen Gesellschaft leisten kann. Gleichzeitig ist das Manifest ein Plädoyer dafür, die Prinzipien des Bauhauses gegen demokratiefeindliche Angriffe zu verteidigen. Zu den Unterzeichnern gehören: • Akademie der Künste: Prof. Manos Tsangaris, Präsident der Akademie der Künste • Beauftragter der Bundesregierung für Kultur und Medien: Dr. Wolfram Weimer, Staatsminister für Kultur und Medien ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Congratulations on India´s 80th Independence Day",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624"
+                },
+                {
+                  "text": " — 16.08.2026"
+                }
+              ],
+              "sub": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstlerische Akzente gesetzt“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622"
+                },
+                {
+                  "text": " — 16.08.2026"
+                }
+              ],
+              "sub": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus war der deutsche Film in nahezu allen Festivalsektionen präsent. Kulturstaatsminister Wolfram Weimer: „Der deutsche Film war in diesem Jahr geradezu prägend für das Festivalprogramm von Locarno. Deutschlands Filmkünstlerinnen und -künstler haben beindruckende Erfolge erzielt mit Geschichten, die weltweit ein Publikum finden sowie mit einer außergewöhnlichen Vielfalt an Perspektiven und filmischen Erzählformen. Damit haben sie der kreativen Kraft und internationalen Ausstrahlung des deutschen Films alle Ehre gemacht. Dafür danke ich allen Filmteams sehr.“ Staatsminister Weimer weiter: „Matheus Farias‘ und Enock Carvalhos Film „Das Flussufer“ wurde beim Locarno Film ..."
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-08-23",
       "title": "Energie-Kompass Briefing — 23.08.2026",
       "sections": [
@@ -7687,142 +7930,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 24.07.2026"
-                }
-              ],
-              "sub": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 Euro. Die Mittel stammen aus dem Programm „Investitionen in national bedeutsame Kultureinrichtungen in Deutschland“. Sie kommen der Sanierung und barrierefreien Gestaltung des Ritterakademie-Trakts zur Einrichtung eines Museums zugute. Die Gesamtbaukosten belaufen sich auf 1,5 Millionen Euro. Weitere 431.000 Euro hat der Bund aus dem Denkmalschutz-Sonderprogramm für die denkmalgerechte Sanierung der Klostermauer in Aussicht gestellt. Das Kloster Ettal wurde im Jahr 1330 gegründet und ist bis heute von Benediktinermönchen bewohnt Staatsminister Weimer sagte im Vorfeld: „Das Benediktinerkloster Ettal ist nicht nur ein außergewöhnlicher Ort unserer Glaubens- und Kulturg..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-07-25",
-      "title": "Energie-Kompass Briefing — 25.07.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "09.06.2026 - Ausschreibungen Biomethan",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/Apr_2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "16.07.2026 - Solar Aufdach: Gebotstermin",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Jun2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258"
-                },
-                {
-                  "text": " — Gestern, 15:10"
                 }
               ],
               "sub": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 Euro. Die Mittel stammen aus dem Programm „Investitionen in national bedeutsame Kultureinrichtungen in Deutschland“. Sie kommen der Sanierung und barrierefreien Gestaltung des Ritterakademie-Trakts zur Einrichtung eines Museums zugute. Die Gesamtbaukosten belaufen sich auf 1,5 Millionen Euro. Weitere 431.000 Euro hat der Bund aus dem Denkmalschutz-Sonderprogramm für die denkmalgerechte Sanierung der Klostermauer in Aussicht gestellt. Das Kloster Ettal wurde im Jahr 1330 gegründet und ist bis heute von Benediktinermönchen bewohnt Staatsminister Weimer sagte im Vorfeld: „Das Benediktinerkloster Ettal ist nicht nur ein außergewöhnlicher Ort unserer Glaubens- und Kulturg..."
