@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-5"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/brp/1067.pdf",
@@ -506,8 +506,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2",
-      "news-27"
+      "news-5",
+      "news-30"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,6 +520,39 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Co-chair’s statement of the Coalition of the Willing, 24/08/2026",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 16:40",
+    "tags": [],
+    "zusammenfassung": "The leaders of the Coalition of the Willing convened today in Kyiv and by video conference to commemorate the 35th anniversary of the restoration of the Independence of Ukraine. They were united in their continued support of Ukraine’s fight to defend its sovereignty, freedom and territorial integrity. Prime Minister A…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/co-chair-s-statement-of-the-coalition-of-the-willing-24-08-2026-2450032",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz empfängt den norwegischen Ministerpräsidenten Støre",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:05",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-norwegischen-ministerpraesidenten-st%C3%B8re-2450014",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Tourismus-Koordinator Christoph Ploß besucht das Reiseland Sachsen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:30",
+    "tags": [],
+    "zusammenfassung": "Tourismus-Koordinator Christoph Ploß besucht das Reiseland Sachsen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260824-christoph-ploss-reiseland-sachsen.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -530,7 +563,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -543,18 +576,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, A…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
     "datum": "20.08.2026",
     "tags": [],
     "zusammenfassung": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-and-greece-on-the-e1-west-bank-settlement-plan-2449908",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-greece-cyprus-and-finland-on-the-e1-west-bank-settlement-plan-2449908",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bauhaus-Manifest – Breites Bündnis aus Kultur, Design, Handwerk, Architektur und Kirchen setzt Zeichen für Freiheit, Offenheit und Kreativi…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -565,7 +598,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -576,7 +609,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -587,7 +620,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Congratulations on India´s 80th Independence Day",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -598,7 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstleris…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -609,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -620,7 +653,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bundeskanzler Merz gratuliert dem Präsidenten der Republik Kolumbien, Abelardo de la Espriella",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -631,7 +664,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "65. Jahrestag des Mauerbaus – Staatsminister Weimer: „Die Mauertoten mahnen uns, nichts zu verharmlosen.“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -642,7 +675,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Öffentlichen Ausgaben für staatliche Werbung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -653,7 +686,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Die wirtschaftliche Lage in Deutschland im August 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -664,7 +697,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "CINEA Ausschreibung für CB-RES Status",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -677,7 +710,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundeskabinett beschließt Reform des Rechts der Nachrichtendienste",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -688,7 +721,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Neuer Rückenwind für den Mittelstand: Kleine und mittlere Unternehmen können jetzt auch 2027 von Mitteln aus dem ERP-Sondervermögen profiti…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -699,7 +732,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Künstlerin Gabriele Stötzer erhält das Johanna und Eduard Arnhold-Stipendium der Deutschen Akademie Rom Villa Massimo",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -710,7 +743,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Entwurf eines Gesetzes zur Optimierung und Absicherung des Ausbaus der Windenergie auf See",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -723,7 +756,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Connecting Europe Facility (CEF)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -734,7 +767,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Ausschreibung eröffnet: Bewerbung für die 3. Liste der PCI/PMI-Projekte",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -747,7 +780,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "„Gedächtnisstützen unserer Gesellschaft“ –Kulturstaatsminister Weimer stärkt Gedenkstätten mit zehn Millionen Euro zusätzlich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -758,7 +791,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Sommer-Rohstoffreise des Parlamentarischen Staatssekretärs Stefan Rouenhoff beginnt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -769,7 +802,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -780,7 +813,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Beratung des Nationalen Sicherheitsrates am 7. August 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -791,7 +824,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -802,7 +835,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert der Präsidentin der Republik Peru, Keiko Sofía Fujimori Higuchi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -813,7 +846,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Bundesnetzagentur startet Konsultation zur Reform der Netzentgeltsystematik Strom",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -824,41 +857,6 @@ const NEWS = [
     ],
     "zusammenfassung": "Präsident Müller: „Auf dem Weg zu mehr Flexibilität und Systemeffizienz im Strommarkt liegen wir gut im Zeitplan. Nach der heute gestarteten Konsultation wollen wir mit einer Festlegung zum Jahresende den Strommarktakteuren zwei Jahre Zeit für die Umsetzung der zukünftigen Entgeltsystematik geben.“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260806_Agnes.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Neue Transparenzpflichten für KI in Deutschland – Staatsminister Weimer: „Ein wichtiger Meilenstein, der das Vertrauen in digitale Inhalte…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "06.08.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Weimer sieht die neuen KI-Transparenzpflichten als bedeutenden Erfolg für deutsche Unternehmen und als wichtigen Gewinn für den Kultur- und Medienbereich. Seit dem 2. August gelten in der Europäischen Union neue Transparenzpflichten für bestimmte KI-Systeme und KI-generierte Inhalte. Ziel der Neur…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/neue-transparenzpflichten-fuer-ki-in-deutschland-staatsminister-weimer-ein-wichtiger-meilenstein-der-das-vertrauen-in-digitale-inhalte-staerkt--2449152",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "06.08.2026",
-    "tags": [],
-    "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260806-entwicklung-verarbeitendes-gewerbe-juni.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "06.08.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260806-zitat-reiche-strompreise-in-deutschland.html",
     "gelesen": true
   }
 ];
