@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-23"
+      "news-24"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-19"
+      "news-20"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-19"
+      "news-20"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -528,7 +528,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-premierminister-der-sozialistischen-republik-vietnam-le-minh-hung-2450904",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-2",
@@ -539,7 +539,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Präsident, mit großer Bestürzung habe ich die Berichte und Bilder von der verheerenden Sturzflut in China verfolgt. In diesen schweren Stunden sind meine Gedanken bei den Opfern, ihren Angehörigen und allen von der Katastrophe betroffenen Menschen. Ihnen gilt mein tief empfundenes Mitgefühl. Den Ver…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kondolenztelegramm-von-bundeskanzler-merz-an-den-staatspraesidenten-der-volksrepublik-china-xi-jinping-2450900",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-3",
@@ -550,10 +550,21 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, Mit tiefer Betroffenheit habe ich von der schweren Flutkatastrophe in Ihrem Land erfahren. Ihnen und dem nepalesischen Volk spreche ich mein tief empfundenes Mitgefühl aus. Unsere Gedanken sind bei den Opfern, ihren Familien und allen Menschen, die durch die Katastrophe ihr Zuhaus…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kondolenztelegramm-von-bundeskanzler-merz-an-den-ministerpraesidenten-von-nepal-balendra-shah-2450902",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-4",
+    "titel": "BIP Nowcast für das dritte Quartal 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "28.08.2026",
+    "tags": [],
+    "zusammenfassung": "BIP Nowcast für das dritte Quartal 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/05-bip-nowcast.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "Pharmastandort Deutschland: Neues Fachgremium nimmt Arbeit auf",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -561,10 +572,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Pharmastandort Deutschland: Neues Fachgremium nimmt Arbeit auf",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260828-pharmastandort-deutschland-fachgremium.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Bundeskanzler Merz telefoniert mit dem norwegischen Ministerpräsidenten Støre",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -572,10 +583,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-norwegischen-ministerpraesidenten-st%C3%B8re-2450816",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "„Lebendige Geschichte, gebaute Identität“ – Staatsminister Weimer bei der Eröffnung des „Zentrums Welterbe“ des Naumburger Doms",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -585,10 +596,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute anlässlich der Eröffnung des neuen „Zentrums Welterbe“ den Naumburger Dom besucht. In seinem Grußwort betonte Staatsminister Weimer: „Das ‚Zentrum Welterbe‘ ist eine wichtige Ergänzung für den Naumburger Dom. Es macht die kulturhistorische Bedeutung eines Bauwerks zugängli…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/-lebendige-geschichte-gebaute-identitaet-staatsminister-weimer-bei-der-eroeffnung-des-zentrums-welterbe-des-naumburger-doms-2450810",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Kulturbauten-Initiative: Über 3 Millionen Euro vom Bund für Schloss Mosigkau und das Gotische Haus– Staatsminister Weimer: „Einzigartige Or…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -596,10 +607,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer besuchte heute mit Rainer Robra, Staatsminister und Minister für Kultur des Landes Sachsen-Anhalt, Schloss Mosigkau im Gartenreich Dessau-Wörlitz. Gemeinsam überreichten sie einen symbolischen Förderbescheid über rund 5,1 Millionen Euro für die Sanierung des Westlichen Kavalierhause…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-ueber-3-millionen-euro-vom-bund-fuer-schloss-mosigkau-und-das-gotische-haus-staatsminister-weimer-einzigartige-orte-die-geschichte-und-kultur-erlebbar-machen--2450792",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Statement of Denmark, Germany, the Netherlands, Austria, Finland, and Sweden on the Multiannual Financial Framework 2028-2034",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -607,10 +618,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The negotiations on the Multiannual Financial Framework (MFF) 2028-2034 have entered a decisive stage. Through the MFF, the EU determines how it will spend its common resources well into the next decade. In an increasingly uncertain world, the MFF provides the foundation for ensuring the EU's capacity to act as a stro…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-of-denmark-germany-the-netherlands-austria-finland-and-sweden-on-the-multiannual-financial-framework-2028-2034-2450768",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Kulturbauten-Initiative: 17,5 Millionen Euro für die Sanierung der Kaiser-Wilhelm-Gedächtnis-Kirche – Staatsminister Weimer: „Herzstück uns…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -618,10 +629,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer nahm heute am Pressetermin anlässlich des Baustarts in der Kaiser-Wilhelm-Gedächtnis-Kirche in Berlin teil und hielt die Eröffnungsrede. Der Bund fördert die Sanierung mit 17,5 Millionen Euro. Kulturstaatsminister Weimer sagte: „Die Kaiser-Wilhelm-Gedächtnis-Kirche ist ein Herzstück…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-17-5-millionen-euro-fuer-die-sanierung-der-kaiser-wilhelm-gedaechtnis-kirche-staatsminister-weimer-herzstueck-unserer-erinnerungskultur--2450730",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "BMWE stärkt Initiative Leichtbau: Bundesanstalt für Materialforschung und -prüfung übernimmt Geschäftsstelle",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -629,10 +640,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE stärkt Initiative Leichtbau: Bundesanstalt für Materialforschung und -prüfung übernimmt Geschäftsstelle",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260827-bmwe-staerkt-initiative-leichtbau.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "1.600 weitere Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Großer Erfolg für die Prinzipien von Fr…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -640,10 +651,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Auf Initiative von Staatsminister Wolfram Weimer hatten Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Nun wächst das Bündnis auch in der Breite weiter. Seit der Veröffentlichung des Manifests vor knapp einer Woche haben sich 1.600…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/1-600-weitere-unterstuetzerinnen-und-unterstuetzer-fuer-das-bauhaus-manifest-staatsminister-weimer-grosser-erfolg-fuer-die-prinzipien-von-freiheit-offenheit-und-innovation--2450478",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "... Gesetz zur Änderung des Energiewirtschaftsgesetzes",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -657,7 +668,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Erleichterter Ausbau der Wärmenetze nimmt Fahrt auf – Bundeskabinett beschließt Eckpunkte zum Wärmenetzpaket",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -665,10 +676,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Erleichterter Ausbau der Wärmenetze nimmt Fahrt auf – Bundeskabinett beschließt Eckpunkte zum Wärmenetzpaket",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260826-eckpunkte-waermenetzpaket.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Thema BIP-Zahlen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -676,10 +687,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Thema BIP-Zahlen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260826-zitat-reiche-bip-zahlen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Co-chair’s statement of the Coalition of the Willing, 24/08/2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -687,10 +698,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The leaders of the Coalition of the Willing convened today in Kyiv and by video conference to commemorate the 35th anniversary of the restoration of the Independence of Ukraine. They were united in their continued support of Ukraine’s fight to defend its sovereignty, freedom and territorial integrity. Prime Minister A…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/co-chair-s-statement-of-the-coalition-of-the-willing-24-08-2026-2450032",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz empfängt den norwegischen Ministerpräsidenten Støre",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -698,10 +709,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-norwegischen-ministerpraesidenten-st%C3%B8re-2450014",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Tourismus-Koordinator Christoph Ploß besucht das Reiseland Sachsen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -709,10 +720,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Tourismus-Koordinator Christoph Ploß besucht das Reiseland Sachsen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260824-christoph-ploss-reiseland-sachsen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -720,10 +731,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Bundesfilmförderung blickt auf ein außergewöhnlich erfolgreiches Jahr 2026. Nachdem bereits 2025 eine deutlich gestiegene Nachfrage nach Fördermitteln zu verzeichnen war, setzt sich diese Entwicklung in diesem Jahr fort: Noch nie wurden auf Bundesebene so viele Film- und Serienproduktionen gefördert wie 2026. Die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/erfolgsjahr-fuer-die-bundesfilmfoerderung-rekordanzahl-an-gefoerderten-filmen-und-serien-foerdermittel-bereits-ausgeschoepft-staatsminister-weimer-filmfoerderung-des-bundes-wirkt-2449928",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -733,10 +744,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20260821-uebertragungsnetzkosten-2027-bis-2029.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, A…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -744,10 +755,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-greece-cyprus-finland-iceland-lithuania-malta-denmark-and-ireland-on-the-e1-west-bank-settlement-plan-2449908",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Bauhaus-Manifest – Breites Bündnis aus Kultur, Design, Handwerk, Architektur und Kirchen setzt Zeichen für Freiheit, Offenheit und Kreativi…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -755,10 +766,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Auf Initiative von Staatsminister Weimer haben Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Das Manifest versteht sich als ein aktuelles kultur- und gesellschaftspolitisches Bekenntnis zu den Prinzipien, die das Bauhaus bis heute…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bauhaus-manifest-breites-buendnis-aus-kultur-design-handwerk-architektur-und-kirchen-setzt-zeichen-fuer-freiheit-offenheit-und-kreativitaet-2449872",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -766,10 +777,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260819_EisenbahnMethoden.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -779,10 +790,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Entwurf eines Gesetzes für einen planbaren, kosteneffizienten, netzverträglichen und marktorientierten Ausbau der erneuerbaren Energien im Stromsektor (EEG-Novelle)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20260718-eeg-novelle.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -790,10 +801,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260818_Solar1.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Congratulations on India´s 80th Independence Day",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -801,10 +812,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger.",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstleris…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,10 +823,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -823,10 +834,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Klarer und verlässlicher Rahmen für Investitionen“",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert dem Präsidenten der Republik Kolumbien, Abelardo de la Espriella",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -837,7 +848,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "65. Jahrestag des Mauerbaus – Staatsminister Weimer: „Die Mauertoten mahnen uns, nichts zu verharmlosen.“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -845,17 +856,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gedenkt der Opfer des SED-Regimes. Mit dem 13. August 2026 jährt sich der Beginn des Berliner Mauerbaus zum 65. Mal. Heute nahm Staatsminister Weimer an der Gedenkveranstaltung für die Opfer von Mauer und Teilung teil. Staatsminister Weimer: „Die Berliner Mauer war f…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/65-jahrestag-des-mauerbaus-staatsminister-weimer-die-mauertoten-mahnen-uns-nichts-zu-verharmlosen--2449494",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Öffentlichen Ausgaben für staatliche Werbung",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "13.08.2026",
-    "tags": [],
-    "zusammenfassung": "Öffentlichen Ausgaben für staatliche Werbung",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/Haushalt/medienfreiheitsgesetz.html",
     "gelesen": true
   }
 ];
