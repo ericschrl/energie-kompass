@@ -253,8 +253,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-5",
-      "news-12"
+      "news-6",
+      "news-13"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -507,7 +507,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-12"
+      "news-13"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,54 +520,65 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:09",
+    "tags": [],
+    "zusammenfassung": "Bei seinem Besuch der Wartburg hat sich Kulturstaatsminister Wolfram Weimer im Rahmen seiner Kulturbautenreise zusammen mit Thüringens Kulturminister Christian Tischner, dem Chef der Thüringer Landesgruppe im Deutschen Bundestag, Christian Hirte (MdB), und dem Thüringer Bundestagsabgeordneten Michael Hose (MdB) über d…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-verdoppelt-bundesmittel-fuer-die-wartburg-weimer-wir-wollen-das-unesco-welterbe-zum-leuchten-bringen-grosse-denkmalsanierung-startet-2451574",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 14:00",
+    "datum": "04.09.2026",
     "tags": [],
     "zusammenfassung": "Staatsminister Wolfram Weimer besucht Eisenach und Gotha. Im Mittelpunkt seiner Kulturbautenreise steht ein echter Meilenstein bei der Sanierung von Schloss Friedenstein. Denn am heutigen Nachmittag überreichen Kulturstaatsminister Wolfram Weimer und Ministerpräsident Mario Voigt einen symbolischen Scheck über 110 Mil…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/110-millionen-euro-fuer-schloss-friedenstein-staatsminister-weimer-und-ministerpraesident-voigt-ueberreichen-symbolischen-scheck-2451560",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:30",
+    "datum": "04.09.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-vereinigten-arabischen-emirate-scheich-mohammed-bin-zayed-2451552",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:30",
+    "datum": "04.09.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-praesidenten-des-europaeischen-rates-ant%C3%B3nio-costa-in-berlin-2451556",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "04.09.2026",
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260904-entwicklung-verarbeitendes-gewerbe-juli.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 05:30",
+    "datum": "04.09.2026",
     "tags": [
       "netz"
     ],
@@ -576,7 +587,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -587,7 +598,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -598,7 +609,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erin…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -609,7 +620,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Z…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -620,7 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -631,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -644,7 +655,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übert…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,7 +669,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -669,7 +680,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Energiekostenvergleich für Pkw",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -680,7 +691,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Denkmal für die polnischen Opfer des Zweiten Weltkriegs: Errichtung ab 2027 – Staatsminister Weimer zum Jahrestag des deutschen Überfalls a…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -691,7 +702,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -702,7 +713,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -715,7 +726,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz telefoniert mit dem Premierminister der Sozialistischen Republik Vietnam, Le Minh Hung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -726,7 +737,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Staatspräsidenten der Volksrepublik China, Xi Jinping",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -737,7 +748,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Ministerpräsidenten von Nepal, Balendra Shah",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -748,7 +759,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "BIP Nowcast für das dritte Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -759,7 +770,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Globale Wachstumsaussichten in geopolitisch belasteten Zeiten",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -770,7 +781,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -781,7 +792,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "50 Jahre OECD-Leitsätze: Orientierung im Wandel",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -792,7 +803,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Pharmastandort Deutschland: Neues Fachgremium nimmt Arbeit auf",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -803,7 +814,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz telefoniert mit dem norwegischen Ministerpräsidenten Støre",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -814,7 +825,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "„Lebendige Geschichte, gebaute Identität“ – Staatsminister Weimer bei der Eröffnung des „Zentrums Welterbe“ des Naumburger Doms",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -827,7 +838,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Kulturbauten-Initiative: Über 3 Millionen Euro vom Bund für Schloss Mosigkau und das Gotische Haus– Staatsminister Weimer: „Einzigartige Or…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -838,7 +849,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Statement of Denmark, Germany, the Netherlands, Austria, Finland, and Sweden on the Multiannual Financial Framework 2028-2034",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -846,17 +857,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "The negotiations on the Multiannual Financial Framework (MFF) 2028-2034 have entered a decisive stage. Through the MFF, the EU determines how it will spend its common resources well into the next decade. In an increasingly uncertain world, the MFF provides the foundation for ensuring the EU's capacity to act as a stro…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/statement-of-denmark-germany-the-netherlands-austria-finland-and-sweden-on-the-multiannual-financial-framework-2028-2034-2450768",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Kulturbauten-Initiative: 17,5 Millionen Euro für die Sanierung der Kaiser-Wilhelm-Gedächtnis-Kirche – Staatsminister Weimer: „Herzstück uns…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "27.08.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer nahm heute am Pressetermin anlässlich des Baustarts in der Kaiser-Wilhelm-Gedächtnis-Kirche in Berlin teil und hielt die Eröffnungsrede. Der Bund fördert die Sanierung mit 17,5 Millionen Euro. Kulturstaatsminister Weimer sagte: „Die Kaiser-Wilhelm-Gedächtnis-Kirche ist ein Herzstück…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-17-5-millionen-euro-fuer-die-sanierung-der-kaiser-wilhelm-gedaechtnis-kirche-staatsminister-weimer-herzstueck-unserer-erinnerungskultur--2450730",
     "gelesen": true
   }
 ];
