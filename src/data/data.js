@@ -522,10 +522,10 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Entwurf eines Gesetzes zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jah…",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 08:17",
+    "datum": "Gestern, 12:23",
     "tags": [
       "netz"
     ],
@@ -538,7 +538,7 @@ const NEWS = [
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 08:00",
+    "datum": "Gestern, 08:00",
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260907-entwicklung-produktion-juli.html",
