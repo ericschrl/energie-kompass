@@ -253,9 +253,9 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1",
-      "news-8",
-      "news-15"
+      "news-3",
+      "news-10",
+      "news-17"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,8 +508,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1",
-      "news-15"
+      "news-3",
+      "news-17"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,10 +522,32 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:30",
+    "tags": [],
+    "zusammenfassung": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260908-fahrerlose-zugfahrt.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 10:45",
+    "tags": [],
+    "zusammenfassung": "200 Jahre Beethoven, 40 Jahre Warhol und eine Ausstellung, die beide Ikonen zusammenbringt: 2027 erinnert Deutschland an den 200. Todestag Ludwig van Beethovens; zugleich jährt sich der Todestag des Pop-Art-Künstlers Andy Warhol zum 40. Mal. Das Beethoven-Haus Bonn verbindet beide Anlässe in der spektakulären Sonderau…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-foerdert-beethoven-jubilaeum-mit-2-3-millionen-euro-staatsminister-weimer-2027-wird-beethoven-jahr--2451688",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 12:23",
+    "datum": "07.09.2026",
     "tags": [
       "netz"
     ],
@@ -534,18 +556,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:00",
+    "datum": "07.09.2026",
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260907-entwicklung-produktion-juli.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -556,7 +578,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -567,7 +589,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -578,7 +600,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -589,7 +611,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -600,7 +622,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -613,7 +635,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -624,7 +646,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -635,7 +657,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erin…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -646,7 +668,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Z…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -657,7 +679,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -668,7 +690,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -681,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übert…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -695,7 +717,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -706,7 +728,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Energiekostenvergleich für Pkw",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -717,7 +739,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Denkmal für die polnischen Opfer des Zweiten Weltkriegs: Errichtung ab 2027 – Staatsminister Weimer zum Jahrestag des deutschen Überfalls a…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -728,7 +750,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -739,7 +761,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -752,7 +774,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Bundeskanzler Merz telefoniert mit dem Premierminister der Sozialistischen Republik Vietnam, Le Minh Hung",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -763,7 +785,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Staatspräsidenten der Volksrepublik China, Xi Jinping",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -774,7 +796,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Ministerpräsidenten von Nepal, Balendra Shah",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -785,7 +807,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "BIP Nowcast für das dritte Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -796,7 +818,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Globale Wachstumsaussichten in geopolitisch belasteten Zeiten",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -807,7 +829,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Die wirtschaftliche Lage in Deutschland im Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -818,7 +840,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "50 Jahre OECD-Leitsätze: Orientierung im Wandel",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -829,7 +851,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Pharmastandort Deutschland: Neues Fachgremium nimmt Arbeit auf",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -837,30 +859,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Pharmastandort Deutschland: Neues Fachgremium nimmt Arbeit auf",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260828-pharmastandort-deutschland-fachgremium.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz telefoniert mit dem norwegischen Ministerpräsidenten Støre",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "27.08.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-norwegischen-ministerpraesidenten-st%C3%B8re-2450816",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "„Lebendige Geschichte, gebaute Identität“ – Staatsminister Weimer bei der Eröffnung des „Zentrums Welterbe“ des Naumburger Doms",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "27.08.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute anlässlich der Eröffnung des neuen „Zentrums Welterbe“ den Naumburger Dom besucht. In seinem Grußwort betonte Staatsminister Weimer: „Das ‚Zentrum Welterbe‘ ist eine wichtige Ergänzung für den Naumburger Dom. Es macht die kulturhistorische Bedeutung eines Bauwerks zugängli…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/-lebendige-geschichte-gebaute-identitaet-staatsminister-weimer-bei-der-eroeffnung-des-zentrums-welterbe-des-naumburger-doms-2450810",
     "gelesen": true
   }
 ];
