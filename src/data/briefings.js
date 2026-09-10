@@ -3,6 +3,467 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-09-10",
+      "title": "Energie-Kompass Briefing — 10.09.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260908-fahrerlose-zugfahrt.html"
+                },
+                {
+                  "text": " — 08.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260907-entwicklung-produktion-juli.html"
+                },
+                {
+                  "text": " — 07.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260904-entwicklung-verarbeitendes-gewerbe-juli.html"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260904-zitat-reiche-stromnetz.html"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260903-ukraine-energy-support-fund.html"
+                },
+                {
+                  "text": " — 03.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-stromvkg.html"
+                },
+                {
+                  "text": " — 02.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übertragungsnetzkosten",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-gesetzentwuerfe-ausbau-windenergie.html"
+                },
+                {
+                  "text": " — 02.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Energiekostenvergleich für Pkw",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/2021-08-pkw-energiekostenvergleich.html"
+                },
+                {
+                  "text": " — 01.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260901-ploss-besucht-weltleitmesse.html"
+                },
+                {
+                  "text": " — 01.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BIP Nowcast für das dritte Quartal 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/05-bip-nowcast.html"
+                },
+                {
+                  "text": " — 28.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Globale Wachstumsaussichten in geopolitisch belasteten Zeiten",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/06-globale-wachstumsaussichten.html"
+                },
+                {
+                  "text": " — 28.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im Juli 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/04-wirtschaftliche-lage.html"
+                },
+                {
+                  "text": " — 28.08.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "50 Jahre OECD-Leitsätze: Orientierung im Wandel",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/02-50-jahre-oecd-leitsaetze.html"
+                },
+                {
+                  "text": " — 28.08.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html"
+                },
+                {
+                  "text": " — 01.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html"
+                },
+                {
+                  "text": " — 31.08.2026"
+                }
+              ],
+              "sub": "Präsident Müller: „Die Transformation der Energiesysteme kann nur gemeinsam gelingen“"
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neuer Österreichisch-Deutscher Lyrikpreis zum Bachmann-Jubiläum würdigt zeitgenössische Lyrik",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-oesterreichisch-deutscher-lyrikpreis-zum-bachmann-jubilaeum-wuerdigt-zeitgenoessische-lyrik-2451888"
+                },
+                {
+                  "text": " — Gestern, 11:07"
+                }
+              ],
+              "sub": "Im Jubiläumsjahr anlässlich des 100. Geburtstags von Ingeborg Bachmann würdigen Österreich und Deutschland gemeinsam die deutschsprachige Gegenwartslyrik mit einer neuen Auszeichnung: dem Österreichisch-Deutschen Lyrikpreis. Initiiert wird dieser vom Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich (BMEIA) und dem Beauftragten der Bundesregierung für Kultur und Medien (BKM). Der einmalige Preis zeichnet eine Lyrikerin beziehungsweise einen Lyriker mit Lebensmittelpunkt in Österreich und eine Lyrikerin beziehungsweise einen Lyriker mit Lebensmittelpunkt in Deutschland aus. Er ist mit jeweils 15.000 Euro dotiert. Staatssekretär Sepp Schellhorn: „‚Alles ist eine Frage der Sprache‘, schreibt Ingeborg Bachmann. Darin liegt auch eine Grundidee Europas: Wir müssen nicht immer dieselbe Sprache sprechen, aber wir müssen versuchen, einander zu verstehen. Für Österreich und Deutschland sagt man: Nichts trennt uns so sehr wie die gemeinsame Sprach..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-foerdert-beethoven-jubilaeum-mit-2-3-millionen-euro-staatsminister-weimer-2027-wird-beethoven-jahr--2451688"
+                },
+                {
+                  "text": " — 08.09.2026"
+                }
+              ],
+              "sub": "200 Jahre Beethoven, 40 Jahre Warhol und eine Ausstellung, die beide Ikonen zusammenbringt: 2027 erinnert Deutschland an den 200. Todestag Ludwig van Beethovens; zugleich jährt sich der Todestag des Pop-Art-Künstlers Andy Warhol zum 40. Mal. Das Beethoven-Haus Bonn verbindet beide Anlässe in der spektakulären Sonderausstellung „Beethoven by Warhol“, die Kulturstaatsminister Wolfram Weimer gestern Abend als Schirmherr eröffnet hat. Der Bund unterstützt das Programm des Beethoven-Hauses zum Gedenkjahr mit rund 900.000 Euro und trägt so dazu bei, das kulturelle Erbe des Bonner Komponisten einem breiten Publikum zugänglich zu machen. Staatsminister für Kultur und Medien Wolfram Weimer: „Warhol meets Beethoven! Diese Ausstellung ist ein wahres Gipfeltreffen zweier ikonischer Künstler und ein einzigartiger ästhetischer Brückenschlag über mehrere Epochen hinweg. Andy Warhol hat die weltweite Faszination für Beethoven in seinem weltberühmten Porträt genial auf den Punkt gebracht. Es ist d..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Große Denkmalsanierung startet",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-verdoppelt-bundesmittel-fuer-die-wartburg-weimer-wir-wollen-das-unesco-welterbe-zum-leuchten-bringen-grosse-denkmalsanierung-startet-2451574"
+                },
+                {
+                  "text": " — 05.09.2026"
+                }
+              ],
+              "sub": "Bei seinem Besuch der Wartburg hat sich Kulturstaatsminister Wolfram Weimer im Rahmen seiner Kulturbautenreise zusammen mit Thüringens Kulturminister Christian Tischner, dem Chef der Thüringer Landesgruppe im Deutschen Bundestag, Christian Hirte (MdB), und dem Thüringer Bundestagsabgeordneten Michael Hose (MdB) über die anstehende Sanierung informiert. Dabei betonte Weimer die Bedeutung der Wartburg als herausragende UNESCO-Welterbestätte. Bisher fördert der Bund die Wartburg jährlich mit 248.000 Euro für den Bauunterhalt. Im Regierungsentwurf zum Haushalt 2027 ist eine Verdopplung der Mittel auf 498.000 Euro vorgesehen. Dazu Staatsminister Weimer: „Die Wartburg ist ein Schatz Thüringens und zugleich ein Schatz der ganzen Nation. Ihr UNESCO-Welterbestatus macht deutlich, dass ihre Bedeutung weit über unser Land hinausreicht. Wir wollen gemeinsam dafür sorgen, dass dieser besondere Ort auch in Zukunft lebendig bleibt. Wir wollen die Wartburg weit über die Grenzen Thüringens hinaus ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/110-millionen-euro-fuer-schloss-friedenstein-staatsminister-weimer-und-ministerpraesident-voigt-ueberreichen-symbolischen-scheck-2451560"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ],
+              "sub": "Staatsminister Wolfram Weimer besucht Eisenach und Gotha. Im Mittelpunkt seiner Kulturbautenreise steht ein echter Meilenstein bei der Sanierung von Schloss Friedenstein. Denn am heutigen Nachmittag überreichen Kulturstaatsminister Wolfram Weimer und Ministerpräsident Mario Voigt einen symbolischen Scheck über 110 Millionen Euro. Dieser steht dabei für das Gesamtvolumen des Sanierungsprogramms, das Bund und Land zu gleichen Teilen finanzieren. Darin enthalten sind sowohl die Mittel für die anstehenden Sanierungsabschnitte als auch bereits abgeschlossene Investitionen. Mit dem aktuellen Zuwendungsbescheid für das zweite Teilprojekt kann die Stiftung Thüringer Schlösser und Gärten nun ein großes Vorhaben in Angriff nehmen: Die Sanierung des Westflügels für die museale Nutzung durch die Friedenstein Stiftung Gotha. 2027 sollen dann die Arbeiten am Ostturm mit Teilen des Ostflügels beginnen. Ziel ist es, die historische Bausubstanz dauerhaft zu sichern und zugleich die Voraussetzunge..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-vereinigten-arabischen-emirate-scheich-mohammed-bin-zayed-2451552"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-praesidenten-des-europaeischen-rates-ant%C3%B3nio-costa-in-berlin-2451556"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-stellt-ronald-rauhe-als-staatsminister-fuer-sport-und-ehrenamt-vor-2451498"
+                },
+                {
+                  "text": " — 03.09.2026"
+                }
+              ],
+              "sub": "Bundeskanzler Friedrich Merz hat heute den neuen Staatsminister für Sport und Ehrenamt ins Amt eingeführt. Der zweifache Kanu-Olympiasieger Ronald Rauhe ist ab sofort für die Sport- und Ehrenamtspolitik der Bundesregierung zuständig. Als langjähriger Spitzensportler bringt er vor allem umfangreiche persönliche Erfahrungen aus dem nationalen und internationalen Leistungssport in sein neues Amt ein. Bundeskanzler Friedrich Merz betonte anlässlich der Vorstellung: „Ich freue mich sehr, dass ich Ronald Rauhe dafür gewinnen konnte, diese Aufgabe zu übernehmen. Ronald Rauhe ist der richtige Mann, um auch hier im Bundeskanzleramt den großen Bereich des Sports und des Ehrenamts in unserer Republik zu stärken und zu unterstützen. Wir wollen damit auch ein Zeichen setzen, dass wir den deutschen Sport als ein wichtiges Aufgabengebiet sehen. Wir haben in wenigen Tagen die Entscheidung darüber, welcher Ort in Deutschland sich um die übernächsten Olympischen und Paralympischen Spiele bewirbt. ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erinnerung stärken“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neues-foerderprogramm-mit-zehn-millionen-euro-fuer-projekte-in-ns-und-sed-gedenkstaetten-staatsminister-weimer-gerade-jetzt-orte-der-erinnerung-staerken--2451324"
+                },
+                {
+                  "text": " — 03.09.2026"
+                }
+              ],
+              "sub": "Ab sofort können sich Gedenkstätten und Erinnerungsorte zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur um eine Projektförderung durch den Bund bewerben. Der Beauftragte der Bundesregierung für Kultur und Medien (BKM) stellt dafür im Rahmen der Umsetzung der neuen Gedenkstättenkonzeption insgesamt zehn Millionen Euro zur Verfügung. Zum Bewerbungsstart des neuen Förderprogramms sagte Wolfram Weimer, Staatsminister für Kultur und Medien: „In den Gedenkstätten schlägt das Herz unserer Erinnerungskultur. Deshalb verdienen sie jede Unterstützung. Mit der Projektförderung wollen wir Gedenkstätten und Erinnerungsorten dabei helfen, ihre historischen Orte zu bewahren, neue digitale Zugänge zu schaffen und zeitgemäße Bildungs- und Vermittlungsangebote zu entwickeln. Gerade angesichts der wachsenden Herausforderungen, vor denen Gedenkstätten stehen, ist es wichtig, dass innovative Ideen und nachhaltige Projekte die notwendige Stärkung erfahren.“ Gefördert werden Projekte in dr..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Zeichen für Kunstfreiheit, Unabhängigkeit, Offenheit und Innovation“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/inzwischen-mehr-als-2-500-unterstuetzerinnen-und-unterstuetzer-fuer-das-bauhaus-manifest-staatsminister-weimer-jede-unterschrift-ist-ein-zeichen-fuer-kunstfreiheit-unabhaengigkeit-offenheit-und-innovation--2451312"
+                },
+                {
+                  "text": " — 02.09.2026"
+                }
+              ],
+              "sub": "Die Unterstützung für das Bauhaus-Manifest 2026 wächst weiter. Inzwischen haben sich über 2.500 Kulturschaffende, Wissenschaftler, Handwerker, Designer und Architekten dem Bündnis angeschlossen. Auch zahlreiche Prominente, Institutionen und viele Privatpersonen haben unterzeichnet. Dazu Staatsminister Weimer: „Jeden Tag wächst die Unterstützung für das Bauhaus-Manifest weiter. Jede Unterschrift ist ein Zeichen für die Prinzipien von Kunstfreiheit, Unabhängigkeit, Offenheit und Innovation. Die Ideen des Bauhauses sind lebendig und das machen wir sichtbar. Es ist wichtig, dass wir die Bauhaus-Prinzipien in aller Deutlichkeit verteidigen.“ Wegen der großen Nachfrage an Unterstützung auch aus dem Ausland ist eine englische Version des Manifests in Arbeit. Auf Initiative von Staatsminister Wolfram Weimer hatten Ende August Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Auch die sechzehn Länder hatt..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-praesidenten-der-ukraine-wolodymyr-selenskyj-2451310"
+                },
+                {
+                  "text": " — 02.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Denkmal für die polnischen Opfer des Zweiten Weltkriegs: Errichtung ab 2027 – Staatsminister Weimer zum Jahrestag des deutschen Überfalls auf Polen",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/denkmal-fuer-die-polnischen-opfer-des-zweiten-weltkriegs-errichtung-ab-2027-staatsminister-weimer-zum-jahrestag-des-deutschen-ueberfalls-auf-polen-2451024"
+                },
+                {
+                  "text": " — 01.09.2026"
+                }
+              ],
+              "sub": "Am 1. September 1939 überfiel das nationalsozialistische Deutschland Polen und begann damit den Zweiten Weltkrieg. Um an die Millionen Opfer der deutschen Aggression und Besatzung zu erinnern, soll im Zentrum Berlins ein dauerhafter Ort des Gedenkens entstehen: das vom Deutschen Bundestag beschlossene Denkmal für die polnischen Opfer des Zweiten Weltkriegs und der deutschen Besatzung in Polen 1939–1945. Derzeit läuft ein Gestaltungswettbewerb; im Dezember 2026 wird ein Preisgericht über einen Siegerentwurf beraten. Anlässlich des Jahrestages des deutschen Überfalls auf Polen sagte Wolfram Weimer, Staatsminister für Kultur und Medien: „Der Krieg und die deutsche Besatzung brachten unermessliches Leid über Polen und seine Bevölkerung. Wir gedenken heute der Millionen Menschen, die ermordet, vertrieben und ihrer Heimat beraubt wurden. An die polnischen Opfer der deutschen Aggression zu erinnern, sind wir ihnen und ihren Nachkommen schuldig. Denn nur durch eine lebendige Erinnerung und..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dip.bundestag.de/vorgang/338789"
+                },
+                {
+                  "text": " — 07.09.2026"
+                }
+              ],
+              "sub": "Dem Bundesrat zugeleitet - Noch nicht beraten"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetzentwurf (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0509-26.pdf"
+                },
+                {
+                  "text": " — 04.09.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzentwurf"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-09",
       "title": "Energie-Kompass Briefing — 09.09.2026",
       "sections": [
@@ -8462,423 +8923,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 10.08.2026"
-                }
-              ],
-              "sub": "Kulturstaatsminister Wolfram Weimer stellt den Gedenkstätten zur Aufarbeitung des Nationalsozialismus und der SED-Diktatur im kommenden Jahr zusätzlich zehn Millionen Euro zur Verfügung. Davon entfallen fünf Millionen Euro auf Projektförderungen und weitere fünf Millionen Euro auf die institutionelle Stärkung der vom Bund geförderten Gedenkstätten. Damit setzt der Bund die im November 2025 beschlossene Gedenkstättenkonzeption um und trägt den wachsenden Herausforderungen der Gedenkstätten Rechnung. Kulturstaatsminister Wolfram Weimer erklärt dazu: „Gedenkstätten sind die Gedächtnisstützen unserer Gesellschaft. Sie bewahren die Erinnerung an die Verbrechen des Nationalsozialismus und der SED-Diktatur und machen unsere Geschichte erfahrbar. Gerade in einer Zeit, in der Desinformation und Geschichtsverfälschung zunehmen und die Stimmen der Zeitzeuginnen und Zeitzeugen verstummen, braucht unsere Erinnerungskultur starke Erinnerungsorte. Mit den zusätzlichen Mitteln setzen wir deshalb e..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Beratung des Nationalen Sicherheitsrates am 7. August 2026",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/beratung-des-nationalen-sicherheitsrates-am-7-august-2026-2449228"
-                },
-                {
-                  "text": " — 07.08.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz gratuliert der Präsidentin der Republik Peru, Keiko Sofía Fujimori Higuchi",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-praesidentin-der-republik-peru-keiko-sof%C3%ADa-fujimori-higuchi-2449172"
-                },
-                {
-                  "text": " — 06.08.2026"
-                }
-              ],
-              "sub": "Sehr geehrte Frau Präsidentin, zu Ihrer Amtseinführung als Präsidentin der Republik Peru übermittle ich Ihnen meine herzlichen Glückwünsche. Deutschland und Peru verbindet eine langjährige Partnerschaft, die auf gemeinsamen demokratischen Werten beruht. Ich freue mich darauf, die freundschaftlichen Beziehungen zwischen Deutschland und Peru gemeinsam mit Ihnen weiter zu vertiefen. Für die vor Ihnen liegenden verantwortungsvollen Aufgaben wünsche ich Ihnen viel Erfolg und eine glückliche Hand. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neue Transparenzpflichten für KI in Deutschland – Staatsminister Weimer: „Ein wichtiger Meilenstein, der das Vertrauen in digitale Inhalte stärkt“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neue-transparenzpflichten-fuer-ki-in-deutschland-staatsminister-weimer-ein-wichtiger-meilenstein-der-das-vertrauen-in-digitale-inhalte-staerkt--2449152"
-                },
-                {
-                  "text": " — 06.08.2026"
-                }
-              ],
-              "sub": "Kulturstaatsminister Weimer sieht die neuen KI-Transparenzpflichten als bedeutenden Erfolg für deutsche Unternehmen und als wichtigen Gewinn für den Kultur- und Medienbereich. Seit dem 2. August gelten in der Europäischen Union neue Transparenzpflichten für bestimmte KI-Systeme und KI-generierte Inhalte. Ziel der Neuregelung ist, mehr Transparenz beim Einsatz von KI zu schaffen. Bürgerinnen und Bürger sollen künftig besser erkennen können, wann sie mit einem KI-System interagieren oder wann Inhalte mithilfe künstlicher Intelligenz erzeugt oder manipuliert wurden. Kulturstaatsminister Wolfram Weimer erklärte: „Dass nun EU-weit bestimmte Transparenzpflichten gelten, ist ein wichtiger Meilenstein. Die neuen Regelungen stärken das Vertrauen in digitale Inhalte. Durch mehr Transparenz über den Einsatz künstlicher Intelligenz leisten sie einen Beitrag dazu, das Risiko von Täuschungen und die Verbreitung irreführender KI-generierter Inhalte zu verringern. Zugleich greifen Ausnahmen zugu..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ehemaliger Regierungssprecher Uwe-Karsten Heye verstorben",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/ehemaliger-regierungssprecher-uwe-karsten-heye-verstorben-2448912"
-                },
-                {
-                  "text": " — 03.08.2026"
-                }
-              ],
-              "sub": "Staatssekretär a.D. Uwe-Karsten Heye ist am 30. Juli 2026 im Alter von 85 Jahren verstorben. Er war von 1998 bis 2002 als Chef des Bundespresseamtes zugleich Sprecher der Bundesregierung unter Bundeskanzler Gerhard Schröder. Davor war StS a.D. Heye über lange Jahre für verschiedene Medien als Journalist tätig. Bevor er 1998 zum Sprecher der Bundesregierung berufen wurde, nahm er ab 1990 bereits eine vergleichbare Funktion als Sprecher der niedersächsischen Landesregierung wahr. Nach seinem Ausscheiden aus dem Bundespresseamt übernahm Uwe-Karsten Heye 2003 die Leitung des Generalkonsulats New York im Geschäftsbereich des Auswärtigen Amtes. Von 2006 bis 2010 war er als Chefredakteur der SPD-Parteizeitung „Vorwärts“ tätig. Uwe-Karsten Heye war Vorstandsvorsitzender des Vereins „Gesicht Zeigen! Für ein weltoffenes Deutschland e.V.“, den er im Jahr 2000 mitgegründet hat. Regierungssprecher Stefan Kornelius: „Uwe-Karsten Heye stand für kollegialen, wertschätzenden Umgang mit Kollegi..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Friedrich Merz zur Lage in Ceuta:",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-zur-lage-in-ceuta--2448818"
-                },
-                {
-                  "text": " — 31.07.2026"
-                }
-              ],
-              "sub": "\"Der Schutz der Außengrenzen der Europäischen Union ist entscheidend für die Bekämpfung illegaler Migration. Ich habe die klare Erwartung an alle EU-Mitgliedstaaten, dass sie dieser Pflicht nachkommen. Wir stehen dazu in Kontakt mit der spanischen Regierung. Spanien will und muss die Situation in Ceuta schnellstmöglich wieder in den Griff bekommen. Ich begrüße daher die spanische Absicht, die illegalen Migranten nicht auf den europäischen Kontinent zu lassen. Von Marokko erwarten wir, dass sie die illegalen Migranten unverzüglich wieder zurücknehmen. Es ist gut, dass die Europäische Kommission und Kommissar Magnus Brunner ihre Unterstützung hierfür zugesagt haben. Die im Juni verabschiedete Rückkehrverordnung muss nun unverzüglich und umfassend umgesetzt werden.\""
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturbauten-Initiative: Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Kampnagel als Leuchtturm internationaler Kulturarbeit stärken“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-kampnagel-als-leuchtturm-internationaler-kulturarbeit-staerken--2448778"
-                },
-                {
-                  "text": " — 30.07.2026"
-                }
-              ],
-              "sub": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der Kulturbauten-Initiative bis zu 60 Millionen Euro für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg zugesagt. In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangreich modernisiert, erweitert und an steigende Bedarfe angepasst werden. Der offizielle Spatenstich ist für den 30. Oktober unter Teilnahme des Staatsministers geplant. Kulturstaatsminister Weimer: „Kampnagel ist ein Leuchtturm der freien Kulturszene. Seine internationale Kulturarbeit strahlt weit über Hamburg und Deutschland hinaus. Mit den Mitteln trägt der Bund erheblich dazu bei, auf dem historischen Gelände zeitgemäße Produktionsbedingungen zu schaffen. So kann sich Kampnagel auf dem gewohnt hohen künstlerischen Niveau als Spiel- und Produktionsstätte für die freie Szene und als Labor für spartenübergreifende Gegenwartskunst weiterentwickeln. Damit stärken wir gera..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung beschließt Sondermünzen zu „Tamara Danz“ und „Metropolis“ – Staatsminister Weimer: „Echte Kunstwerke für die Hosentasche“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-beschliesst-sondermuenzen-zu-tamara-danz-und-metropolis-staatsminister-weimer-echte-kunstwerke-fuer-die-hosentasche--2448656"
-                },
-                {
-                  "text": " — 29.07.2026"
-                }
-              ],
-              "sub": "Das Bundeskabinett hat heute die Prägung zweier Silber-Sondermünzen im Jahr 2027 beschlossen. Damit wird des 75. Geburtstags der Sängerin Tamara Danz und der Uraufführung des Films „Metropolis“ vor 100 Jahren gedacht. Staatsminister Wolfram Weimer erklärt: „Sondermünzen sind weit mehr als Zahlungsmittel. Sie erzählen Geschichten über unser Land, veranschaulichen seine kulturelle Identität. Sie sind echte Kunstwerke für die Hosentasche. Mit Tamara Danz und Metropolis würdigen wir zwei herausragende kulturelle Leistungen, die das Selbstverständnis unseres Landes bis heute – im wahrsten Sinne – mitprägen.“ Mit einer 35€-Sondermünze erinnert die Bundesrepublik an Tamara Danz. Sie war die weibliche Stimme der Rockmusik in der DDR. Mit ihrer Band Silly schuf sie Songs, deren poetische und zugleich unerschrockene Texte von den Hoffnungen, Widersprüchen und Erfahrungen eines Lebens im SED-Staat erzählten. Bis heute gilt sie als eine der bedeutendsten deutschen Rockmusikerinnen der 1980er-..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz schlägt Steffen Bilger für das Amt des Bundesministers für Verkehr vor",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-schlaegt-steffen-bilger-fuer-das-amt-des-bundesministers-fuer-verkehr-vor-2448280"
-                },
-                {
-                  "text": " — 26.07.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturbauten-Initiative: Staatsminister Weimer besucht Kloster Ettal in Bayern: „Ein außergewöhnlicher Ort unserer Kulturgeschichte“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-staatsminister-weimer-besucht-kloster-ettal-in-bayern-ein-aussergewoehnlicher-ort-unserer-kulturgeschichte--2448258"
-                },
-                {
-                  "text": " — 24.07.2026"
-                }
-              ],
-              "sub": "Die Kulturbautenreise von Staatsminister Wolfram Weimer geht weiter: Am 24. Juli besuchte er gemeinsam mit Alexander Dobrindt, MdB, Bundesminister des Innern und Wahlkreisabgeordneter für Ettal, das dortige Benediktinerkloster. Kulturstaatsminister Weimer übergab einen symbolischen Förderbescheid in Höhe von 375.000 Euro. Die Mittel stammen aus dem Programm „Investitionen in national bedeutsame Kultureinrichtungen in Deutschland“. Sie kommen der Sanierung und barrierefreien Gestaltung des Ritterakademie-Trakts zur Einrichtung eines Museums zugute. Die Gesamtbaukosten belaufen sich auf 1,5 Millionen Euro. Weitere 431.000 Euro hat der Bund aus dem Denkmalschutz-Sonderprogramm für die denkmalgerechte Sanierung der Klostermauer in Aussicht gestellt. Das Kloster Ettal wurde im Jahr 1330 gegründet und ist bis heute von Benediktinermönchen bewohnt Staatsminister Weimer sagte im Vorfeld: „Das Benediktinerkloster Ettal ist nicht nur ein außergewöhnlicher Ort unserer Glaubens- und Kulturg..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-11",
-      "title": "Energie-Kompass Briefing — 11.08.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Sommer-Rohstoffreise des Parlamentarischen Staatssekretärs Stefan Rouenhoff beginnt",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260810-sommer-rohstoffreise-rouenhoff.html"
-                },
-                {
-                  "text": " — Gestern, 10:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum Niedrigwasser:",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260807-zitat-reiche-niedrigwasser.html"
-                },
-                {
-                  "text": " — 07.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juni 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260807-entwicklung-produktion-juni.html"
-                },
-                {
-                  "text": " — 07.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juni 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260806-entwicklung-verarbeitendes-gewerbe-juni.html"
-                },
-                {
-                  "text": " — 06.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Strompreisen in Deutschland",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260806-zitat-reiche-strompreise-in-deutschland.html"
-                },
-                {
-                  "text": " — 06.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutschlandfonds wächst weiter: Mit neuen Kreditprogrammen für Energieversorgungsunternehmen stellt der Bund Garantien von 16 Mrd. Euro bereit",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/08/20260803-deutschlandfonds-waechst-weiter.html"
-                },
-                {
-                  "text": " — 03.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin Katherina Reiche besucht deutsche Unternehmen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Ministerium/sommerbesuche-reiche-2026.html"
-                },
-                {
-                  "text": " — 31.07.2026"
-                }
-              ],
-              "sub": "Im Rahmen ihrer diesjährigen Sommerreise besuchte Bundeswirtschaftsministerin Katherina Reiche Unternehmen in ganz Deutschland. Konkret führte die Reise nach Nordrhein-Westfalen, Bayern und Baden-Württemberg sowie nach Sachsen-Anhalt und Niedersachsen. Im Mittelpunkt der Besuche stand der Austausch mit Unternehmen und Beschäftigten sowie Vertreterinnen und Vertretern aus Wirtschaft, Industrie und Energieversorgung."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zitat von Bundesministerin für Wirtschaft und Energie Katherina Reiche zum BIP und Geschäftsklimaindex",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260731-zitat-reiche-bip-geschaeftsklimaindex.html"
-                },
-                {
-                  "text": " — 31.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die Bundesregierung schlägt das nächste Kapitel der Energiewende auf – EEG-Novelle und Netzanschlusspaket im Bundeskabinett beschlossen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260729-eeg-novelle-und-netzanschlusspaket.html"
-                },
-                {
-                  "text": " — 29.07.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Johannes Steiniger wird neuer Parlamentarischer Staatssekretär im BMWE",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/07/20260727-steiniger-neuer-staatssekretaer.html"
-                },
-                {
-                  "text": " — 27.07.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "09.06.2026 - Ausschreibungen Biomethan",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/Apr_2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "27.07.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/GT1092026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "27.07.2026 - Ausschreibungen Biomethan",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/Sep_2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur startet Konsultation zur Reform der Netzentgeltsystematik Strom",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260806_Agnes.html"
-                },
-                {
-                  "text": " — 06.08.2026"
-                }
-              ],
-              "sub": "Präsident Müller: „Auf dem Weg zu mehr Flexibilität und Systemeffizienz im Strommarkt liegen wir gut im Zeitplan. Nach der heute gestarteten Konsultation wollen wir mit einer Festlegung zum Jahresende den Strommarktakteuren zwei Jahre Zeit für die Umsetzung der zukünftigen Entgeltsystematik geben.“"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur übernimmt zentrale Rolle bei der Umsetzung der KI-Verordnung",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260729_KI_VO.html"
-                },
-                {
-                  "text": " — 29.07.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "„Gedächtnisstützen unserer Gesellschaft“ –Kulturstaatsminister Weimer stärkt Gedenkstätten mit zehn Millionen Euro zusätzlich",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/-gedaechtnisstuetzen-unserer-gesellschaft-kulturstaatsminister-weimer-staerkt-gedenkstaetten-mit-zehn-millionen-euro-zusaetzlich-2449282"
-                },
-                {
-                  "text": " — Gestern, 13:50"
                 }
               ],
               "sub": "Kulturstaatsminister Wolfram Weimer stellt den Gedenkstätten zur Aufarbeitung des Nationalsozialismus und der SED-Diktatur im kommenden Jahr zusätzlich zehn Millionen Euro zur Verfügung. Davon entfallen fünf Millionen Euro auf Projektförderungen und weitere fünf Millionen Euro auf die institutionelle Stärkung der vom Bund geförderten Gedenkstätten. Damit setzt der Bund die im November 2025 beschlossene Gedenkstättenkonzeption um und trägt den wachsenden Herausforderungen der Gedenkstätten Rechnung. Kulturstaatsminister Wolfram Weimer erklärt dazu: „Gedenkstätten sind die Gedächtnisstützen unserer Gesellschaft. Sie bewahren die Erinnerung an die Verbrechen des Nationalsozialismus und der SED-Diktatur und machen unsere Geschichte erfahrbar. Gerade in einer Zeit, in der Desinformation und Geschichtsverfälschung zunehmen und die Stimmen der Zeitzeuginnen und Zeitzeugen verstummen, braucht unsere Erinnerungskultur starke Erinnerungsorte. Mit den zusätzlichen Mitteln setzen wir deshalb e..."
