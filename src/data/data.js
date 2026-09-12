@@ -253,9 +253,9 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8",
-      "news-15",
-      "news-22"
+      "news-12",
+      "news-19",
+      "news-26"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,8 +508,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8",
-      "news-22"
+      "news-12",
+      "news-26"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,50 +522,94 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Heute, 08:30",
+    "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:45",
     "tags": [],
-    "zusammenfassung": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-ki-rechenknoten-ipcei-cic.html",
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430",
     "gelesen": false
   },
   {
     "id": "news-2",
+    "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:35",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:20",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 17:45",
+    "datum": "Gestern, 11:45",
     "tags": [],
     "zusammenfassung": "At the invitation of the Federal President of the Federal Republic of Germany, His Excellency Frank-Walter Steinmeier, the President of the United Arab Emirates (UAE), His Highness Sheikh Mohamed bin Zayed Al Nahyan, visited Germany from 9 to 11 September 2026. During this first State Visit from a President of the Uni…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-the-occasion-of-the-state-visit-of-the-president-of-the-united-arab-emirates-to-the-federal-republic-of-germany-2452242",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
+    "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:30",
+    "tags": [],
+    "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 08:30",
+    "tags": [],
+    "zusammenfassung": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-ki-rechenknoten-ipcei-cic.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
     "titel": "Bundeskanzler Merz telefoniert mit dem indischen Premierminister Narendra Modi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:35",
+    "datum": "10.09.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-indischen-premierminister-narendra-modi-2452184",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Bundeskanzler Friedrich Merz sagt zum bevorstehenden Jahrestag der Anschläge vom 11. September:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:00",
+    "datum": "10.09.2026",
     "tags": [],
     "zusammenfassung": "„Dass sich 9/11 zum 25. Mal jährt, geht uns nahe. Wir Deutsche haben damals gespürt, wie viel uns mit unseren amerikanischen Freunden verbindet. Wir wussten: Die Terrorangriffe von New York, Washington und Pennsylvania galten auch unserer Lebensweise, unserer Freiheit und unserer Demokratie. Vor 25 Jahren konnten die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-sagt-zum-bevorstehenden-jahrestag-der-anschlaege-vom-11-september--2452138",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Neuer Österreichisch-Deutscher Lyrikpreis zum Bachmann-Jubiläum würdigt zeitgenössische Lyrik",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -576,7 +620,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -587,7 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -598,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -611,7 +655,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -622,7 +666,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -633,7 +677,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -644,7 +688,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -655,7 +699,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-17",
     "titel": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -666,7 +710,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-18",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -677,7 +721,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -690,7 +734,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -701,7 +745,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -712,7 +756,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erin…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -723,7 +767,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Z…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -734,7 +778,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -745,7 +789,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -758,7 +802,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übert…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -772,7 +816,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -783,7 +827,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Energiekostenvergleich für Pkw",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -794,7 +838,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "Denkmal für die polnischen Opfer des Zweiten Weltkriegs: Errichtung ab 2027 – Staatsminister Weimer zum Jahrestag des deutschen Überfalls a…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -805,7 +849,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -814,52 +858,6 @@ const NEWS = [
     "zusammenfassung": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260901-ploss-besucht-weltleitmesse.html",
     "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "31.08.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Präsident Müller: „Die Transformation der Energiesysteme kann nur gemeinsam gelingen“",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz telefoniert mit dem Premierminister der Sozialistischen Republik Vietnam, Le Minh Hung",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "28.08.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-premierminister-der-sozialistischen-republik-vietnam-le-minh-hung-2450904",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Staatspräsidenten der Volksrepublik China, Xi Jinping",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "28.08.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Präsident, mit großer Bestürzung habe ich die Berichte und Bilder von der verheerenden Sturzflut in China verfolgt. In diesen schweren Stunden sind meine Gedanken bei den Opfern, ihren Angehörigen und allen von der Katastrophe betroffenen Menschen. Ihnen gilt mein tief empfundenes Mitgefühl. Den Ver…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kondolenztelegramm-von-bundeskanzler-merz-an-den-staatspraesidenten-der-volksrepublik-china-xi-jinping-2450900",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Kondolenztelegramm von Bundeskanzler Merz an den Ministerpräsidenten von Nepal, Balendra Shah",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "28.08.2026",
-    "tags": [],
-    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, Mit tiefer Betroffenheit habe ich von der schweren Flutkatastrophe in Ihrem Land erfahren. Ihnen und dem nepalesischen Volk spreche ich mein tief empfundenes Mitgefühl aus. Unsere Gedanken sind bei den Opfern, ihren Familien und allen Menschen, die durch die Katastrophe ihr Zuhaus…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kondolenztelegramm-von-bundeskanzler-merz-an-den-ministerpraesidenten-von-nepal-balendra-shah-2450902",
-    "gelesen": true
   }
 ];
 
