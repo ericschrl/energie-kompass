@@ -525,7 +525,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:45",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430",
@@ -536,7 +536,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:35",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428",
@@ -547,7 +547,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:20",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426",
@@ -558,18 +558,18 @@ const NEWS = [
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 11:45",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "At the invitation of the Federal President of the Federal Republic of Germany, His Excellency Frank-Walter Steinmeier, the President of the United Arab Emirates (UAE), His Highness Sheikh Mohamed bin Zayed Al Nahyan, visited Germany from 9 to 11 September 2026. During this first State Visit from a President of the Uni…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-declaration-on-the-occasion-of-the-state-visit-of-the-president-of-the-united-arab-emirates-to-the-federal-republic-of-germany-2452242",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-5",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:30",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html",
@@ -580,11 +580,11 @@ const NEWS = [
     "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "11.09.2026",
     "tags": [],
     "zusammenfassung": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-ki-rechenknoten-ipcei-cic.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -595,7 +595,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-indischen-premierminister-narendra-modi-2452184",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -606,7 +606,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Dass sich 9/11 zum 25. Mal jährt, geht uns nahe. Wir Deutsche haben damals gespürt, wie viel uns mit unseren amerikanischen Freunden verbindet. Wir wussten: Die Terrorangriffe von New York, Washington und Pennsylvania galten auch unserer Lebensweise, unserer Freiheit und unserer Demokratie. Vor 25 Jahren konnten die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-sagt-zum-bevorstehenden-jahrestag-der-anschlaege-vom-11-september--2452138",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-9",
@@ -617,7 +617,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Jubiläumsjahr anlässlich des 100. Geburtstags von Ingeborg Bachmann würdigen Österreich und Deutschland gemeinsam die deutschsprachige Gegenwartslyrik mit einer neuen Auszeichnung: dem Österreichisch-Deutschen Lyrikpreis. Initiiert wird dieser vom Bundesministerium für europäische und internationale Angelegenheiten…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-oesterreichisch-deutscher-lyrikpreis-zum-bachmann-jubilaeum-wuerdigt-zeitgenoessische-lyrik-2451888",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -628,7 +628,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260908-fahrerlose-zugfahrt.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -639,7 +639,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "200 Jahre Beethoven, 40 Jahre Warhol und eine Ausstellung, die beide Ikonen zusammenbringt: 2027 erinnert Deutschland an den 200. Todestag Ludwig van Beethovens; zugleich jährt sich der Todestag des Pop-Art-Künstlers Andy Warhol zum 40. Mal. Das Beethoven-Haus Bonn verbindet beide Anlässe in der spektakulären Sonderau…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-foerdert-beethoven-jubilaeum-mit-2-3-millionen-euro-staatsminister-weimer-2027-wird-beethoven-jahr--2451688",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -652,7 +652,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Dem Bundesrat zugeleitet - Noch nicht beraten",
     "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -663,7 +663,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260907-entwicklung-produktion-juli.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -674,7 +674,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bei seinem Besuch der Wartburg hat sich Kulturstaatsminister Wolfram Weimer im Rahmen seiner Kulturbautenreise zusammen mit Thüringens Kulturminister Christian Tischner, dem Chef der Thüringer Landesgruppe im Deutschen Bundestag, Christian Hirte (MdB), und dem Thüringer Bundestagsabgeordneten Michael Hose (MdB) über d…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-verdoppelt-bundesmittel-fuer-die-wartburg-weimer-wir-wollen-das-unesco-welterbe-zum-leuchten-bringen-grosse-denkmalsanierung-startet-2451574",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -685,7 +685,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister Wolfram Weimer besucht Eisenach und Gotha. Im Mittelpunkt seiner Kulturbautenreise steht ein echter Meilenstein bei der Sanierung von Schloss Friedenstein. Denn am heutigen Nachmittag überreichen Kulturstaatsminister Wolfram Weimer und Ministerpräsident Mario Voigt einen symbolischen Scheck über 110 Mil…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/110-millionen-euro-fuer-schloss-friedenstein-staatsminister-weimer-und-ministerpraesident-voigt-ueberreichen-symbolischen-scheck-2451560",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -696,7 +696,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-vereinigten-arabischen-emirate-scheich-mohammed-bin-zayed-2451552",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -707,7 +707,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-praesidenten-des-europaeischen-rates-ant%C3%B3nio-costa-in-berlin-2451556",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -718,7 +718,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260904-entwicklung-verarbeitendes-gewerbe-juli.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -731,7 +731,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260904-zitat-reiche-stromnetz.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -742,7 +742,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundeskanzler Friedrich Merz hat heute den neuen Staatsminister für Sport und Ehrenamt ins Amt eingeführt. Der zweifache Kanu-Olympiasieger Ronald Rauhe ist ab sofort für die Sport- und Ehrenamtspolitik der Bundesregierung zuständig. Als langjähriger Spitzensportler bringt er vor allem umfangreiche persönliche Erfahru…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-stellt-ronald-rauhe-als-staatsminister-fuer-sport-und-ehrenamt-vor-2451498",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -753,7 +753,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260903-ukraine-energy-support-fund.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -764,7 +764,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ab sofort können sich Gedenkstätten und Erinnerungsorte zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur um eine Projektförderung durch den Bund bewerben. Der Beauftragte der Bundesregierung für Kultur und Medien (BKM) stellt dafür im Rahmen der Umsetzung der neuen Gedenkstättenkonzeption insgesamt zehn M…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neues-foerderprogramm-mit-zehn-millionen-euro-fuer-projekte-in-ns-und-sed-gedenkstaetten-staatsminister-weimer-gerade-jetzt-orte-der-erinnerung-staerken--2451324",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -775,7 +775,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Unterstützung für das Bauhaus-Manifest 2026 wächst weiter. Inzwischen haben sich über 2.500 Kulturschaffende, Wissenschaftler, Handwerker, Designer und Architekten dem Bündnis angeschlossen. Auch zahlreiche Prominente, Institutionen und viele Privatpersonen haben unterzeichnet. Dazu Staatsminister Weimer: „Jeden T…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/inzwischen-mehr-als-2-500-unterstuetzerinnen-und-unterstuetzer-fuer-das-bauhaus-manifest-staatsminister-weimer-jede-unterschrift-ist-ein-zeichen-fuer-kunstfreiheit-unabhaengigkeit-offenheit-und-innovation--2451312",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -786,7 +786,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-praesidenten-der-ukraine-wolodymyr-selenskyj-2451310",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -799,7 +799,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-stromvkg.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -813,7 +813,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übertragungsnetzkosten",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-gesetzentwuerfe-ausbau-windenergie.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -824,7 +824,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -835,7 +835,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Energiekostenvergleich für Pkw",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/2021-08-pkw-energiekostenvergleich.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -846,7 +846,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Am 1. September 1939 überfiel das nationalsozialistische Deutschland Polen und begann damit den Zweiten Weltkrieg. Um an die Millionen Opfer der deutschen Aggression und Besatzung zu erinnern, soll im Zentrum Berlins ein dauerhafter Ort des Gedenkens entstehen: das vom Deutschen Bundestag beschlossene Denkmal für die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/denkmal-fuer-die-polnischen-opfer-des-zweiten-weltkriegs-errichtung-ab-2027-staatsminister-weimer-zum-jahrestag-des-deutschen-ueberfalls-auf-polen-2451024",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -857,7 +857,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260901-ploss-besucht-weltleitmesse.html",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
