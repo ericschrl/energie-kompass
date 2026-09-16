@@ -253,8 +253,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-17",
-      "news-24"
+      "news-20",
+      "news-27"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -507,7 +507,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-17"
+      "news-20"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,61 +520,94 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:55",
+    "tags": [],
+    "zusammenfassung": "Der heute unterzeichnete Hauptstadtfinanzierungsvertrag zwischen Bund und Land Berlin enthält weitreichende Regelungen zu den bundesseitigen Kulturförderungen in der Hauptstadt. Der Fokus liegt dabei auf bundesweit bedeutsamen Exzellenzprojekten und -einrichtungen, vor allem im Musik- und Museumsbereich. Dafür sollen…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-staerkt-im-hauptstadtfinanzierungsvertrag-kulturelle-exzellenz-in-berlin-staatsminister-weimer-berlin-soll-international-leuchten--2452658",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:45",
+    "tags": [],
+    "zusammenfassung": "Vertrag über zehn Jahre sieht 2,1 Mrd. Euro des Bundes für Sicherheit und 2,9 Mrd. Euro des Bundes für Kultur in der Hauptstadt vor Der Bund und das Land Berlin haben am 15. September 2026 einen neuen Hauptstadtfinanzierungsvertrag unterzeichnet. Dieser schafft für den neuen Zehn-Jahres-Zeitraum vom 1. Januar 2028 bis…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-berlin-unterzeichnen-neuen-hauptstadtfinanzierungsvertrag-2452656",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Förderung strategischer Einzelvorhaben",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:24",
+    "tags": [],
+    "zusammenfassung": "Förderung strategischer Einzelvorhaben",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/foerderung-strategischer-einzelvorhaben.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 10:05",
+    "datum": "Gestern, 10:05",
     "tags": [],
     "zusammenfassung": "Zum heutigen Internationalen Tag der Demokratie erklärt Staatsminister für Kultur und Medien Wolfram Weimer: „Unsere Demokratie ist von unschätzbarem Wert. Sie gibt uns die Freiheit, unser Land mitzugestalten, unsere Meinung zu sagen und über unsere Zukunft mitzuentscheiden. Das ist ein großes Geschenk und zugleich ei…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/internationaler-tag-der-demokratie-staatsminister-weimer-kultur-und-medien-halten-unsere-demokratie-lebendig--2452596",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 21:30",
+    "datum": "14.09.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-september-2026-2452580",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:30",
+    "datum": "14.09.2026",
     "tags": [],
     "zusammenfassung": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-reiche-beim-g20-energieministertreffen.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 09:00",
+    "datum": "14.09.2026",
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "14.09.2026",
     "tags": [],
     "zusammenfassung": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -585,7 +618,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -596,7 +629,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -607,7 +640,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -618,7 +651,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -629,7 +662,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -640,7 +673,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz telefoniert mit dem indischen Premierminister Narendra Modi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -651,7 +684,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Bundeskanzler Friedrich Merz sagt zum bevorstehenden Jahrestag der Anschläge vom 11. September:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -662,7 +695,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Neuer Österreichisch-Deutscher Lyrikpreis zum Bachmann-Jubiläum würdigt zeitgenössische Lyrik",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -673,7 +706,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -684,7 +717,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -695,7 +728,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -708,7 +741,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -719,7 +752,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -730,7 +763,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -741,7 +774,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -752,7 +785,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -763,7 +796,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -774,7 +807,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -787,7 +820,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -798,7 +831,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Nothilfe für den ukrainischen Energiesektor – Aufstockung des BMWE-Beitrags zum Ukraine Energy Support Fund vor dem kommenden Winter",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -809,7 +842,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erin…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -817,41 +850,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ab sofort können sich Gedenkstätten und Erinnerungsorte zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur um eine Projektförderung durch den Bund bewerben. Der Beauftragte der Bundesregierung für Kultur und Medien (BKM) stellt dafür im Rahmen der Umsetzung der neuen Gedenkstättenkonzeption insgesamt zehn M…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neues-foerderprogramm-mit-zehn-millionen-euro-fuer-projekte-in-ns-und-sed-gedenkstaetten-staatsminister-weimer-gerade-jetzt-orte-der-erinnerung-staerken--2451324",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Z…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "02.09.2026",
-    "tags": [],
-    "zusammenfassung": "Die Unterstützung für das Bauhaus-Manifest 2026 wächst weiter. Inzwischen haben sich über 2.500 Kulturschaffende, Wissenschaftler, Handwerker, Designer und Architekten dem Bündnis angeschlossen. Auch zahlreiche Prominente, Institutionen und viele Privatpersonen haben unterzeichnet. Dazu Staatsminister Weimer: „Jeden T…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/inzwischen-mehr-als-2-500-unterstuetzerinnen-und-unterstuetzer-fuer-das-bauhaus-manifest-staatsminister-weimer-jede-unterschrift-ist-ein-zeichen-fuer-kunstfreiheit-unabhaengigkeit-offenheit-und-innovation--2451312",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "02.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-praesidenten-der-ukraine-wolodymyr-selenskyj-2451310",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "02.09.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-stromvkg.html",
     "gelesen": true
   }
 ];

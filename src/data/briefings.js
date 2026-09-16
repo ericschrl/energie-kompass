@@ -3,6 +3,256 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-09-16",
+      "title": "Energie-Kompass Briefing — 16.09.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Förderung strategischer Einzelvorhaben",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/foerderung-strategischer-einzelvorhaben.html"
+                },
+                {
+                  "text": " — Gestern, 11:24"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-reiche-beim-g20-energieministertreffen.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im September 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-staerkt-im-hauptstadtfinanzierungsvertrag-kulturelle-exzellenz-in-berlin-staatsminister-weimer-berlin-soll-international-leuchten--2452658"
+                },
+                {
+                  "text": " — Gestern, 15:55"
+                }
+              ],
+              "sub": "Der heute unterzeichnete Hauptstadtfinanzierungsvertrag zwischen Bund und Land Berlin enthält weitreichende Regelungen zu den bundesseitigen Kulturförderungen in der Hauptstadt. Der Fokus liegt dabei auf bundesweit bedeutsamen Exzellenzprojekten und -einrichtungen, vor allem im Musik- und Museumsbereich. Dafür sollen vom Bund - stufenweise aufsteigend - zusätzlich insgesamt bis zu 12,2 Millionen Euro pro Jahr zur Verfügung gestellt werden. Darüber hinaus beteiligt sich der Bund mit bis zu insgesamt 225 Millionen Euro an der Sanierung der Berliner Philharmonie. Das Land Berlin beteiligt sich erstmals am Hauptstadtkulturfonds. Kulturstaatsminister Wolfram Weimer sagte: „Mit dem neuen, auf zehn Jahre geschlossenen Hauptstadtfinanzierungsvertrag stellt sich der Bund verlässlich hinter die Hauptstadtkultur und leitet auch notwendige Strukturveränderungen ein. Dabei nehmen wir noch stärker jene kulturellen Juwelen in den Blick, die weit über Berlin hinaus leuchten und vielfach auch De..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-berlin-unterzeichnen-neuen-hauptstadtfinanzierungsvertrag-2452656"
+                },
+                {
+                  "text": " — Gestern, 15:45"
+                }
+              ],
+              "sub": "Vertrag über zehn Jahre sieht 2,1 Mrd. Euro des Bundes für Sicherheit und 2,9 Mrd. Euro des Bundes für Kultur in der Hauptstadt vor Der Bund und das Land Berlin haben am 15. September 2026 einen neuen Hauptstadtfinanzierungsvertrag unterzeichnet. Dieser schafft für den neuen Zehn-Jahres-Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2037 verlässliche finanzielle Perspektiven und Planungssicherheit. Damit trägt der Bund wesentlich dazu bei, die Entwicklung Berlins als sichere und attraktive Hauptstadt zu fördern. Mit dem Vertrag werden hauptstadtbedingte Mehrausgaben des Landes Berlin durch den Bund getragen. Der Vertrag regelt die Unterstützung des Bundes in den Bereichen Innere Sicherheit und Hauptstadtkultur. Der Hauptstadtfinanzierungsvertrag sieht ein Volumen von rund fünf Mrd. Euro als Beitrag des Bundes für Sicherheit und Kultur in Berlin vor. Die Unterzeichnung fand im Bundesministerium der Finanzen statt. Der Bund wurde vertreten durch Bundesfinanzminister Lars Klingbeil..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/internationaler-tag-der-demokratie-staatsminister-weimer-kultur-und-medien-halten-unsere-demokratie-lebendig--2452596"
+                },
+                {
+                  "text": " — Gestern, 10:05"
+                }
+              ],
+              "sub": "Zum heutigen Internationalen Tag der Demokratie erklärt Staatsminister für Kultur und Medien Wolfram Weimer: „Unsere Demokratie ist von unschätzbarem Wert. Sie gibt uns die Freiheit, unser Land mitzugestalten, unsere Meinung zu sagen und über unsere Zukunft mitzuentscheiden. Das ist ein großes Geschenk und zugleich eine große Verantwortung. Die aktuellen politischen Entwicklungen geben Anlass dazu, uns wieder stärker bewusst zu machen, was uns unsere Demokratie gibt, und mehr Menschen für sie zu gewinnen.“ Der 15. September erinnert zugleich an einen wichtigen Moment der deutschen Demokratiegeschichte: Vor 77 Jahren wurde Konrad Adenauer zum ersten Bundeskanzler der Bundesrepublik Deutschland gewählt. Dazu Staatsminister Weimer: „Adenauers Wahl stand für den demokratischen Neubeginn unseres Landes. Was damals geschaffen wurde, hat sich bewährt – aber es ist nicht selbstverständlich. Unsere Demokratie lebt von uns allen: davon, dass wir uns einmischen, Verantwortung übernehmen und ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sitzung des Nationalen Sicherheitsrates im September 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-september-2026-2452580"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "title": "Energie-Kompass Briefing — 15.09.2026",
       "sections": [
@@ -8379,144 +8629,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 16.08.2026"
-                }
-              ],
-              "sub": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus war der deutsche Film in nahezu allen Festivalsektionen präsent. Kulturstaatsminister Wolfram Weimer: „Der deutsche Film war in diesem Jahr geradezu prägend für das Festivalprogramm von Locarno. Deutschlands Filmkünstlerinnen und -künstler haben beindruckende Erfolge erzielt mit Geschichten, die weltweit ein Publikum finden sowie mit einer außergewöhnlichen Vielfalt an Perspektiven und filmischen Erzählformen. Damit haben sie der kreativen Kraft und internationalen Ausstrahlung des deutschen Films alle Ehre gemacht. Dafür danke ich allen Filmteams sehr.“ Staatsminister Weimer weiter: „Matheus Farias‘ und Enock Carvalhos Film „Das Flussufer“ wurde beim Locarno Film ..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-17",
-      "title": "Energie-Kompass Briefing — 17.08.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html"
-                },
-                {
-                  "text": " — 14.08.2026"
-                }
-              ],
-              "sub": "„Klarer und verlässlicher Rahmen für Investitionen“"
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Congratulations on India´s 80th Independence Day",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624"
-                },
-                {
-                  "text": " — Gestern, 12:00"
-                }
-              ],
-              "sub": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstlerische Akzente gesetzt“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622"
-                },
-                {
-                  "text": " — Gestern, 10:40"
                 }
               ],
               "sub": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus war der deutsche Film in nahezu allen Festivalsektionen präsent. Kulturstaatsminister Wolfram Weimer: „Der deutsche Film war in diesem Jahr geradezu prägend für das Festivalprogramm von Locarno. Deutschlands Filmkünstlerinnen und -künstler haben beindruckende Erfolge erzielt mit Geschichten, die weltweit ein Publikum finden sowie mit einer außergewöhnlichen Vielfalt an Perspektiven und filmischen Erzählformen. Damit haben sie der kreativen Kraft und internationalen Ausstrahlung des deutschen Films alle Ehre gemacht. Dafür danke ich allen Filmteams sehr.“ Staatsminister Weimer weiter: „Matheus Farias‘ und Enock Carvalhos Film „Das Flussufer“ wurde beim Locarno Film ..."
