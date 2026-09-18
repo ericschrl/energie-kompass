@@ -253,8 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-22",
-      "news-29"
+      "news-27"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -507,7 +506,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-22"
+      "news-27"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,28 +519,83 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 08:30",
+    "tags": [],
+    "zusammenfassung": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-co2-differenzbetraege-industrieinteresse.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 20:25",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-us-praesident-trump-2453072",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Gestern, 14:00",
+    "tags": [],
+    "zusammenfassung": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260917_Wind.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 08:30",
+    "tags": [],
+    "zusammenfassung": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260917-ipcei-zu-ki-in-den-startloechern.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauha…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 08:20",
+    "datum": "Gestern, 08:20",
     "tags": [],
     "zusammenfassung": "Das Bauhaus erhält eine bedeutende Unterstützung durch den am Dienstag unterzeichneten Hauptstadtfinanzierungsvertrag für die Jahre 2028 bis Ende 2037. Darin ist erstmals eine künftig stärkere Beteiligung des Bundes am Bauhaus-Archiv – Museum für Gestaltung in Berlin verankert worden. Das Bauhaus-Archiv beherbergt die…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/weimer-staerken-das-bauhaus-von-allen-seiten-vier-millionen-euro-jaehrlich-fuer-berliner-bauhaus-archiv-und-grosse-unterstuetzung-fuer-bauhaus-manifest-2452892",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-6",
+    "titel": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:30",
+    "tags": [],
+    "zusammenfassung": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260917-industrielle-prozesswaerme.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
     "titel": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 18:55",
+    "datum": "16.09.2026",
     "tags": [],
     "zusammenfassung": "Berlin. Bundeskanzler Friedrich Merz hat am Mittwoch zur dritten Sitzung des Strategiekreises für Technologie und Innovation in das Bundeskanzleramt eingeladen. Dabei wurde über die Chancen für nationale KI-Ökosysteme und neue Innovationspotenziale im Verteidigungsbereich diskutiert. Neben der Chefin des Bundeskanzler…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/strategiekreis-fuer-technologie-und-innovation-des-bundeskanzlers-industrielle-ki-bietet-eine-grosse-chance-fuer-deutschland-2452888",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-8",
     "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -552,7 +606,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -563,7 +617,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-10",
     "titel": "Förderung strategischer Einzelvorhaben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -574,7 +628,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-11",
     "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -585,7 +639,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-12",
     "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -596,7 +650,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-13",
     "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -607,7 +661,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-14",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -618,7 +672,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-15",
     "titel": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -629,7 +683,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -640,7 +694,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -651,7 +705,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -662,7 +716,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-19",
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -673,7 +727,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-20",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -684,7 +738,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-21",
     "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -695,7 +749,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz telefoniert mit dem indischen Premierminister Narendra Modi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -706,7 +760,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-23",
     "titel": "Bundeskanzler Friedrich Merz sagt zum bevorstehenden Jahrestag der Anschläge vom 11. September:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -717,7 +771,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-24",
     "titel": "Neuer Österreichisch-Deutscher Lyrikpreis zum Bachmann-Jubiläum würdigt zeitgenössische Lyrik",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -728,7 +782,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-25",
     "titel": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -739,7 +793,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-26",
     "titel": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -750,7 +804,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-27",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -763,7 +817,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-28",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -774,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-29",
     "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -785,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-30",
     "titel": "110 Millionen Euro für Schloss Friedenstein - Staatsminister Weimer und Ministerpräsident Voigt überreichen symbolischen Scheck",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -793,63 +847,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister Wolfram Weimer besucht Eisenach und Gotha. Im Mittelpunkt seiner Kulturbautenreise steht ein echter Meilenstein bei der Sanierung von Schloss Friedenstein. Denn am heutigen Nachmittag überreichen Kulturstaatsminister Wolfram Weimer und Ministerpräsident Mario Voigt einen symbolischen Scheck über 110 Mil…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/110-millionen-euro-fuer-schloss-friedenstein-staatsminister-weimer-und-ministerpraesident-voigt-ueberreichen-symbolischen-scheck-2451560",
-    "gelesen": true
-  },
-  {
-    "id": "news-26",
-    "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Vereinigten Arabischen Emirate, Scheich Mohammed Bin Zayed",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-vereinigten-arabischen-emirate-scheich-mohammed-bin-zayed-2451552",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Besuch des Präsidenten des Europäischen Rates, António Costa, in Berlin",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-praesidenten-des-europaeischen-rates-ant%C3%B3nio-costa-in-berlin-2451556",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "04.09.2026",
-    "tags": [],
-    "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat Juli 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20260904-entwicklung-verarbeitendes-gewerbe-juli.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "04.09.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den aktuellen Vorfällen im Stromnetz",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260904-zitat-reiche-stromnetz.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz stellt Ronald Rauhe als Staatsminister für Sport und Ehrenamt vor",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.09.2026",
-    "tags": [],
-    "zusammenfassung": "Bundeskanzler Friedrich Merz hat heute den neuen Staatsminister für Sport und Ehrenamt ins Amt eingeführt. Der zweifache Kanu-Olympiasieger Ronald Rauhe ist ab sofort für die Sport- und Ehrenamtspolitik der Bundesregierung zuständig. Als langjähriger Spitzensportler bringt er vor allem umfangreiche persönliche Erfahru…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-stellt-ronald-rauhe-als-staatsminister-fuer-sport-und-ehrenamt-vor-2451498",
     "gelesen": true
   }
 ];
