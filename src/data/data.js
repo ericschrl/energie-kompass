@@ -522,7 +522,7 @@ const NEWS = [
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 20:45",
+    "datum": "18.09.2026",
     "tags": [
       "markt"
     ],
@@ -535,7 +535,7 @@ const NEWS = [
     "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:30",
+    "datum": "18.09.2026",
     "tags": [],
     "zusammenfassung": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-co2-differenzbetraege-industrieinteresse.html",
