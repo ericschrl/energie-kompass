@@ -252,9 +252,7 @@ const GESETZE = [
         "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
       }
     ],
-    "news": [
-      "news-28"
-    ],
+    "news": [],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
       "datum": "2026-08-26",
@@ -505,9 +503,7 @@ const GESETZE = [
         "kommentar": "Eigenes Konsultationsverfahren parallel"
       }
     ],
-    "news": [
-      "news-28"
-    ],
+    "news": [],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
       "datum": "2026-05-27",
@@ -519,6 +515,17 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [],
+    "zusammenfassung": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260921_Rollout.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -531,7 +538,29 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
+    "titel": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächst…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "18.09.2026",
+    "tags": [],
+    "zusammenfassung": "Sperrfrist: Sonntag, 20. September 2026, 12:30 Uhr",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/1-3-millionen-euro-fuer-sanierung-des-st-katharinenspitals-in-regensburg-staatsminister-weimer-ort-des-glaubens-und-der-gelebten-naechstenliebe--2453168",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "18.09.2026",
+    "tags": [],
+    "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-zitat-reiche-spritpreise.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -542,7 +571,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -553,7 +582,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -564,7 +593,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -575,7 +604,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauha…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -586,7 +615,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -597,7 +626,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -608,7 +637,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -619,7 +648,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -630,7 +659,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Förderung strategischer Einzelvorhaben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -641,7 +670,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -652,7 +681,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -663,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -674,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -685,7 +714,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -696,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -707,7 +736,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -718,7 +747,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -729,7 +758,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -740,7 +769,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -751,7 +780,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -762,7 +791,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz telefoniert mit dem indischen Premierminister Narendra Modi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -773,7 +802,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundeskanzler Friedrich Merz sagt zum bevorstehenden Jahrestag der Anschläge vom 11. September:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -784,7 +813,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Neuer Österreichisch-Deutscher Lyrikpreis zum Bachmann-Jubiläum würdigt zeitgenössische Lyrik",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -795,7 +824,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "BMWE-gefördertes Leuchtturmprojekt stellt Ergebnisse zur fahrerlosen Zugfahrt vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -806,7 +835,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Bund fördert Beethoven-Jubiläum mit 2,3 Millionen Euro – Staatsminister Weimer: „2027 wird Beethoven-Jahr!“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -814,41 +843,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "200 Jahre Beethoven, 40 Jahre Warhol und eine Ausstellung, die beide Ikonen zusammenbringt: 2027 erinnert Deutschland an den 200. Todestag Ludwig van Beethovens; zugleich jährt sich der Todestag des Pop-Art-Künstlers Andy Warhol zum 40. Mal. Das Beethoven-Haus Bonn verbindet beide Anlässe in der spektakulären Sonderau…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-foerdert-beethoven-jubilaeum-mit-2-3-millionen-euro-staatsminister-weimer-2027-wird-beethoven-jahr--2451688",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "07.09.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "Dem Bundesrat zugeleitet - Noch nicht beraten",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "07.09.2026",
-    "tags": [],
-    "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat Juli 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20260907-entwicklung-produktion-juli.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Kulturstaatsminister Weimer verdoppelt Bundesmittel für die Wartburg – Weimer: „Wir wollen das UNESCO-Welterbe zum Leuchten bringen“ – Groß…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "05.09.2026",
-    "tags": [],
-    "zusammenfassung": "Bei seinem Besuch der Wartburg hat sich Kulturstaatsminister Wolfram Weimer im Rahmen seiner Kulturbautenreise zusammen mit Thüringens Kulturminister Christian Tischner, dem Chef der Thüringer Landesgruppe im Deutschen Bundestag, Christian Hirte (MdB), und dem Thüringer Bundestagsabgeordneten Michael Hose (MdB) über d…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturstaatsminister-weimer-verdoppelt-bundesmittel-fuer-die-wartburg-weimer-wir-wollen-das-unesco-welterbe-zum-leuchten-bringen-grosse-denkmalsanierung-startet-2451574",
     "gelesen": true
   }
 ];
