@@ -3,6 +3,448 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-09-23",
+      "title": "Energie-Kompass Briefing — 23.09.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung leitet Novelle des Kraft-Wärme-Kopplungsgesetzes ein: Investitionssicherheit, Flexibilisierung und Systemdienlichkeit stehen im Fokus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260921-novelle-kraft-warrme-kopplungsgesetz.html"
+                },
+                {
+                  "text": " — 21.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-zitat-reiche-spritpreise.html"
+                },
+                {
+                  "text": " — 18.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-co2-differenzbetraege-industrieinteresse.html"
+                },
+                {
+                  "text": " — 18.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260917-ipcei-zu-ki-in-den-startloechern.html"
+                },
+                {
+                  "text": " — 17.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260917-industrielle-prozesswaerme.html"
+                },
+                {
+                  "text": " — 17.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Förderung strategischer Einzelvorhaben",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/foerderung-strategischer-einzelvorhaben.html"
+                },
+                {
+                  "text": " — 15.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-reiche-beim-g20-energieministertreffen.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im September 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "17.09.2026 - Wind an Land (Onshore)",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260922_OpenAccess.html"
+                },
+                {
+                  "text": " — Gestern, 14:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260921_Rollout.html"
+                },
+                {
+                  "text": " — 21.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260917_Wind.html"
+                },
+                {
+                  "text": " — 17.09.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-unterzeichnung-eines-abkommens-zur-sicherheit-groenlands-2453440"
+                },
+                {
+                  "text": " — Gestern, 17:58"
+                }
+              ],
+              "sub": "„Ich begrüße, dass die dänische Premierministerin Mette Frederiksen, der grönländische Premierminister Jens-Frederik Nielsen und der Präsident der Vereinigten Staaten Donald Trump heute ein Abkommen zur Sicherheit Grönlands unterzeichnet haben. Dass die Verhandlungen der letzten Monate zu einer einvernehmlichen Lösung in Einklang mit internationalem Recht geführt haben, ist eine gute Nachricht. Es stärkt unsere transatlantische Partnerschaft in der NATO und trägt zur Sicherheit im Hohen Norden bei. Unsere Partner können auch in Zukunft auf die Unterstützung Deutschlands zählen, wenn es darum geht, gemeinsam diese Ziele zu verfolgen.“ Höflichkeitsübersetzung Statement by Federal Chancellor Merz “I welcome the fact that Danish Prime Minister Mette Frederiksen, Greenland’s Prime Minister Jens-Frederik Nielsen and President of the United States Donald Trump have signed an agreement on the security of Greenland today. It is good news that the negotiations of recent months have led ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-beschliessen-spritpreis-entlastungspaket-2453198"
+                },
+                {
+                  "text": " — 18.09.2026"
+                }
+              ],
+              "sub": "Angesichts der anhaltend hohen Spritpreise in Deutschland sorgen Bund und die Länder nun für eine schnelle Entlastung. Dafür senkt der Bund die Energiesteuer auf Benzin und Diesel bis Ende 2026 um 14 Cent pro Liter. Inklusive Umsatzsteuer summiert sich die Steuerentlastung für Kraftstoffe auf 17 Cent pro Liter. Insgesamt werden die Bürgerinnen und Bürger und die Wirtschaft um rund 2,5 Milliarden Euro entlastet. Die Länder leisten einen Beitrag in einer Höhe von 1,25 Milliarden Euro über einen Umsatzsteuerfestbetrag. Das Entlastungspaket soll bis 1. Oktober umgesetzt werden. Darüber hinaus wird der Bund Gespräche mit der Mineralölwirtschaft führen, mit dem Ziel, spätestens zum 1. Januar 2027 einen Spritpreisdeckel nach dem Vorbild Luxemburgs oder Belgiens einzuführen. Die Versorgungssicherheit muss gewährleistet sein. Missbräuchliche Preisaufschläge müssen unterbunden werden. Die Bundesregierung begrüßt die Gespräche in der Europäischen Union, analog zum EU-Energiekrisenbeitrag 2..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächstenliebe“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/1-3-millionen-euro-fuer-sanierung-des-st-katharinenspitals-in-regensburg-staatsminister-weimer-ort-des-glaubens-und-der-gelebten-naechstenliebe--2453168"
+                },
+                {
+                  "text": " — 18.09.2026"
+                }
+              ],
+              "sub": "Sperrfrist: Sonntag, 20. September 2026, 12:30 Uhr"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-us-praesident-trump-2453072"
+                },
+                {
+                  "text": " — 17.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauhaus-Manifest",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/weimer-staerken-das-bauhaus-von-allen-seiten-vier-millionen-euro-jaehrlich-fuer-berliner-bauhaus-archiv-und-grosse-unterstuetzung-fuer-bauhaus-manifest-2452892"
+                },
+                {
+                  "text": " — 17.09.2026"
+                }
+              ],
+              "sub": "Das Bauhaus erhält eine bedeutende Unterstützung durch den am Dienstag unterzeichneten Hauptstadtfinanzierungsvertrag für die Jahre 2028 bis Ende 2037. Darin ist erstmals eine künftig stärkere Beteiligung des Bundes am Bauhaus-Archiv – Museum für Gestaltung in Berlin verankert worden. Das Bauhaus-Archiv beherbergt die weltweit größte Sammlung von Bauhaus-Objekten und ist damit ein zentraler Ort für die Bewahrung und Vermittlung des Bauhaus-Erbes national und international. Nach Abschluss von Sanierung und Erweiterungsbau sowie der Änderung der Rechtsform des bisher als Verein tätigen Bauhaus-Archivs kann der Bund sich mit bis zu vier Millionen Euro jährlich an den Betriebskosten beteiligen. Dazu Staatsminister Weimer: „Wir stärken das Bauhaus von allen Seiten und schützen seine Errungenschaften gegen rechte Anfeindungen. Die steigenden Zahlen der Unterstützerinnen und Unterstützer des Bauhaus Manifests, als auch die künftige Unterstützung des Bauhaus-Archivs durch den Bund zeigen,..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/strategiekreis-fuer-technologie-und-innovation-des-bundeskanzlers-industrielle-ki-bietet-eine-grosse-chance-fuer-deutschland-2452888"
+                },
+                {
+                  "text": " — 16.09.2026"
+                }
+              ],
+              "sub": "Berlin. Bundeskanzler Friedrich Merz hat am Mittwoch zur dritten Sitzung des Strategiekreises für Technologie und Innovation in das Bundeskanzleramt eingeladen. Dabei wurde über die Chancen für nationale KI-Ökosysteme und neue Innovationspotenziale im Verteidigungsbereich diskutiert. Neben der Chefin des Bundeskanzleramtes waren auf Ressortseite das BMWE, BMFTR, BMDS, BMF und BMVg vertreten."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-staerkt-im-hauptstadtfinanzierungsvertrag-kulturelle-exzellenz-in-berlin-staatsminister-weimer-berlin-soll-international-leuchten--2452658"
+                },
+                {
+                  "text": " — 15.09.2026"
+                }
+              ],
+              "sub": "Der heute unterzeichnete Hauptstadtfinanzierungsvertrag zwischen Bund und Land Berlin enthält weitreichende Regelungen zu den bundesseitigen Kulturförderungen in der Hauptstadt. Der Fokus liegt dabei auf bundesweit bedeutsamen Exzellenzprojekten und -einrichtungen, vor allem im Musik- und Museumsbereich. Dafür sollen vom Bund - stufenweise aufsteigend - zusätzlich insgesamt bis zu 12,2 Millionen Euro pro Jahr zur Verfügung gestellt werden. Darüber hinaus beteiligt sich der Bund mit bis zu insgesamt 225 Millionen Euro an der Sanierung der Berliner Philharmonie. Das Land Berlin beteiligt sich erstmals am Hauptstadtkulturfonds. Kulturstaatsminister Wolfram Weimer sagte: „Mit dem neuen, auf zehn Jahre geschlossenen Hauptstadtfinanzierungsvertrag stellt sich der Bund verlässlich hinter die Hauptstadtkultur und leitet auch notwendige Strukturveränderungen ein. Dabei nehmen wir noch stärker jene kulturellen Juwelen in den Blick, die weit über Berlin hinaus leuchten und vielfach auch De..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-berlin-unterzeichnen-neuen-hauptstadtfinanzierungsvertrag-2452656"
+                },
+                {
+                  "text": " — 15.09.2026"
+                }
+              ],
+              "sub": "Vertrag über zehn Jahre sieht 2,1 Mrd. Euro des Bundes für Sicherheit und 2,9 Mrd. Euro des Bundes für Kultur in der Hauptstadt vor Der Bund und das Land Berlin haben am 15. September 2026 einen neuen Hauptstadtfinanzierungsvertrag unterzeichnet. Dieser schafft für den neuen Zehn-Jahres-Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2037 verlässliche finanzielle Perspektiven und Planungssicherheit. Damit trägt der Bund wesentlich dazu bei, die Entwicklung Berlins als sichere und attraktive Hauptstadt zu fördern. Mit dem Vertrag werden hauptstadtbedingte Mehrausgaben des Landes Berlin durch den Bund getragen. Der Vertrag regelt die Unterstützung des Bundes in den Bereichen Innere Sicherheit und Hauptstadtkultur. Der Hauptstadtfinanzierungsvertrag sieht ein Volumen von rund fünf Mrd. Euro als Beitrag des Bundes für Sicherheit und Kultur in Berlin vor. Die Unterzeichnung fand im Bundesministerium der Finanzen statt. Der Bund wurde vertreten durch Bundesfinanzminister Lars Klingbeil..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/internationaler-tag-der-demokratie-staatsminister-weimer-kultur-und-medien-halten-unsere-demokratie-lebendig--2452596"
+                },
+                {
+                  "text": " — 15.09.2026"
+                }
+              ],
+              "sub": "Zum heutigen Internationalen Tag der Demokratie erklärt Staatsminister für Kultur und Medien Wolfram Weimer: „Unsere Demokratie ist von unschätzbarem Wert. Sie gibt uns die Freiheit, unser Land mitzugestalten, unsere Meinung zu sagen und über unsere Zukunft mitzuentscheiden. Das ist ein großes Geschenk und zugleich eine große Verantwortung. Die aktuellen politischen Entwicklungen geben Anlass dazu, uns wieder stärker bewusst zu machen, was uns unsere Demokratie gibt, und mehr Menschen für sie zu gewinnen.“ Der 15. September erinnert zugleich an einen wichtigen Moment der deutschen Demokratiegeschichte: Vor 77 Jahren wurde Konrad Adenauer zum ersten Bundeskanzler der Bundesrepublik Deutschland gewählt. Dazu Staatsminister Weimer: „Adenauers Wahl stand für den demokratischen Neubeginn unseres Landes. Was damals geschaffen wurde, hat sich bewährt – aber es ist nicht selbstverständlich. Unsere Demokratie lebt von uns allen: davon, dass wir uns einmischen, Verantwortung übernehmen und ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sitzung des Nationalen Sicherheitsrates im September 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-september-2026-2452580"
+                },
+                {
+                  "text": " — 14.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426"
+                },
+                {
+                  "text": " — 11.09.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "title": "Energie-Kompass Briefing — 22.09.2026",
       "sections": [
@@ -9343,249 +9785,6 @@ const BRIEFINGS = {
                 {
                   "text": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria, Greece, Cyprus and Finland on the E1 West Bank Settlement Plan",
                   "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-greece-cyprus-and-finland-on-the-e1-west-bank-settlement-plan-2449908"
-                },
-                {
-                  "text": " — 20.08.2026"
-                }
-              ],
-              "sub": "The Israeli Government’s decision to publish construction tenders for the E1 settlement project is unacceptable. The international community has long opposed this settlement expansion, and has voiced their grave concerns privately and publicly. The E1 settlement will undermine the prospect of the two-state solution by driving a wedge through the West Bank and harming the territorial contiguity of the Palestinian Territories. International Law is clear that Israeli settlements in the West Bank are illegal. This is the position of the international community reaffirmed by the United Nations Security Council. At a time of grave instability in the West Bank with unprecedented levels of violence by settlers against civilians, and serious restrictions on the Palestinian economy, this decision is even more concerning. We urge the Government of Israel to retract these plans immediately and end its expansion of settlements in the West Bank. Not only will they take us further from peace, b..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bauhaus-Manifest – Breites Bündnis aus Kultur, Design, Handwerk, Architektur und Kirchen setzt Zeichen für Freiheit, Offenheit und Kreativität",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bauhaus-manifest-breites-buendnis-aus-kultur-design-handwerk-architektur-und-kirchen-setzt-zeichen-fuer-freiheit-offenheit-und-kreativitaet-2449872"
-                },
-                {
-                  "text": " — 20.08.2026"
-                }
-              ],
-              "sub": "Auf Initiative von Staatsminister Weimer haben Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Das Manifest versteht sich als ein aktuelles kultur- und gesellschaftspolitisches Bekenntnis zu den Prinzipien, die das Bauhaus bis heute zu einer weltweit prägenden kulturellen Ikone machen: Die Freiheit des künstlerischen Denkens, Offenheit gegenüber neuen Ideen, die Verbindung unterschiedlicher Disziplinen und die Überzeugung, dass kulturelle Innovation einen wichtigen Beitrag zur Entwicklung einer demokratischen Gesellschaft leisten kann. Gleichzeitig ist das Manifest ein Plädoyer dafür, die Prinzipien des Bauhauses gegen demokratiefeindliche Angriffe zu verteidigen. Zu den Unterzeichnern gehören: • Akademie der Künste: Prof. Manos Tsangaris, Präsident der Akademie der Künste • Beauftragter der Bundesregierung für Kultur und Medien: Dr. Wolfram Weimer, Staatsminister für Kultur und Medien ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Congratulations on India´s 80th Independence Day",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/congratulations-on-india-s-80th-independence-day-2449624"
-                },
-                {
-                  "text": " — 16.08.2026"
-                }
-              ],
-              "sub": "My warmest congratulations to Prime Minister Modi and the people of India on the 80th Independence Day. Germany greatly values its friendship and partnership with India. I look forward to making them even stronger."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Spezialpreis der Jury für brasilianisch-deutsche Co-Produktion – Staatsminister Weimer: „Der deutsche Film hat in Locarno starke künstlerische Akzente gesetzt“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/spezialpreis-der-jury-fuer-brasilianisch-deutsche-co-produktion-staatsminister-weimer-der-deutsche-film-hat-in-locarno-starke-kuenstlerische-akzente-gesetzt--2449622"
-                },
-                {
-                  "text": " — 16.08.2026"
-                }
-              ],
-              "sub": "Mit der heutigen Preisverleihung endet die 79. Ausgabe des Locarno Film Festivals. Für den deutschen Film war sie so erfolgreich wie selten zuvor. Insgesamt 20 Produktionen mit deutscher Beteiligung waren im Festivalprogramm vertreten, fünf davon im internationalen Wettbewerb um den Goldenen Leoparden. Darüber hinaus war der deutsche Film in nahezu allen Festivalsektionen präsent. Kulturstaatsminister Wolfram Weimer: „Der deutsche Film war in diesem Jahr geradezu prägend für das Festivalprogramm von Locarno. Deutschlands Filmkünstlerinnen und -künstler haben beindruckende Erfolge erzielt mit Geschichten, die weltweit ein Publikum finden sowie mit einer außergewöhnlichen Vielfalt an Perspektiven und filmischen Erzählformen. Damit haben sie der kreativen Kraft und internationalen Ausstrahlung des deutschen Films alle Ehre gemacht. Dafür danke ich allen Filmteams sehr.“ Staatsminister Weimer weiter: „Matheus Farias‘ und Enock Carvalhos Film „Das Flussufer“ wurde beim Locarno Film ..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-08-24",
-      "title": "Energie-Kompass Briefing — 24.08.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwurf eines Gesetzes über einen Zuschuss zu den Übertragungsnetzkosten in den Jahren 2027 bis 2029",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20260821-uebertragungsnetzkosten-2027-bis-2029.html"
-                },
-                {
-                  "text": " — 21.08.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.08.2026 - Ausschreibungen Biomethan",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/Sep_2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "18.08.2026 - Solaranlagen (Photovoltaik, erstes Segment): Ausschreibung 1. März 2024",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01072026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Zinssätze für Eisenbahninfrastrukturunternehmen – Konsultation des Methodenberichts",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260819_EisenbahnMethoden.html"
-                },
-                {
-                  "text": " — 19.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Überzeichnung der Aus­schrei­bung für PV-Frei­flä­chen­an­la­gen zum Ge­bots­ter­min 1. Juli 2026",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260818_Solar1.html"
-                },
-                {
-                  "text": " — 18.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur konsultiert pauschalierte Kapitalverzinsung für die Gasnetzbetreiber",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260814_WACC.html"
-                },
-                {
-                  "text": " — 14.08.2026"
-                }
-              ],
-              "sub": "„Klarer und verlässlicher Rahmen für Investitionen“"
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Erfolgsjahr für die Bundesfilmförderung: Rekordanzahl an geförderten Filmen und Serien, Fördermittel bereits ausgeschöpft - Staatsminister Weimer: Filmförderung des Bundes wirkt",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/erfolgsjahr-fuer-die-bundesfilmfoerderung-rekordanzahl-an-gefoerderten-filmen-und-serien-foerdermittel-bereits-ausgeschoepft-staatsminister-weimer-filmfoerderung-des-bundes-wirkt-2449928"
-                },
-                {
-                  "text": " — 21.08.2026"
-                }
-              ],
-              "sub": "Die Bundesfilmförderung blickt auf ein außergewöhnlich erfolgreiches Jahr 2026. Nachdem bereits 2025 eine deutlich gestiegene Nachfrage nach Fördermitteln zu verzeichnen war, setzt sich diese Entwicklung in diesem Jahr fort: Noch nie wurden auf Bundesebene so viele Film- und Serienproduktionen gefördert wie 2026. Die für die wirtschaftliche Filmförderung bereitgestellten Mittel sind bereits ausgeschöpft. Dazu Staatsminister Weimer: „Die Filmförderung des Bundes wirkt. Wir investieren in die Zukunft des Filmstandorts Deutschland und schaffen die Voraussetzungen dafür, dass es wieder mehr Filme und Serien made in Germany gibt. Das wird auch international für Aufmerksamkeit sorgen. Die Rekordnachfrage nach Fördermitteln ist zudem ein starkes Signal für die Leistungsfähigkeit unserer Wirtschaft.“ Allein für die wirtschaftliche Filmförderung stehen 2026 250 Millionen Euro aus dem Bundeshaushalt zur Verfügung. Das ist nahezu doppelt so viel wie im Vorjahr. Damit werden in den Jahren 202..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Joint Statement from the Leaders of the United Kingdom, France, Germany, Italy, the European Commission, the Netherlands, Canada, Norway, Australia, New Zealand, Sweden, Belgium, Spain, Austria and Greece on the E1 West Bank Settlement Plan",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-from-the-leaders-of-the-united-kingdom-france-germany-italy-the-european-commission-the-netherlands-canada-norway-australia-new-zealand-sweden-belgium-spain-austria-and-greece-on-the-e1-west-bank-settlement-plan-2449908"
                 },
                 {
                   "text": " — 20.08.2026"
