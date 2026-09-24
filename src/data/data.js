@@ -133,7 +133,9 @@ const GESETZE = [
         "kommentar": "Systemwirtschaftliche Bedenken beim Ausbautempo"
       }
     ],
-    "news": [],
+    "news": [
+      "news-2"
+    ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
       "datum": "2026-06-11",
@@ -515,28 +517,52 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Staatsminister Weimer gratuliert Iris Berben zum Kulturpolitikpreis: „Mit Mut und Haltung für Demokratie und ein respektvolles Miteinander“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:00",
+    "tags": [],
+    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer gratuliert Iris Berben vorab herzlich zur Verleihung des Deutschen Kulturpolitikpreises 2026 am morgigen Donnerstag: „Iris Berben hat als Schauspielerin Außergewöhnliches geleistet und unser kulturelles Leben über Jahrzehnte geprägt. Zugleich steht sie für ein entschlossenes Eintret…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-gratuliert-iris-berben-zum-kulturpolitikpreis-mit-mut-und-haltung-fuer-demokratie-und-ein-respektvolles-miteinander--2453578",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 11:32",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Noch nicht beraten",
+    "link": "https://dip.bundestag.de/vorgang/339536",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 17:58",
+    "datum": "22.09.2026",
     "tags": [],
     "zusammenfassung": "„Ich begrüße, dass die dänische Premierministerin Mette Frederiksen, der grönländische Premierminister Jens-Frederik Nielsen und der Präsident der Vereinigten Staaten Donald Trump heute ein Abkommen zur Sicherheit Grönlands unterzeichnet haben. Dass die Verhandlungen der letzten Monate zu einer einvernehmlichen Lösung…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-unterzeichnung-eines-abkommens-zur-sicherheit-groenlands-2453440",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "22.09.2026",
     "tags": [],
     "zusammenfassung": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260922_OpenAccess.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -547,7 +573,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "Bundesregierung leitet Novelle des Kraft-Wärme-Kopplungsgesetzes ein: Investitionssicherheit, Flexibilisierung und Systemdienlichkeit stehe…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -558,7 +584,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -571,7 +597,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächst…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -582,7 +608,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -593,7 +619,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -604,7 +630,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -615,7 +641,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -626,7 +652,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -637,7 +663,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauha…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -648,7 +674,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -659,7 +685,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -670,7 +696,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -681,7 +707,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -692,7 +718,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Förderung strategischer Einzelvorhaben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -703,7 +729,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -714,7 +740,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -725,7 +751,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -736,7 +762,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -747,7 +773,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -758,7 +784,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -769,7 +795,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -780,7 +806,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -791,7 +817,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Joint Declaration on the occasion of the State Visit of the President of the United Arab Emirates to the Federal Republic of Germany",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -802,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -813,7 +839,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -821,28 +847,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BMWE sucht Projektvorschläge für fortschrittliche KI-Rechenknoten: Beginn des Interessenbekundungsverfahrens zum IPCEI-CIC",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-ki-rechenknoten-ipcei-cic.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz telefoniert mit dem indischen Premierminister Narendra Modi",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "10.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-indischen-premierminister-narendra-modi-2452184",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Friedrich Merz sagt zum bevorstehenden Jahrestag der Anschläge vom 11. September:",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "10.09.2026",
-    "tags": [],
-    "zusammenfassung": "„Dass sich 9/11 zum 25. Mal jährt, geht uns nahe. Wir Deutsche haben damals gespürt, wie viel uns mit unseren amerikanischen Freunden verbindet. Wir wussten: Die Terrorangriffe von New York, Washington und Pennsylvania galten auch unserer Lebensweise, unserer Freiheit und unserer Demokratie. Vor 25 Jahren konnten die…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-sagt-zum-bevorstehenden-jahrestag-der-anschlaege-vom-11-september--2452138",
     "gelesen": true
   }
 ];
