@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-3"
+      "news-4"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -520,7 +520,7 @@ const NEWS = [
     "titel": "Schlag gegen internationalen Cyber-Anlagebetrug",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Heute, 14:00",
+    "datum": "Gestern, 14:00",
     "tags": [],
     "zusammenfassung": "Gemeinsame Pressemitteilung der Generalstaatsanwaltschaft Karlsruhe, des Landeskriminalamtes Baden-Württemberg, der Bundesanstalt für Finanzdienstleistungsaufsicht und der Bundesnetzagentur",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260925_Herakles.html",
@@ -528,34 +528,67 @@ const NEWS = [
   },
   {
     "id": "news-2",
+    "titel": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:45",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/abwechslungsreiche-angebote-der-bundesregierung-beim-tag-der-deutschen-einheit-2026-in-bremen-2454216",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:30",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-kasachstan-tokajew-2454218",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 11:21",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)",
+    "link": "https://dip.bundestag.de/vorgang/339536",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 10:55",
+    "datum": "Gestern, 10:55",
     "tags": [],
     "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
     "link": "https://dip.bundestag.de/vorgang/333340",
     "gelesen": false
   },
   {
-    "id": "news-3",
-    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 11:14",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Noch nicht beraten — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)",
-    "link": "https://dip.bundestag.de/vorgang/339536",
+    "id": "news-6",
+    "titel": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:00",
+    "tags": [],
+    "zusammenfassung": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundeswirtschaftsministerium setzt erfolgreiche Förderung für internationale Wasserstoffprojekte fort",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 05:00",
+    "datum": "24.09.2026",
     "tags": [
       "markt"
     ],
@@ -564,7 +597,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Staatsminister Weimer gratuliert Iris Berben zum Kulturpolitikpreis: „Mit Mut und Haltung für Demokratie und ein respektvolles Miteinander“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -575,7 +608,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -586,7 +619,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -597,7 +630,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -608,7 +641,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesregierung leitet Novelle des Kraft-Wärme-Kopplungsgesetzes ein: Investitionssicherheit, Flexibilisierung und Systemdienlichkeit stehe…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -619,7 +652,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -632,7 +665,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächst…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -643,7 +676,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -654,7 +687,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -665,7 +698,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +709,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -687,7 +720,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -698,7 +731,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauha…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -709,7 +742,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -720,7 +753,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -731,7 +764,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -742,7 +775,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -753,7 +786,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Förderung strategischer Einzelvorhaben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -764,7 +797,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -775,7 +808,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -786,7 +819,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -797,7 +830,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -808,7 +841,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -816,39 +849,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "11.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430",
-    "gelesen": false
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "11.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428",
-    "gelesen": false
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "11.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426",
     "gelesen": false
   }
 ];
