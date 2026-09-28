@@ -520,7 +520,7 @@ const NEWS = [
     "titel": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 14:45",
+    "datum": "26.09.2026",
     "tags": [],
     "zusammenfassung": "„Deutschland hat einen Olympia-Kandidaten. München wird für uns ins Rennen gehen, wozu ich der Landeshauptstadt und dem Freistaat Bayern herzlich gratuliere. Der Region KölnRheinRuhr und dem Land Nordrhein-Westfalen sowie der Freien und Hansestadt Hamburg und dem Land Berlin danke ich ausdrücklich für die eingereichte…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-auswahl-der-deutschen-bewerberregion-fuer-olympische-und-paralympische-spiele-2454304",
