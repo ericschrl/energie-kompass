@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-5"
+      "news-12"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -254,7 +254,9 @@ const GESETZE = [
         "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
       }
     ],
-    "news": [],
+    "news": [
+      "news-2"
+    ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
       "datum": "2026-08-26",
@@ -505,7 +507,9 @@ const GESETZE = [
         "kommentar": "Eigenes Konsultationsverfahren parallel"
       }
     ],
-    "news": [],
+    "news": [
+      "news-2"
+    ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
       "datum": "2026-05-27",
@@ -517,6 +521,87 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260929_Inno_Biomethan.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 15:56",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "link": "https://dip.bundestag.de/vorgang/338789",
+    "gelesen": true
+  },
+  {
+    "id": "news-3",
+    "titel": "Der Rohstofffonds der Bundesregierung",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "Der Rohstofffonds der Bundesregierung",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/04-europaeische-handelspolitik-im-umbruch.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Die wirtschaftliche Lage in Deutschland im September 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im September 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/05-wirtschaftliche-lage.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "BIP Nowcast für das dritte Quartal 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "BIP Nowcast für das dritte Quartal 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/06-bip-nowcast.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
+    "titel": "Konjunkturschlaglicht",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 10:00",
+    "tags": [],
+    "zusammenfassung": "Konjunkturausblick im dritten Quartal gedämpft",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/00-konjunkturschlaglicht.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-8",
     "titel": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -527,7 +612,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-9",
     "titel": "Schlag gegen internationalen Cyber-Anlagebetrug",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -538,7 +623,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-10",
     "titel": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -549,7 +634,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -560,7 +645,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-12",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -573,7 +658,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-13",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -584,7 +669,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-14",
     "titel": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -595,7 +680,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-15",
     "titel": "Bundeswirtschaftsministerium setzt erfolgreiche Förderung für internationale Wasserstoffprojekte fort",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -608,7 +693,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-16",
     "titel": "Staatsminister Weimer gratuliert Iris Berben zum Kulturpolitikpreis: „Mit Mut und Haltung für Demokratie und ein respektvolles Miteinander“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -619,7 +704,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -630,7 +715,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-18",
     "titel": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -641,7 +726,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-19",
     "titel": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -652,7 +737,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-20",
     "titel": "Bundesregierung leitet Novelle des Kraft-Wärme-Kopplungsgesetzes ein: Investitionssicherheit, Flexibilisierung und Systemdienlichkeit stehe…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -663,7 +748,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-21",
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +761,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-22",
     "titel": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächst…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -687,7 +772,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-23",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -698,7 +783,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-24",
     "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -709,7 +794,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -720,7 +805,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-26",
     "titel": "Aus­schrei­bung für Wind an Land zum 1. August 2026 erneut stark überzeichnet",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -731,7 +816,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-27",
     "titel": "Umfassendes IPCEI zu Künstlicher Intelligenz steht in den Startlöchern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -742,7 +827,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-28",
     "titel": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauha…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -753,7 +838,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-29",
     "titel": "Bundeswirtschaftsministerium startet Stakeholder-Dialog zur Modernisierung der industriellen Prozesswärme",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -764,7 +849,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-30",
     "titel": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -772,83 +857,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Berlin. Bundeskanzler Friedrich Merz hat am Mittwoch zur dritten Sitzung des Strategiekreises für Technologie und Innovation in das Bundeskanzleramt eingeladen. Dabei wurde über die Chancen für nationale KI-Ökosysteme und neue Innovationspotenziale im Verteidigungsbereich diskutiert. Neben der Chefin des Bundeskanzler…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/strategiekreis-fuer-technologie-und-innovation-des-bundeskanzlers-industrielle-ki-bietet-eine-grosse-chance-fuer-deutschland-2452888",
-    "gelesen": true
-  },
-  {
-    "id": "news-24",
-    "titel": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der heute unterzeichnete Hauptstadtfinanzierungsvertrag zwischen Bund und Land Berlin enthält weitreichende Regelungen zu den bundesseitigen Kulturförderungen in der Hauptstadt. Der Fokus liegt dabei auf bundesweit bedeutsamen Exzellenzprojekten und -einrichtungen, vor allem im Musik- und Museumsbereich. Dafür sollen…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-staerkt-im-hauptstadtfinanzierungsvertrag-kulturelle-exzellenz-in-berlin-staatsminister-weimer-berlin-soll-international-leuchten--2452658",
-    "gelesen": true
-  },
-  {
-    "id": "news-25",
-    "titel": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.09.2026",
-    "tags": [],
-    "zusammenfassung": "Vertrag über zehn Jahre sieht 2,1 Mrd. Euro des Bundes für Sicherheit und 2,9 Mrd. Euro des Bundes für Kultur in der Hauptstadt vor Der Bund und das Land Berlin haben am 15. September 2026 einen neuen Hauptstadtfinanzierungsvertrag unterzeichnet. Dieser schafft für den neuen Zehn-Jahres-Zeitraum vom 1. Januar 2028 bis…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-berlin-unterzeichnen-neuen-hauptstadtfinanzierungsvertrag-2452656",
-    "gelesen": true
-  },
-  {
-    "id": "news-26",
-    "titel": "Förderung strategischer Einzelvorhaben",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "15.09.2026",
-    "tags": [],
-    "zusammenfassung": "Förderung strategischer Einzelvorhaben",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/foerderung-strategischer-einzelvorhaben.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "15.09.2026",
-    "tags": [],
-    "zusammenfassung": "Zum heutigen Internationalen Tag der Demokratie erklärt Staatsminister für Kultur und Medien Wolfram Weimer: „Unsere Demokratie ist von unschätzbarem Wert. Sie gibt uns die Freiheit, unser Land mitzugestalten, unsere Meinung zu sagen und über unsere Zukunft mitzuentscheiden. Das ist ein großes Geschenk und zugleich ei…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/internationaler-tag-der-demokratie-staatsminister-weimer-kultur-und-medien-halten-unsere-demokratie-lebendig--2452596",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Sitzung des Nationalen Sicherheitsrates im September 2026",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "14.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-september-2026-2452580",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "14.09.2026",
-    "tags": [],
-    "zusammenfassung": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-reiche-beim-g20-energieministertreffen.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Die wirtschaftliche Lage in Deutschland im September 20261",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "14.09.2026",
-    "tags": [],
-    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im September 20261",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html",
     "gelesen": true
   }
 ];
