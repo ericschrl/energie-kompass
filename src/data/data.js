@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-4"
+      "news-7"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-10"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-10"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,21 +521,57 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 14:00",
+    "tags": [
+      "emob",
+      "markt"
+    ],
+    "zusammenfassung": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261001_Mispel.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kultur…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:15",
+    "tags": [],
+    "zusammenfassung": "Ab dem 1. Oktober startet die neue Bewerbungsrunde für die renommierten Artist-in-Residence-Programme von Bund und Ländern. Der Bund fördert prägende Talente der zeitgenössischen Kunst mit Stipendienaufenthalten in der Villa Massimo in Rom, der Casa Baldi in Olevano Romano und dem Deutschen Studienzentrum in Venedig.…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-starten-neue-bewerbungsrunde-fuer-auslandsstipendien-kulturstaatsminister-weimer-kuenstlerischer-austausch-stiftet-kulturelle-verstaendigung--2454924",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:13",
+    "tags": [],
+    "zusammenfassung": "Staatsministerin Elisabeth Kaiser hat heute im Kabinett den Bericht der Ostbeauftragten 2026 vorgestellt. Unter dem Titel „In Bewegung bleiben“ nimmt der Bericht die Entwicklungsmöglichkeiten der Menschen in Ostdeutschland in den Blick. Ein eigenes Kapitel zeigt, wie die Kulturförderung des Bundes hierzu beiträgt. Sta…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bericht-der-ostbeauftragten-2026-staatsminister-weimer-kulturfoerderung-in-ostdeutschland-staerkt-auch-wirtschaft-und-gesellschaft--2454854",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Bee…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 14:54",
+    "datum": "29.09.2026",
     "tags": [],
     "zusammenfassung": "Sperrfrist: 29. September 2026, 16:30 Uhr",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-5-millionen-euro-fuer-das-kultur-und-technikdenkmal-kapitaen-meyer-in-niedersachsen-staatsminister-weimer-beeindruckendes-beispiel-der-deutschen-schifffahrtsgeschichte--2454650",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "29.09.2026",
     "tags": [
       "eeg"
     ],
@@ -544,22 +580,22 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 13:48",
+    "datum": "29.09.2026",
     "tags": [],
     "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
     "link": "https://dip.bundestag.de/vorgang/333340",
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 13:48",
+    "datum": "29.09.2026",
     "tags": [
       "eeg"
     ],
@@ -568,29 +604,29 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 07:00",
+    "datum": "29.09.2026",
     "tags": [],
     "zusammenfassung": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-bericht-zur-standortklausel-uebergeben.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohlereg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 04:00",
+    "datum": "29.09.2026",
     "tags": [],
     "zusammenfassung": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohleregionen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-innovation-rheinisches-revier.html",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -603,7 +639,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Der Rohstofffonds der Bundesregierung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -614,7 +650,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -625,7 +661,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "BIP Nowcast für das dritte Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -636,7 +672,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -647,7 +683,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,7 +694,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -669,7 +705,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Konjunkturschlaglicht",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -680,7 +716,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -691,7 +727,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Schlag gegen internationalen Cyber-Anlagebetrug",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -702,7 +738,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -713,7 +749,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -724,7 +760,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -735,7 +771,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Bundeswirtschaftsministerium setzt erfolgreiche Förderung für internationale Wasserstoffprojekte fort",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -748,7 +784,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Staatsminister Weimer gratuliert Iris Berben zum Kulturpolitikpreis: „Mit Mut und Haltung für Demokratie und ein respektvolles Miteinander“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -759,7 +795,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -770,7 +806,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -781,7 +817,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Bundesnetzagentur veröffentlicht halbjährliche Erhebung im Messwesen",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -792,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Bundesregierung leitet Novelle des Kraft-Wärme-Kopplungsgesetzes ein: Investitionssicherheit, Flexibilisierung und Systemdienlichkeit stehe…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -803,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Bund und Länder beschließen Spritpreis-Entlastungspaket",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -816,7 +852,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "1,3 Millionen Euro für Sanierung des St. Katharinenspitals in Regensburg – Staatsminister Weimer: „Ort des Glaubens und der gelebten Nächst…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -824,39 +860,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sperrfrist: Sonntag, 20. September 2026, 12:30 Uhr",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/1-3-millionen-euro-fuer-sanierung-des-st-katharinenspitals-in-regensburg-staatsminister-weimer-ort-des-glaubens-und-der-gelebten-naechstenliebe--2453168",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "18.09.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu Maßnahmen der Bundesregierung zur Entlastung bei den Spritpreisen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-zitat-reiche-spritpreise.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "18.09.2026",
-    "tags": [],
-    "zusammenfassung": "CO2-Differenzverträge treffen auf breites Interesse in der Industrie",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260918-co2-differenzbetraege-industrieinteresse.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz telefoniert mit US-Präsident Trump",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "17.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-us-praesident-trump-2453072",
     "gelesen": true
   }
 ];
