@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-3"
+      "news-8"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-14"
+      "news-2"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-14"
+      "news-2"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,32 +521,89 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
+    "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
     "datum": "Gestern, 17:00",
+    "tags": [],
+    "zusammenfassung": "- Sperrfrist: 2. Oktober 2026, 17:00 Uhr -",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-warnt-zum-tag-der-deutschen-einheit-vor-zunehmendem-geschichtsrevisionismus-unmenschlichkeit-der-ddr-diktatur-darf-nicht-verharmlost-werden--2455510",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 16:10",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "Dem Bundestag zugeleitet - Noch nicht beraten",
+    "link": "https://dip.bundestag.de/vorgang/338789",
+    "gelesen": true
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:05",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-litauischen-ministerpraesidenten-mindaugas-sinkevi%C4%8Dius-2455528",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:02",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-britischen-premierminister-burnham-2455532",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 05:15",
+    "tags": [],
+    "zusammenfassung": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261002-g20-handelsministertreffen.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "01.10.2026",
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer und Thüringens Ministerpräsident Mario Voigt haben heute gemeinsam Goethes Wohnhaus in Weimar besucht und eine Replik des historischen Reisemantels des Dichters auf den Weg nach Rom geschickt – 240 Jahre nach Goethes Aufbruch nach Italien. Die Berichte seiner „Italie…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/goethes-reisemantel-macht-sich-auf-den-weg-von-weimar-nach-rom-giro-di-goethe-verbindet-deutschland-und-italien-2455146",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 16:15",
+    "datum": "01.10.2026",
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl zum Ministerpräsidenten der Republik Kosovo gratuliere ich Ihnen herzlich. Hinter Kosovo liegen Monate der politischen Unsicherheit, die dem Land viel abverlangt haben. Die Bestätigung Ihrer Wahl birgt die Chance, über Parteigrenzen hinweg Brücken zu bauen, off…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-kosovo-albin-kurti-2455242",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-8",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 15:28",
+    "datum": "01.10.2026",
     "tags": [
       "eeg"
     ],
@@ -555,11 +612,11 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "01.10.2026",
     "tags": [
       "emob",
       "markt"
@@ -569,11 +626,11 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-10",
     "titel": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 04:45",
+    "datum": "01.10.2026",
     "tags": [
       "markt"
     ],
@@ -582,18 +639,18 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-11",
     "titel": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 02:45",
+    "datum": "01.10.2026",
     "tags": [],
     "zusammenfassung": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261001-aktionsmonat-cybersicherheit.html",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-12",
     "titel": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -604,7 +661,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-13",
     "titel": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -615,7 +672,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-14",
     "titel": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Bee…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -626,7 +683,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-15",
     "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -639,7 +696,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-16",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -650,7 +707,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-17",
     "titel": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -661,7 +718,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohlereg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -672,20 +729,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "28.09.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "Dem Bundestag zugeleitet - Noch nicht beraten",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Der Rohstofffonds der Bundesregierung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -696,7 +740,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -707,7 +751,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "BIP Nowcast für das dritte Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -718,7 +762,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -729,7 +773,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -740,7 +784,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -751,7 +795,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Konjunkturschlaglicht",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -762,7 +806,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -773,7 +817,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Schlag gegen internationalen Cyber-Anlagebetrug",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -784,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -795,7 +839,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -806,7 +850,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -815,52 +859,6 @@ const NEWS = [
     "zusammenfassung": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html",
     "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "Bundeswirtschaftsministerium setzt erfolgreiche Förderung für internationale Wasserstoffprojekte fort",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "24.09.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Bundeswirtschaftsministerium setzt erfolgreiche Förderung für internationale Wasserstoffprojekte fort",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260924-foerderung-internat-wasserstoffprojekte.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Staatsminister Weimer gratuliert Iris Berben zum Kulturpolitikpreis: „Mit Mut und Haltung für Demokratie und ein respektvolles Miteinander“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "23.09.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer gratuliert Iris Berben vorab herzlich zur Verleihung des Deutschen Kulturpolitikpreises 2026 am morgigen Donnerstag: „Iris Berben hat als Schauspielerin Außergewöhnliches geleistet und unser kulturelles Leben über Jahrzehnte geprägt. Zugleich steht sie für ein entschlossenes Eintret…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-gratuliert-iris-berben-zum-kulturpolitikpreis-mit-mut-und-haltung-fuer-demokratie-und-ein-respektvolles-miteinander--2453578",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz zur Unterzeichnung eines Abkommens zur Sicherheit Grönlands",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "22.09.2026",
-    "tags": [],
-    "zusammenfassung": "„Ich begrüße, dass die dänische Premierministerin Mette Frederiksen, der grönländische Premierminister Jens-Frederik Nielsen und der Präsident der Vereinigten Staaten Donald Trump heute ein Abkommen zur Sicherheit Grönlands unterzeichnet haben. Dass die Verhandlungen der letzten Monate zu einer einvernehmlichen Lösung…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-unterzeichnung-eines-abkommens-zur-sicherheit-groenlands-2453440",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "22.09.2026",
-    "tags": [],
-    "zusammenfassung": "Orientierungspunkte zu Entgeltprinzipien für offene Glasfasernetze",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260922_OpenAccess.html",
-    "gelesen": true
   }
 ];
 

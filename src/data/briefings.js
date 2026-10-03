@@ -3,6 +3,529 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-10-03",
+      "title": "Energie-Kompass Briefing — 03.10.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261002-g20-handelsministertreffen.html"
+                },
+                {
+                  "text": " — Gestern, 05:15"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261001-gemeinsame-politische-absichtserklaerung.html"
+                },
+                {
+                  "text": " — 01.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261001-aktionsmonat-cybersicherheit.html"
+                },
+                {
+                  "text": " — 01.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-bericht-zur-standortklausel-uebergeben.html"
+                },
+                {
+                  "text": " — 29.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohleregionen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-innovation-rheinisches-revier.html"
+                },
+                {
+                  "text": " — 29.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Der Rohstofffonds der Bundesregierung",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im September 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/05-wirtschaftliche-lage.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "BIP Nowcast für das dritte Quartal 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/06-bip-nowcast.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/01-zweites-wirtschaftspolitisches-symposium.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/02-mehr-transparenz-bei-kurzzeitvermietungen.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/04-europaeische-handelspolitik-im-umbruch.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Konjunkturschlaglicht",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/00-konjunkturschlaglicht.html"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ],
+              "sub": "Konjunkturausblick im dritten Quartal gedämpft"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html"
+                },
+                {
+                  "text": " — 25.09.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "25.09.2026 - Wind an Land (Onshore)",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "29.09.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/GT1092026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "29.09.2026 - Ausschreibungen Biomethan",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/Sep_2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261001_Mispel.html"
+                },
+                {
+                  "text": " — 01.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260929_Inno_Biomethan.html"
+                },
+                {
+                  "text": " — 29.09.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf nicht verharmlost werden“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-warnt-zum-tag-der-deutschen-einheit-vor-zunehmendem-geschichtsrevisionismus-unmenschlichkeit-der-ddr-diktatur-darf-nicht-verharmlost-werden--2455510"
+                },
+                {
+                  "text": " — Gestern, 17:00"
+                }
+              ],
+              "sub": "- Sperrfrist: 2. Oktober 2026, 17:00 Uhr -"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-litauischen-ministerpraesidenten-mindaugas-sinkevi%C4%8Dius-2455528"
+                },
+                {
+                  "text": " — Gestern, 15:05"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-britischen-premierminister-burnham-2455532"
+                },
+                {
+                  "text": " — Gestern, 15:02"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/goethes-reisemantel-macht-sich-auf-den-weg-von-weimar-nach-rom-giro-di-goethe-verbindet-deutschland-und-italien-2455146"
+                },
+                {
+                  "text": " — 01.10.2026"
+                }
+              ],
+              "sub": "Staatsminister für Kultur und Medien Wolfram Weimer und Thüringens Ministerpräsident Mario Voigt haben heute gemeinsam Goethes Wohnhaus in Weimar besucht und eine Replik des historischen Reisemantels des Dichters auf den Weg nach Rom geschickt – 240 Jahre nach Goethes Aufbruch nach Italien. Die Berichte seiner „Italienischen Reise“ von 1786 bis 1788 gehören zu den berühmtesten Reiseschilderungen der Literaturgeschichte. Sie lösten in Deutschland eine anhaltende Italiensehnsucht aus und prägten das Italienbild vieler Generationen. Johann Wolfgang von Goethe selbst war zeitlebens viel unterwegs und legte zu Fuß, zu Pferd oder mit der Kutsche insgesamt rund 40.000 Kilometer zurück. Der blau-graue Wollmantel mit Schulterumhang und ursprünglich rotem Samtkragen gehörte zu seiner Reisegarderobe. Sein Schnitt entspricht dem damals verbreiteten englischen „Carrick“, der auch als „Blüchermantel“ bekannt war. Ab Dezember wird dieses besondere Stück deutscher Kulturgeschichte nun zusammen mi..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-kosovo-albin-kurti-2455242"
+                },
+                {
+                  "text": " — 01.10.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl zum Ministerpräsidenten der Republik Kosovo gratuliere ich Ihnen herzlich. Hinter Kosovo liegen Monate der politischen Unsicherheit, die dem Land viel abverlangt haben. Die Bestätigung Ihrer Wahl birgt die Chance, über Parteigrenzen hinweg Brücken zu bauen, offene institutionelle Fragen zu lösen und Reformen voranzubringen. Essenziell bleiben auch substanzielle Fortschritte im EU-geführten Normalisierungsdialog mit Serbien. Deutschland steht weiter fest an der Seite Kosovos. Wir sind den Menschen des Kosovo in besonderer Freundschaft verbunden. Für Ihre Amtsführung wünsche ich Ihnen weiterhin viel Erfolg. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kulturelle Verständigung“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-starten-neue-bewerbungsrunde-fuer-auslandsstipendien-kulturstaatsminister-weimer-kuenstlerischer-austausch-stiftet-kulturelle-verstaendigung--2454924"
+                },
+                {
+                  "text": " — 30.09.2026"
+                }
+              ],
+              "sub": "Ab dem 1. Oktober startet die neue Bewerbungsrunde für die renommierten Artist-in-Residence-Programme von Bund und Ländern. Der Bund fördert prägende Talente der zeitgenössischen Kunst mit Stipendienaufenthalten in der Villa Massimo in Rom, der Casa Baldi in Olevano Romano und dem Deutschen Studienzentrum in Venedig. Die Länder ermöglichen dies in den Bundesateliers der Cité Internationale des Arts in Paris. Beide Programme zählen zu den wichtigsten Instrumenten der künstlerischen Begabtenförderung der Bundesrepublik Deutschland. Insbesondere der Stipendienaufenthalt in der Deutschen Akademie Rom Villa Massimo (Rompreis) gilt als bedeutendste Auszeichnung für deutsche und in Deutschland wirkende Künstlerinnen und Künstler. Kulturstaatsminister Wolfram Weimer: „Die Residenzprogramme in Italien und Frankreich sind ein bedeutender Pfeiler der auswärtigen Kulturpolitik Deutschlands. Rom, Olevano Romano, Venedig und Paris sind seit jeher die sinnlichen Sehnsuchtsorte unserer kulturelle..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bericht-der-ostbeauftragten-2026-staatsminister-weimer-kulturfoerderung-in-ostdeutschland-staerkt-auch-wirtschaft-und-gesellschaft--2454854"
+                },
+                {
+                  "text": " — 30.09.2026"
+                }
+              ],
+              "sub": "Staatsministerin Elisabeth Kaiser hat heute im Kabinett den Bericht der Ostbeauftragten 2026 vorgestellt. Unter dem Titel „In Bewegung bleiben“ nimmt der Bericht die Entwicklungsmöglichkeiten der Menschen in Ostdeutschland in den Blick. Ein eigenes Kapitel zeigt, wie die Kulturförderung des Bundes hierzu beiträgt. Staatsminister für Kultur und Medien Wolfram Weimer: „Kultur ist ein wichtiger Faktor für die Entwicklung von Regionen und für die Chancen der Menschen, die dort leben. Museen, Theater, Gedenkstätten und andere Kulturorte schaffen Arbeitsplätze, vermitteln Wissen und bringen Menschen zusammen. Kulturförderung ist deshalb auch Struktur- und Standortpolitik. Wir wollen kulturelle Stärke in Ostdeutschland sichern und damit Menschen Möglichkeiten eröffnen, sich beruflich und persönlich zu entwickeln.“ Die vom Bund geförderten Kultureinrichtungen sind verlässliche Arbeitgeber, Ausbildungs- und Begegnungsorte und stärken insbesondere in ländlichen Regionen Ostdeutschlands die ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Beeindruckendes Beispiel der Deutschen Schifffahrtsgeschichte“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-5-millionen-euro-fuer-das-kultur-und-technikdenkmal-kapitaen-meyer-in-niedersachsen-staatsminister-weimer-beeindruckendes-beispiel-der-deutschen-schifffahrtsgeschichte--2454650"
+                },
+                {
+                  "text": " — 29.09.2026"
+                }
+              ],
+              "sub": "Sperrfrist: 29. September 2026, 16:30 Uhr"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-auswahl-der-deutschen-bewerberregion-fuer-olympische-und-paralympische-spiele-2454304"
+                },
+                {
+                  "text": " — 26.09.2026"
+                }
+              ],
+              "sub": "„Deutschland hat einen Olympia-Kandidaten. München wird für uns ins Rennen gehen, wozu ich der Landeshauptstadt und dem Freistaat Bayern herzlich gratuliere. Der Region KölnRheinRuhr und dem Land Nordrhein-Westfalen sowie der Freien und Hansestadt Hamburg und dem Land Berlin danke ich ausdrücklich für die eingereichten Bewerbungen und ihren Einsatz, Olympische und Paralympische Spiele in Deutschland wieder zu ermöglichen. Nun fiebern wir zusammen mit unserem Olympia-Kandidaten auf dieses Großereignis hin. Wir gehen mutig voran: Deutschland kann Olympia. Wir packen jetzt gemeinsam die internationale Bewerbung an.“"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/abwechslungsreiche-angebote-der-bundesregierung-beim-tag-der-deutschen-einheit-2026-in-bremen-2454216"
+                },
+                {
+                  "text": " — 25.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-kasachstan-tokajew-2454218"
+                },
+                {
+                  "text": " — 25.09.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dip.bundestag.de/vorgang/338789"
+                },
+                {
+                  "text": " — Gestern, 16:10"
+                }
+              ],
+              "sub": "Dem Bundestag zugeleitet - Noch nicht beraten"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Empfehlungen der Ausschüsse (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0509-1-26.pdf"
+                },
+                {
+                  "text": " — Gestern, 02:00"
+                }
+              ],
+              "sub": "Drucksache Empfehlungen"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetzentwurf (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/082/2108236.pdf"
+                },
+                {
+                  "text": " — 28.09.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzentwurf"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "1. Beratung (BT): Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
+                  "href": "https://dserver.bundestag.de/btp/21/21096.pdf#P.11901"
+                },
+                {
+                  "text": " — 24.09.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-02",
       "title": "Energie-Kompass Briefing — 02.10.2026",
       "sections": [
@@ -10075,284 +10598,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 02.09.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Denkmal für die polnischen Opfer des Zweiten Weltkriegs: Errichtung ab 2027 – Staatsminister Weimer zum Jahrestag des deutschen Überfalls auf Polen",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/denkmal-fuer-die-polnischen-opfer-des-zweiten-weltkriegs-errichtung-ab-2027-staatsminister-weimer-zum-jahrestag-des-deutschen-ueberfalls-auf-polen-2451024"
-                },
-                {
-                  "text": " — 01.09.2026"
-                }
-              ],
-              "sub": "Am 1. September 1939 überfiel das nationalsozialistische Deutschland Polen und begann damit den Zweiten Weltkrieg. Um an die Millionen Opfer der deutschen Aggression und Besatzung zu erinnern, soll im Zentrum Berlins ein dauerhafter Ort des Gedenkens entstehen: das vom Deutschen Bundestag beschlossene Denkmal für die polnischen Opfer des Zweiten Weltkriegs und der deutschen Besatzung in Polen 1939–1945. Derzeit läuft ein Gestaltungswettbewerb; im Dezember 2026 wird ein Preisgericht über einen Siegerentwurf beraten. Anlässlich des Jahrestages des deutschen Überfalls auf Polen sagte Wolfram Weimer, Staatsminister für Kultur und Medien: „Der Krieg und die deutsche Besatzung brachten unermessliches Leid über Polen und seine Bevölkerung. Wir gedenken heute der Millionen Menschen, die ermordet, vertrieben und ihrer Heimat beraubt wurden. An die polnischen Opfer der deutschen Aggression zu erinnern, sind wir ihnen und ihren Nachkommen schuldig. Denn nur durch eine lebendige Erinnerung und..."
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "title": "Energie-Kompass Briefing — 03.09.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Grünes Licht für sichere Stromversorgung: Europäische Kommission genehmigt Ad-hoc-Kapazitätsmechanismus des StromVKG",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-stromvkg.html"
-                },
-                {
-                  "text": " — Gestern, 10:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung beschließt Gesetzentwürfe zur Optimierung und Absicherung des Ausbaus der Windenergie auf See und zum Zuschuss zu den Übertragungsnetzkosten",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260902-gesetzentwuerfe-ausbau-windenergie.html"
-                },
-                {
-                  "text": " — Gestern, 10:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Energiekostenvergleich für Pkw",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/2021-08-pkw-energiekostenvergleich.html"
-                },
-                {
-                  "text": " — 01.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Maritimer Koordinator Christoph Ploß besucht Weltleitmesse der maritimen Industrie in Hamburg",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260901-ploss-besucht-weltleitmesse.html"
-                },
-                {
-                  "text": " — 01.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "BIP Nowcast für das dritte Quartal 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/05-bip-nowcast.html"
-                },
-                {
-                  "text": " — 28.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Globale Wachstumsaussichten in geopolitisch belasteten Zeiten",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/06-globale-wachstumsaussichten.html"
-                },
-                {
-                  "text": " — 28.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die wirtschaftliche Lage in Deutschland im Juli 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/04-wirtschaftliche-lage.html"
-                },
-                {
-                  "text": " — 28.08.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "50 Jahre OECD-Leitsätze: Orientierung im Wandel",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/09/02-50-jahre-oecd-leitsaetze.html"
-                },
-                {
-                  "text": " — 28.08.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kohleausstieg: Erneut kein Kohleverfeuerungsverbot erforderlich",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260901_Kohle.html"
-                },
-                {
-                  "text": " — 01.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur beteiligt die Öffentlichkeit an den Szenariorahmen Strom und Gas/Wasserstoff 2027–2040/2045",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260831_Szenariorahmen.html"
-                },
-                {
-                  "text": " — 31.08.2026"
-                }
-              ],
-              "sub": "Präsident Müller: „Die Transformation der Energiesysteme kann nur gemeinsam gelingen“"
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neues Förderprogramm mit zehn Millionen Euro für Projekte in NS- und SED-Gedenkstätten – Staatsminister Weimer: „Gerade jetzt Orte der Erinnerung stärken“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neues-foerderprogramm-mit-zehn-millionen-euro-fuer-projekte-in-ns-und-sed-gedenkstaetten-staatsminister-weimer-gerade-jetzt-orte-der-erinnerung-staerken--2451324"
-                },
-                {
-                  "text": " — Heute, 09:06"
-                }
-              ],
-              "sub": "Ab sofort können sich Gedenkstätten und Erinnerungsorte zur Aufarbeitung der NS-Terrorherrschaft und der SED-Diktatur um eine Projektförderung durch den Bund bewerben. Der Beauftragte der Bundesregierung für Kultur und Medien (BKM) stellt dafür im Rahmen der Umsetzung der neuen Gedenkstättenkonzeption insgesamt zehn Millionen Euro zur Verfügung. Zum Bewerbungsstart des neuen Förderprogramms sagte Wolfram Weimer, Staatsminister für Kultur und Medien: „In den Gedenkstätten schlägt das Herz unserer Erinnerungskultur. Deshalb verdienen sie jede Unterstützung. Mit der Projektförderung wollen wir Gedenkstätten und Erinnerungsorten dabei helfen, ihre historischen Orte zu bewahren, neue digitale Zugänge zu schaffen und zeitgemäße Bildungs- und Vermittlungsangebote zu entwickeln. Gerade angesichts der wachsenden Herausforderungen, vor denen Gedenkstätten stehen, ist es wichtig, dass innovative Ideen und nachhaltige Projekte die notwendige Stärkung erfahren.“ Gefördert werden Projekte in dr..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Inzwischen mehr als 2.500 Unterstützerinnen und Unterstützer für das Bauhaus-Manifest — Staatsminister Weimer: „Jede Unterschrift ist ein Zeichen für Kunstfreiheit, Unabhängigkeit, Offenheit und Innovation“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/inzwischen-mehr-als-2-500-unterstuetzerinnen-und-unterstuetzer-fuer-das-bauhaus-manifest-staatsminister-weimer-jede-unterschrift-ist-ein-zeichen-fuer-kunstfreiheit-unabhaengigkeit-offenheit-und-innovation--2451312"
-                },
-                {
-                  "text": " — Gestern, 17:50"
-                }
-              ],
-              "sub": "Die Unterstützung für das Bauhaus-Manifest 2026 wächst weiter. Inzwischen haben sich über 2.500 Kulturschaffende, Wissenschaftler, Handwerker, Designer und Architekten dem Bündnis angeschlossen. Auch zahlreiche Prominente, Institutionen und viele Privatpersonen haben unterzeichnet. Dazu Staatsminister Weimer: „Jeden Tag wächst die Unterstützung für das Bauhaus-Manifest weiter. Jede Unterschrift ist ein Zeichen für die Prinzipien von Kunstfreiheit, Unabhängigkeit, Offenheit und Innovation. Die Ideen des Bauhauses sind lebendig und das machen wir sichtbar. Es ist wichtig, dass wir die Bauhaus-Prinzipien in aller Deutlichkeit verteidigen.“ Wegen der großen Nachfrage an Unterstützung auch aus dem Ausland ist eine englische Version des Manifests in Arbeit. Auf Initiative von Staatsminister Wolfram Weimer hatten Ende August Verbände und Institutionen aus Kultur, Design, Handwerk, Architektur sowie Kirchen gemeinsam das Bauhaus-Manifest 2026 unterzeichnet. Auch die sechzehn Länder hatt..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz telefoniert mit dem Präsidenten der Ukraine, Wolodymyr Selenskyj",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-praesidenten-der-ukraine-wolodymyr-selenskyj-2451310"
-                },
-                {
-                  "text": " — Gestern, 17:25"
                 }
               ],
               "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
