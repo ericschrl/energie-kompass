@@ -524,18 +524,18 @@ const NEWS = [
     "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 17:00",
+    "datum": "02.10.2026",
     "tags": [],
     "zusammenfassung": "- Sperrfrist: 2. Oktober 2026, 17:00 Uhr -",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-warnt-zum-tag-der-deutschen-einheit-vor-zunehmendem-geschichtsrevisionismus-unmenschlichkeit-der-ddr-diktatur-darf-nicht-verharmlost-werden--2455510",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-2",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 16:10",
+    "datum": "02.10.2026",
     "tags": [
       "netz"
     ],
@@ -548,33 +548,33 @@ const NEWS = [
     "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:05",
+    "datum": "02.10.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-litauischen-ministerpraesidenten-mindaugas-sinkevi%C4%8Dius-2455528",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-4",
     "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:02",
+    "datum": "02.10.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-britischen-premierminister-burnham-2455532",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-5",
     "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 05:15",
+    "datum": "02.10.2026",
     "tags": [],
     "zusammenfassung": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261002-g20-handelsministertreffen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-6",
@@ -585,7 +585,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer und Thüringens Ministerpräsident Mario Voigt haben heute gemeinsam Goethes Wohnhaus in Weimar besucht und eine Replik des historischen Reisemantels des Dichters auf den Weg nach Rom geschickt – 240 Jahre nach Goethes Aufbruch nach Italien. Die Berichte seiner „Italie…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/goethes-reisemantel-macht-sich-auf-den-weg-von-weimar-nach-rom-giro-di-goethe-verbindet-deutschland-und-italien-2455146",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -596,7 +596,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl zum Ministerpräsidenten der Republik Kosovo gratuliere ich Ihnen herzlich. Hinter Kosovo liegen Monate der politischen Unsicherheit, die dem Land viel abverlangt haben. Die Bestätigung Ihrer Wahl birgt die Chance, über Parteigrenzen hinweg Brücken zu bauen, off…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-kosovo-albin-kurti-2455242",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -623,7 +623,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261001_Mispel.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -636,7 +636,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261001-gemeinsame-politische-absichtserklaerung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -647,7 +647,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261001-aktionsmonat-cybersicherheit.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -658,7 +658,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ab dem 1. Oktober startet die neue Bewerbungsrunde für die renommierten Artist-in-Residence-Programme von Bund und Ländern. Der Bund fördert prägende Talente der zeitgenössischen Kunst mit Stipendienaufenthalten in der Villa Massimo in Rom, der Casa Baldi in Olevano Romano und dem Deutschen Studienzentrum in Venedig.…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-starten-neue-bewerbungsrunde-fuer-auslandsstipendien-kulturstaatsminister-weimer-kuenstlerischer-austausch-stiftet-kulturelle-verstaendigung--2454924",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -669,7 +669,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsministerin Elisabeth Kaiser hat heute im Kabinett den Bericht der Ostbeauftragten 2026 vorgestellt. Unter dem Titel „In Bewegung bleiben“ nimmt der Bericht die Entwicklungsmöglichkeiten der Menschen in Ostdeutschland in den Blick. Ein eigenes Kapitel zeigt, wie die Kulturförderung des Bundes hierzu beiträgt. Sta…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bericht-der-ostbeauftragten-2026-staatsminister-weimer-kulturfoerderung-in-ostdeutschland-staerkt-auch-wirtschaft-und-gesellschaft--2454854",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -680,7 +680,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sperrfrist: 29. September 2026, 16:30 Uhr",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-5-millionen-euro-fuer-das-kultur-und-technikdenkmal-kapitaen-meyer-in-niedersachsen-staatsminister-weimer-beeindruckendes-beispiel-der-deutschen-schifffahrtsgeschichte--2454650",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -693,7 +693,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260929_Inno_Biomethan.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -715,7 +715,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-bericht-zur-standortklausel-uebergeben.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -726,7 +726,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohleregionen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-innovation-rheinisches-revier.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -737,7 +737,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Rohstofffonds der Bundesregierung",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -748,7 +748,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im September 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/05-wirtschaftliche-lage.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -759,7 +759,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "BIP Nowcast für das dritte Quartal 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/06-bip-nowcast.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -770,7 +770,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/01-zweites-wirtschaftspolitisches-symposium.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -781,7 +781,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/02-mehr-transparenz-bei-kurzzeitvermietungen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -792,7 +792,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/04-europaeische-handelspolitik-im-umbruch.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -803,7 +803,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Konjunkturausblick im dritten Quartal gedämpft",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/00-konjunkturschlaglicht.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -814,7 +814,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Deutschland hat einen Olympia-Kandidaten. München wird für uns ins Rennen gehen, wozu ich der Landeshauptstadt und dem Freistaat Bayern herzlich gratuliere. Der Region KölnRheinRuhr und dem Land Nordrhein-Westfalen sowie der Freien und Hansestadt Hamburg und dem Land Berlin danke ich ausdrücklich für die eingereichte…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-auswahl-der-deutschen-bewerberregion-fuer-olympische-und-paralympische-spiele-2454304",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -836,7 +836,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/abwechslungsreiche-angebote-der-bundesregierung-beim-tag-der-deutschen-einheit-2026-in-bremen-2454216",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -847,7 +847,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-kasachstan-tokajew-2454218",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -858,7 +858,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
