@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8"
+      "news-4"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-6"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-6"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,6 +521,52 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 11:50",
+    "tags": [],
+    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer eröffnet heute im Namen der Bundesregierung die 78. Frankfurter Buchmesse. Vor der Eröffnung hat er die neue Auszeichnung „Literarisches Wort des Jahres“ angekündigt. Ehrengast auf der Frankfurter Buchmesse ist in diesem Jahr Tschechien. Unter dem Motto „Ein Land an der Küste“ präse…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-78-frankfurter-buchmesse-und-kuendigt-neue-auszeichnung-literarisches-wort-des-jahres-an-staatsminister-weimer-wir-feiern-die-einzigartige-kraft-der-sprache--2455992",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 08:15",
+    "tags": [],
+    "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261006-entwicklung-verarbeitendes-gewerbe-august.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 13:44",
+    "tags": [],
+    "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
+    "link": "https://dip.bundestag.de/vorgang/333340",
+    "gelesen": true
+  },
+  {
+    "id": "news-4",
+    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 13:44",
+    "tags": [
+      "eeg"
+    ],
+    "zusammenfassung": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)",
+    "link": "https://dip.bundestag.de/vorgang/339536",
+    "gelesen": true
+  },
+  {
+    "id": "news-5",
     "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -531,7 +577,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-2",
+    "id": "news-6",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -544,7 +590,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -555,7 +601,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -566,7 +612,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -577,7 +623,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -588,7 +634,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -599,20 +645,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
-    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "01.10.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)",
-    "link": "https://dip.bundestag.de/vorgang/339536",
-    "gelesen": true
-  },
-  {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -626,7 +659,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -639,7 +672,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -650,7 +683,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -661,7 +694,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -672,7 +705,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Bee…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -683,7 +716,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -696,18 +729,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
-    "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "29.09.2026",
-    "tags": [],
-    "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
-    "link": "https://dip.bundestag.de/vorgang/333340",
-    "gelesen": true
-  },
-  {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -718,7 +740,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohlereg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -729,7 +751,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Der Rohstofffonds der Bundesregierung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -740,7 +762,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Die wirtschaftliche Lage in Deutschland im September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -751,7 +773,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "BIP Nowcast für das dritte Quartal 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -762,7 +784,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -773,7 +795,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -784,7 +806,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -795,7 +817,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "Konjunkturschlaglicht",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -806,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -817,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Schlag gegen internationalen Cyber-Anlagebetrug",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -828,7 +850,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -836,28 +858,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/abwechslungsreiche-angebote-der-bundesregierung-beim-tag-der-deutschen-einheit-2026-in-bremen-2454216",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "25.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-kasachstan-tokajew-2454218",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "25.09.2026",
-    "tags": [],
-    "zusammenfassung": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html",
     "gelesen": true
   }
 ];
