@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-11"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-11"
+      "news-15"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-11"
+      "news-15"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,61 +521,105 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 11:00",
+    "tags": [],
+    "zusammenfassung": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261009-deutsche-rohstoffprojekte-anerkannt.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Joint Statement Germany – United Kingdom",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:30",
+    "tags": [],
+    "zusammenfassung": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Tr…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-germany-united-kingdom-2456348",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 12:15",
+    "tags": [],
+    "zusammenfassung": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-deutschland-erhaelt-eiti-chairs-award.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 12:15",
+    "datum": "Gestern, 12:15",
     "tags": [],
     "zusammenfassung": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-reiche-stellt-herbstprojektion-vor.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
+    "titel": "Herbstprojektion 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 02:00",
+    "tags": [],
+    "zusammenfassung": "Herbstprojektion 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:30",
+    "datum": "07.10.2026",
     "tags": [],
     "zusammenfassung": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261007-absichtserklaerungen-co2-export.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-7",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 08:00",
+    "datum": "07.10.2026",
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20261007-entwicklung-produzierendes-gewerbe-august.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 01:00",
+    "datum": "07.10.2026",
     "tags": [],
     "zusammenfassung": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261007-verordnung-wirtschaftsprueferexamen.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz anlässlich des 3. Jahrestags des 7. Oktobers 2023:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 00:01",
+    "datum": "07.10.2026",
     "tags": [],
     "zusammenfassung": "„Am heutigen Jahrestag der furchtbaren Hamas-Terroranschläge vom 7. Oktober 2023 sind unsere Gedanken bei den Opfern und ihren Hinterbliebenen, den Überlebenden und den ehemaligen Geiseln. Wir gedenken der Toten. Wir trauern mit den Hinterbliebenen. Und wir hoffen, dass der tiefe Schmerz und die Wunden, die dieser Tag…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-anlaesslich-des-3-jahrestags-des-7-oktobers-2023--2455998",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -586,7 +630,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -599,7 +643,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -610,7 +654,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -621,7 +665,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -632,7 +676,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -645,7 +689,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -656,7 +700,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -667,7 +711,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-18",
     "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -678,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -689,7 +733,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -700,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -714,7 +758,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -727,7 +771,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -738,7 +782,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -749,7 +793,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -760,7 +804,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Bee…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -771,7 +815,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -784,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -795,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohlereg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -806,7 +850,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Der Rohstofffonds der Bundesregierung",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -814,50 +858,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Rohstofffonds der Bundesregierung",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Die wirtschaftliche Lage in Deutschland im September 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "28.09.2026",
-    "tags": [],
-    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im September 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/05-wirtschaftliche-lage.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "BIP Nowcast für das dritte Quartal 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "28.09.2026",
-    "tags": [],
-    "zusammenfassung": "BIP Nowcast für das dritte Quartal 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/06-bip-nowcast.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "28.09.2026",
-    "tags": [],
-    "zusammenfassung": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/01-zweites-wirtschaftspolitisches-symposium.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "28.09.2026",
-    "tags": [],
-    "zusammenfassung": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/02-mehr-transparenz-bei-kurzzeitvermietungen.html",
     "gelesen": true
   }
 ];
