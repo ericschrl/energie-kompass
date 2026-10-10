@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-11"
+      "news-12"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-15"
+      "news-16"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-15"
+      "news-16"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,61 +521,72 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige u…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:48",
+    "tags": [],
+    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der 78. Frankfurter Buchmesse die 85 Preisträger des Deutschen Verlagspreises 2026 ausgezeichnet. Die Verlage „kunstanstifter - Verlag für Illustration“, „Merve“ und „Voland & Quist“ wurden als Spitzenpreisträger ausgewählt und erhielten ein Preisgeld in Höhe von…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-verleiht-den-deutschen-verlagspreis-2026-staatsminister-weimer-unabhaengige-verlage-sorgen-fuer-eine-vielstimmige-und-lebendige-demokratische-oeffentlichkeit--2456514",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 11:00",
+    "datum": "Gestern, 11:00",
     "tags": [],
     "zusammenfassung": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261009-deutsche-rohstoffprojekte-anerkannt.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Joint Statement Germany – United Kingdom",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:30",
+    "datum": "08.10.2026",
     "tags": [],
     "zusammenfassung": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Tr…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-germany-united-kingdom-2456348",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:15",
+    "datum": "08.10.2026",
     "tags": [],
     "zusammenfassung": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-deutschland-erhaelt-eiti-chairs-award.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:15",
+    "datum": "08.10.2026",
     "tags": [],
     "zusammenfassung": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-reiche-stellt-herbstprojektion-vor.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Herbstprojektion 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 02:00",
+    "datum": "08.10.2026",
     "tags": [],
     "zusammenfassung": "Herbstprojektion 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -586,7 +597,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -597,7 +608,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -608,7 +619,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz anlässlich des 3. Jahrestags des 7. Oktobers 2023:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -619,7 +630,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -630,7 +641,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -643,7 +654,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -654,7 +665,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -665,7 +676,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -676,7 +687,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -689,7 +700,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -700,7 +711,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -711,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -722,7 +733,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -733,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -744,7 +755,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -758,7 +769,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Gemeinsame Politische Absichtserklärung zur Initiative „Südlicher Wasserstoffkorridor“ (SoutH2) unterzeichnet",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -771,7 +782,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Aktionsmonat Cybersicherheit: Mehr Schutz vor Cyberangriffen – BMWE verstärkt seine Angebote zur Unterstützung von KMU",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -782,7 +793,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Bund und Länder starten neue Bewerbungsrunde für Auslandsstipendien – Kulturstaatsminister Weimer: „Künstlerischer Austausch stiftet kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -793,7 +804,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bericht der Ostbeauftragten 2026 – Staatsminister Weimer: „Kulturförderung in Ostdeutschland stärkt auch Wirtschaft und Gesellschaft“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -804,7 +815,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Bee…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -815,7 +826,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -828,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -839,7 +850,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohlereg…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -847,17 +858,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohleregionen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-innovation-rheinisches-revier.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Der Rohstofffonds der Bundesregierung",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "28.09.2026",
-    "tags": [],
-    "zusammenfassung": "Der Rohstofffonds der Bundesregierung",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html",
     "gelesen": true
   }
 ];
