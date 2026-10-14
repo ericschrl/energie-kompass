@@ -134,8 +134,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8",
-      "news-9"
+      "news-9",
+      "news-10"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -256,7 +256,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-3"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -509,7 +509,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-3"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,21 +522,32 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:47",
+    "tags": [],
+    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/austausch-von-bundeskanzler-friedrich-merz-mit-vertretern-des-american-jewish-committee-ajc-am-13-oktober-2026-2456696",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Bundeskanzler Merz telefoniert mit dem Kronprinzen und Premierminister von Saudi-Arabien, Mohammed bin Salman Al Saud",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 12:25",
+    "datum": "Gestern, 12:25",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-kronprinzen-und-premierminister-von-saudi-arabien-mohammed-bin-salman-al-saud-2456682",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 11:34",
+    "datum": "Gestern, 11:34",
     "tags": [
       "netz"
     ],
@@ -545,66 +556,66 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 19:15",
+    "datum": "12.10.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2456648",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Staatsminister Weimer eröffnet Anselm-Kiefer-Pavillon in Künzelsau – Kiefer, Chipperfield und das Engagement der Familie Würth für die Kuns…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 17:00",
+    "datum": "12.10.2026",
     "tags": [],
     "zusammenfassung": "Staatsminister Weimer hat den Anselm-Kiefer-Pavillon am Museum Würth in Künzelsau eröffnet. Damit wird erstmals das großformatige Werk „Schwarze Flocken“ von Anselm Kiefer öffentlich zugänglich und bekommt einen dauerhaften Ausstellungsort. Es gehört zu den bedeutendsten Werken der Sammlung Würth. Der eigens für das W…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-anselm-kiefer-pavillon-in-kuenzelsau-kiefer-chipperfield-und-das-engagement-der-familie-wuerth-fuer-die-kunstwelt-gewuerdigt-2456644",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 15:16",
+    "datum": "12.10.2026",
     "tags": [],
     "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
     "link": "https://dip.bundestag.de/vorgang/333340",
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "12.10.2026",
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn sch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:00",
+    "datum": "12.10.2026",
     "tags": [],
     "zusammenfassung": "Der Beauftrage der Bundesregierung für Kultur und Medien und das Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich haben anlässlich des 100. Geburtstages der Autorin Ingeborg Bachmann den Deutsch-Österreichischen Lyrikpreis ins Leben gerufen. Ausgezeichnet werden die Schrifts…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-deutsch-oesterreichischer-lyrikpreis-geht-an-esther-kinsky-und-ann-cotten-staatsminister-weimer-gemeinsam-mit-unseren-nachbarn-schaffen-wir-sichtbarkeit-fuer-herausragende-zeitgenoessische-lyrik--2456592",
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 10:28",
+    "datum": "12.10.2026",
     "tags": [
       "eeg"
     ],
@@ -613,11 +624,11 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 09:30",
+    "datum": "12.10.2026",
     "tags": [
       "eeg"
     ],
@@ -626,7 +637,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Wirtschaftsministerin Reiche besucht Energy Week in Riad: Ausbau der Partnerschaft für mehr Energiesicherheit",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -637,7 +648,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Bundeskanzler Friedrich Merz erklärt zu dem von der irischen Ratspräsidentschaft vorgelegten Vorschlag für die anstehenden EU-Haushaltsverh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -648,7 +659,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige u…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -659,7 +670,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -670,7 +681,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Joint Statement Germany – United Kingdom",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -681,7 +692,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -692,7 +703,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -703,7 +714,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Herbstprojektion 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -714,7 +725,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -725,7 +736,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -736,7 +747,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -747,7 +758,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz anlässlich des 3. Jahrestags des 7. Oktobers 2023:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -758,7 +769,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -769,7 +780,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -780,7 +791,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Staatsminister Weimer warnt zum Tag der Deutschen Einheit vor zunehmendem Geschichtsrevisionismus – „Unmenschlichkeit der DDR-Diktatur darf…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -791,7 +802,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz empfängt den litauischen Ministerpräsidenten, Mindaugas Sinkevičius",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -802,7 +813,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz empfängt den britischen Premierminister Burnham",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -813,7 +824,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Inhalte und Ergebnisse des G20 Handelsministertreffens in Milwaukee, USA vom 30. September bis 1. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -824,7 +835,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Goethes Reisemantel macht sich auf den Weg von Weimar nach Rom – „Giro di Goethe“ verbindet Deutschland und Italien",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -835,7 +846,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Kosovo, Albin Kurti",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -843,20 +854,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl zum Ministerpräsidenten der Republik Kosovo gratuliere ich Ihnen herzlich. Hinter Kosovo liegen Monate der politischen Unsicherheit, die dem Land viel abverlangt haben. Die Bestätigung Ihrer Wahl birgt die Chance, über Parteigrenzen hinweg Brücken zu bauen, off…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-kosovo-albin-kurti-2455242",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "01.10.2026",
-    "tags": [
-      "emob",
-      "markt"
-    ],
-    "zusammenfassung": "Bundesnetzagentur erlässt Festlegung zur Marktintegration von Stromspeichern und Ladepunkten (MiSpeL)",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261001_Mispel.html",
     "gelesen": true
   }
 ];

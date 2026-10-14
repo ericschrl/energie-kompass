@@ -3,6 +3,418 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-10-14",
+      "title": "Energie-Kompass Briefing — 14.10.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wirtschaftsministerin Reiche besucht Energy Week in Riad: Ausbau der Partnerschaft für mehr Energiesicherheit",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261011-energy-week-ausbau-energiesicherheit.html"
+                },
+                {
+                  "text": " — 11.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261009-deutsche-rohstoffprojekte-anerkannt.html"
+                },
+                {
+                  "text": " — 09.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-deutschland-erhaelt-eiti-chairs-award.html"
+                },
+                {
+                  "text": " — 08.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-reiche-stellt-herbstprojektion-vor.html"
+                },
+                {
+                  "text": " — 08.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Herbstprojektion 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html"
+                },
+                {
+                  "text": " — 08.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261007-absichtserklaerungen-co2-export.html"
+                },
+                {
+                  "text": " — 07.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20261007-entwicklung-produzierendes-gewerbe-august.html"
+                },
+                {
+                  "text": " — 07.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261007-verordnung-wirtschaftsprueferexamen.html"
+                },
+                {
+                  "text": " — 07.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261006-entwicklung-verarbeitendes-gewerbe-august.html"
+                },
+                {
+                  "text": " — 06.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "14.10.2026 - Wind an Land (Onshore)",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html"
+                },
+                {
+                  "text": " — 12.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/austausch-von-bundeskanzler-friedrich-merz-mit-vertretern-des-american-jewish-committee-ajc-am-13-oktober-2026-2456696"
+                },
+                {
+                  "text": " — Gestern, 14:47"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem Kronprinzen und Premierminister von Saudi-Arabien, Mohammed bin Salman Al Saud",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-kronprinzen-und-premierminister-von-saudi-arabien-mohammed-bin-salman-al-saud-2456682"
+                },
+                {
+                  "text": " — Gestern, 12:25"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-telefoniert-mit-dem-ukrainischen-staatspraesidenten-selenskyj-2456648"
+                },
+                {
+                  "text": " — 12.10.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer eröffnet Anselm-Kiefer-Pavillon in Künzelsau – Kiefer, Chipperfield und das Engagement der Familie Würth für die Kunstwelt gewürdigt",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-anselm-kiefer-pavillon-in-kuenzelsau-kiefer-chipperfield-und-das-engagement-der-familie-wuerth-fuer-die-kunstwelt-gewuerdigt-2456644"
+                },
+                {
+                  "text": " — 12.10.2026"
+                }
+              ],
+              "sub": "Staatsminister Weimer hat den Anselm-Kiefer-Pavillon am Museum Würth in Künzelsau eröffnet. Damit wird erstmals das großformatige Werk „Schwarze Flocken“ von Anselm Kiefer öffentlich zugänglich und bekommt einen dauerhaften Ausstellungsort. Es gehört zu den bedeutendsten Werken der Sammlung Würth. Der eigens für das Werk entworfene Pavillon stammt vom international renommierten Architekten David Chipperfield. Am 13. Oktober 2026 öffnet der Pavillon seine Tore für Besucherinnen und Besucher. Kulturstaatsminister Weimer erklärt dazu: „Anselm Kiefers monumentale Kunst zeigt, wie sehr die Geschichte in unsere Gegenwart hineinwirkt. Sie lässt uns nicht vergessen und fordert uns auf, genau hinzusehen. Mit ‚Schwarze Flocken‘ wird ein herausragendes Werk seines Schaffens erstmals für die Öffentlichkeit erlebbar. David Chipperfield verleiht diesem Werk mit seiner Architektur eine eindrucksvolle Wirkung. Die Eröffnung des Kiefer-Pavillons ist ein echter Gewinn für die kulturelle Landschaft i..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn schaffen wir Sichtbarkeit für herausragende zeitgenössische Lyrik“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-deutsch-oesterreichischer-lyrikpreis-geht-an-esther-kinsky-und-ann-cotten-staatsminister-weimer-gemeinsam-mit-unseren-nachbarn-schaffen-wir-sichtbarkeit-fuer-herausragende-zeitgenoessische-lyrik--2456592"
+                },
+                {
+                  "text": " — 12.10.2026"
+                }
+              ],
+              "sub": "Der Beauftrage der Bundesregierung für Kultur und Medien und das Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich haben anlässlich des 100. Geburtstages der Autorin Ingeborg Bachmann den Deutsch-Österreichischen Lyrikpreis ins Leben gerufen. Ausgezeichnet werden die Schriftstellerinnen Esther Kinsky für ihren Gedichtband „Heim.Statt“ und Ann Cotten für ihren Gedichtband „Poller. Idyllen“. Die Entscheidung wurde durch eine unabhängige Jury getroffen. Der Preis wird am 25. November 2026 im Rahmen des Eröffnungsempfangs der Buch Wien feierlich vergeben und ist mit je 15.000 Euro dotiert. Dazu Staatsminister Weimer: „Meinen herzlichen Glückwunsch an Esther Kinsky und Ann Cotten zu dieser einmaligen Auszeichnung. Die Jury würdigt Werke, die unterschiedlicher nicht sein könnten und doch die Gemeinsamkeit haben, dass sie poetisch, wortgewaltig die Grenzen der literarischen Gattungen überschreiten. Die Gedichtbände zeichnet Experimentierfreude, ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Friedrich Merz erklärt zu dem von der irischen Ratspräsidentschaft vorgelegten Vorschlag für die anstehenden EU-Haushaltsverhandlungen:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zu-dem-von-der-irischen-ratspraesidentschaft-vorgelegten-vorschlag-fuer-die-anstehenden-eu-haushaltsverhandlungen--2456522"
+                },
+                {
+                  "text": " — 10.10.2026"
+                }
+              ],
+              "sub": "Für ein starkes und souveränes Europa brauchen wir einen grundlegend modernisierten und bezahlbaren Mehrjährigen Finanzrahmen. Ich danke der irischen Präsidentschaft für ihren unermüdlichen Einsatz in diesen schwierigen Verhandlungen. Von einer Einigung sind wir gleichwohl noch weit entfernt. Die Höhe des neuen Vorschlags ist keine Grundlage für eine Einigung. Der EU-Haushalt muss für diejenigen bezahlbar sein, die die Hauptlast der Finanzierung tragen. Zu den notwendigen Anpassungen müssen alle beitragen, denn Priorisierung und Modernisierung der Ausgaben des EU-Haushaltes sind eine Aufgabe für uns alle."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige und lebendige demokratische Öffentlichkeit“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-verleiht-den-deutschen-verlagspreis-2026-staatsminister-weimer-unabhaengige-verlage-sorgen-fuer-eine-vielstimmige-und-lebendige-demokratische-oeffentlichkeit--2456514"
+                },
+                {
+                  "text": " — 09.10.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der 78. Frankfurter Buchmesse die 85 Preisträger des Deutschen Verlagspreises 2026 ausgezeichnet. Die Verlage „kunstanstifter - Verlag für Illustration“, „Merve“ und „Voland & Quist“ wurden als Spitzenpreisträger ausgewählt und erhielten ein Preisgeld in Höhe von jeweils 50.000 Euro. Zum ersten Mal verlieh Staatsminister Weimer zusätzlich den mit 24.000 Euro dotierten Innovationspreis. Dieser würdigt besonders zukunftsweisende Verlagsarbeit und ging an den „mairisch Verlag“. Der diesjährige Nachhaltigkeitspreis, ebenfalls mit 24.000 Euro Preisgeld dotiert, erhielt der Verlag „Shift Books“. Weitere 79 Verlage wurden mit einem Gütesiegel ausgezeichnet, das jeweils mit 18.000 Euro Preisgeld verbunden ist. Daneben können jährlich bis zu drei Verlage mit einem Jahresgesamtumsatz von mehr als drei Millionen Euro ein undotiertes Gütesiegel erhalten. In diesem Jahr ging dieses Siegel an den Verlag „Matthes & Seitz Berlin“. Insgesamt wu..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Joint Statement Germany – United Kingdom",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-germany-united-kingdom-2456348"
+                },
+                {
+                  "text": " — 08.10.2026"
+                }
+              ],
+              "sub": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Treaty through the official exchange of documents. The Kensington Treaty, signed in July 2025 in London, spans the breadth of the bilateral relationship, enhancing cooperation in the face of global challenges, and delivering tangible benefits for UK and German citizens. Industrial Tech Corridor - To connect AI and critical technology scale-ups with industrial demand, this initiative supports the progression of UK and German Tech to developed scaled industrial use cases. The focus will be initially on AI and high-value industrial applications. A first dedicated Tech Corridor roundtable convening CEOs of selected primes, AI scale-ups, and senior officials will be held late..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz anlässlich des 3. Jahrestags des 7. Oktobers 2023:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-anlaesslich-des-3-jahrestags-des-7-oktobers-2023--2455998"
+                },
+                {
+                  "text": " — 07.10.2026"
+                }
+              ],
+              "sub": "„Am heutigen Jahrestag der furchtbaren Hamas-Terroranschläge vom 7. Oktober 2023 sind unsere Gedanken bei den Opfern und ihren Hinterbliebenen, den Überlebenden und den ehemaligen Geiseln. Wir gedenken der Toten. Wir trauern mit den Hinterbliebenen. Und wir hoffen, dass der tiefe Schmerz und die Wunden, die dieser Tag, die diese monströsen, barbarischen Taten geschlagen haben, heilen können. Deutschland steht fest an der Seite Israels. Unsere israelischen Freunde können auf unseren Einsatz zählen, damit sich ein solches Verbrechen niemals wiederholt. Wir stehen für die Sicherheit und Existenz Israels ein – das ist Lehre aus der Shoah und Teil deutscher Identität. Es muss nun darum gehen, das Fundament einer neuen Ordnung zu legen, in der Israelis, Palästinenser und ihre Nachbarn in Frieden und Sicherheit leben können. Dafür setzt sich die Bundesregierung ein. Unserer Überzeugung nach ist dieses Ziel am besten durch die Gründung eines palästinensischen Staates an der Seite Israel..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister Weimer: „Wir feiern die einzigartige Kraft der Sprache“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-78-frankfurter-buchmesse-und-kuendigt-neue-auszeichnung-literarisches-wort-des-jahres-an-staatsminister-weimer-wir-feiern-die-einzigartige-kraft-der-sprache--2455992"
+                },
+                {
+                  "text": " — 06.10.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer eröffnet heute im Namen der Bundesregierung die 78. Frankfurter Buchmesse. Vor der Eröffnung hat er die neue Auszeichnung „Literarisches Wort des Jahres“ angekündigt. Ehrengast auf der Frankfurter Buchmesse ist in diesem Jahr Tschechien. Unter dem Motto „Ein Land an der Küste“ präsentiert sich das Land als Sehnsuchtsort für literarische Entdeckungen. Im Ehrengast-Pavillon findet ein umfangreiches Programm mit Lesungen und Gesprächen statt, zudem sind 75 tschechische Autorinnen und Autoren vor Ort. Staatsminister Weimer sagte im Vorfeld: „Deutschland und Tschechien verbindet eine wechselvolle literarische Freundschaft. Umso mehr freue ich mich, dass wir dieses Jahr im Ehrengast-Pavillon die Chance haben, in die facettenreiche Welt der tschechischen Literaturszene einzutauchen – geprägt von poetischer Sprache, Ironie und Gesellschaftskritik. Literatur schafft Räume für Begegnung und Verständigung. Hier, auf der Frankfurter Buchmesse, kommt die Wel..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dip.bundestag.de/vorgang/338789"
+                },
+                {
+                  "text": " — Gestern, 11:34"
+                }
+              ],
+              "sub": "Überwiesen"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussempfehlung und Bericht (BT): Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
+                  "href": "https://dserver.bundestag.de/btd/21/085/2108507.pdf"
+                },
+                {
+                  "text": " — 12.10.2026"
+                }
+              ],
+              "sub": "Drucksache Beschlussempfehlung und Bericht"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "1. Beratung (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btp/21/21099.pdf#P.12465"
+                },
+                {
+                  "text": " — 08.10.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-13",
       "title": "Energie-Kompass Briefing — 13.10.2026",
       "sections": [
@@ -9125,180 +9537,6 @@ const BRIEFINGS = {
               ],
               "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
             },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "title": "Energie-Kompass Briefing — 14.09.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die wirtschaftliche Lage in Deutschland im September 20261",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html"
-                },
-                {
-                  "text": " — Heute, 09:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html"
-                },
-                {
-                  "text": " — Heute, 08:30"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
             {
               "kind": "bullet",
               "spans": [
