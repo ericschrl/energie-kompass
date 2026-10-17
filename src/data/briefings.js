@@ -3,6 +3,214 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-10-17",
+      "title": "Energie-Kompass Briefing — 17.10.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261015-modernisierung-der-marktueberwachung.html"
+                },
+                {
+                  "text": " — 15.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/teilnahme-von-bundeskanzler-merz-am-berlin-prozess-gipfel-am-22-oktober-2026-in-montenegro-2457362"
+                },
+                {
+                  "text": " — Gestern, 12:55"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-tschechischen-staatspraesidenten-pavel-zu-einem-arbeitsbesuch-2457412"
+                },
+                {
+                  "text": " — Gestern, 12:43"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404"
+                },
+                {
+                  "text": " — Gestern, 12:30"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378"
+                },
+                {
+                  "text": " — Gestern, 11:30"
+                }
+              ],
+              "sub": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Autos der Zukunft in Europa produziert werden. Unser Kurs bleibt unverändert: Wir streben eine deutliche Senkung der CO₂-Emissionen an und stärken zugleich Europas Kapazitäten für die Entwicklung und Fertigung der nächsten Generation von Elektrofahrzeugen. „Europäische Präferenz“ bedeutet in der Praxis: Der Übergang zu sauberer Mobilität muss mit Investitionen, Innovationen und Produktion in Frankreich, Deutschland und ganz Europa einhergehen. Zu diesem Zweck schlagen Frankreich und Deutschland ein umfassendes Paket vor. Es verbindet einen ehrgeizigen europäischen Dekarbonisierungspfad mit der nötigen regulatorischen Flexibilität, um unterschiedlichen Marktgegebenheiten u..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dip.bundestag.de/vorgang/338789"
+                },
+                {
+                  "text": " — Gestern, 14:35"
+                }
+              ],
+              "sub": "1. Durchgang im Bundesrat abgeschlossen"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "1. Durchgang (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brp/1069.pdf"
+                },
+                {
+                  "text": " — Gestern, 02:00"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussdrucksache (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0509-26B.pdf"
+                },
+                {
+                  "text": " — Gestern, 02:00"
+                }
+              ],
+              "sub": "Drucksache Beschluss"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "title": "Energie-Kompass Briefing — 16.10.2026",
       "sections": [
@@ -9308,300 +9516,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 16.09.2026"
-                }
-              ],
-              "sub": "Berlin. Bundeskanzler Friedrich Merz hat am Mittwoch zur dritten Sitzung des Strategiekreises für Technologie und Innovation in das Bundeskanzleramt eingeladen. Dabei wurde über die Chancen für nationale KI-Ökosysteme und neue Innovationspotenziale im Verteidigungsbereich diskutiert. Neben der Chefin des Bundeskanzleramtes waren auf Ressortseite das BMWE, BMFTR, BMDS, BMF und BMVg vertreten."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bund stärkt im Hauptstadtfinanzierungsvertrag kulturelle Exzellenz in Berlin – Staatsminister Weimer: „Berlin soll international leuchten“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-staerkt-im-hauptstadtfinanzierungsvertrag-kulturelle-exzellenz-in-berlin-staatsminister-weimer-berlin-soll-international-leuchten--2452658"
-                },
-                {
-                  "text": " — 15.09.2026"
-                }
-              ],
-              "sub": "Der heute unterzeichnete Hauptstadtfinanzierungsvertrag zwischen Bund und Land Berlin enthält weitreichende Regelungen zu den bundesseitigen Kulturförderungen in der Hauptstadt. Der Fokus liegt dabei auf bundesweit bedeutsamen Exzellenzprojekten und -einrichtungen, vor allem im Musik- und Museumsbereich. Dafür sollen vom Bund - stufenweise aufsteigend - zusätzlich insgesamt bis zu 12,2 Millionen Euro pro Jahr zur Verfügung gestellt werden. Darüber hinaus beteiligt sich der Bund mit bis zu insgesamt 225 Millionen Euro an der Sanierung der Berliner Philharmonie. Das Land Berlin beteiligt sich erstmals am Hauptstadtkulturfonds. Kulturstaatsminister Wolfram Weimer sagte: „Mit dem neuen, auf zehn Jahre geschlossenen Hauptstadtfinanzierungsvertrag stellt sich der Bund verlässlich hinter die Hauptstadtkultur und leitet auch notwendige Strukturveränderungen ein. Dabei nehmen wir noch stärker jene kulturellen Juwelen in den Blick, die weit über Berlin hinaus leuchten und vielfach auch De..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bund und Berlin unterzeichnen neuen Hauptstadtfinanzierungsvertrag",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-berlin-unterzeichnen-neuen-hauptstadtfinanzierungsvertrag-2452656"
-                },
-                {
-                  "text": " — 15.09.2026"
-                }
-              ],
-              "sub": "Vertrag über zehn Jahre sieht 2,1 Mrd. Euro des Bundes für Sicherheit und 2,9 Mrd. Euro des Bundes für Kultur in der Hauptstadt vor Der Bund und das Land Berlin haben am 15. September 2026 einen neuen Hauptstadtfinanzierungsvertrag unterzeichnet. Dieser schafft für den neuen Zehn-Jahres-Zeitraum vom 1. Januar 2028 bis zum 31. Dezember 2037 verlässliche finanzielle Perspektiven und Planungssicherheit. Damit trägt der Bund wesentlich dazu bei, die Entwicklung Berlins als sichere und attraktive Hauptstadt zu fördern. Mit dem Vertrag werden hauptstadtbedingte Mehrausgaben des Landes Berlin durch den Bund getragen. Der Vertrag regelt die Unterstützung des Bundes in den Bereichen Innere Sicherheit und Hauptstadtkultur. Der Hauptstadtfinanzierungsvertrag sieht ein Volumen von rund fünf Mrd. Euro als Beitrag des Bundes für Sicherheit und Kultur in Berlin vor. Die Unterzeichnung fand im Bundesministerium der Finanzen statt. Der Bund wurde vertreten durch Bundesfinanzminister Lars Klingbeil..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Internationaler Tag der Demokratie – Staatsminister Weimer: „Kultur und Medien halten unsere Demokratie lebendig“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/internationaler-tag-der-demokratie-staatsminister-weimer-kultur-und-medien-halten-unsere-demokratie-lebendig--2452596"
-                },
-                {
-                  "text": " — 15.09.2026"
-                }
-              ],
-              "sub": "Zum heutigen Internationalen Tag der Demokratie erklärt Staatsminister für Kultur und Medien Wolfram Weimer: „Unsere Demokratie ist von unschätzbarem Wert. Sie gibt uns die Freiheit, unser Land mitzugestalten, unsere Meinung zu sagen und über unsere Zukunft mitzuentscheiden. Das ist ein großes Geschenk und zugleich eine große Verantwortung. Die aktuellen politischen Entwicklungen geben Anlass dazu, uns wieder stärker bewusst zu machen, was uns unsere Demokratie gibt, und mehr Menschen für sie zu gewinnen.“ Der 15. September erinnert zugleich an einen wichtigen Moment der deutschen Demokratiegeschichte: Vor 77 Jahren wurde Konrad Adenauer zum ersten Bundeskanzler der Bundesrepublik Deutschland gewählt. Dazu Staatsminister Weimer: „Adenauers Wahl stand für den demokratischen Neubeginn unseres Landes. Was damals geschaffen wurde, hat sich bewährt – aber es ist nicht selbstverständlich. Unsere Demokratie lebt von uns allen: davon, dass wir uns einmischen, Verantwortung übernehmen und ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Sitzung des Nationalen Sicherheitsrates im September 2026",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-september-2026-2452580"
-                },
-                {
-                  "text": " — 14.09.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den irakischen Ministerpräsidenten, al-Zaidi",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-irakischen-ministerpraesidenten-al-zaidi-2452430"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz nimmt am EU-Arktis-Gipfel im finnischen Rovaniemi teil",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-eu-arktis-gipfel-im-finnischen-rovaniemi-teil-2452428"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz begrüßt Rekordinvestitionen der Vereinigten Arabischen Emirate in Deutschland",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-begruesst-rekordinvestitionen-der-vereinigten-arabischen-emirate-in-deutschland-2452426"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ],
-              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-17",
-      "title": "Energie-Kompass Briefing — 17.09.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Förderung strategischer Einzelvorhaben",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/foerderung-strategischer-einzelvorhaben.html"
-                },
-                {
-                  "text": " — 15.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Verlässliche und bezahlbare Energie im Fokus – Ministerin Reiche beim G20-Energieministertreffen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-reiche-beim-g20-energieministertreffen.html"
-                },
-                {
-                  "text": " — 14.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die wirtschaftliche Lage in Deutschland im September 20261",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20260914-wirt-lage-deutschland-sep-2026.html"
-                },
-                {
-                  "text": " — 14.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Wirtschaftsministerin Katherina Reiche führt zweites Wirtschaftspolitisches Symposium durch: Fokus auf Europas wirtschaftlicher Entwicklung und Handlungsfähigkeit",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260914-zweites-wirtschaftspolitisches-symposium.html"
-                },
-                {
-                  "text": " — 14.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zum 25. Jahrestag des Terroranschlags auf die USA",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260911-zitat-reiche-zum-11-september.html"
-                },
-                {
-                  "text": " — 11.09.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "17.09.2026 - Wind an Land (Onshore)",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT03082026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Weimer: „Stärken das Bauhaus von allen Seiten“ – Vier Millionen Euro jährlich für Berliner Bauhaus-Archiv und große Unterstützung für Bauhaus-Manifest",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/weimer-staerken-das-bauhaus-von-allen-seiten-vier-millionen-euro-jaehrlich-fuer-berliner-bauhaus-archiv-und-grosse-unterstuetzung-fuer-bauhaus-manifest-2452892"
-                },
-                {
-                  "text": " — Heute, 08:20"
-                }
-              ],
-              "sub": "Das Bauhaus erhält eine bedeutende Unterstützung durch den am Dienstag unterzeichneten Hauptstadtfinanzierungsvertrag für die Jahre 2028 bis Ende 2037. Darin ist erstmals eine künftig stärkere Beteiligung des Bundes am Bauhaus-Archiv – Museum für Gestaltung in Berlin verankert worden. Das Bauhaus-Archiv beherbergt die weltweit größte Sammlung von Bauhaus-Objekten und ist damit ein zentraler Ort für die Bewahrung und Vermittlung des Bauhaus-Erbes national und international. Nach Abschluss von Sanierung und Erweiterungsbau sowie der Änderung der Rechtsform des bisher als Verein tätigen Bauhaus-Archivs kann der Bund sich mit bis zu vier Millionen Euro jährlich an den Betriebskosten beteiligen. Dazu Staatsminister Weimer: „Wir stärken das Bauhaus von allen Seiten und schützen seine Errungenschaften gegen rechte Anfeindungen. Die steigenden Zahlen der Unterstützerinnen und Unterstützer des Bauhaus Manifests, als auch die künftige Unterstützung des Bauhaus-Archivs durch den Bund zeigen,..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Strategiekreis für Technologie und Innovation des Bundeskanzlers: Industrielle KI bietet eine große Chance für Deutschland",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/strategiekreis-fuer-technologie-und-innovation-des-bundeskanzlers-industrielle-ki-bietet-eine-grosse-chance-fuer-deutschland-2452888"
-                },
-                {
-                  "text": " — Gestern, 18:55"
                 }
               ],
               "sub": "Berlin. Bundeskanzler Friedrich Merz hat am Mittwoch zur dritten Sitzung des Strategiekreises für Technologie und Innovation in das Bundeskanzleramt eingeladen. Dabei wurde über die Chancen für nationale KI-Ökosysteme und neue Innovationspotenziale im Verteidigungsbereich diskutiert. Neben der Chefin des Bundeskanzleramtes waren auf Ressortseite das BMWE, BMFTR, BMDS, BMF und BMVg vertreten."
