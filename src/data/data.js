@@ -134,8 +134,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-20",
-      "news-21"
+      "news-23",
+      "news-24"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -256,7 +256,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-5"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -509,7 +509,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-5"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,10 +522,43 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 09:00",
+    "tags": [],
+    "zusammenfassung": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:45",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-staerkt-entwicklung-und-anwendung-industrieller-ki-ueber-zusammenarbeit-mit-internationalen-partnern-2457620",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:30",
+    "tags": [],
+    "zusammenfassung": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-neues-vorverfahren-co2-differenzvertraege.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 11:00",
+    "datum": "Gestern, 11:00",
     "tags": [
       "markt"
     ],
@@ -534,7 +567,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -547,7 +580,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -558,7 +591,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -569,7 +602,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -580,7 +613,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -591,7 +624,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -602,7 +635,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabsc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -613,7 +646,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Die wirtschaftliche Lage in Deutschland im Oktober 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -624,7 +657,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Gemeinsames Eckpunktepapier des Bundes und der Energieministerkonferenz zur Finanzierung von Stromverteil- und Wärmenetzen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -635,7 +668,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "BMWE sorgt wieder für faire Wettbewerbsbedingungen im Postmarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -646,7 +679,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundesförderung Industrie und Klimaschutz geht in die nächste Runde",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -657,7 +690,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -668,7 +701,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz telefoniert mit dem Kronprinzen und Premierminister von Saudi-Arabien, Mohammed bin Salman Al Saud",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -679,7 +712,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -690,7 +723,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Staatsminister Weimer eröffnet Anselm-Kiefer-Pavillon in Künzelsau – Kiefer, Chipperfield und das Engagement der Familie Würth für die Kuns…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -701,7 +734,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -712,7 +745,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -723,7 +756,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn sch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -734,7 +767,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -747,7 +780,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -760,7 +793,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Wirtschaftsministerin Reiche besucht Energy Week in Riad: Ausbau der Partnerschaft für mehr Energiesicherheit",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -771,7 +804,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Bundeskanzler Friedrich Merz erklärt zu dem von der irischen Ratspräsidentschaft vorgelegten Vorschlag für die anstehenden EU-Haushaltsverh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -782,7 +815,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige u…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -793,7 +826,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -804,7 +837,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Joint Statement Germany – United Kingdom",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -815,7 +848,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -823,39 +856,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-deutschland-erhaelt-eiti-chairs-award.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "08.10.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-reiche-stellt-herbstprojektion-vor.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Herbstprojektion 2026",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "08.10.2026",
-    "tags": [],
-    "zusammenfassung": "Herbstprojektion 2026",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "07.10.2026",
-    "tags": [],
-    "zusammenfassung": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261007-absichtserklaerungen-co2-export.html",
     "gelesen": true
   }
 ];
