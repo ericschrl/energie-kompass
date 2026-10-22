@@ -134,8 +134,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-25",
-      "news-26"
+      "news-27",
+      "news-28"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -256,7 +256,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-3"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -509,7 +509,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-3"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,39 +522,74 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeskanzler Merz gratuliert der Premierministerin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:55",
+    "tags": [],
+    "zusammenfassung": "Sehr geehrte Frau Premierministerin, zu Ihrer Ernennung zur Premierministerin des Königreichs Marokko gratuliere ich Ihnen herzlich. Im Jahr des 70-jährigen Bestehens unserer diplomatischen Beziehungen freue ich mich darauf, gemeinsam mit Ihnen die freundschaftliche und vertrauensvolle Partnerschaft zwischen Deutschla…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-premierministerin-des-koenigreichs-marokko-fatima-ezzahra-el-mansouri-2457878",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 17:00",
+    "tags": [],
+    "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Der Zusammenarbeit auf der Grundlage des starken Fundaments unserer Partnerschaft sehe ich mit Freude entgegen. Sowohl bilateral als auch im Rahmen der EU und der NATO steht Ihnen Deutschland als verlässlicher Verbündeter und Par…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-von-rumaenien-luca-alexandru-niculescu-2457872",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 14:06",
+    "tags": [
+      "netz"
+    ],
+    "zusammenfassung": "1. Durchgang im Bundesrat abgeschlossen",
+    "link": "https://dip.bundestag.de/vorgang/338789",
+    "gelesen": true
+  },
+  {
+    "id": "news-4",
     "titel": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdien…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 09:30",
+    "datum": "Gestern, 09:30",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat am Dienstag die Villa Aurora in Los Angeles besucht. Anderthalb Jahre nach den verheerenden Bränden in Pacific Palisades hat das traditionsreiche Residenzhaus kürzlich seinen Betrieb wieder aufgenommen. Als einer der ersten Gäste hat sich Staatsminister Weimer vor Ort ein Bild v…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlands-comeback-in-los-angeles-kulturzentrum-villa-aurora-nach-braenden-wiedereroeffnet-staatsminister-weimer-uebergibt-bundesverdienstkreuz-an-kunstretter-justin-jampol-2457808",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 14:00",
+    "datum": "20.10.2026",
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261020_VerfahrenEnergie.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 09:00",
+    "datum": "20.10.2026",
     "tags": [],
     "zusammenfassung": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -565,7 +600,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -576,7 +611,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -589,20 +624,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "16.10.2026",
-    "tags": [
-      "netz"
-    ],
-    "zusammenfassung": "1. Durchgang im Bundesrat abgeschlossen",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -613,7 +635,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -624,7 +646,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -635,7 +657,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -646,7 +668,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -657,7 +679,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabsc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -668,7 +690,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Die wirtschaftliche Lage in Deutschland im Oktober 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -679,7 +701,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Gemeinsames Eckpunktepapier des Bundes und der Energieministerkonferenz zur Finanzierung von Stromverteil- und Wärmenetzen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -690,7 +712,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "BMWE sorgt wieder für faire Wettbewerbsbedingungen im Postmarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -701,7 +723,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "Bundesförderung Industrie und Klimaschutz geht in die nächste Runde",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -712,7 +734,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -723,7 +745,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz telefoniert mit dem Kronprinzen und Premierminister von Saudi-Arabien, Mohammed bin Salman Al Saud",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -734,7 +756,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -745,7 +767,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Staatsminister Weimer eröffnet Anselm-Kiefer-Pavillon in Künzelsau – Kiefer, Chipperfield und das Engagement der Familie Würth für die Kuns…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -756,7 +778,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -767,7 +789,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -778,7 +800,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn sch…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -789,7 +811,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -802,7 +824,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -815,7 +837,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Wirtschaftsministerin Reiche besucht Energy Week in Riad: Ausbau der Partnerschaft für mehr Energiesicherheit",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -826,7 +848,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Bundeskanzler Friedrich Merz erklärt zu dem von der irischen Ratspräsidentschaft vorgelegten Vorschlag für die anstehenden EU-Haushaltsverh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -834,28 +856,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Für ein starkes und souveränes Europa brauchen wir einen grundlegend modernisierten und bezahlbaren Mehrjährigen Finanzrahmen. Ich danke der irischen Präsidentschaft für ihren unermüdlichen Einsatz in diesen schwierigen Verhandlungen. Von einer Einigung sind wir gleichwohl noch weit entfernt. Die Höhe des neuen Vorsch…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zu-dem-von-der-irischen-ratspraesidentschaft-vorgelegten-vorschlag-fuer-die-anstehenden-eu-haushaltsverhandlungen--2456522",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige u…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "09.10.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der 78. Frankfurter Buchmesse die 85 Preisträger des Deutschen Verlagspreises 2026 ausgezeichnet. Die Verlage „kunstanstifter - Verlag für Illustration“, „Merve“ und „Voland & Quist“ wurden als Spitzenpreisträger ausgewählt und erhielten ein Preisgeld in Höhe von…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-verleiht-den-deutschen-verlagspreis-2026-staatsminister-weimer-unabhaengige-verlage-sorgen-fuer-eine-vielstimmige-und-lebendige-demokratische-oeffentlichkeit--2456514",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "09.10.2026",
-    "tags": [],
-    "zusammenfassung": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261009-deutsche-rohstoffprojekte-anerkannt.html",
     "gelesen": true
   }
 ];
