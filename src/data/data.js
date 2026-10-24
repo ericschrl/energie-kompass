@@ -133,10 +133,7 @@ const GESETZE = [
         "kommentar": "Systemwirtschaftliche Bedenken beim Ausbautempo"
       }
     ],
-    "news": [
-      "news-29",
-      "news-30"
-    ],
+    "news": [],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
       "datum": "2026-06-11",
@@ -256,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1"
+      "news-3"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -509,7 +506,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1"
+      "news-3"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,52 +519,97 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeskanzler Merz reist nach Singapur, Japan und in die Republik Korea",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:40",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-singapur-japan-und-in-die-republik-korea-2458120",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Historisches Kulturerbe vor KI-Fälschungen schützen: BKM und Google.org fördern die „Global Authentic Memory Initiative“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:10",
+    "tags": [],
+    "zusammenfassung": "Der Beauftragte der Bundesregierung für Kultur und Medien und Google.org, die gemeinnützige Stiftung von Google, unterstützen gemeinsam die „Global Authentic Memory Initiative (GAMI)“. Ziel von GAMI ist, historische Digitalbestände vor Fälschungen zu schützen, die durch den Einsatz generativer künstlicher Intelligenz…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/historisches-kulturerbe-vor-ki-faelschungen-schuetzen-bkm-und-google-org-foerdern-die-global-authentic-memory-initiative--2458124",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 10:20",
+    "datum": "Gestern, 11:40",
     "tags": [
+      "eeg",
       "netz"
     ],
-    "zusammenfassung": "1. Durchgang im Bundesrat abgeschlossen",
+    "zusammenfassung": "1. Durchgang im Bundesrat abgeschlossen — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise info…",
     "link": "https://dip.bundestag.de/vorgang/338789",
     "gelesen": true
   },
   {
-    "id": "news-2",
+    "id": "news-4",
+    "titel": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:00",
+    "tags": [],
+    "zusammenfassung": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-raffineriestrategie.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 02:15",
+    "tags": [],
+    "zusammenfassung": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-einigung-position-eu-inc.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 05:30",
+    "datum": "22.10.2026",
     "tags": [],
     "zusammenfassung": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261022-investitionspruefungsrecht.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-7",
     "titel": "Die Sommerzeit endet am 25. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 05:00",
+    "datum": "22.10.2026",
     "tags": [],
     "zusammenfassung": "Die Sommerzeit endet am 25. Oktober 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261022-sommerzeit-endet.html",
     "gelesen": false
   },
   {
-    "id": "news-4",
-    "titel": "Bundeskanzler Merz gratuliert der Premierministerin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
+    "id": "news-8",
+    "titel": "Bundeskanzler Merz gratuliert der Regierungschefin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
     "datum": "21.10.2026",
     "tags": [],
-    "zusammenfassung": "Sehr geehrte Frau Premierministerin, zu Ihrer Ernennung zur Premierministerin des Königreichs Marokko gratuliere ich Ihnen herzlich. Im Jahr des 70-jährigen Bestehens unserer diplomatischen Beziehungen freue ich mich darauf, gemeinsam mit Ihnen die freundschaftliche und vertrauensvolle Partnerschaft zwischen Deutschla…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-premierministerin-des-koenigreichs-marokko-fatima-ezzahra-el-mansouri-2457878",
+    "zusammenfassung": "Sehr geehrte Frau Regierungschefin, zu Ihrer Ernennung zur Regierungschefin des Königreichs Marokko gratuliere ich Ihnen herzlich. Im Jahr des 70-jährigen Bestehens unserer diplomatischen Beziehungen freue ich mich darauf, gemeinsam mit Ihnen die freundschaftliche und vertrauensvolle Partnerschaft zwischen Deutschland…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-regierungschefin-des-koenigreichs-marokko-fatima-ezzahra-el-mansouri-2457878",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -578,7 +620,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdien…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -589,7 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -600,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -611,7 +653,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -622,7 +664,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -633,7 +675,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -646,7 +688,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-16",
     "titel": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -657,7 +699,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -668,7 +710,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -679,7 +721,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -690,7 +732,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -701,7 +743,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabsc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -712,7 +754,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Die wirtschaftliche Lage in Deutschland im Oktober 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -723,7 +765,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Gemeinsames Eckpunktepapier des Bundes und der Energieministerkonferenz zur Finanzierung von Stromverteil- und Wärmenetzen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -734,7 +776,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "BMWE sorgt wieder für faire Wettbewerbsbedingungen im Postmarkt",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -745,7 +787,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Bundesförderung Industrie und Klimaschutz geht in die nächste Runde",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -756,7 +798,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -767,7 +809,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz telefoniert mit dem Kronprinzen und Premierminister von Saudi-Arabien, Mohammed bin Salman Al Saud",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -778,7 +820,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Bundeskanzler Merz telefoniert mit dem ukrainischen Staatspräsidenten Selenskyj",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -789,7 +831,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "Staatsminister Weimer eröffnet Anselm-Kiefer-Pavillon in Künzelsau – Kiefer, Chipperfield und das Engagement der Familie Würth für die Kuns…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -800,7 +842,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -808,54 +850,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br…",
     "link": "https://dip.bundestag.de/vorgang/333340",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "12.10.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn sch…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "12.10.2026",
-    "tags": [],
-    "zusammenfassung": "Der Beauftrage der Bundesregierung für Kultur und Medien und das Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich haben anlässlich des 100. Geburtstages der Autorin Ingeborg Bachmann den Deutsch-Österreichischen Lyrikpreis ins Leben gerufen. Ausgezeichnet werden die Schrifts…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-deutsch-oesterreichischer-lyrikpreis-geht-an-esther-kinsky-und-ann-cotten-staatsminister-weimer-gemeinsam-mit-unseren-nachbarn-schaffen-wir-sichtbarkeit-fuer-herausragende-zeitgenoessische-lyrik--2456592",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "12.10.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br /> Änderung §§ 28 und 101 Erneuerbare-Energie…",
-    "link": "https://dip.bundestag.de/vorgang/331000",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "12.10.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)",
-    "link": "https://dip.bundestag.de/vorgang/339536",
     "gelesen": true
   }
 ];
