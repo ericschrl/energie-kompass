@@ -3,6 +3,526 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-10-30",
+      "title": "Energie-Kompass Briefing — 30.10.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutachland-daenemark-gruenderwoche.html"
+                },
+                {
+                  "text": " — Heute, 10:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261029-rouenhoff-stellvertretend-in-seoul.html"
+                },
+                {
+                  "text": " — Gestern, 10:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261028-deutschland-japan-rohstoffpartnerschaft.html"
+                },
+                {
+                  "text": " — 28.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Enge Zusammenarbeit zwischen Nachbarn – Ministerin Reiche zu Gast in Polen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261026-reiche-zu-gast-in-polen.html"
+                },
+                {
+                  "text": " — 26.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-raffineriestrategie.html"
+                },
+                {
+                  "text": " — 23.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-einigung-position-eu-inc.html"
+                },
+                {
+                  "text": " — 23.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Regelung des Investitionsprüfungsrechts",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261022-investitionspruefungsrecht.html"
+                },
+                {
+                  "text": " — 22.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Sommerzeit endet am 25. Oktober 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261022-sommerzeit-endet.html"
+                },
+                {
+                  "text": " — 22.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html"
+                },
+                {
+                  "text": " — 20.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-neues-vorverfahren-co2-differenzvertraege.html"
+                },
+                {
+                  "text": " — 19.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-zehn-massnahmen-wasserstoffmarkt.html"
+                },
+                {
+                  "text": " — 19.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261015-modernisierung-der-marktueberwachung.html"
+                },
+                {
+                  "text": " — 15.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "18.08.2026 - Solaranlagen (Photovoltaik, erstes Segment): Ausschreibung 1. März 2024",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/BeendeteAusschreibungen/2026/01072026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "22.10.2026 - Solaranlagen (Photovoltaik, erstes Segment): Ausschreibung 1. März 2024",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen1/01122026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261020_VerfahrenEnergie.html"
+                },
+                {
+                  "text": " — 20.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zum-eu-kanada-gipfel--2459156"
+                },
+                {
+                  "text": " — Gestern, 15:04"
+                }
+              ],
+              "sub": "„Mit dem Gipfeltreffen begründen die Europäische Union und Kanada eine „Allianz für die Zukunft\". Wir Europäer schlagen damit nicht nur ein völlig neues Kapitel in den Beziehungen zu einem unserer engsten Verbündeten auf, sondern gehen eine einzigartige Verbindung zu einem Partner außerhalb der EU ein. Dieser Schritt gründet auf geteilten Werten und einem tiefen Vertrauensfundament, das uns in einer unsicherer gewordenen Welt verbindet. Diese beispiellose Initiative wird alle Aspekte unserer Partnerschaft umfassen: Sicherheit und Verteidigung, Wachstum und Beschäftigung, nachhaltige Entwicklung und zwischenmenschliche Kontakte. Mit der Allianz für die Zukunft rücken Kanada und die Europäische Union auf einzigartige Weise zusammen. Gemeinsam wollen wir eine neue strategische Partnerschaft schaffen, in der wir Wohlstand und wirtschaftliche Sicherheit für unsere Bevölkerungen sichern und fördern.“ - Englische Übersetzung - “In this summit, the European Union and Canada are es..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Friedrich Merz erklärt zum Rückzug von EZB-Präsidentin Christine Lagarde:",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zum-rueckzug-von-ezb-praesidentin-christine-lagarde--2459074"
+                },
+                {
+                  "text": " — Gestern, 13:20"
+                }
+              ],
+              "sub": "„Christine Lagarde hat die Europäische Zentralbank in herausfordernden Zeiten souverän geführt. Die Stabilität des Euro und die Unabhängigkeit der Zentralbank waren bei ihr in guten Händen. Namens der Bundesregierung danke ich Christine Lagarde dafür. Jetzt beginnt der im EU-Vertrag vorgesehene Besetzungsprozess, den wir im Kreis der Staats- und Regierungschefs der Eurozone bis zum Jahresende abschließen werden.“"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutscher Kurzfilmpreis 2026: Die Nominierungen stehen fest",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-2026-die-nominierungen-stehen-fest-2458264"
+                },
+                {
+                  "text": " — 27.10.2026"
+                }
+              ],
+              "sub": "Der Staatsminister für Kultur und Medien Wolfram Weimer hat heute die zwölf Nominierten für den Deutschen Kurzfilmpreis 2026 bekannt gegeben. Vorgeschlagen wurden die Nominierungen von unabhängigen Fachjurys aus 239 Einreichungen. Die diesjährige Verleihung des Deutschen Kurzfilmpreises findet am 16. November 2026 in Hamburg statt. Dazu Staatsminister Weimer: „Kurzfilme erzählen große Geschichten auf kleinstem Raum. Sie sind Ausdruck von Experimentierfreude und Kreativität, berühren das Publikum und sorgen für Momente, die in Erinnerung bleiben. Die diesjährigen Nominierten zeigen eindrucksvoll, wie viel künstlerische Kraft und Vielfalt in dieser Kunstform steckt. Ich gratuliere allen Nominierten und freue mich, ihre Arbeiten beim Deutschen Kurzfilmpreis zu würdigen.“ Mit dem Deutschen Kurzfilmpreis werden durch die Bundesregierung jedes Jahr herausragende Leistungen bei der Produktion von Kurzfilmen ausgezeichnet. Der Preis ist die höchstdotierte Auszeichnung im Bereich des Kurzf..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz reist nach Singapur, Japan und in die Republik Korea",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-singapur-japan-und-in-die-republik-korea-2458120"
+                },
+                {
+                  "text": " — 23.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Historisches Kulturerbe vor KI-Fälschungen schützen: BKM und Google.org fördern die „Global Authentic Memory Initiative“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/historisches-kulturerbe-vor-ki-faelschungen-schuetzen-bkm-und-google-org-foerdern-die-global-authentic-memory-initiative--2458124"
+                },
+                {
+                  "text": " — 23.10.2026"
+                }
+              ],
+              "sub": "Der Beauftragte der Bundesregierung für Kultur und Medien und Google.org, die gemeinnützige Stiftung von Google, unterstützen gemeinsam die „Global Authentic Memory Initiative (GAMI)“. Ziel von GAMI ist, historische Digitalbestände vor Fälschungen zu schützen, die durch den Einsatz generativer künstlicher Intelligenz erzeugt wurden. GAMI bietet eine offene, herstellerunabhängige technische Lösung, mit der sich die Echtheit historischer Dokumente digital überprüfen lässt. Damit will GAMI einen entscheidenden Beitrag zur Bekämpfung historischer Desinformationen im digitalen Raum leisten. BKM unterstützt das Projekt mit Fördermitteln in Höhe von 100.000 Euro. Weitere 300.000 Euro trägt die Stiftung Google.org. Kulturstaatsminister Wolfram Weimer reiste diese Woche in die USA, um sich auch mit Vertreterinnen und Vertretern großer Technologieunternehmen, darunter Google, auszutauschen. Im Rahmen seiner Reise sagte er: „Der Erhalt unseres kollektiven Gedächtnisses und der Schutz histori..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert der Regierungschefin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-regierungschefin-des-koenigreichs-marokko-fatima-ezzahra-el-mansouri-2457878"
+                },
+                {
+                  "text": " — 21.10.2026"
+                }
+              ],
+              "sub": "Sehr geehrte Frau Regierungschefin, zu Ihrer Ernennung zur Regierungschefin des Königreichs Marokko gratuliere ich Ihnen herzlich. Im Jahr des 70-jährigen Bestehens unserer diplomatischen Beziehungen freue ich mich darauf, gemeinsam mit Ihnen die freundschaftliche und vertrauensvolle Partnerschaft zwischen Deutschland und Marokko weiter zu vertiefen. Ich wünsche Ihnen für Ihr neues Amt alles Gute, viel Erfolg und eine glückliche Hand. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-von-rumaenien-luca-alexandru-niculescu-2457872"
+                },
+                {
+                  "text": " — 21.10.2026"
+                }
+              ],
+              "sub": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Der Zusammenarbeit auf der Grundlage des starken Fundaments unserer Partnerschaft sehe ich mit Freude entgegen. Sowohl bilateral als auch im Rahmen der EU und der NATO steht Ihnen Deutschland als verlässlicher Verbündeter und Partner zur Seite. Gemeinsam übernehmen wir Verantwortung für die Sicherheit Europas. Ich wünsche Ihnen Glück und Erfolg bei den vor Ihnen liegenden Aufgaben. Mit freundlichen Grüßen Friedrich Merz Bundeskanzler der Bundesrepublik Deutschland"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdienstkreuz an Kunstretter Justin Jampol",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlands-comeback-in-los-angeles-kulturzentrum-villa-aurora-nach-braenden-wiedereroeffnet-staatsminister-weimer-uebergibt-bundesverdienstkreuz-an-kunstretter-justin-jampol-2457808"
+                },
+                {
+                  "text": " — 21.10.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer hat am Dienstag die Villa Aurora in Los Angeles besucht. Anderthalb Jahre nach den verheerenden Bränden in Pacific Palisades hat das traditionsreiche Residenzhaus kürzlich seinen Betrieb wieder aufgenommen. Als einer der ersten Gäste hat sich Staatsminister Weimer vor Ort ein Bild von der Instandsetzung des Hauses gemacht. Staatsminister Weimer dankte den Mitarbeitenden für ihren Einsatz für den Erhalt und die Zukunft des Hauses. Die Villa Aurora, den einstigen Wohnort von Lion und Marta Feuchtwanger, würdigte Kulturstaatsminister Weimer als einen Ort, „an dem die starke Verbundenheit der europäischen und amerikanischen Kultur sichtbar wird“. Er ergänzte: „Diese Villa war ein Zuhause für Menschen, denen Deutschland die Heimat genommen hatte, die hier ein anderes Deutschland weiterlebten. Ein Land des freien Denkens, der großen Literatur, der eindringlichen Musik und der politischen Visionen. Dieses Haus wurde zu einem Ort intellektueller Diaspora..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-staerkt-entwicklung-und-anwendung-industrieller-ki-ueber-zusammenarbeit-mit-internationalen-partnern-2457620"
+                },
+                {
+                  "text": " — 19.10.2026"
+                }
+              ],
+              "sub": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren die Partner, eine Initiative zur Entwicklung modernster KI-Modelle für Physical AI voranzutreiben. Die Initiative baut auf Deutschlands herausragenden Industriedaten, seiner Fertigungskompetenz und seiner Expertise im Ingenieurswesen auf und ist in die KI-Roadmap der Bundesregierung sowie die Plattform Industrie 4.0 eingebettet. Künstliche Intelligenz (KI) und vor allem ihre industrielle Nutzung sind eines der Kernthemen. Ziel ist es, industrielle KI systematisch in die breite Anwendung zu bringen und ein hochmodernes industrielles KI-Ökosystem in Europa zu etablieren – mit starken deutschen Unternehmen und Forschungseinrichtungen. Die „Plattform Industrie 4.0“ ist ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/teilnahme-von-bundeskanzler-merz-am-berlin-prozess-gipfel-am-22-oktober-2026-in-montenegro-2457362"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-tschechischen-staatspraesidenten-pavel-zu-einem-arbeitsbesuch-2457412"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Autos der Zukunft in Europa produziert werden. Unser Kurs bleibt unverändert: Wir streben eine deutliche Senkung der CO₂-Emissionen an und stärken zugleich Europas Kapazitäten für die Entwicklung und Fertigung der nächsten Generation von Elektrofahrzeugen. „Europäische Präferenz“ bedeutet in der Praxis: Der Übergang zu sauberer Mobilität muss mit Investitionen, Innovationen und Produktion in Frankreich, Deutschland und ganz Europa einhergehen. Zu diesem Zweck schlagen Frankreich und Deutschland ein umfassendes Paket vor. Es verbindet einen ehrgeizigen europäischen Dekarbonisierungspfad mit der nötigen regulatorischen Flexibilität, um unterschiedlichen Marktgegebenheiten u..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dip.bundestag.de/vorgang/338789"
+                },
+                {
+                  "text": " — Gestern, 11:43"
+                }
+              ],
+              "sub": "Überwiesen — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fortschreibung der für 2026 getroffenen Regelungen und Gewährung eines Zuschusses zur anteiligen Finanzierung der Übertragungsnetzkosten in Höhe von insgesamt 5,525 Mrd Euro aus dem Klima- und Transformationsfonds an die Übertragungsnetzbetreiber mit Regelzonenverantwortung auf Grundlage ihrer Plankostenprognose für die Jahre 2027 bis 2029;<br />"
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Einfügung § 24d und Änderung § 118 Energiewirtschaftsgesetz"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Unterrichtung über Stellungnahme des BR und Gegenäußerung der BRg (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/088/2108826.pdf"
+                },
+                {
+                  "text": " — 28.10.2026"
+                }
+              ],
+              "sub": "Drucksache Unterrichtung"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "1. Durchgang (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brp/1069.pdf#P.521"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussdrucksache (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0509-26B.pdf"
+                },
+                {
+                  "text": " — 16.10.2026"
+                }
+              ],
+              "sub": "Drucksache Stellungnahme"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "title": "Energie-Kompass Briefing — 29.10.2026",
       "sections": [
@@ -8950,422 +9470,6 @@ const BRIEFINGS = {
           "heading": "Bundestag DIP",
           "level": 3,
           "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetzentwurf (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dserver.bundestag.de/btd/21/082/2108236.pdf"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ],
-              "sub": "Drucksache Gesetzentwurf"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "1. Beratung (BT): Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-                  "href": "https://dserver.bundestag.de/btp/21/21096.pdf#P.11901"
-                },
-                {
-                  "text": " — 24.09.2026"
-                }
-              ],
-              "sub": "Plenarprotokoll"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-09-30",
-      "title": "Energie-Kompass Briefing — 30.09.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Pharmastandort Deutschland: Fachgremium übergibt Bericht zur Standortklausel und weitere Vorschläge zur Stärkung des Standorts",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-bericht-zur-standortklausel-uebergeben.html"
-                },
-                {
-                  "text": " — Gestern, 07:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Innovationen und Wettbewerbsfähigkeit im Rheinischen Revier: 30 Millionen Euro zusätzlich aus den Mitteln des Investitionsgesetzes Kohleregionen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260929-innovation-rheinisches-revier.html"
-                },
-                {
-                  "text": " — Gestern, 04:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Der Rohstofffonds der Bundesregierung",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/03-der-rohstofffonds-der-bundesregierung.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Die wirtschaftliche Lage in Deutschland im September 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/05-wirtschaftliche-lage.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "BIP Nowcast für das dritte Quartal 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/06-bip-nowcast.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Im Fokus: Zweites Wirtschaftspolitisches Symposium: Ein stärkeres Europa – Voraussetzungen für Wachstum und Stabilität schaffen",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/01-zweites-wirtschaftspolitisches-symposium.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Mehr Transparenz bei Kurzzeitvermietungen: Digitaler Datenaustausch startet",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/02-mehr-transparenz-bei-kurzzeitvermietungen.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Europäische Handelspolitik im weltwirtschaftlichen Umbruch",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/04-europaeische-handelspolitik-im-umbruch.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Konjunkturschlaglicht",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Schlaglichter-der-Wirtschaftspolitik/2026/10/00-konjunkturschlaglicht.html"
-                },
-                {
-                  "text": " — 28.09.2026"
-                }
-              ],
-              "sub": "Konjunkturausblick im dritten Quartal gedämpft"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ausprobieren statt Abwarten: Bundesrat stimmt Stärkung und Ausweitung von Reallaboren in Deutschland zu",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/09/20260925-staerkung-und-ausweitung-reallabore.html"
-                },
-                {
-                  "text": " — 25.09.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "25.09.2026 - Wind an Land (Onshore)",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Wind_Onshore/GT01112026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "29.09.2026 - Innovationsausschreibung: Gebotstermin 1. Mai 2025",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Innovation/GT1092026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "29.09.2026 - Ausschreibungen Biomethan",
-                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomethan/BeendeteAusschreibungen/Sep_2026/artikel.html"
-                },
-                {
-                  "text": " — heute eingesammelt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Ergebnisse der Innovations- und Biomethanausschreibung zum 1. September 2026",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260929_Inno_Biomethan.html"
-                },
-                {
-                  "text": " — Gestern, 14:00"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Kulturbauten-Initiative: 5 Millionen Euro für das Kultur- und Technikdenkmal „Kapitän Meyer“ in Niedersachsen – Staatsminister Weimer: „Beeindruckendes Beispiel der Deutschen Schifffahrtsgeschichte“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kulturbauten-initiative-5-millionen-euro-fuer-das-kultur-und-technikdenkmal-kapitaen-meyer-in-niedersachsen-staatsminister-weimer-beeindruckendes-beispiel-der-deutschen-schifffahrtsgeschichte--2454650"
-                },
-                {
-                  "text": " — Gestern, 14:54"
-                }
-              ],
-              "sub": "Sperrfrist: 29. September 2026, 16:30 Uhr"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz zur Auswahl der deutschen Bewerberregion für Olympische und Paralympische Spiele",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zur-auswahl-der-deutschen-bewerberregion-fuer-olympische-und-paralympische-spiele-2454304"
-                },
-                {
-                  "text": " — 26.09.2026"
-                }
-              ],
-              "sub": "„Deutschland hat einen Olympia-Kandidaten. München wird für uns ins Rennen gehen, wozu ich der Landeshauptstadt und dem Freistaat Bayern herzlich gratuliere. Der Region KölnRheinRuhr und dem Land Nordrhein-Westfalen sowie der Freien und Hansestadt Hamburg und dem Land Berlin danke ich ausdrücklich für die eingereichten Bewerbungen und ihren Einsatz, Olympische und Paralympische Spiele in Deutschland wieder zu ermöglichen. Nun fiebern wir zusammen mit unserem Olympia-Kandidaten auf dieses Großereignis hin. Wir gehen mutig voran: Deutschland kann Olympia. Wir packen jetzt gemeinsam die internationale Bewerbung an.“"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Abwechslungsreiche Angebote der Bundesregierung beim Tag der Deutschen Einheit 2026 in Bremen",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/abwechslungsreiche-angebote-der-bundesregierung-beim-tag-der-deutschen-einheit-2026-in-bremen-2454216"
-                },
-                {
-                  "text": " — 25.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den Präsidenten der Republik Kasachstan, Tokajew",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-praesidenten-der-republik-kasachstan-tokajew-2454218"
-                },
-                {
-                  "text": " — 25.09.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:"
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
-                  "href": "https://dip.bundestag.de/vorgang/333340"
-                },
-                {
-                  "text": " — Gestern, 13:48"
-                }
-              ],
-              "sub": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br />"
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Änderung § 3 Energiewirtschaftsgesetz, Folgeänderungen in 3 Rechtsverordnungen<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Bezug: Entscheidung des Europäischen Gerichtshofs vom 28. November 2024 zur Auslegung der EU-Richtlinie zum Elektrizitätsbinnenmarkt (2019/944) (Rechtssache C-293/23)<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Richtlinie (EU) 2019/944 vom 05. Juni 2019 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt und zur Änderung der Richtlinie 2012/27/EU (ABl. L 158, 14.06.2019, S. 125) ; Verordnung (EU) 2019/943 vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 138, 14.06.2019, S. 54) ; Richtlinie 2014/94/EU vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307, 28.10.2014, S. 1)"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-                  "href": "https://dip.bundestag.de/vorgang/339536"
-                },
-                {
-                  "text": " — Gestern, 13:48"
-                }
-              ],
-              "sub": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)"
-            },
             {
               "kind": "bullet",
               "spans": [

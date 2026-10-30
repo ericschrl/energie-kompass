@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-4"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -506,7 +506,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-4"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -519,28 +519,75 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
+    "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
     "datum": "Heute, 10:00",
+    "tags": [],
+    "zusammenfassung": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutachland-daenemark-gruenderwoche.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 15:04",
+    "tags": [],
+    "zusammenfassung": "„Mit dem Gipfeltreffen begründen die Europäische Union und Kanada eine „Allianz für die Zukunft\". Wir Europäer schlagen damit nicht nur ein völlig neues Kapitel in den Beziehungen zu einem unserer engsten Verbündeten auf, sondern gehen eine einzigartige Verbindung zu einem Partner außerhalb der EU ein. Dieser Schritt…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zum-eu-kanada-gipfel--2459156",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundeskanzler Friedrich Merz erklärt zum Rückzug von EZB-Präsidentin Christine Lagarde:",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:20",
+    "tags": [],
+    "zusammenfassung": "„Christine Lagarde hat die Europäische Zentralbank in herausfordernden Zeiten souverän geführt. Die Stabilität des Euro und die Unabhängigkeit der Zentralbank waren bei ihr in guten Händen. Namens der Bundesregierung danke ich Christine Lagarde dafür. Jetzt beginnt der im EU-Vertrag vorgesehene Besetzungsprozess, den…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zum-rueckzug-von-ezb-praesidentin-christine-lagarde--2459074",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 11:43",
+    "tags": [
+      "eeg",
+      "netz"
+    ],
+    "zusammenfassung": "Überwiesen — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fortsch…",
+    "link": "https://dip.bundestag.de/vorgang/338789",
+    "gelesen": true
+  },
+  {
+    "id": "news-5",
+    "titel": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 10:00",
     "tags": [],
     "zusammenfassung": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261029-rouenhoff-stellvertretend-in-seoul.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-6",
     "titel": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:15",
+    "datum": "28.10.2026",
     "tags": [],
     "zusammenfassung": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261028-deutschland-japan-rohstoffpartnerschaft.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-7",
     "titel": "Deutscher Kurzfilmpreis 2026: Die Nominierungen stehen fest",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -551,7 +598,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Enge Zusammenarbeit zwischen Nachbarn – Ministerin Reiche zu Gast in Polen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -562,7 +609,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz reist nach Singapur, Japan und in die Republik Korea",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -573,7 +620,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "Historisches Kulturerbe vor KI-Fälschungen schützen: BKM und Google.org fördern die „Global Authentic Memory Initiative“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -584,21 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "23.10.2026",
-    "tags": [
-      "eeg",
-      "netz"
-    ],
-    "zusammenfassung": "1. Durchgang im Bundesrat abgeschlossen — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise info…",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -609,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -620,7 +653,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -631,7 +664,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Die Sommerzeit endet am 25. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -642,7 +675,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz gratuliert der Regierungschefin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -653,7 +686,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -664,7 +697,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdien…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -675,7 +708,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -686,7 +719,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -697,7 +730,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -708,7 +741,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -719,7 +752,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -732,7 +765,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -743,7 +776,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -754,7 +787,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -765,7 +798,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -776,7 +809,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -787,7 +820,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "25. Kulturpolitisches Spitzengespräch: Gemeinsame Erklärung zur Freiheit der Kunst und Konzept zur Stärkung der Provenienzforschung verabsc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -798,7 +831,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Die wirtschaftliche Lage in Deutschland im Oktober 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -809,7 +842,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Gemeinsames Eckpunktepapier des Bundes und der Energieministerkonferenz zur Finanzierung von Stromverteil- und Wärmenetzen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -817,39 +850,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Gemeinsames Eckpunktepapier des Bundes und der Energieministerkonferenz zur Finanzierung von Stromverteil- und Wärmenetzen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261014-eckpunktepapier-stromverteil-waermenetze.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "BMWE sorgt wieder für faire Wettbewerbsbedingungen im Postmarkt",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "14.10.2026",
-    "tags": [],
-    "zusammenfassung": "BMWE sorgt wieder für faire Wettbewerbsbedingungen im Postmarkt",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261014-faire-wettbewerbsbedingungen-im-postmarkt.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesförderung Industrie und Klimaschutz geht in die nächste Runde",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "14.10.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesförderung Industrie und Klimaschutz geht in die nächste Runde",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261014-bundesfoerderung-industrie-klimaschutz.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Austausch von Bundeskanzler Friedrich Merz mit Vertretern des American Jewish Committee (AJC) am 13. Oktober 2026",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "13.10.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/austausch-von-bundeskanzler-friedrich-merz-mit-vertretern-des-american-jewish-committee-ajc-am-13-oktober-2026-2456696",
     "gelesen": true
   }
 ];
