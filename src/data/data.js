@@ -523,7 +523,7 @@ const NEWS = [
     "titel": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:50",
+    "datum": "30.10.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer nahm heute am offiziellen Spatenstich für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg teil. BKM unterstützt die Baumaßnahmen mit bis zu 60 Millionen Euro Fördermitteln. Kulturstaatsminister Weimer: „Kampnagel ist das größte Zuwendungsbauv…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-was-in-kampnagel-passiert-ist-wirklich-weltklasse--2459336",
@@ -534,7 +534,7 @@ const NEWS = [
     "titel": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:45",
+    "datum": "30.10.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-staatspraesidenten-litauens-gitanas-naus%C4%97da-in-berlin-2459338",
@@ -545,7 +545,7 @@ const NEWS = [
     "titel": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 12:00",
+    "datum": "30.10.2026",
     "tags": [
       "netz"
     ],
@@ -558,7 +558,7 @@ const NEWS = [
     "titel": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 11:00",
+    "datum": "30.10.2026",
     "tags": [],
     "zusammenfassung": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutschland-suedkorea-energiepolit-dialog.html",
@@ -569,11 +569,11 @@ const NEWS = [
     "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:00",
+    "datum": "30.10.2026",
     "tags": [],
     "zusammenfassung": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutachland-daenemark-gruenderwoche.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-6",
@@ -584,7 +584,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Mit dem Gipfeltreffen begründen die Europäische Union und Kanada eine „Allianz für die Zukunft\". Wir Europäer schlagen damit nicht nur ein völlig neues Kapitel in den Beziehungen zu einem unserer engsten Verbündeten auf, sondern gehen eine einzigartige Verbindung zu einem Partner außerhalb der EU ein. Dieser Schritt…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zum-eu-kanada-gipfel--2459156",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-7",
@@ -595,7 +595,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Christine Lagarde hat die Europäische Zentralbank in herausfordernden Zeiten souverän geführt. Die Stabilität des Euro und die Unabhängigkeit der Zentralbank waren bei ihr in guten Händen. Namens der Bundesregierung danke ich Christine Lagarde dafür. Jetzt beginnt der im EU-Vertrag vorgesehene Besetzungsprozess, den…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zum-rueckzug-von-ezb-praesidentin-christine-lagarde--2459074",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-8",
@@ -620,7 +620,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261029-rouenhoff-stellvertretend-in-seoul.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-10",
@@ -631,7 +631,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261028-deutschland-japan-rohstoffpartnerschaft.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-11",
@@ -642,7 +642,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Staatsminister für Kultur und Medien Wolfram Weimer hat heute die zwölf Nominierten für den Deutschen Kurzfilmpreis 2026 bekannt gegeben. Vorgeschlagen wurden die Nominierungen von unabhängigen Fachjurys aus 239 Einreichungen. Die diesjährige Verleihung des Deutschen Kurzfilmpreises findet am 16. November 2026 in…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-2026-die-nominierungen-stehen-fest-2458264",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-12",
@@ -653,7 +653,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Enge Zusammenarbeit zwischen Nachbarn – Ministerin Reiche zu Gast in Polen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261026-reiche-zu-gast-in-polen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-13",
@@ -664,7 +664,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-nach-singapur-japan-und-in-die-republik-korea-2458120",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-14",
@@ -675,7 +675,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Beauftragte der Bundesregierung für Kultur und Medien und Google.org, die gemeinnützige Stiftung von Google, unterstützen gemeinsam die „Global Authentic Memory Initiative (GAMI)“. Ziel von GAMI ist, historische Digitalbestände vor Fälschungen zu schützen, die durch den Einsatz generativer künstlicher Intelligenz…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/historisches-kulturerbe-vor-ki-faelschungen-schuetzen-bkm-und-google-org-foerdern-die-global-authentic-memory-initiative--2458124",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-15",
@@ -686,7 +686,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-raffineriestrategie.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-16",
@@ -697,7 +697,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261023-einigung-position-eu-inc.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-17",
@@ -708,7 +708,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261022-investitionspruefungsrecht.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-18",
@@ -719,7 +719,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Sommerzeit endet am 25. Oktober 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261022-sommerzeit-endet.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-19",
@@ -730,7 +730,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrte Frau Regierungschefin, zu Ihrer Ernennung zur Regierungschefin des Königreichs Marokko gratuliere ich Ihnen herzlich. Im Jahr des 70-jährigen Bestehens unserer diplomatischen Beziehungen freue ich mich darauf, gemeinsam mit Ihnen die freundschaftliche und vertrauensvolle Partnerschaft zwischen Deutschland…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-der-regierungschefin-des-koenigreichs-marokko-fatima-ezzahra-el-mansouri-2457878",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-20",
@@ -741,7 +741,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Der Zusammenarbeit auf der Grundlage des starken Fundaments unserer Partnerschaft sehe ich mit Freude entgegen. Sowohl bilateral als auch im Rahmen der EU und der NATO steht Ihnen Deutschland als verlässlicher Verbündeter und Par…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-von-rumaenien-luca-alexandru-niculescu-2457872",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-21",
@@ -752,7 +752,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat am Dienstag die Villa Aurora in Los Angeles besucht. Anderthalb Jahre nach den verheerenden Bränden in Pacific Palisades hat das traditionsreiche Residenzhaus kürzlich seinen Betrieb wieder aufgenommen. Als einer der ersten Gäste hat sich Staatsminister Weimer vor Ort ein Bild v…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlands-comeback-in-los-angeles-kulturzentrum-villa-aurora-nach-braenden-wiedereroeffnet-staatsminister-weimer-uebergibt-bundesverdienstkreuz-an-kunstretter-justin-jampol-2457808",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-22",
@@ -763,7 +763,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261020_VerfahrenEnergie.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-23",
@@ -774,7 +774,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-24",
@@ -785,7 +785,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-staerkt-entwicklung-und-anwendung-industrieller-ki-ueber-zusammenarbeit-mit-internationalen-partnern-2457620",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-25",
@@ -796,7 +796,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-neues-vorverfahren-co2-differenzvertraege.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-26",
@@ -809,7 +809,7 @@ const NEWS = [
     ],
     "zusammenfassung": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-zehn-massnahmen-wasserstoffmarkt.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-27",
@@ -820,7 +820,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/teilnahme-von-bundeskanzler-merz-am-berlin-prozess-gipfel-am-22-oktober-2026-in-montenegro-2457362",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-28",
@@ -831,7 +831,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-tschechischen-staatspraesidenten-pavel-zu-einem-arbeitsbesuch-2457412",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-29",
@@ -842,7 +842,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404",
-    "gelesen": false
+    "gelesen": true
   },
   {
     "id": "news-30",
@@ -853,7 +853,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Auto…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
