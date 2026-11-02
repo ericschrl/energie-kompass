@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-8"
+      "news-9"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -506,8 +506,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-3",
-      "news-8"
+      "news-4",
+      "news-9"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,6 +520,17 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 11:00",
+    "tags": [],
+    "zusammenfassung": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-reiche-besucht-adipec.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -530,7 +541,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -541,7 +552,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -554,7 +565,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -565,7 +576,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -576,7 +587,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -587,7 +598,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Bundeskanzler Friedrich Merz erklärt zum Rückzug von EZB-Präsidentin Christine Lagarde:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -598,7 +609,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -612,7 +623,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -623,7 +634,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -634,7 +645,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Deutscher Kurzfilmpreis 2026: Die Nominierungen stehen fest",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -645,7 +656,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Enge Zusammenarbeit zwischen Nachbarn – Ministerin Reiche zu Gast in Polen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -656,7 +667,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Bundeskanzler Merz reist nach Singapur, Japan und in die Republik Korea",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -667,7 +678,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Historisches Kulturerbe vor KI-Fälschungen schützen: BKM und Google.org fördern die „Global Authentic Memory Initiative“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -678,7 +689,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -689,7 +700,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -700,7 +711,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -711,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Die Sommerzeit endet am 25. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -722,7 +733,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz gratuliert der Regierungschefin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -733,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -744,7 +755,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdien…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -755,7 +766,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -766,7 +777,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -777,7 +788,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -788,7 +799,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -799,7 +810,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -812,7 +823,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -823,7 +834,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -834,7 +845,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -842,17 +853,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "16.10.2026",
-    "tags": [],
-    "zusammenfassung": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Auto…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378",
     "gelesen": true
   }
 ];
