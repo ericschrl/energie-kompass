@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-14"
+      "news-18"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -506,8 +506,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-9",
-      "news-14"
+      "news-13",
+      "news-18"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,21 +520,65 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 08:15",
+    "tags": [],
+    "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261105-entwicklung-verarbeitendes-gewerbe-sep.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:10",
+    "tags": [],
+    "zusammenfassung": "Im Rahmen einer Festveranstaltung wurde heute in Nürnberg das Dokumentationszentrum Reichsparteitagsgelände wiedereröffnet. Dabei wurde die neue Dauerausstellung „Nürnberg und die Reichsparteitage“ erstmals vorgestellt, die die Geschichte des Geländes multimedial und innovativ vermittelt. Anwesend waren unter anderem…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/wiedereroeffnung-des-dokumentationszentrums-reichsparteitagsgelaende-in-nuernberg-staatsminister-weimer-nuernberg-zeigt-was-es-bedeutet-verantwortung-fuer-die-vergangenheit-zu-uebernehmen--2459812",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:59",
+    "tags": [],
+    "zusammenfassung": "Anlässlich des heutigen Todestages von Felix Mendelssohn-Bartholdy freut sich der Beauftragte der Bundesregierung für Kultur und Medien, das Mendelssohn-Haus in Leipzig mit 225.000 Euro für die Modernisierung und Digitalisierung seiner Dauerausstellung zu unterstützen. Diese soll zum Festjahr 2027 fertiggestellt werde…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/mendelssohn-haus-in-leipzig-erhaelt-225-000-euro-fuer-neue-dauerausstellung-staatsminister-weimer-ein-wertvolles-stueck-unseres-musikalischen-erbes-lebendig-halten--2459772",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:00",
+    "tags": [],
+    "zusammenfassung": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
     "titel": "Sitzung des Nationalen Sicherheitsrates im November 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 20:25",
+    "datum": "03.11.2026",
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-6",
     "titel": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 13:00",
+    "datum": "03.11.2026",
     "tags": [
       "eeg"
     ],
@@ -543,11 +587,11 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-7",
     "titel": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 13:00",
+    "datum": "03.11.2026",
     "tags": [
       "eeg"
     ],
@@ -556,11 +600,11 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkap…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:00",
+    "datum": "03.11.2026",
     "tags": [
       "eeg",
       "markt"
@@ -570,7 +614,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -581,7 +625,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -592,7 +636,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -603,7 +647,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -614,7 +658,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -627,7 +671,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -638,7 +682,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -649,7 +693,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-16",
     "titel": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -660,7 +704,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-17",
     "titel": "Bundeskanzler Friedrich Merz erklärt zum Rückzug von EZB-Präsidentin Christine Lagarde:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -671,7 +715,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-18",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -685,7 +729,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -696,7 +740,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "Deutschland und Japan begründen gemeinsame Rohstoffpartnerschaft",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -707,7 +751,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "Deutscher Kurzfilmpreis 2026: Die Nominierungen stehen fest",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -718,7 +762,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Enge Zusammenarbeit zwischen Nachbarn – Ministerin Reiche zu Gast in Polen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -729,7 +773,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Bundeskanzler Merz reist nach Singapur, Japan und in die Republik Korea",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -740,7 +784,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "Historisches Kulturerbe vor KI-Fälschungen schützen: BKM und Google.org fördern die „Global Authentic Memory Initiative“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -751,7 +795,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Bundesregierung startet Raffineriestrategie: Resilienz stärken, Wettbewerbsfähigkeit sichern, Transformation ermöglichen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -762,7 +806,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Leichtere Gründungen, schnelleres Wachstum: Mitgliedstaaten einigen sich auf Position zur EU Inc.",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -773,7 +817,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Gesetz zur Regelung des Investitionsprüfungsrechts",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -784,7 +828,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Die Sommerzeit endet am 25. Oktober 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -795,7 +839,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "Bundeskanzler Merz gratuliert der Regierungschefin des Königreichs Marokko, Fatima Ezzahra el Mansouri",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -806,7 +850,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten von Rumänien, Luca Alexandru Niculescu",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -814,50 +858,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrem Amtsantritt gratuliere ich Ihnen herzlich. Der Zusammenarbeit auf der Grundlage des starken Fundaments unserer Partnerschaft sehe ich mit Freude entgegen. Sowohl bilateral als auch im Rahmen der EU und der NATO steht Ihnen Deutschland als verlässlicher Verbündeter und Par…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-von-rumaenien-luca-alexandru-niculescu-2457872",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Deutschlands Comeback in Los Angeles: Kulturzentrum Villa Aurora nach Bränden wiedereröffnet / Staatsminister Weimer übergibt Bundesverdien…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "21.10.2026",
-    "tags": [],
-    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat am Dienstag die Villa Aurora in Los Angeles besucht. Anderthalb Jahre nach den verheerenden Bränden in Pacific Palisades hat das traditionsreiche Residenzhaus kürzlich seinen Betrieb wieder aufgenommen. Als einer der ersten Gäste hat sich Staatsminister Weimer vor Ort ein Bild v…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutschlands-comeback-in-los-angeles-kulturzentrum-villa-aurora-nach-braenden-wiedereroeffnet-staatsminister-weimer-uebergibt-bundesverdienstkreuz-an-kunstretter-justin-jampol-2457808",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "20.10.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesnetzagentur leitet Aufsichtsverfahren gegen Energielieferanten ein",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261020_VerfahrenEnergie.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "20.10.2026",
-    "tags": [],
-    "zusammenfassung": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "19.10.2026",
-    "tags": [],
-    "zusammenfassung": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-staerkt-entwicklung-und-anwendung-industrieller-ki-ueber-zusammenarbeit-mit-internationalen-partnern-2457620",
     "gelesen": true
   }
 ];

@@ -3,6 +3,308 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-11-05",
+      "title": "Energie-Kompass Briefing — 05.11.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261105-entwicklung-verarbeitendes-gewerbe-sep.html"
+                },
+                {
+                  "text": " — Heute, 08:15"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html"
+                },
+                {
+                  "text": " — Gestern, 11:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkapazitäten nach dem Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261103-zitat-reiche-ausschreibungen-stromvkg.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-reiche-besucht-adipec.html"
+                },
+                {
+                  "text": " — 02.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-eu-kanada-abkommen-digitaler-handel.html"
+                },
+                {
+                  "text": " — 02.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-wetzel-bei-energierat-in-luxemburg.html"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutschland-suedkorea-energiepolit-dialog.html"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "03.11.2026 - Ausschreibungen Biomasse-Anlagen",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "03.11.2026 - Solar Aufdach: Gebotstermin",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_StromVKG.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, Verantwortung für die Vergangenheit zu übernehmen.“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/wiedereroeffnung-des-dokumentationszentrums-reichsparteitagsgelaende-in-nuernberg-staatsminister-weimer-nuernberg-zeigt-was-es-bedeutet-verantwortung-fuer-die-vergangenheit-zu-uebernehmen--2459812"
+                },
+                {
+                  "text": " — Gestern, 14:10"
+                }
+              ],
+              "sub": "Im Rahmen einer Festveranstaltung wurde heute in Nürnberg das Dokumentationszentrum Reichsparteitagsgelände wiedereröffnet. Dabei wurde die neue Dauerausstellung „Nürnberg und die Reichsparteitage“ erstmals vorgestellt, die die Geschichte des Geländes multimedial und innovativ vermittelt. Anwesend waren unter anderem Christian Wulff, Bundespräsident a. D., Joachim Hermann, der Bayerische Staatsminister des Innern, für Sport und Integration sowie Oberbürgermeister Marcus König und Maria Bering, Stellvertretende Amtschefin des Beauftragten der Bundesregierung für Kultur und Medien (BKM), in Vertretung für Kulturstaatsminister Wolfram Weimer. Staatsminister Wolfram Weimer: „Das ehemalige Reichsparteitagsgelände ist ein Ort von besonderer historischer Bedeutung und eine eindringliche Mahnung an die Verbrechen des Nationalsozialismus. Die neue Ausstellung des Dokumentationszentrums setzt sich auf innovative Weise mit der propagandistischen Inszenierung des NS-Regimes auseinander sowie ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalischen Erbes lebendig halten“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/mendelssohn-haus-in-leipzig-erhaelt-225-000-euro-fuer-neue-dauerausstellung-staatsminister-weimer-ein-wertvolles-stueck-unseres-musikalischen-erbes-lebendig-halten--2459772"
+                },
+                {
+                  "text": " — Gestern, 12:59"
+                }
+              ],
+              "sub": "Anlässlich des heutigen Todestages von Felix Mendelssohn-Bartholdy freut sich der Beauftragte der Bundesregierung für Kultur und Medien, das Mendelssohn-Haus in Leipzig mit 225.000 Euro für die Modernisierung und Digitalisierung seiner Dauerausstellung zu unterstützen. Diese soll zum Festjahr 2027 fertiggestellt werden. Dann feiert das Mendelssohn-Haus sein 30-jähriges Bestehen und erinnert zugleich an den 100. Geburtstag seines Gründers Kurt Masur. Dazu erklärt Staatsminister Weimer: „Mit der Erneuerung der Dauerausstellung des Mendelssohn-Hauses halten wir ein wertvolles Stück unseres musikalischen Erbes lebendig und machen es in der Musikstadt Leipzig erfahrbar. Ich freue mich besonders auf die digitalen Angebote, etwa die Erweiterung des virtuellen Orchesters, in dem Besucher selbst den Taktstock übernehmen können. Zugleich ist es gerade in Zeiten erstarkenden Rechtsextremismus wichtig, auch die antisemitische Verunglimpfung Mendelssohns und die Schattenseiten seiner Rezepti..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sitzung des Nationalen Sicherheitsrates im November 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-was-in-kampnagel-passiert-ist-wirklich-weltklasse--2459336"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer nahm heute am offiziellen Spatenstich für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg teil. BKM unterstützt die Baumaßnahmen mit bis zu 60 Millionen Euro Fördermitteln. Kulturstaatsminister Weimer: „Kampnagel ist das größte Zuwendungsbauvorhaben meines Hauses dieses Jahr. Und das ist auch besonders verdient, denn dieser Ort hat über viele Jahre hinweg Herausragendes geleistet, aus einer Haltung der Widerständigkeit heraus, auch gegen die Politik. Dadurch ist große Kunst entstanden. Kampnagel ist weitaus mehr als ein Leuchtturm der freien und kulturellen Szene. Was hier passiert, ist wirklich Weltklasse. Deshalb freue ich mich sehr, dass BKM dieses wichtige Vorhaben mit 60 Millionen Euro unterstützt und das Bauvorhaben nun startet.“ In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangreich modernisiert, erweitert und an steigende Bedarfe angepasst ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-staatspraesidenten-litauens-gitanas-naus%C4%97da-in-berlin-2459338"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "title": "Energie-Kompass Briefing — 04.11.2026",
       "sections": [
@@ -8714,194 +9016,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — Gestern, 17:28"
-                }
-              ],
-              "sub": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "title": "Energie-Kompass Briefing — 06.10.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261006-entwicklung-verarbeitendes-gewerbe-august.html"
-                },
-                {
-                  "text": " — Heute, 08:15"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister Weimer: „Wir feiern die einzigartige Kraft der Sprache“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-78-frankfurter-buchmesse-und-kuendigt-neue-auszeichnung-literarisches-wort-des-jahres-an-staatsminister-weimer-wir-feiern-die-einzigartige-kraft-der-sprache--2455992"
-                },
-                {
-                  "text": " — Heute, 11:50"
-                }
-              ],
-              "sub": "Kulturstaatsminister Wolfram Weimer eröffnet heute im Namen der Bundesregierung die 78. Frankfurter Buchmesse. Vor der Eröffnung hat er die neue Auszeichnung „Literarisches Wort des Jahres“ angekündigt. Ehrengast auf der Frankfurter Buchmesse ist in diesem Jahr Tschechien. Unter dem Motto „Ein Land an der Küste“ präsentiert sich das Land als Sehnsuchtsort für literarische Entdeckungen. Im Ehrengast-Pavillon findet ein umfangreiches Programm mit Lesungen und Gesprächen statt, zudem sind 75 tschechische Autorinnen und Autoren vor Ort. Staatsminister Weimer sagte im Vorfeld: „Deutschland und Tschechien verbindet eine wechselvolle literarische Freundschaft. Umso mehr freue ich mich, dass wir dieses Jahr im Ehrengast-Pavillon die Chance haben, in die facettenreiche Welt der tschechischen Literaturszene einzutauchen – geprägt von poetischer Sprache, Ironie und Gesellschaftskritik. Literatur schafft Räume für Begegnung und Verständigung. Hier, auf der Frankfurter Buchmesse, kommt die Wel..."
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
-                  "href": "https://dip.bundestag.de/vorgang/333340"
-                },
-                {
-                  "text": " — Gestern, 13:44"
-                }
-              ],
-              "sub": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br />"
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Änderung § 3 Energiewirtschaftsgesetz, Folgeänderungen in 3 Rechtsverordnungen<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Bezug: Entscheidung des Europäischen Gerichtshofs vom 28. November 2024 zur Auslegung der EU-Richtlinie zum Elektrizitätsbinnenmarkt (2019/944) (Rechtssache C-293/23)<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Richtlinie (EU) 2019/944 vom 05. Juni 2019 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt und zur Änderung der Richtlinie 2012/27/EU (ABl. L 158, 14.06.2019, S. 125) ; Verordnung (EU) 2019/943 vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 138, 14.06.2019, S. 54) ; Richtlinie 2014/94/EU vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307, 28.10.2014, S. 1)"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-                  "href": "https://dip.bundestag.de/vorgang/339536"
-                },
-                {
-                  "text": " — Gestern, 13:44"
                 }
               ],
               "sub": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)"
