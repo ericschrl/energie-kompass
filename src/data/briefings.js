@@ -3,6 +3,482 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-11-11",
+      "title": "Energie-Kompass Briefing — 11.11.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261111-fachkonferenz-bundeserprobungsgesetz.html"
+                },
+                {
+                  "text": " — Heute, 09:00"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-house-of-germany-in-davos.html"
+                },
+                {
+                  "text": " — Gestern, 09:30"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-schulewirtschaft-preis-2026.html"
+                },
+                {
+                  "text": " — Gestern, 09:30"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/zuverlaessigkeitsstandard-strommarktgebiet.html"
+                },
+                {
+                  "text": " — 09.11.2026"
+                }
+              ],
+              "sub": "Der Zuverlässigkeitsstandard für die Stromversorgung in der deutsch-luxemburgischen Stromgebotszone wurde neu gefasst. Am Rande des Energieministerrats unterzeichneten Luxemburgs Wirtschaftsminister Lex Delles und Staatssekretär Frank Wetzel dazu eine gemeinsame Absichtserklärung."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261107-wasserstoff-deutsche-industrie-pipeline.html"
+                },
+                {
+                  "text": " — 07.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261106-neuabgrenzung-grw-regionalfoerdergebiete.html"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20261106-entwicklung-produzierendes-gewerbe-sept.html"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261106-staerkung-von-wettbewerbsfaehigkeit.html"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261105-entwicklung-verarbeitendes-gewerbe-sep.html"
+                },
+                {
+                  "text": " — 05.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html"
+                },
+                {
+                  "text": " — 04.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkapazitäten nach dem Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261103-zitat-reiche-ausschreibungen-stromvkg.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-reiche-besucht-adipec.html"
+                },
+                {
+                  "text": " — 02.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-eu-kanada-abkommen-digitaler-handel.html"
+                },
+                {
+                  "text": " — 02.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-wetzel-bei-energierat-in-luxemburg.html"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutschland-suedkorea-energiepolit-dialog.html"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "03.11.2026 - Ausschreibungen Biomasse-Anlagen",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Biomasse/Okt2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "03.11.2026 - Solar Aufdach: Gebotstermin",
+                  "href": "http://www.bundesnetzagentur.de/DE/Fachthemen/ElektrizitaetundGas/Ausschreibungen/Solaranlagen2/Okt2026/artikel.html"
+                },
+                {
+                  "text": " — heute eingesammelt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Verschiebung der Entscheidung zum WACC Gas",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html"
+                },
+                {
+                  "text": " — 05.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_StromVKG.html"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/13-neue-erinnerungsorte-an-bahnhoefen-machen-ns-geschichte-in-ganz-deutschland-sichtbar-erinnerung-braucht-jede-und-jeden-von-uns--2460368"
+                },
+                {
+                  "text": " — Gestern, 11:10"
+                }
+              ],
+              "sub": "Im bundesweiten Förderprogramm „MemoRails – Halt! Hier wird an NS-Geschichte erinnert“ haben 13 Projekte Gedenkzeichen an Bahnhöfen geschaffen und mit Bildungsangeboten die lokale Auseinandersetzung mit den NS-Verbrechen gestärkt. Die Ergebnisse werden vom 13. November 2026 bis zum 28. Februar 2027 im DB Museum Nürnberg präsentiert. Während des Nationalsozialismus waren Bahnhöfe Orte der Deportation, Zwangsarbeit und Verfolgung. Heute erinnern an 13 Bahnhöfen neue Gedenkzeichen an diese Geschichte. Im Programm „MemoRails“ haben Vereine, Bildungseinrichtungen, Gedenkstätten und Kommunen lokale NS-Geschichte erforscht und vermittelt. Das Programm der Stiftung Erinnerung, Verantwortung und Zukunft (EVZ) wird vom Beauftragten der Bundesregierung für Kultur und Medien (BKM) gefördert und in Zusammenarbeit mit der Deutschen Bahn umgesetzt. BKM hat für das Programm einmalig eine Million Euro zur Verfügung gestellt. Die Stiftung Erinnerung, Verantwortung und Zukunft (EVZ) beteiligt sich m..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-treffen-der-europaeischen-politischen-gemeinschaft-epg-in-dublin-teil-2460230"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-ungarischen-ministerpraesidenten-magyar-2460242"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/37-jahre-mauerfall-staatsminister-weimer-ein-kritisches-wissenschaftlich-fundiertes-geschichtsbewusstsein-ist-heute-wichtiger-denn-je--2460176"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ],
+              "sub": "Zum 37. Jahrestag des Mauerfalls warnt Staatsminister für Kultur und Medien, Wolfram Weimer, vor Geschichtsrevisionismus und einer Verklärung der SED-Diktatur. Wer heute die DDR verkläre, erliege populistischen Vereinfachungen und verhöhne die Opfer. Staatsminister Weimer: „Fast drei Jahrzehnte lang war die Berliner Mauer das sichtbarste Symbol der brutalen Grenze mitten durch Deutschland und der Unfreiheit in der DDR. Ihre friedliche Überwindung hatte welthistorische Bedeutung und ermöglichte die Wiedervereinigung Deutschlands am 3. Oktober 1990. Die Schreckensszenarien des Kalten Krieges gehörten wenige Jahre später der Vergangenheit an.“ Staatsminister Weimer weiter: „Wir verdanken den Mauerfall den mutigen Menschen, die während der Friedlichen Revolution im Herbst 1989 in zahlreichen Städten der DDR für Freiheit, Demokratie und Menschenrechte auf die Straße gingen. In einer Zeit, in der autoritäre Ideen und politische Verlockungen wieder an Einfluss gewinnen, dürfen wir nicht ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sicher sein“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-zum-gedenken-an-die-novemberpogrome-kein-platz-fuer-antisemitismus-juedisches-leben-muss-selbstverstaendlich-und-sicher-sein--2460162"
+                },
+                {
+                  "text": " — 06.11.2026"
+                }
+              ],
+              "sub": "Staatsminister für Kultur und Medien, Wolfram Weimer, mahnt zum Jahrestag der Reichspogromnacht, das Erinnern an den 9. November 1938 sei kein Blick in die Vergangenheit, sondern Verpflichtung für Gegenwart und Zukunft. Antisemitismus und Hass dürften keinen Platz in unserer Gesellschaft haben. Staatsminister Weimer erklärte: „Die Novemberpogrome waren kein spontaner Ausbruch von Gewalt. Sie waren ein staatlich organisierter und gelenkter Terror, initiiert von einem Regime, das jüdische Menschen systematisch entrechtete, ausgrenzte und schließlich vernichten wollte. Zugleich offenbarten sie das Versagen einer Gesellschaft, in der zu viele schwiegen, wegschauten oder die Verbrechen unterstützten. Das Gedenken an den 9. November 1938 ist deshalb weit mehr als ein Blick in die Vergangenheit. Es verpflichtet uns für unsere Gegenwart und Zukunft. Gerade angesichts des zunehmenden Antisemitismus dürfen wir nicht vergessen, wohin Ausgrenzung, Menschenfeindlichkeit und Gleichgültigkeit fü..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, Verantwortung für die Vergangenheit zu übernehmen.“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/wiedereroeffnung-des-dokumentationszentrums-reichsparteitagsgelaende-in-nuernberg-staatsminister-weimer-nuernberg-zeigt-was-es-bedeutet-verantwortung-fuer-die-vergangenheit-zu-uebernehmen--2459812"
+                },
+                {
+                  "text": " — 04.11.2026"
+                }
+              ],
+              "sub": "Im Rahmen einer Festveranstaltung wurde heute in Nürnberg das Dokumentationszentrum Reichsparteitagsgelände wiedereröffnet. Dabei wurde die neue Dauerausstellung „Nürnberg und die Reichsparteitage“ erstmals vorgestellt, die die Geschichte des Geländes multimedial und innovativ vermittelt. Anwesend waren unter anderem Christian Wulff, Bundespräsident a. D., Joachim Hermann, der Bayerische Staatsminister des Innern, für Sport und Integration sowie Oberbürgermeister Marcus König und Maria Bering, Stellvertretende Amtschefin des Beauftragten der Bundesregierung für Kultur und Medien (BKM), in Vertretung für Kulturstaatsminister Wolfram Weimer. Staatsminister Wolfram Weimer: „Das ehemalige Reichsparteitagsgelände ist ein Ort von besonderer historischer Bedeutung und eine eindringliche Mahnung an die Verbrechen des Nationalsozialismus. Die neue Ausstellung des Dokumentationszentrums setzt sich auf innovative Weise mit der propagandistischen Inszenierung des NS-Regimes auseinander sowie ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalischen Erbes lebendig halten“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/mendelssohn-haus-in-leipzig-erhaelt-225-000-euro-fuer-neue-dauerausstellung-staatsminister-weimer-ein-wertvolles-stueck-unseres-musikalischen-erbes-lebendig-halten--2459772"
+                },
+                {
+                  "text": " — 04.11.2026"
+                }
+              ],
+              "sub": "Anlässlich des heutigen Todestages von Felix Mendelssohn-Bartholdy freut sich der Beauftragte der Bundesregierung für Kultur und Medien, das Mendelssohn-Haus in Leipzig mit 225.000 Euro für die Modernisierung und Digitalisierung seiner Dauerausstellung zu unterstützen. Diese soll zum Festjahr 2027 fertiggestellt werden. Dann feiert das Mendelssohn-Haus sein 30-jähriges Bestehen und erinnert zugleich an den 100. Geburtstag seines Gründers Kurt Masur. Dazu erklärt Staatsminister Weimer: „Mit der Erneuerung der Dauerausstellung des Mendelssohn-Hauses halten wir ein wertvolles Stück unseres musikalischen Erbes lebendig und machen es in der Musikstadt Leipzig erfahrbar. Ich freue mich besonders auf die digitalen Angebote, etwa die Erweiterung des virtuellen Orchesters, in dem Besucher selbst den Taktstock übernehmen können. Zugleich ist es gerade in Zeiten erstarkenden Rechtsextremismus wichtig, auch die antisemitische Verunglimpfung Mendelssohns und die Schattenseiten seiner Rezepti..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Sitzung des Nationalen Sicherheitsrates im November 2026",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662"
+                },
+                {
+                  "text": " — 03.11.2026"
+                }
+              ],
+              "sub": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-was-in-kampnagel-passiert-ist-wirklich-weltklasse--2459336"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ],
+              "sub": "Kulturstaatsminister Wolfram Weimer nahm heute am offiziellen Spatenstich für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg teil. BKM unterstützt die Baumaßnahmen mit bis zu 60 Millionen Euro Fördermitteln. Kulturstaatsminister Weimer: „Kampnagel ist das größte Zuwendungsbauvorhaben meines Hauses dieses Jahr. Und das ist auch besonders verdient, denn dieser Ort hat über viele Jahre hinweg Herausragendes geleistet, aus einer Haltung der Widerständigkeit heraus, auch gegen die Politik. Dadurch ist große Kunst entstanden. Kampnagel ist weitaus mehr als ein Leuchtturm der freien und kulturellen Szene. Was hier passiert, ist wirklich Weltklasse. Deshalb freue ich mich sehr, dass BKM dieses wichtige Vorhaben mit 60 Millionen Euro unterstützt und das Bauvorhaben nun startet.“ In Zusammenarbeit mit dem Pariser Architekturbüro Lacaton & Vassal sollen die Maschinenfabrikhallen umfangreich modernisiert, erweitert und an steigende Bedarfe angepasst ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-staatspraesidenten-litauens-gitanas-naus%C4%97da-in-berlin-2459338"
+                },
+                {
+                  "text": " — 30.10.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "title": "Energie-Kompass Briefing — 10.11.2026",
       "sections": [
@@ -9501,394 +9977,6 @@ const BRIEFINGS = {
                 }
               ],
               "sub": "Plenarprotokoll"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-12",
-      "title": "Energie-Kompass Briefing — 12.10.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Wirtschaftsministerin Reiche besucht Energy Week in Riad: Ausbau der Partnerschaft für mehr Energiesicherheit",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261011-energy-week-ausbau-energiesicherheit.html"
-                },
-                {
-                  "text": " — Gestern, 12:15"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Deutsche Rohstoffprojekte erfolgreich als strategische Projekte von der EU-Kommission anerkannt",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261009-deutsche-rohstoffprojekte-anerkannt.html"
-                },
-                {
-                  "text": " — 09.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Internationale Anerkennung der Arbeit für mehr Transparenz im Rohstoffsektor: Deutschland erhält den EITI Chair’s Award 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-deutschland-erhaelt-eiti-chairs-award.html"
-                },
-                {
-                  "text": " — 08.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesministerin Reiche stellt Herbstprojektion der Bundesregierung vor",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261008-reiche-stellt-herbstprojektion-vor.html"
-                },
-                {
-                  "text": " — 08.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Herbstprojektion 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Wirtschaft/Projektionen-der-Bundesregierung/projektionen-der-bundesregierung-herbst-2026.html"
-                },
-                {
-                  "text": " — 08.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeswirtschaftsministerium unterzeichnet Absichtserklärungen zum CO₂-Export mit Dänemark und den Niederlanden",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261007-absichtserklaerungen-co2-export.html"
-                },
-                {
-                  "text": " — 07.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Produktion im Produzierenden Gewerbe Berichtsmonat August 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20261007-entwicklung-produzierendes-gewerbe-august.html"
-                },
-                {
-                  "text": " — 07.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Verordnung zur Weiterentwicklung des Wirtschaftsprüferexamens",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261007-verordnung-wirtschaftsprueferexamen.html"
-                },
-                {
-                  "text": " — 07.10.2026"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat August 2026",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261006-entwicklung-verarbeitendes-gewerbe-august.html"
-                },
-                {
-                  "text": " — 06.10.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesnetzagentur",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesnetzagentur veröffentlicht geplanten Spielraum für Porti",
-                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261012_Post.html"
-                },
-                {
-                  "text": " — Heute, 14:00"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neuer Deutsch-Österreichischer Lyrikpreis geht an Esther Kinsky und Ann Cotten – Staatsminister Weimer: „Gemeinsam mit unseren Nachbarn schaffen wir Sichtbarkeit für herausragende zeitgenössische Lyrik“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/neuer-deutsch-oesterreichischer-lyrikpreis-geht-an-esther-kinsky-und-ann-cotten-staatsminister-weimer-gemeinsam-mit-unseren-nachbarn-schaffen-wir-sichtbarkeit-fuer-herausragende-zeitgenoessische-lyrik--2456592"
-                },
-                {
-                  "text": " — Heute, 12:00"
-                }
-              ],
-              "sub": "Der Beauftrage der Bundesregierung für Kultur und Medien und das Bundesministerium für europäische und internationale Angelegenheiten der Republik Österreich haben anlässlich des 100. Geburtstages der Autorin Ingeborg Bachmann den Deutsch-Österreichischen Lyrikpreis ins Leben gerufen. Ausgezeichnet werden die Schriftstellerinnen Esther Kinsky für ihren Gedichtband „Heim.Statt“ und Ann Cotten für ihren Gedichtband „Poller. Idyllen“. Die Entscheidung wurde durch eine unabhängige Jury getroffen. Der Preis wird am 25. November 2026 im Rahmen des Eröffnungsempfangs der Buch Wien feierlich vergeben und ist mit je 15.000 Euro dotiert. Dazu Staatsminister Weimer: „Meinen herzlichen Glückwunsch an Esther Kinsky und Ann Cotten zu dieser einmaligen Auszeichnung. Die Jury würdigt Werke, die unterschiedlicher nicht sein könnten und doch die Gemeinsamkeit haben, dass sie poetisch, wortgewaltig die Grenzen der literarischen Gattungen überschreiten. Die Gedichtbände zeichnet Experimentierfreude, ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Friedrich Merz erklärt zu dem von der irischen Ratspräsidentschaft vorgelegten Vorschlag für die anstehenden EU-Haushaltsverhandlungen:",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zu-dem-von-der-irischen-ratspraesidentschaft-vorgelegten-vorschlag-fuer-die-anstehenden-eu-haushaltsverhandlungen--2456522"
-                },
-                {
-                  "text": " — 10.10.2026"
-                }
-              ],
-              "sub": "Für ein starkes und souveränes Europa brauchen wir einen grundlegend modernisierten und bezahlbaren Mehrjährigen Finanzrahmen. Ich danke der irischen Präsidentschaft für ihren unermüdlichen Einsatz in diesen schwierigen Verhandlungen. Von einer Einigung sind wir gleichwohl noch weit entfernt. Die Höhe des neuen Vorschlags ist keine Grundlage für eine Einigung. Der EU-Haushalt muss für diejenigen bezahlbar sein, die die Hauptlast der Finanzierung tragen. Zu den notwendigen Anpassungen müssen alle beitragen, denn Priorisierung und Modernisierung der Ausgaben des EU-Haushaltes sind eine Aufgabe für uns alle."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Staatsminister Weimer verleiht den Deutschen Verlagspreis 2026 – Staatsminister Weimer: „Unabhängige Verlage sorgen für eine vielstimmige und lebendige demokratische Öffentlichkeit“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-verleiht-den-deutschen-verlagspreis-2026-staatsminister-weimer-unabhaengige-verlage-sorgen-fuer-eine-vielstimmige-und-lebendige-demokratische-oeffentlichkeit--2456514"
-                },
-                {
-                  "text": " — 09.10.2026"
-                }
-              ],
-              "sub": "Kulturstaatsminister Wolfram Weimer hat heute im Rahmen der 78. Frankfurter Buchmesse die 85 Preisträger des Deutschen Verlagspreises 2026 ausgezeichnet. Die Verlage „kunstanstifter - Verlag für Illustration“, „Merve“ und „Voland & Quist“ wurden als Spitzenpreisträger ausgewählt und erhielten ein Preisgeld in Höhe von jeweils 50.000 Euro. Zum ersten Mal verlieh Staatsminister Weimer zusätzlich den mit 24.000 Euro dotierten Innovationspreis. Dieser würdigt besonders zukunftsweisende Verlagsarbeit und ging an den „mairisch Verlag“. Der diesjährige Nachhaltigkeitspreis, ebenfalls mit 24.000 Euro Preisgeld dotiert, erhielt der Verlag „Shift Books“. Weitere 79 Verlage wurden mit einem Gütesiegel ausgezeichnet, das jeweils mit 18.000 Euro Preisgeld verbunden ist. Daneben können jährlich bis zu drei Verlage mit einem Jahresgesamtumsatz von mehr als drei Millionen Euro ein undotiertes Gütesiegel erhalten. In diesem Jahr ging dieses Siegel an den Verlag „Matthes & Seitz Berlin“. Insgesamt wu..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Joint Statement Germany – United Kingdom",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/joint-statement-germany-united-kingdom-2456348"
-                },
-                {
-                  "text": " — 08.10.2026"
-                }
-              ],
-              "sub": "At the occasion of the meeting of Prime Minister Andy Burnham and Federal Chancellor Friedrich Merz in Berlin on 8 October 2026, the following milestones and way forward have been agreed: Kensington Treaty ratification - Federal Chancellor Merz and Prime Minister Burnham finalised the ratification of the Kensington Treaty through the official exchange of documents. The Kensington Treaty, signed in July 2025 in London, spans the breadth of the bilateral relationship, enhancing cooperation in the face of global challenges, and delivering tangible benefits for UK and German citizens. Industrial Tech Corridor - To connect AI and critical technology scale-ups with industrial demand, this initiative supports the progression of UK and German Tech to developed scaled industrial use cases. The focus will be initially on AI and high-value industrial applications. A first dedicated Tech Corridor roundtable convening CEOs of selected primes, AI scale-ups, and senior officials will be held late..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz anlässlich des 3. Jahrestags des 7. Oktobers 2023:",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-anlaesslich-des-3-jahrestags-des-7-oktobers-2023--2455998"
-                },
-                {
-                  "text": " — 07.10.2026"
-                }
-              ],
-              "sub": "„Am heutigen Jahrestag der furchtbaren Hamas-Terroranschläge vom 7. Oktober 2023 sind unsere Gedanken bei den Opfern und ihren Hinterbliebenen, den Überlebenden und den ehemaligen Geiseln. Wir gedenken der Toten. Wir trauern mit den Hinterbliebenen. Und wir hoffen, dass der tiefe Schmerz und die Wunden, die dieser Tag, die diese monströsen, barbarischen Taten geschlagen haben, heilen können. Deutschland steht fest an der Seite Israels. Unsere israelischen Freunde können auf unseren Einsatz zählen, damit sich ein solches Verbrechen niemals wiederholt. Wir stehen für die Sicherheit und Existenz Israels ein – das ist Lehre aus der Shoah und Teil deutscher Identität. Es muss nun darum gehen, das Fundament einer neuen Ordnung zu legen, in der Israelis, Palästinenser und ihre Nachbarn in Frieden und Sicherheit leben können. Dafür setzt sich die Bundesregierung ein. Unserer Überzeugung nach ist dieses Ziel am besten durch die Gründung eines palästinensischen Staates an der Seite Israel..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Staatsminister Weimer eröffnet 78. Frankfurter Buchmesse und kündigt neue Auszeichnung „Literarisches Wort des Jahres“ an – Staatsminister Weimer: „Wir feiern die einzigartige Kraft der Sprache“",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-eroeffnet-78-frankfurter-buchmesse-und-kuendigt-neue-auszeichnung-literarisches-wort-des-jahres-an-staatsminister-weimer-wir-feiern-die-einzigartige-kraft-der-sprache--2455992"
-                },
-                {
-                  "text": " — 06.10.2026"
-                }
-              ],
-              "sub": "Kulturstaatsminister Wolfram Weimer eröffnet heute im Namen der Bundesregierung die 78. Frankfurter Buchmesse. Vor der Eröffnung hat er die neue Auszeichnung „Literarisches Wort des Jahres“ angekündigt. Ehrengast auf der Frankfurter Buchmesse ist in diesem Jahr Tschechien. Unter dem Motto „Ein Land an der Küste“ präsentiert sich das Land als Sehnsuchtsort für literarische Entdeckungen. Im Ehrengast-Pavillon findet ein umfangreiches Programm mit Lesungen und Gesprächen statt, zudem sind 75 tschechische Autorinnen und Autoren vor Ort. Staatsminister Weimer sagte im Vorfeld: „Deutschland und Tschechien verbindet eine wechselvolle literarische Freundschaft. Umso mehr freue ich mich, dass wir dieses Jahr im Ehrengast-Pavillon die Chance haben, in die facettenreiche Welt der tschechischen Literaturszene einzutauchen – geprägt von poetischer Sprache, Ironie und Gesellschaftskritik. Literatur schafft Räume für Begegnung und Verständigung. Hier, auf der Frankfurter Buchmesse, kommt die Wel..."
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "... Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Beschleunigung des Ausbaus der Windenergie an Land",
-                  "href": "https://dip.bundestag.de/vorgang/331000"
-                },
-                {
-                  "text": " — Heute, 10:28"
-                }
-              ],
-              "sub": "Überwiesen — Einführung einer zusätzlichen Sonderausschreibung für Windenergie an Land mit einem Volumen von 5.000 Megawatt einmalig im Jahr 2026 ohne Anrechnung auf die regulären Ausschreibungsmengen und vorbehaltlich einer Genehmigung durch die Europäische Kommission;<br />"
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Änderung §§ 28 und 101 Erneuerbare-Energien-Gesetz"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
-                  "href": "https://dip.bundestag.de/vorgang/333340"
-                },
-                {
-                  "text": " — Heute, 09:30"
-                }
-              ],
-              "sub": "Überwiesen — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br />"
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Änderung § 3 Energiewirtschaftsgesetz, Folgeänderungen in 3 Rechtsverordnungen<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Bezug: Entscheidung des Europäischen Gerichtshofs vom 28. November 2024 zur Auslegung der EU-Richtlinie zum Elektrizitätsbinnenmarkt (2019/944) (Rechtssache C-293/23)<br />"
-                }
-              ]
-            },
-            {
-              "kind": "para",
-              "spans": [
-                {
-                  "text": "Richtlinie (EU) 2019/944 vom 05. Juni 2019 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt und zur Änderung der Richtlinie 2012/27/EU (ABl. L 158, 14.06.2019, S. 125) ; Verordnung (EU) 2019/943 vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 138, 14.06.2019, S. 54) ; Richtlinie 2014/94/EU vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307, 28.10.2014, S. 1)"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur Abschaffung des Gesetzes für den Ausbau erneuerbarer Energien (Erneuerbare-Energien-Gesetz-Abschaffungsgesetz - EEGAG)",
-                  "href": "https://dip.bundestag.de/vorgang/339536"
-                },
-                {
-                  "text": " — Heute, 09:30"
-                }
-              ],
-              "sub": "Überwiesen — Aufhebung des Erneuerbare-Energien-Gesetzes (EEG 2023)"
             }
           ]
         },

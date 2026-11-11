@@ -252,9 +252,7 @@ const GESETZE = [
         "kommentar": "Gemeinsame Stellungnahme, Detailanmerkungen zu Kosten"
       }
     ],
-    "news": [
-      "news-29"
-    ],
+    "news": [],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
       "datum": "2026-08-26",
@@ -506,8 +504,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-24",
-      "news-29"
+      "news-27"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,28 +517,61 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 09:00",
+    "tags": [],
+    "zusammenfassung": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261111-fachkonferenz-bundeserprobungsgesetz.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 11:10",
+    "datum": "Gestern, 11:10",
     "tags": [],
     "zusammenfassung": "Im bundesweiten Förderprogramm „MemoRails – Halt! Hier wird an NS-Geschichte erinnert“ haben 13 Projekte Gedenkzeichen an Bahnhöfen geschaffen und mit Bildungsangeboten die lokale Auseinandersetzung mit den NS-Verbrechen gestärkt. Die Ergebnisse werden vom 13. November 2026 bis zum 28. Februar 2027 im DB Museum Nürnbe…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/13-neue-erinnerungsorte-an-bahnhoefen-machen-ns-geschichte-in-ganz-deutschland-sichtbar-erinnerung-braucht-jede-und-jeden-von-uns--2460368",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Heute, 09:30",
+    "datum": "Gestern, 09:30",
     "tags": [],
     "zusammenfassung": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-house-of-germany-in-davos.html",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
+    "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:30",
+    "tags": [],
+    "zusammenfassung": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-schulewirtschaft-preis-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "09.11.2026",
+    "tags": [],
+    "zusammenfassung": "Der Zuverlässigkeitsstandard für die Stromversorgung in der deutsch-luxemburgischen Stromgebotszone wurde neu gefasst. Am Rande des Energieministerrats unterzeichneten Luxemburgs Wirtschaftsminister Lex Delles und Staatssekretär Frank Wetzel dazu eine gemeinsame Absichtserklärung.",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/zuverlaessigkeitsstandard-strommarktgebiet.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -554,7 +584,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -565,7 +595,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -576,7 +606,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -587,7 +617,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sich…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -598,7 +628,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -609,7 +639,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -620,7 +650,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -631,7 +661,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Verschiebung der Entscheidung zum WACC Gas",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -642,7 +672,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -653,7 +683,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -664,7 +694,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -675,7 +705,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -686,7 +716,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Sitzung des Nationalen Sicherheitsrates im November 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -697,7 +727,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -710,7 +740,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -723,7 +753,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkap…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -737,7 +767,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -748,7 +778,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -759,7 +789,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -770,7 +800,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -781,7 +811,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -794,7 +824,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -805,7 +835,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -816,7 +846,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -824,42 +854,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Mit dem Gipfeltreffen begründen die Europäische Union und Kanada eine „Allianz für die Zukunft\". Wir Europäer schlagen damit nicht nur ein völlig neues Kapitel in den Beziehungen zu einem unserer engsten Verbündeten auf, sondern gehen eine einzigartige Verbindung zu einem Partner außerhalb der EU ein. Dieser Schritt…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zum-eu-kanada-gipfel--2459156",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Bundeskanzler Friedrich Merz erklärt zum Rückzug von EZB-Präsidentin Christine Lagarde:",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "29.10.2026",
-    "tags": [],
-    "zusammenfassung": "„Christine Lagarde hat die Europäische Zentralbank in herausfordernden Zeiten souverän geführt. Die Stabilität des Euro und die Unabhängigkeit der Zentralbank waren bei ihr in guten Händen. Namens der Bundesregierung danke ich Christine Lagarde dafür. Jetzt beginnt der im EU-Vertrag vorgesehene Besetzungsprozess, den…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-erklaert-zum-rueckzug-von-ezb-praesidentin-christine-lagarde--2459074",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "29.10.2026",
-    "tags": [
-      "eeg",
-      "netz"
-    ],
-    "zusammenfassung": "Überwiesen — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fortsch…",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "29.10.2026",
-    "tags": [],
-    "zusammenfassung": "Staatssekretär Rouenhoff stellvertretend als Co-Gastgeber der Asien-Pazifik-Konferenz der Deutschen Wirtschaft in Seoul",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261029-rouenhoff-stellvertretend-in-seoul.html",
     "gelesen": true
   }
 ];
