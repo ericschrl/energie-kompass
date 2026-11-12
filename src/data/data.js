@@ -504,7 +504,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-27"
+      "news-28"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -517,50 +517,61 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Heute, 09:00",
+    "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 11:35",
     "tags": [],
-    "zusammenfassung": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261111-fachkonferenz-bundeserprobungsgesetz.html",
+    "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den O…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698",
     "gelesen": false
   },
   {
     "id": "news-2",
-    "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "Gestern, 11:10",
+    "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:00",
     "tags": [],
-    "zusammenfassung": "Im bundesweiten Förderprogramm „MemoRails – Halt! Hier wird an NS-Geschichte erinnert“ haben 13 Projekte Gedenkzeichen an Bahnhöfen geschaffen und mit Bildungsangeboten die lokale Auseinandersetzung mit den NS-Verbrechen gestärkt. Die Ergebnisse werden vom 13. November 2026 bis zum 28. Februar 2027 im DB Museum Nürnbe…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/13-neue-erinnerungsorte-an-bahnhoefen-machen-ns-geschichte-in-ganz-deutschland-sichtbar-erinnerung-braucht-jede-und-jeden-von-uns--2460368",
-    "gelesen": false
+    "zusammenfassung": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261111-fachkonferenz-bundeserprobungsgesetz.html",
+    "gelesen": true
   },
   {
     "id": "news-3",
-    "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 09:30",
+    "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "10.11.2026",
     "tags": [],
-    "zusammenfassung": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-house-of-germany-in-davos.html",
-    "gelesen": false
+    "zusammenfassung": "Im bundesweiten Förderprogramm „MemoRails – Halt! Hier wird an NS-Geschichte erinnert“ haben 13 Projekte Gedenkzeichen an Bahnhöfen geschaffen und mit Bildungsangeboten die lokale Auseinandersetzung mit den NS-Verbrechen gestärkt. Die Ergebnisse werden vom 13. November 2026 bis zum 28. Februar 2027 im DB Museum Nürnbe…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/13-neue-erinnerungsorte-an-bahnhoefen-machen-ns-geschichte-in-ganz-deutschland-sichtbar-erinnerung-braucht-jede-und-jeden-von-uns--2460368",
+    "gelesen": true
   },
   {
     "id": "news-4",
-    "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+    "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 09:30",
+    "datum": "10.11.2026",
     "tags": [],
-    "zusammenfassung": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-schulewirtschaft-preis-2026.html",
-    "gelesen": false
+    "zusammenfassung": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-house-of-germany-in-davos.html",
+    "gelesen": true
   },
   {
     "id": "news-5",
+    "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "10.11.2026",
+    "tags": [],
+    "zusammenfassung": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-schulewirtschaft-preis-2026.html",
+    "gelesen": true
+  },
+  {
+    "id": "news-6",
     "titel": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -568,10 +579,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Zuverlässigkeitsstandard für die Stromversorgung in der deutsch-luxemburgischen Stromgebotszone wurde neu gefasst. Am Rande des Energieministerrats unterzeichneten Luxemburgs Wirtschaftsminister Lex Delles und Staatssekretär Frank Wetzel dazu eine gemeinsame Absichtserklärung.",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Energie/zuverlaessigkeitsstandard-strommarktgebiet.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -581,10 +592,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261107-wasserstoff-deutsche-industrie-pipeline.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -592,10 +603,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-nimmt-am-treffen-der-europaeischen-politischen-gemeinschaft-epg-in-dublin-teil-2460230",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -603,10 +614,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-ungarischen-ministerpraesidenten-magyar-2460242",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -614,10 +625,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Zum 37. Jahrestag des Mauerfalls warnt Staatsminister für Kultur und Medien, Wolfram Weimer, vor Geschichtsrevisionismus und einer Verklärung der SED-Diktatur. Wer heute die DDR verkläre, erliege populistischen Vereinfachungen und verhöhne die Opfer. Staatsminister Weimer: „Fast drei Jahrzehnte lang war die Berliner M…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/37-jahre-mauerfall-staatsminister-weimer-ein-kritisches-wissenschaftlich-fundiertes-geschichtsbewusstsein-ist-heute-wichtiger-denn-je--2460176",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sich…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -625,10 +636,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien, Wolfram Weimer, mahnt zum Jahrestag der Reichspogromnacht, das Erinnern an den 9. November 1938 sei kein Blick in die Vergangenheit, sondern Verpflichtung für Gegenwart und Zukunft. Antisemitismus und Hass dürften keinen Platz in unserer Gesellschaft haben. Staatsminister Weimer e…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-zum-gedenken-an-die-novemberpogrome-kein-platz-fuer-antisemitismus-juedisches-leben-muss-selbstverstaendlich-und-sicher-sein--2460162",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -636,10 +647,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261106-neuabgrenzung-grw-regionalfoerdergebiete.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -647,10 +658,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Produzierendes-Gewerbe/2026/20261106-entwicklung-produzierendes-gewerbe-sept.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,10 +669,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261106-staerkung-von-wettbewerbsfaehigkeit.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Verschiebung der Entscheidung zum WACC Gas",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -669,10 +680,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Verschiebung der Entscheidung zum WACC Gas",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261105_WACC_Gas.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -680,10 +691,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261105-entwicklung-verarbeitendes-gewerbe-sep.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -691,10 +702,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Im Rahmen einer Festveranstaltung wurde heute in Nürnberg das Dokumentationszentrum Reichsparteitagsgelände wiedereröffnet. Dabei wurde die neue Dauerausstellung „Nürnberg und die Reichsparteitage“ erstmals vorgestellt, die die Geschichte des Geländes multimedial und innovativ vermittelt. Anwesend waren unter anderem…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/wiedereroeffnung-des-dokumentationszentrums-reichsparteitagsgelaende-in-nuernberg-staatsminister-weimer-nuernberg-zeigt-was-es-bedeutet-verantwortung-fuer-die-vergangenheit-zu-uebernehmen--2459812",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -702,10 +713,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Anlässlich des heutigen Todestages von Felix Mendelssohn-Bartholdy freut sich der Beauftragte der Bundesregierung für Kultur und Medien, das Mendelssohn-Haus in Leipzig mit 225.000 Euro für die Modernisierung und Digitalisierung seiner Dauerausstellung zu unterstützen. Diese soll zum Festjahr 2027 fertiggestellt werde…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/mendelssohn-haus-in-leipzig-erhaelt-225-000-euro-fuer-neue-dauerausstellung-staatsminister-weimer-ein-wertvolles-stueck-unseres-musikalischen-erbes-lebendig-halten--2459772",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -713,10 +724,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Sitzung des Nationalen Sicherheitsrates im November 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -724,10 +735,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -737,10 +748,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -750,10 +761,10 @@ const NEWS = [
     ],
     "zusammenfassung": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_StromVKG.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkap…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -764,10 +775,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkapazitäten nach dem Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261103-zitat-reiche-ausschreibungen-stromvkg.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -775,10 +786,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-reiche-besucht-adipec.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -786,10 +797,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "EU und Kanada bauen Handelsbeziehungen mit einem Abkommen zu digitalem Handel aus",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-eu-kanada-abkommen-digitaler-handel.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Staatsminister Weimer fördert Kampnagel-Umbau mit bis zu 60 Millionen Euro: „Was in Kampnagel passiert, ist wirklich Weltklasse“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -797,10 +808,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer nahm heute am offiziellen Spatenstich für die Erweiterung und Sanierung des Internationalen Produktionshauses Kampnagel in Hamburg teil. BKM unterstützt die Baumaßnahmen mit bis zu 60 Millionen Euro Fördermitteln. Kulturstaatsminister Weimer: „Kampnagel ist das größte Zuwendungsbauv…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-foerdert-kampnagel-umbau-mit-bis-zu-60-millionen-euro-was-in-kampnagel-passiert-ist-wirklich-weltklasse--2459336",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Besuch des Staatspräsidenten Litauens, Gitanas Nausėda, in Berlin",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -808,10 +819,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/besuch-des-staatspraesidenten-litauens-gitanas-naus%C4%97da-in-berlin-2459338",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -821,10 +832,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Staatssekretär Wetzel beim Energierat in Luxemburg: Sichere Energieversorgung im Winter und bezahlbare Netzentgelte für die Industrie",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-wetzel-bei-energierat-in-luxemburg.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -832,10 +843,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Deutschland und Südkorea erneuern den energiepolitischen Dialog",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutschland-suedkorea-energiepolit-dialog.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -843,17 +854,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "„Connect. Innovate. Grow.“ - Deutschland und Dänemark eröffnen erstmals gemeinsam die diesjährige Gründungswoche Deutschland 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261030-deutachland-daenemark-gruenderwoche.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeskanzler Merz zum EU-Kanada-Gipfel:",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "29.10.2026",
-    "tags": [],
-    "zusammenfassung": "„Mit dem Gipfeltreffen begründen die Europäische Union und Kanada eine „Allianz für die Zukunft\". Wir Europäer schlagen damit nicht nur ein völlig neues Kapitel in den Beziehungen zu einem unserer engsten Verbündeten auf, sondern gehen eine einzigartige Verbindung zu einem Partner außerhalb der EU ein. Dieser Schritt…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-zum-eu-kanada-gipfel--2459156",
     "gelesen": true
   }
 ];
