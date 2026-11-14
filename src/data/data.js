@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-5"
+      "news-1"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-4"
+      "news-6"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-4"
+      "news-6"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,43 +521,68 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Heute, 11:00",
-    "tags": [],
-    "zusammenfassung": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/erstes-makrooekonomisches-Forum-de-it.html",
-    "gelesen": false
+    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Gestern, 14:36",
+    "tags": [
+      "eeg",
+      "markt"
+    ],
+    "zusammenfassung": "Abgelehnt — Umsetzung unionsrechtlicher Vorgaben zur Abschöpfung von Mehrerlösen von geförderten Erneuerbare-Energien-Anlagen in Hochpreisphasen durch Einführung eines Finanzierungsmodells in Form von zweiseitigen Differenzverträgen (&quot;Contracts for Difference&quot;, CfDs): Ergänzung des vorhandenen Systems der ge…",
+    "link": "https://dip.bundestag.de/vorgang/336979",
+    "gelesen": true
   },
   {
     "id": "news-2",
-    "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
+    "titel": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 10:15",
+    "datum": "Gestern, 14:30",
     "tags": [],
-    "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gratuliert dem Liedermacher und Lyriker Wolf Biermann zu dessen 90. Geburtstag am 15. November 2026. Staatsminister Weimer erklärte vorab: „Wolf Biermann ist ein außergewöhnlicher Künstler und eine der prägenden Stimmen des Widerstands gegen die SED-Diktatur. Mit sei…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/wolf-biermann-wird-90-staatsminister-weimer-wuerdigt-den-liedermacher-als-unbeugsame-stimme-der-freiheit-2460918",
+    "zusammenfassung": "Mit 2,58 Milliarden Euro steht für 2027 ein Kultur- und Medienetat auf Rekordniveau bereit. Damit steigt der Haushalt von Staatsminister Wolfram Weimer gegenüber dem Regierungsentwurf um mehr als 220 Millionen Euro. Dies beschloss der Haushaltsausschuss des Deutschen Bundestages in der entscheidenden Sitzung zum Bunde…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/erneut-rekordetat-von-knapp-2-6-milliarden-euro-fuer-kultur-und-medien-staatsminister-weimer-kraftvoller-vertrauensbeweis-fuer-die-kulturnation-deutschland--2461042",
     "gelesen": false
   },
   {
     "id": "news-3",
-    "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "Heute, 09:00",
+    "titel": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:20",
     "tags": [],
-    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im November 20261",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261113-wirt-lage-deutschland-nov-2026.html",
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-scheich-tamim-bin-hamad-al-thani-2461046",
     "gelesen": false
   },
   {
     "id": "news-4",
+    "titel": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 14:10",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-laedt-zu-treffen-der-koalition-der-willigen-am-19-november-in-berlin-ein-2461054",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:50",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-finnischen-staatspraesidenten-stubb-2461048",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 15:50",
+    "datum": "Gestern, 13:36",
     "tags": [
       "eeg",
       "netz"
@@ -567,43 +592,62 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
-    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 13:38",
-    "tags": [
-      "eeg",
-      "markt"
-    ],
-    "zusammenfassung": "Beschlussempfehlung liegt vor — Umsetzung unionsrechtlicher Vorgaben zur Abschöpfung von Mehrerlösen von geförderten Erneuerbare-Energien-Anlagen in Hochpreisphasen durch Einführung eines Finanzierungsmodells in Form von zweiseitigen Differenzverträgen (&quot;Contracts for Difference&quot;, CfDs): Ergänzung des vorhan…",
-    "link": "https://dip.bundestag.de/vorgang/336979",
-    "gelesen": true
+    "id": "news-7",
+    "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 11:00",
+    "tags": [],
+    "zusammenfassung": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/erstes-makrooekonomisches-Forum-de-it.html",
+    "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
+    "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 10:15",
+    "tags": [],
+    "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gratuliert dem Liedermacher und Lyriker Wolf Biermann zu dessen 90. Geburtstag am 15. November 2026. Staatsminister Weimer erklärte vorab: „Wolf Biermann ist ein außergewöhnlicher Künstler und eine der prägenden Stimmen des Widerstands gegen die SED-Diktatur. Mit sei…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/wolf-biermann-wird-90-staatsminister-weimer-wuerdigt-den-liedermacher-als-unbeugsame-stimme-der-freiheit-2460918",
+    "gelesen": false
+  },
+  {
+    "id": "news-9",
+    "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 09:00",
+    "tags": [],
+    "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im November 20261",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261113-wirt-lage-deutschland-nov-2026.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-10",
     "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 11:35",
+    "datum": "12.11.2026",
     "tags": [],
     "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den O…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698",
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-11",
     "titel": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 01:30",
+    "datum": "12.11.2026",
     "tags": [],
     "zusammenfassung": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261112-kultur-und-kreativwirtschaft-waechst.html",
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-12",
     "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -614,7 +658,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-13",
     "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -625,7 +669,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-14",
     "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -636,7 +680,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-15",
     "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -647,7 +691,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-16",
     "titel": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,7 +702,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-17",
     "titel": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -671,7 +715,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -682,7 +726,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -693,7 +737,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-20",
     "titel": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -704,7 +748,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-21",
     "titel": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sich…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -715,7 +759,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-22",
     "titel": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -726,7 +770,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-23",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -737,7 +781,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-24",
     "titel": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -748,7 +792,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-25",
     "titel": "Verschiebung der Entscheidung zum WACC Gas",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -759,7 +803,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-26",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -770,7 +814,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-27",
     "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -781,7 +825,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-28",
     "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -792,7 +836,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-29",
     "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -803,7 +847,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-30",
     "titel": "Sitzung des Nationalen Sicherheitsrates im November 2026",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -811,57 +855,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662",
-    "gelesen": true
-  },
-  {
-    "id": "news-27",
-    "titel": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "03.11.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "Ergebnisse der Ausschreibungen für Aufdach-Solaranlagen und Biomasseanlagen zum 1. Oktober 2026",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_Solar2_Biomasse.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "03.11.2026",
-    "tags": [
-      "eeg"
-    ],
-    "zusammenfassung": "StromVKG - Ergebnisse der ersten Ausschreibung für Langzeitkapazitäten",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261103_StromVKG.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkap…",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "03.11.2026",
-    "tags": [
-      "eeg",
-      "markt"
-    ],
-    "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche zu den ersten Ausschreibungsergebnissen für neue Gaskraftwerke und Langzeitkapazitäten nach dem Strom-Versorgungssicherheits- und Kapazitätsgesetz (StromVKG)",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261103-zitat-reiche-ausschreibungen-stromvkg.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "02.11.2026",
-    "tags": [],
-    "zusammenfassung": "Bundeswirtschaftsministerin Reiche besucht die ADIPEC in Abu Dhabi (VAE)",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261102-reiche-besucht-adipec.html",
     "gelesen": true
   }
 ];
