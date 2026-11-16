@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1"
+      "news-2"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-6"
+      "news-7"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-6"
+      "news-7"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,6 +521,17 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Heute, 13:00",
+    "tags": [],
+    "zusammenfassung": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -534,7 +545,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -545,7 +556,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -556,7 +567,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -567,7 +578,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -578,7 +589,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -592,7 +603,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -603,7 +614,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -614,7 +625,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -625,7 +636,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -636,7 +647,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -647,7 +658,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,7 +669,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -669,7 +680,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -680,7 +691,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -691,7 +702,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -702,7 +713,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -715,7 +726,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -726,7 +737,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -737,7 +748,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -748,7 +759,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sich…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -759,7 +770,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -770,7 +781,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -781,7 +792,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -792,7 +803,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Verschiebung der Entscheidung zum WACC Gas",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -803,7 +814,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -814,7 +825,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -825,7 +836,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -836,7 +847,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -844,17 +855,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Sitzung des Nationalen Sicherheitsrates im November 2026",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "03.11.2026",
-    "tags": [],
-    "zusammenfassung": "Der Sprecher der Bundesregierung, Stefan Kornelius, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/sitzung-des-nationalen-sicherheitsrates-im-november-2026-2459662",
     "gelesen": true
   }
 ];

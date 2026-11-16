@@ -3,6 +3,308 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-11-16",
+      "title": "Energie-Kompass Briefing — 16.11.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/erstes-makrooekonomisches-Forum-de-it.html"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im November 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261113-wirt-lage-deutschland-nov-2026.html"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261112-kultur-und-kreativwirtschaft-waechst.html"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html"
+                },
+                {
+                  "text": " — Heute, 13:00"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kulturnation Deutschland“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/erneut-rekordetat-von-knapp-2-6-milliarden-euro-fuer-kultur-und-medien-staatsminister-weimer-kraftvoller-vertrauensbeweis-fuer-die-kulturnation-deutschland--2461042"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Mit 2,58 Milliarden Euro steht für 2027 ein Kultur- und Medienetat auf Rekordniveau bereit. Damit steigt der Haushalt von Staatsminister Wolfram Weimer gegenüber dem Regierungsentwurf um mehr als 220 Millionen Euro. Dies beschloss der Haushaltsausschuss des Deutschen Bundestages in der entscheidenden Sitzung zum Bundeshaushalt 2027. Kulturstaatsminister Wolfram Weimer: „Mehr als 2,58 Milliarden Euro sind in diesen Zeiten ein Riesenerfolg für unsere Kultur- und Medienlandschaft. Eine Kulturnation wie Deutschland braucht solch einen kraftvollen, finanziellen Vertrauensbeweis gerade jetzt. Unsere Kultur lebt von ihrer Vielfalt und Unabhängigkeit. Sie baut auf starke Institutionen und bewährte Strukturen. Was wir heute hier reininvestieren, zahlt sich morgen als gesellschaftlicher Zusammenhalt aus. Besonders wichtig sind hierfür auch die Gelder in nie dagewesener Höhe für unsere Kulturbauten und Denkmäler. Damit stärken wir bundesweit die gebauten Zeitzeugen unserer Geschichte. Dafür d..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-scheich-tamim-bin-hamad-al-thani-2461046"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-laedt-zu-treffen-der-koalition-der-willigen-am-19-november-in-berlin-ein-2461054"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-finnischen-staatspraesidenten-stubb-2461048"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/wolf-biermann-wird-90-staatsminister-weimer-wuerdigt-den-liedermacher-als-unbeugsame-stimme-der-freiheit-2460918"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Staatsminister für Kultur und Medien Wolfram Weimer gratuliert dem Liedermacher und Lyriker Wolf Biermann zu dessen 90. Geburtstag am 15. November 2026. Staatsminister Weimer erklärte vorab: „Wolf Biermann ist ein außergewöhnlicher Künstler und eine der prägenden Stimmen des Widerstands gegen die SED-Diktatur. Mit seinen Liedern und Gedichten forderte er das Regime heraus und ließ sich auch durch Repressionen und Auftrittsverbote nicht zum Schweigen bringen. Sein Mut und seine Beharrlichkeit erschienen der SED-Führung als Gefahr für ihren Machterhalt. Seine Ausbürgerung aus der DDR 1976 setzte eine große Solidaritätsbewegung in Ost und West in Gang. Aus dem Freiheitskampf der DDR-Bevölkerung ist Biermanns Name seitdem nicht wegzudenken. Mit seiner Kunst und seiner Haltung hat Wolf Biermann eindrucksvoll gezeigt, welche Kraft das freie Wort entfalten kann. Seine Lieder haben bis heute nichts von ihrer Wirkung verloren. Zu seinem 90. Geburtstag gratuliere ich ihm herzlich und wünsch..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer: „Ihre Arbeiten stehen für die Kraft menschlicher Erkenntnis, für Kreativität und freiheitliches Denken“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den Orden gewählt. Die neuen Mitglieder haben inzwischen ihre Wahl angenommen. Dem Orden gehören somit 35 inländische und 39 ausländische Mitglieder, darunter 17 Nobelpreisträgerinnen und Nobelpreisträger an. Die Überreichung der großen Ordenszeichen an die insgesamt sieben in diesem Jahr neugewählten Mitglieder findet am 30. Mai 2027 in Anwesenheit des Bundespräsidenten im Konzerthaus Berlin statt. Dazu erklärt Staatsminister Weimer: „Ich gratuliere Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr ganz herzlich zu ihrer Wahl in den Orden, der auf eine lange und ehrenvolle Geschichte zurückblickt. Ihre Arbeiten stehen für die Kraft menschlicher Erkenntnis, für Kr..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Unterrichtung über Gesetzesbeschluss des BT (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0656-26.pdf"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzesbeschluss"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "2. Beratung (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btp/21/21108.pdf#P.13653"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussempfehlung und Bericht (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109154.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Beschlussempfehlung und Bericht"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bericht gemäß § 96 Geschäftsordnung BT (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109175.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Bericht"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussempfehlung und Bericht (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109137.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Beschlussempfehlung und Bericht"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-15",
       "title": "Energie-Kompass Briefing — 15.11.2026",
       "sections": [
@@ -9335,214 +9637,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Drucksache Beschluss"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-17",
-      "title": "Energie-Kompass Briefing — 17.10.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261015-modernisierung-der-marktueberwachung.html"
-                },
-                {
-                  "text": " — 15.10.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/teilnahme-von-bundeskanzler-merz-am-berlin-prozess-gipfel-am-22-oktober-2026-in-montenegro-2457362"
-                },
-                {
-                  "text": " — Gestern, 12:55"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-tschechischen-staatspraesidenten-pavel-zu-einem-arbeitsbesuch-2457412"
-                },
-                {
-                  "text": " — Gestern, 12:43"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404"
-                },
-                {
-                  "text": " — Gestern, 12:30"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378"
-                },
-                {
-                  "text": " — Gestern, 11:30"
-                }
-              ],
-              "sub": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Autos der Zukunft in Europa produziert werden. Unser Kurs bleibt unverändert: Wir streben eine deutliche Senkung der CO₂-Emissionen an und stärken zugleich Europas Kapazitäten für die Entwicklung und Fertigung der nächsten Generation von Elektrofahrzeugen. „Europäische Präferenz“ bedeutet in der Praxis: Der Übergang zu sauberer Mobilität muss mit Investitionen, Innovationen und Produktion in Frankreich, Deutschland und ganz Europa einhergehen. Zu diesem Zweck schlagen Frankreich und Deutschland ein umfassendes Paket vor. Es verbindet einen ehrgeizigen europäischen Dekarbonisierungspfad mit der nötigen regulatorischen Flexibilität, um unterschiedlichen Marktgegebenheiten u..."
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dip.bundestag.de/vorgang/338789"
-                },
-                {
-                  "text": " — Gestern, 14:35"
-                }
-              ],
-              "sub": "1. Durchgang im Bundesrat abgeschlossen"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "1. Durchgang (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dserver.bundestag.de/brp/1069.pdf"
-                },
-                {
-                  "text": " — Gestern, 02:00"
-                }
-              ],
-              "sub": "Plenarprotokoll"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Beschlussdrucksache (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dserver.bundestag.de/brd/2026/0509-26B.pdf"
-                },
-                {
-                  "text": " — Gestern, 02:00"
                 }
               ],
               "sub": "Drucksache Beschluss"
