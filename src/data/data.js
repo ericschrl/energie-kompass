@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-3"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-2"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-7"
+      "news-2"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,21 +521,37 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "Heute, 13:00",
-    "tags": [],
-    "zusammenfassung": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
+    "titel": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepak…",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Heute, 12:30",
+    "tags": [
+      "markt"
+    ],
+    "zusammenfassung": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepaket für energieintensive Industrie",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261117-industriestrompreis.html",
     "gelesen": false
   },
   {
     "id": "news-2",
+    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+    "quelle": "Bundestag DIP",
+    "quelleColor": "#3f6e8c",
+    "datum": "Heute, 11:27",
+    "tags": [
+      "eeg",
+      "netz"
+    ],
+    "zusammenfassung": "Verabschiedet — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Iran-Krieges: Fort…",
+    "link": "https://dip.bundestag.de/vorgang/338789",
+    "gelesen": true
+  },
+  {
+    "id": "news-3",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "13.11.2026",
+    "datum": "Heute, 10:07",
     "tags": [
       "eeg",
       "markt"
@@ -545,7 +561,40 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-4",
+    "titel": "Deutscher Kurzfilmpreis feiert 70. Jubiläum – Staatsminister Weimer: „Kurzfilm trendet gerade beim jungen Publikum“",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 09:00",
+    "tags": [],
+    "zusammenfassung": "Seit 70 Jahren würdigt der Bund herausragende Leistungen bei der Produktion von Kurzfilmen mit der Goldenen Lola – so auch heute bei der Verleihung des Deutschen Kurzfilmpreises auf Kampnagel in Hamburg. Dort wurde die bedeutendste und höchstdotierte Auszeichnung für die kurze filmische Form in Deutschland vergeben, v…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-feiert-70-jubilaeum-staatsminister-weimer-kurzfilm-trendet-gerade-beim-jungen-publikum--2461240",
+    "gelesen": false
+  },
+  {
+    "id": "news-5",
+    "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Gestern, 13:00",
+    "tags": [],
+    "zusammenfassung": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "Bund und Länder unterzeichnen Finanzierungsabkommen für die Stiftung Preußische Schlösser und Gärten – 54,5 Millionen Euro jährlich für den…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:06",
+    "tags": [],
+    "zusammenfassung": "Die Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg (SPSG) erhält auch in den kommenden Jahren eine verlässliche Finanzierung. Der Bund sowie die Länder Berlin und Brandenburg unterzeichneten heute im Berliner Schloss Charlottenburg das neue Finanzierungsabkommen für die Stiftung. Dieses gilt ab dem 1. Jan…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-unterzeichnen-finanzierungsabkommen-fuer-die-stiftung-preussische-schloesser-und-gaerten-54-5-millionen-euro-jaehrlich-fuer-den-erhalt-von-schloessern-gaerten-und-kunstsammlungen-2461154",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
     "titel": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -556,7 +605,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-8",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -567,7 +616,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-9",
     "titel": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -578,7 +627,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -589,21 +638,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
-    "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "13.11.2026",
-    "tags": [
-      "eeg",
-      "netz"
-    ],
-    "zusammenfassung": "Beschlussempfehlung liegt vor — Dämpfung der Kostenbelastungen für stromverbrauchende Unternehmen und Haushalte durch die ansteigenden Übertragungsnetzentgelte und Verteilernetzentgelte infolge der Maßnahmen zur Integration der Erneuerbaren Energien sowie vor dem Hintergrund der steigenden Energiepreise infolge des Ir…",
-    "link": "https://dip.bundestag.de/vorgang/338789",
-    "gelesen": true
-  },
-  {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -614,7 +649,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -625,7 +660,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -636,7 +671,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -647,7 +682,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -658,7 +693,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -669,7 +704,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -680,7 +715,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -691,7 +726,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -702,7 +737,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Deutschland und Luxemburg haben den Zuverlässigkeitsstandard für die gemeinsame Stromgebotszone aktualisiert",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -713,7 +748,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Wasserstoff für die deutsche Industrie: Dänisch-Deutsche Pipeline-Infrastruktur wird mit EHB-Förderung vorangetrieben",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -726,7 +761,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz nimmt am Treffen der Europäischen Politischen Gemeinschaft (EPG) in Dublin teil",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -737,7 +772,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Bundeskanzler Merz empfängt den ungarischen Ministerpräsidenten Magyar",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -748,7 +783,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "37 Jahre Mauerfall - Staatsminister Weimer: „Ein kritisches, wissenschaftlich fundiertes Geschichtsbewusstsein ist heute wichtiger denn je“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -759,7 +794,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "Staatsminister Weimer zum Gedenken an die Novemberpogrome: „Kein Platz für Antisemitismus -jüdisches Leben muss selbstverständlich und sich…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -770,7 +805,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Neuabgrenzung der GRW-Regionalfördergebiete ab 2028: Gutachten liefert wichtige Grundlage für Abstimmungen zwischen Bund und Ländern",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -781,7 +816,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Entwicklung der Produktion im Produzierenden Gewerbe - Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -792,7 +827,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Branchenempfehlungen zur Stärkung von Wettbewerbsfähigkeit und Resilienz – Sozialpartner legen der Bundesregierung Ergebnispapiere vor",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -803,7 +838,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Verschiebung der Entscheidung zum WACC Gas",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -814,7 +849,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -822,39 +857,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Entwicklung der Auftragseingänge im Verarbeitenden Gewerbe Berichtsmonat September 2026",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Verarbeitendes-Gewerbe/2026/20261105-entwicklung-verarbeitendes-gewerbe-sep.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Wiedereröffnung des Dokumentationszentrums Reichsparteitagsgelände in Nürnberg – Staatsminister Weimer: „Nürnberg zeigt, was es bedeutet, V…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.11.2026",
-    "tags": [],
-    "zusammenfassung": "Im Rahmen einer Festveranstaltung wurde heute in Nürnberg das Dokumentationszentrum Reichsparteitagsgelände wiedereröffnet. Dabei wurde die neue Dauerausstellung „Nürnberg und die Reichsparteitage“ erstmals vorgestellt, die die Geschichte des Geländes multimedial und innovativ vermittelt. Anwesend waren unter anderem…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/wiedereroeffnung-des-dokumentationszentrums-reichsparteitagsgelaende-in-nuernberg-staatsminister-weimer-nuernberg-zeigt-was-es-bedeutet-verantwortung-fuer-die-vergangenheit-zu-uebernehmen--2459812",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Mendelssohn-Haus in Leipzig erhält 225.000 Euro für neue Dauerausstellung – Staatsminister Weimer: „Ein wertvolles Stück unseres musikalisc…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "04.11.2026",
-    "tags": [],
-    "zusammenfassung": "Anlässlich des heutigen Todestages von Felix Mendelssohn-Bartholdy freut sich der Beauftragte der Bundesregierung für Kultur und Medien, das Mendelssohn-Haus in Leipzig mit 225.000 Euro für die Modernisierung und Digitalisierung seiner Dauerausstellung zu unterstützen. Diese soll zum Festjahr 2027 fertiggestellt werde…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/mendelssohn-haus-in-leipzig-erhaelt-225-000-euro-fuer-neue-dauerausstellung-staatsminister-weimer-ein-wertvolles-stueck-unseres-musikalischen-erbes-lebendig-halten--2459772",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "04.11.2026",
-    "tags": [],
-    "zusammenfassung": "EU-Strategie für Nachhaltigen Tourismus veröffentlicht: Wettbewerb stärken und weiter Bürokratie abbauen",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261104-eu-strategie-nachhaltiger-tourismus.html",
     "gelesen": true
   }
 ];
