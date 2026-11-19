@@ -3,6 +3,481 @@
 const BRIEFINGS = {
   "all": [
     {
+      "date": "2026-11-19",
+      "title": "Energie-Kompass Briefing — 19.11.2026",
+      "sections": [
+        {
+          "heading": "Neu seit gestern",
+          "level": 2,
+          "blocks": []
+        },
+        {
+          "heading": "BMWE",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261118-preis-berufsbildung-ohne-grenzen.html"
+                },
+                {
+                  "text": " — Gestern, 01:30"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepaket für energieintensive Industrie",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261117-industriestrompreis.html"
+                },
+                {
+                  "text": " — 17.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/erstes-makrooekonomisches-Forum-de-it.html"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die wirtschaftliche Lage in Deutschland im November 20261",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261113-wirt-lage-deutschland-nov-2026.html"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
+                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261112-kultur-und-kreativwirtschaft-waechst.html"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesnetzagentur",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
+                  "href": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html"
+                },
+                {
+                  "text": " — 16.11.2026"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Bundesregierung",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "TikTok europäisch denken: Start für eine europäische Initiative aus Deutschland und Österreich",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/tiktok-europaeisch-denken-start-fuer-eine-europaeische-initiative-aus-deutschland-und-oesterreich-2461632"
+                },
+                {
+                  "text": " — Gestern, 14:10"
+                }
+              ],
+              "sub": "Medienstaatsminister Wolfram Weimer und der österreichische Staatssekretär für Digitalisierung, Alexander Pröll, haben heute eine gemeinsame Erklärung zur europäischen Debatte über TikTok und die Souveränität unserer digitalen Öffentlichkeit veröffentlicht. Im Mittelpunkt steht die Frage, wie Europa mehr Kontrolle über Daten, algorithmische Systeme und zentrale Zugänge zur öffentlichen Kommunikation erreichen kann. Weimer und Pröll in ihrer Erklärung: „Zu lange haben wir zugeschaut, wie Europa immer stärker durchdrungen wurde von digitalen Diensten, die nicht den demokratischen Grundwerten Europas verpflichtet sind, sondern ökonomischen und geopolitischen Interessen Dritter.“ TikTok, die App chinesischer Herkunft, wird von etwa einem Drittel der deutschen und der österreichischen Bevölkerung genutzt. Weiter heißt es in der Erklärung: „Bei TikTok bündeln sich Daten-, Plattform- und Drittstaatenrisiken in besonderem Maße. Gravierende Verstöße gegen europäisches Datenschutzrecht auf..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Verschollenes Le Brun-Meisterwerk kehrt nach über 80 Jahren nach Sanssouci zurück – Staatsminister Weimer: „Diese Rückkehr ist eine kulturhistorische Sensation“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/verschollenes-le-brun-meisterwerk-kehrt-nach-ueber-80-jahren-nach-sanssouci-zurueck-staatsminister-weimer-diese-rueckkehr-ist-eine-kulturhistorische-sensation--2461558"
+                },
+                {
+                  "text": " — Gestern, 12:05"
+                }
+              ],
+              "sub": "Ein verloren geglaubtes Meisterwerk ist zurück in Potsdam. Charles Le Bruns Gemälde „Heilige Familie“ ist nach mehr als 80 Jahren an seinen historischen Platz im Neuen Palais zurückgekehrt. Das Werk des französischen Barockmalers und Hofmalers Ludwigs XIV. war nach dem Zweiten Weltkrieg aus den preußischen Sammlungen verschwunden und befand sich zuletzt in Kanada. Am heutigen Mittwoch wurde das Gemälde in Anwesenheit von Kulturstaatsminister Dr. Wolfram Weimer von der Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg (SPSG) in Empfang genommen. Unterstützt wurde die Rückkehr des Gemäldes von der Ernst von Siemens Kunststiftung und der Freunde der Preußischen Schlösser und Gärten. Dazu Staatsminister Weimer: „Es ist eine kulturhistorische Sensation, dass ein verloren geglaubtes Meisterwerk nach Potsdam zurückkehrt. Charles Le Bruns ,Heilige Familie‘ ist nach 80 Jahren wieder an ihrem historischen Ort im Neuen Palais und kann von Besucherinnen und Besuchern bestaunt werden..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle Teilhabe“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-beschliesst-sonntagsoeffnung-von-bibliotheken-staatsminister-weimer-wir-schaffen-mehr-zeit-fuer-bildung-begegnung-und-kulturelle-teilhabe--2461544"
+                },
+                {
+                  "text": " — Gestern, 11:25"
+                }
+              ],
+              "sub": "Das Kabinett hat heute ein Arbeitsrechtspaket beschlossen, das den öffentlichen Bibliotheken künftig die Öffnung an Sonn- und Feiertagen ermöglichen soll. Damit werden die Beschlüsse des Koalitionsausschusses vom 1. Juli 2026 umgesetzt, die die Sonntagsöffnung öffentlicher Bibliotheken vorsehen. Bibliotheken werden damit anderen Kulturorten wie Museen und Theatern gleichgestellt. Familien, Berufstätige sowie Schülerinnen und Schüler können künftig auch sonntags in öffentlichen Bibliotheken lesen, lernen und sich treffen. Öffentliche Bibliotheken sind heute weit mehr als eine bloße Ausleihe von Büchern. Sie sind Orte der Bildung und der Kultur, sie bieten Raum für Austausch, gemeinsames Lernen und gesellschaftliches Miteinander. Dazu erklärt Staatsminister Weimer: „Kultur muss dann zugänglich sein, wenn Menschen auch Zeit dafür haben. Genau deshalb ist die Sonntagsöffnung öffentlicher Bibliotheken ein wichtiger Schritt. Sie schafft mehr Möglichkeiten für alle, die unter der Woche ..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wettbewerb für das „Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland“ entschieden",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/wettbewerb-fuer-das-denkmal-zur-mahnung-und-erinnerung-an-die-opfer-der-kommunistischen-diktatur-in-deutschland-entschieden-2461476"
+                },
+                {
+                  "text": " — 17.11.2026"
+                }
+              ],
+              "sub": "Die Pressemitteilung finden Sie im Anhang."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Deutscher Kurzfilmpreis feiert 70. Jubiläum – Staatsminister Weimer: „Kurzfilm trendet gerade beim jungen Publikum“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-feiert-70-jubilaeum-staatsminister-weimer-kurzfilm-trendet-gerade-beim-jungen-publikum--2461240"
+                },
+                {
+                  "text": " — 17.11.2026"
+                }
+              ],
+              "sub": "Seit 70 Jahren würdigt der Bund herausragende Leistungen bei der Produktion von Kurzfilmen mit der Goldenen Lola – so auch heute bei der Verleihung des Deutschen Kurzfilmpreises auf Kampnagel in Hamburg. Dort wurde die bedeutendste und höchstdotierte Auszeichnung für die kurze filmische Form in Deutschland vergeben, verbunden mit Prämien von insgesamt 275.000 Euro. Kulturstaatsminister Wolfram Weimer: „Die Gewinner des 70. Deutschen Kurzfilmpreises zeigen den Kurzfilm künstlerisch von seiner besten Seite. Ungewöhnliche Stoffe, Schnitte und Erzählweisen lösen in wenigen Minuten tiefe Emotionen aus. Genau damit macht sich der Kurzfilm in Zeiten von Streaming und Social Media immer beliebter. Befeuert von neuen Formaten und veränderten Sehgewohnheiten trendet er dort gerade vor allem beim jungen Publikum. Auch deshalb bleibt der Kurzfilm für die Bundesregierung ein unverzichtbarer Teil der deutschen Filmlandschaft.“ Von 239 eingereichten Vorschlägen waren zwölf Filme für den Preis no..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bund und Länder unterzeichnen Finanzierungsabkommen für die Stiftung Preußische Schlösser und Gärten – 54,5 Millionen Euro jährlich für den Erhalt von Schlössern, Gärten und Kunstsammlungen",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-unterzeichnen-finanzierungsabkommen-fuer-die-stiftung-preussische-schloesser-und-gaerten-54-5-millionen-euro-jaehrlich-fuer-den-erhalt-von-schloessern-gaerten-und-kunstsammlungen-2461154"
+                },
+                {
+                  "text": " — 16.11.2026"
+                }
+              ],
+              "sub": "Die Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg (SPSG) erhält auch in den kommenden Jahren eine verlässliche Finanzierung. Der Bund sowie die Länder Berlin und Brandenburg unterzeichneten heute im Berliner Schloss Charlottenburg das neue Finanzierungsabkommen für die Stiftung. Dieses gilt ab dem 1. Januar 2027 und läuft bis 31. Dezember 2030. Es sichert der SPSG eine jährliche Mindestförderung von 54.544.700 Euro, von denen der Bund 22.555.000 Euro, das Land Brandenburg 19.579.100 Euro und das Land Berlin 12.410.600 Euro trägt. An der feierlichen Unterzeichnung nahmen für den Bund Kulturstaatsminister Dr. Wolfram Weimer, für das Land Brandenburg Kulturministerin Dr. Manja Schüle sowie für das Land Berlin Kultursenator Stefan Evers teil. Dr. Wolfram Weimer, Staatsminister für Kultur und Medien: „Die preußischen Schlösser und Gärten erzählen deutsche Geschichte und gehören zu unserem kulturellen Gedächtnis. Mit dem neuen Finanzierungsabkommen geben Bund und Länder d..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kulturnation Deutschland“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/erneut-rekordetat-von-knapp-2-6-milliarden-euro-fuer-kultur-und-medien-staatsminister-weimer-kraftvoller-vertrauensbeweis-fuer-die-kulturnation-deutschland--2461042"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Mit 2,58 Milliarden Euro steht für 2027 ein Kultur- und Medienetat auf Rekordniveau bereit. Damit steigt der Haushalt von Staatsminister Wolfram Weimer gegenüber dem Regierungsentwurf um mehr als 220 Millionen Euro. Dies beschloss der Haushaltsausschuss des Deutschen Bundestages in der entscheidenden Sitzung zum Bundeshaushalt 2027. Kulturstaatsminister Wolfram Weimer: „Mehr als 2,58 Milliarden Euro sind in diesen Zeiten ein Riesenerfolg für unsere Kultur- und Medienlandschaft. Eine Kulturnation wie Deutschland braucht solch einen kraftvollen, finanziellen Vertrauensbeweis gerade jetzt. Unsere Kultur lebt von ihrer Vielfalt und Unabhängigkeit. Sie baut auf starke Institutionen und bewährte Strukturen. Was wir heute hier reininvestieren, zahlt sich morgen als gesellschaftlicher Zusammenhalt aus. Besonders wichtig sind hierfür auch die Gelder in nie dagewesener Höhe für unsere Kulturbauten und Denkmäler. Damit stärken wir bundesweit die gebauten Zeitzeugen unserer Geschichte. Dafür d..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-scheich-tamim-bin-hamad-al-thani-2461046"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-laedt-zu-treffen-der-koalition-der-willigen-am-19-november-in-berlin-ein-2461054"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-finnischen-staatspraesidenten-stubb-2461048"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/wolf-biermann-wird-90-staatsminister-weimer-wuerdigt-den-liedermacher-als-unbeugsame-stimme-der-freiheit-2460918"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Staatsminister für Kultur und Medien Wolfram Weimer gratuliert dem Liedermacher und Lyriker Wolf Biermann zu dessen 90. Geburtstag am 15. November 2026. Staatsminister Weimer erklärte vorab: „Wolf Biermann ist ein außergewöhnlicher Künstler und eine der prägenden Stimmen des Widerstands gegen die SED-Diktatur. Mit seinen Liedern und Gedichten forderte er das Regime heraus und ließ sich auch durch Repressionen und Auftrittsverbote nicht zum Schweigen bringen. Sein Mut und seine Beharrlichkeit erschienen der SED-Führung als Gefahr für ihren Machterhalt. Seine Ausbürgerung aus der DDR 1976 setzte eine große Solidaritätsbewegung in Ost und West in Gang. Aus dem Freiheitskampf der DDR-Bevölkerung ist Biermanns Name seitdem nicht wegzudenken. Mit seiner Kunst und seiner Haltung hat Wolf Biermann eindrucksvoll gezeigt, welche Kraft das freie Wort entfalten kann. Seine Lieder haben bis heute nichts von ihrer Wirkung verloren. Zu seinem 90. Geburtstag gratuliere ich ihm herzlich und wünsch..."
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer: „Ihre Arbeiten stehen für die Kraft menschlicher Erkenntnis, für Kreativität und freiheitliches Denken“",
+                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den Orden gewählt. Die neuen Mitglieder haben inzwischen ihre Wahl angenommen. Dem Orden gehören somit 35 inländische und 39 ausländische Mitglieder, darunter 17 Nobelpreisträgerinnen und Nobelpreisträger an. Die Überreichung der großen Ordenszeichen an die insgesamt sieben in diesem Jahr neugewählten Mitglieder findet am 30. Mai 2027 in Anwesenheit des Bundespräsidenten im Konzerthaus Berlin statt. Dazu erklärt Staatsminister Weimer: „Ich gratuliere Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr ganz herzlich zu ihrer Wahl in den Orden, der auf eine lange und ehrenvolle Geschichte zurückblickt. Ihre Arbeiten stehen für die Kraft menschlicher Erkenntnis, für Kr..."
+            }
+          ]
+        },
+        {
+          "heading": "Bundestag DIP",
+          "level": 3,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
+                  "href": "https://dip.bundestag.de/vorgang/333340"
+                },
+                {
+                  "text": " — Heute, 11:15"
+                }
+              ],
+              "sub": "Beschlussempfehlung liegt vor — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatorischen Pflichten;<br />"
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Änderung § 3 Energiewirtschaftsgesetz, Folgeänderungen in 3 Rechtsverordnungen<br />"
+                }
+              ]
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "<br />"
+                }
+              ]
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Bezug: Entscheidung des Europäischen Gerichtshofs vom 28. November 2024 zur Auslegung der EU-Richtlinie zum Elektrizitätsbinnenmarkt (2019/944) (Rechtssache C-293/23)<br />"
+                }
+              ]
+            },
+            {
+              "kind": "para",
+              "spans": [
+                {
+                  "text": "Richtlinie (EU) 2019/944 vom 05. Juni 2019 mit gemeinsamen Vorschriften für den Elektrizitätsbinnenmarkt und zur Änderung der Richtlinie 2012/27/EU (ABl. L 158, 14.06.2019, S. 125) ; Verordnung (EU) 2019/943 vom 5. Juni 2019 über den Elektrizitätsbinnenmarkt (ABl. L 138, 14.06.2019, S. 54) ; Richtlinie 2014/94/EU vom 22. Oktober 2014 über den Aufbau der Infrastruktur für alternative Kraftstoffe (ABl. L 307, 28.10.2014, S. 1)"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Unterrichtung über Gesetzesbeschluss des BT (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/brd/2026/0656-26.pdf"
+                },
+                {
+                  "text": " — 13.11.2026"
+                }
+              ],
+              "sub": "Drucksache Gesetzesbeschluss"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "2. Beratung (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btp/21/21108.pdf#P.13785"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "3. Beratung (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btp/21/21108.pdf#P.13788"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "2. Beratung (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btp/21/21108.pdf#P.13653"
+                },
+                {
+                  "text": " — 12.11.2026"
+                }
+              ],
+              "sub": "Plenarprotokoll"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussempfehlung und Bericht (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109154.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Beschlussempfehlung und Bericht"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Bericht gemäß § 96 Geschäftsordnung BT (BT): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109175.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Bericht"
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Beschlussempfehlung und Bericht (BT): Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+                  "href": "https://dserver.bundestag.de/btd/21/091/2109137.pdf"
+                },
+                {
+                  "text": " — 11.11.2026"
+                }
+              ],
+              "sub": "Drucksache Beschlussempfehlung und Bericht"
+            }
+          ]
+        },
+        {
+          "heading": "Anstehende Termine",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "heading": "Gesetzgebungs-Tracker (Stand)",
+          "level": 2,
+          "blocks": [
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
+                }
+              ]
+            },
+            {
+              "kind": "bullet",
+              "spans": [
+                {
+                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
+                }
+              ]
+            },
+            {
+              "kind": "note",
+              "spans": [
+                {
+                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "title": "Energie-Kompass Briefing — 18.11.2026",
       "sections": [
@@ -9735,250 +10210,6 @@ const BRIEFINGS = {
                 },
                 {
                   "text": " — 19.10.2026"
-                }
-              ],
-              "sub": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren die Partner, eine Initiative zur Entwicklung modernster KI-Modelle für Physical AI voranzutreiben. Die Initiative baut auf Deutschlands herausragenden Industriedaten, seiner Fertigungskompetenz und seiner Expertise im Ingenieurswesen auf und ist in die KI-Roadmap der Bundesregierung sowie die Plattform Industrie 4.0 eingebettet. Künstliche Intelligenz (KI) und vor allem ihre industrielle Nutzung sind eines der Kernthemen. Ziel ist es, industrielle KI systematisch in die breite Anwendung zu bringen und ein hochmodernes industrielles KI-Ökosystem in Europa zu etablieren – mit starken deutschen Unternehmen und Forschungseinrichtungen. Die „Plattform Industrie 4.0“ ist ..."
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Teilnahme von Bundeskanzler Merz am Berlin Prozess-Gipfel am 22. Oktober 2026 in Montenegro",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/teilnahme-von-bundeskanzler-merz-am-berlin-prozess-gipfel-am-22-oktober-2026-in-montenegro-2457362"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den tschechischen Staatspräsidenten Pavel zu einem Arbeitsbesuch",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-tschechischen-staatspraesidenten-pavel-zu-einem-arbeitsbesuch-2457412"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundeskanzler Merz empfängt den Staatspräsidenten der Mongolei, Khurelsukh",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-staatspraesidenten-der-mongolei-khurelsukh-2457404"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Gemeinsame deutsch-französische Presseerklärung zur Zukunft der europäischen Automobilindustrie",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/gemeinsame-deutsch-franzoesische-presseerklaerung-zur-zukunft-der-europaeischen-automobilindustrie-2457378"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Frankreich und Deutschland haben sich auf ein gemeinsames Vorgehen zur Sicherung der Zukunft der europäischen Automobilindustrie verständigt. Unser gemeinsames Ziel ist klar: Wir wollen den Wandel unserer Automobilindustrie erfolgreich gestalten, dabei an unseren Klimazielen festhalten und sicherstellen, dass die Autos der Zukunft in Europa produziert werden. Unser Kurs bleibt unverändert: Wir streben eine deutliche Senkung der CO₂-Emissionen an und stärken zugleich Europas Kapazitäten für die Entwicklung und Fertigung der nächsten Generation von Elektrofahrzeugen. „Europäische Präferenz“ bedeutet in der Praxis: Der Übergang zu sauberer Mobilität muss mit Investitionen, Innovationen und Produktion in Frankreich, Deutschland und ganz Europa einhergehen. Zu diesem Zweck schlagen Frankreich und Deutschland ein umfassendes Paket vor. Es verbindet einen ehrgeizigen europäischen Dekarbonisierungspfad mit der nötigen regulatorischen Flexibilität, um unterschiedlichen Marktgegebenheiten u..."
-            }
-          ]
-        },
-        {
-          "heading": "Bundestag DIP",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "1. Durchgang (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dserver.bundestag.de/brp/1069.pdf"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Plenarprotokoll"
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Beschlussdrucksache (BR): Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
-                  "href": "https://dserver.bundestag.de/brd/2026/0509-26B.pdf"
-                },
-                {
-                  "text": " — 16.10.2026"
-                }
-              ],
-              "sub": "Drucksache Beschluss"
-            }
-          ]
-        },
-        {
-          "heading": "Anstehende Termine",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Keine bekannten Termine. Manuelle Termine in pipeline/curated/termine.manual.json pflegen."
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Gesetzgebungs-Tracker (Stand)",
-          "level": 2,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "EEG (eeg-2024): Phase „1. Lesung\" — nächster Schritt: Weitere Beratung im federführenden Ausschuss"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzpaket (netzpaket): Phase „Ausschuss\" — nächster Schritt: Beratung in den Ausschüssen"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "GebMoG (gmodg): Phase „1. Lesung\" — nächster Schritt: Zuleitung an Bundestag, 1. Lesung steht aus"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "V2G (bidirektional): Phase „Referenten-entwurf\" — nächster Schritt: Kein terminierter nächster Schritt"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Netzentgelte (netzentgelte): Phase „Referenten-entwurf\" — nächster Schritt: BNetzA-Konsultation zur Netzentgeltsystematik läuft"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "Automatisch generiert von der Energie-Kompass-Pipeline. Alle Meldungen mit Quellenlink;"
-                }
-              ]
-            },
-            {
-              "kind": "note",
-              "spans": [
-                {
-                  "text": "amtliche Quellen gemäß Quellenangabe (z. B. Bundesnetzagentur, BMWE)."
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "title": "Energie-Kompass Briefing — 20.10.2026",
-      "sections": [
-        {
-          "heading": "Neu seit gestern",
-          "level": 2,
-          "blocks": []
-        },
-        {
-          "heading": "BMWE",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Digitale Transformation im Mittelstand: BMWE startet Netzwerk der Mittelstand-Digital Zentren",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261020-netzwerk-mittelstand-digital-zentren.html"
-                },
-                {
-                  "text": " — Heute, 09:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung startet neues Vorverfahren für CO₂-Differenzverträge",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-neues-vorverfahren-co2-differenzvertraege.html"
-                },
-                {
-                  "text": " — Gestern, 11:30"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Neue Impulse für Wasserstoff: BMWE beschließt zehn Maßnahmen für Hochlauf des Wasserstoffmarktes",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261019-zehn-massnahmen-wasserstoffmarkt.html"
-                },
-                {
-                  "text": " — Gestern, 11:00"
-                }
-              ]
-            },
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Auftakt des BMWE für die Modernisierung der Marktüberwachung in Deutschland",
-                  "href": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/10/20261015-modernisierung-der-marktueberwachung.html"
-                },
-                {
-                  "text": " — 15.10.2026"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "heading": "Bundesregierung",
-          "level": 3,
-          "blocks": [
-            {
-              "kind": "bullet",
-              "spans": [
-                {
-                  "text": "Bundesregierung stärkt Entwicklung und Anwendung Industrieller KI über Zusammenarbeit mit internationalen Partnern",
-                  "href": "https://www.bundesregierung.de/breg-de/aktuelles/bundesregierung-staerkt-entwicklung-und-anwendung-industrieller-ki-ueber-zusammenarbeit-mit-internationalen-partnern-2457620"
-                },
-                {
-                  "text": " — Gestern, 19:45"
                 }
               ],
               "sub": "Im Rahmen des „Invest in Germany Summit“ mit Bundeskanzler Friedrich Merz haben das Bundesministerium für Wirtschaft und Energie (BMWE) und das Bundesministerium für Forschung, Technologie und Raumfahrt (BMFTR) eine Absichtserklärung (Joint Declaration of Intent) mit NVIDIA unterzeichnet. Mit der Erklärung vereinbaren die Partner, eine Initiative zur Entwicklung modernster KI-Modelle für Physical AI voranzutreiben. Die Initiative baut auf Deutschlands herausragenden Industriedaten, seiner Fertigungskompetenz und seiner Expertise im Ingenieurswesen auf und ist in die KI-Roadmap der Bundesregierung sowie die Plattform Industrie 4.0 eingebettet. Künstliche Intelligenz (KI) und vor allem ihre industrielle Nutzung sind eines der Kernthemen. Ziel ist es, industrielle KI systematisch in die breite Anwendung zu bringen und ein hochmodernes industrielles KI-Ökosystem in Europa zu etablieren – mit starken deutschen Unternehmen und Forschungseinrichtungen. Die „Plattform Industrie 4.0“ ist ..."
