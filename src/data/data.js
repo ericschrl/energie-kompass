@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-14"
+      "news-19"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-4"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,7 +508,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-2"
+      "news-1",
+      "news-4"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -521,21 +522,43 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Bundeskanzler Merz empfängt NATO-Generalsekretär Rutte",
+    "titel": "Nach Beitritt Spaniens: Europäisierung von ARTE entschlossen voranbringen – Staatsminister Weimer: „Eine Blaupause für weitere europäische…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 12:00",
+    "datum": "Heute, 11:50",
     "tags": [],
-    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-nato-generalsekretaer-rutte-2462104",
+    "zusammenfassung": "Staatsminister Wolfram Weimer hat gemeinsam mit dem spanischen Kulturminister, Ernest Urtasun, und der französischen Kulturministerin, Catherine Pégard, die Europäisierung von ARTE in Spanien im Kreise der europäischen Kultur- und Medienministerinnen und -minister vorgestellt. ARTE und der spanische öffentlich-rechtli…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/nach-beitritt-spaniens-europaeisierung-von-arte-entschlossen-voranbringen-staatsminister-weimer-eine-blaupause-fuer-weitere-europaeische-senderzusammenarbeit--2462244",
     "gelesen": false
   },
   {
     "id": "news-2",
+    "titel": "Bundeskanzler Friedrich Merz zur Erklärung der dänischen Ministerpräsidentin Mette Frederiksen",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 18:25",
+    "tags": [],
+    "zusammenfassung": "Unsere dänischen Freunde haben heute einen versuchten Anschlag auf einen US-amerikanisch-ukrainischen Staatsangehörigen in Dänemark den russischen Sicherheitsbehörden zugeordnet. Wir stehen solidarisch an der Seite Dänemarks. Wir werden jeden Versuch Russlands unterbinden, Europa durch Attentate, Anschläge oder Sabota…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-zur-erklaerung-der-daenischen-ministerpraesidentin-mette-frederiksen-2462242",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Bundeskanzler Merz empfängt den Emir von Katar: 15 Milliarden Euro Investitionen in Deutschland",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 16:20",
+    "tags": [],
+    "zusammenfassung": "Bundeskanzler Friedrich Merz hat heute den Emir von Katar, Scheich Tamim bin Hamad Al Thani, anlässlich seines Staatsbesuchs in Deutschland im Bundeskanzleramt empfangen. Zentrales Ergebnis des Treffens ist eine gemeinsame Erklärung, in der Katar Investitionen in Höhe von 15 Milliarden Euro in Deutschland in den nächs…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-15-milliarden-euro-investitionen-in-deutschland-2462194",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Heute, 11:30",
+    "datum": "Gestern, 16:09",
     "tags": [
       "eeg",
       "netz"
@@ -545,62 +568,95 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-3",
+    "id": "news-5",
+    "titel": "14 EU-Staaten schließen sich deutscher Initiative zum Schutz des digitalen Raums an – Staatsminister Weimer: „Starkes Urheberrecht und Juge…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:30",
+    "tags": [],
+    "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat sich heute beim Rat der Europäischen Union für Bildung, Jugend, Sport und Kultur in Brüssel als Vertreter Deutschlands mit den europäischen Kultur- und Medienministerinnen und -ministern über die Stärkung des Urheberrechts und den Schutz junger Menschen im digitalen Raum ausgeta…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/14-eu-staaten-schliessen-sich-deutscher-initiative-zum-schutz-des-digitalen-raums-an-staatsminister-weimer-starkes-urheberrecht-und-jugendmedienschutz-haben-hoechste-prioritaet--2462122",
+    "gelesen": false
+  },
+  {
+    "id": "news-6",
+    "titel": "Bundeskanzler Merz empfängt NATO-Generalsekretär Rutte",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 12:00",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-nato-generalsekretaer-rutte-2462104",
+    "gelesen": false
+  },
+  {
+    "id": "news-7",
+    "titel": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
+    "quelle": "BMWE",
+    "quelleColor": "#1d4ed8",
+    "datum": "Gestern, 01:30",
+    "tags": [],
+    "zusammenfassung": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
+    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261120-deutsch-ukrainisches-wirtschaftsforum.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-8",
     "titel": "Erstes Treffen mit neuer französischer Amtskollegin Catherine Pégard in Paris – Staatsminister Weimer: „Deutsch-französische Kulturbeziehun…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:20",
+    "datum": "19.11.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer traf heute die neue französische Kulturministerin, Catherine Pégard, zu einem ersten gemeinsamen Gespräch in Paris. Im Mittelpunkt standen die deutsch-französische Zusammenarbeit zu Kultur und Medien sowie gemeinsame europäische Vorhaben. Beide tauschten sich über die Europäisierung…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/erstes-treffen-mit-neuer-franzoesischer-amtskollegin-catherine-p%C3%A9gard-in-paris-staatsminister-weimer-deutsch-franzoesische-kulturbeziehungen-sind-das-pulsierende-herz-europas--2461946",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-9",
     "titel": "Staatsminister Weimer zum vierten weltweiten Religionsbericht: „Religionsfreiheit auch in Deutschland verteidigen“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:10",
+    "datum": "19.11.2026",
     "tags": [],
     "zusammenfassung": "Das Bundeskabinett hat gestern den vierten Bericht der Bundesregierung zur weltweiten Lage der Religions- und Weltanschauungsfreiheit beschlossen. Der Bericht macht deutlich, dass die Religions- und Weltanschauungsfreiheit zunehmend bedroht ist. Anlässlich des Berichts betonte Staatsminister für Kultur und Medien Wolf…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-zum-vierten-weltweiten-religionsbericht-religionsfreiheit-auch-in-deutschland-verteidigen--2461940",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-10",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:25",
+    "datum": "19.11.2026",
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl gratuliere ich Ihnen sehr herzlich. Ich schätze unsere enge und vertrauensvolle Zusammenarbeit als Partner in der Europäischen Union und Verbündete in der NATO und freue mich darauf, diesen Weg gemeinsam mit Ihnen fortzusetzen. Ich wünsche Ihnen für Ihre weiter…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-lettland-andris-kulbergs-2461866",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-11",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 11:15",
+    "datum": "19.11.2026",
     "tags": [],
     "zusammenfassung": "Beschlussempfehlung liegt vor — Beseitigung von Rechtsunsicherheiten durch eine EU-rechtskonforme Präzisierung der Definition der Kundenanlage im nationalen Recht: systematische Abgrenzung einer Kundenanlage von Energieanlagen mit Merkmalen eines Elektrizitätsverteilernetzes und den damit einhergehenden netzregulatori…",
     "link": "https://dip.bundestag.de/vorgang/333340",
     "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-12",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 03:00",
+    "datum": "19.11.2026",
     "tags": [],
     "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261119-zitat-reiche-handelskongress-hde.html",
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-13",
     "titel": "TikTok europäisch denken: Start für eine europäische Initiative aus Deutschland und Österreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -611,7 +667,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-14",
     "titel": "Verschollenes Le Brun-Meisterwerk kehrt nach über 80 Jahren nach Sanssouci zurück – Staatsminister Weimer: „Diese Rückkehr ist eine kulturh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -622,7 +678,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-15",
     "titel": "Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -633,7 +689,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-16",
     "titel": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -644,7 +700,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-17",
     "titel": "Wettbewerb für das „Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland“ entschieden",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -655,7 +711,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-18",
     "titel": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepak…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -668,7 +724,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-19",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -682,7 +738,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-20",
     "titel": "Deutscher Kurzfilmpreis feiert 70. Jubiläum – Staatsminister Weimer: „Kurzfilm trendet gerade beim jungen Publikum“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -693,7 +749,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-21",
     "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -704,7 +760,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-22",
     "titel": "Bund und Länder unterzeichnen Finanzierungsabkommen für die Stiftung Preußische Schlösser und Gärten – 54,5 Millionen Euro jährlich für den…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -715,7 +771,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-23",
     "titel": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -726,7 +782,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-19",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -737,7 +793,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -748,7 +804,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-21",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -759,7 +815,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-22",
+    "id": "news-27",
     "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -770,7 +826,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-23",
+    "id": "news-28",
     "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -781,7 +837,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-24",
+    "id": "news-29",
     "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -792,7 +848,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-25",
+    "id": "news-30",
     "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -801,61 +857,6 @@ const NEWS = [
     "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den O…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698",
     "gelesen": false
-  },
-  {
-    "id": "news-26",
-    "titel": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "12.11.2026",
-    "tags": [],
-    "zusammenfassung": "Die Kultur- und Kreativwirtschaft wächst und trotzt schwierigen Zeiten",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261112-kultur-und-kreativwirtschaft-waechst.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-27",
-    "titel": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "11.11.2026",
-    "tags": [],
-    "zusammenfassung": "„Ausprobieren statt Abwarten“: BMWE lädt zur Fachkonferenz zum Bundeserprobungsgesetz ein",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261111-fachkonferenz-bundeserprobungsgesetz.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "13 neue Erinnerungsorte an Bahnhöfen machen NS-Geschichte in ganz Deutschland sichtbar: „Erinnerung braucht jede und jeden von uns“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "10.11.2026",
-    "tags": [],
-    "zusammenfassung": "Im bundesweiten Förderprogramm „MemoRails – Halt! Hier wird an NS-Geschichte erinnert“ haben 13 Projekte Gedenkzeichen an Bahnhöfen geschaffen und mit Bildungsangeboten die lokale Auseinandersetzung mit den NS-Verbrechen gestärkt. Die Ergebnisse werden vom 13. November 2026 bis zum 28. Februar 2027 im DB Museum Nürnbe…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/13-neue-erinnerungsorte-an-bahnhoefen-machen-ns-geschichte-in-ganz-deutschland-sichtbar-erinnerung-braucht-jede-und-jeden-von-uns--2460368",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.11.2026",
-    "tags": [],
-    "zusammenfassung": "Bundesregierung lädt ein ins „House of Germany“ in Davos",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-house-of-germany-in-davos.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "10.11.2026",
-    "tags": [],
-    "zusammenfassung": "SCHULEWIRTSCHAFT-PREIS 2026: Auszeichnung für hervorragende Projekte, die Schule und betriebliche Praxis verbinden",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261110-schulewirtschaft-preis-2026.html",
-    "gelesen": true
   }
 ];
 
