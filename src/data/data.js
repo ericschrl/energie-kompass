@@ -134,7 +134,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-19"
+      "news-20"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
@@ -255,7 +255,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-4"
+      "news-5"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,8 +508,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-1",
-      "news-4"
+      "news-2",
+      "news-5"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,43 +522,54 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
+    "titel": "Erklärung von Bundeskanzler Friedrich Merz zum Mehrjährigen Finanzrahmen 2028-2034",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 13:25",
+    "tags": [],
+    "zusammenfassung": "Seit Beginn der Verhandlungen vor mehr als einem Jahr setzt sich Deutschland für einen modernisierten, realistischen und bezahlbaren Haushalt für die Europäische Union ein. Es liegt in unserer gemeinsamen Verantwortung, hierfür jetzt die Weichen zu stellen. Für ein handlungsfähiges Europa, nach innen wie nach außen. D…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/erklaerung-von-bundeskanzler-friedrich-merz-zum-mehrjaehrigen-finanzrahmen-2028-2034-2462246",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
     "titel": "Nach Beitritt Spaniens: Europäisierung von ARTE entschlossen voranbringen – Staatsminister Weimer: „Eine Blaupause für weitere europäische…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 11:50",
+    "datum": "Gestern, 11:50",
     "tags": [],
     "zusammenfassung": "Staatsminister Wolfram Weimer hat gemeinsam mit dem spanischen Kulturminister, Ernest Urtasun, und der französischen Kulturministerin, Catherine Pégard, die Europäisierung von ARTE in Spanien im Kreise der europäischen Kultur- und Medienministerinnen und -minister vorgestellt. ARTE und der spanische öffentlich-rechtli…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/nach-beitritt-spaniens-europaeisierung-von-arte-entschlossen-voranbringen-staatsminister-weimer-eine-blaupause-fuer-weitere-europaeische-senderzusammenarbeit--2462244",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-3",
     "titel": "Bundeskanzler Friedrich Merz zur Erklärung der dänischen Ministerpräsidentin Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 18:25",
+    "datum": "20.11.2026",
     "tags": [],
     "zusammenfassung": "Unsere dänischen Freunde haben heute einen versuchten Anschlag auf einen US-amerikanisch-ukrainischen Staatsangehörigen in Dänemark den russischen Sicherheitsbehörden zugeordnet. Wir stehen solidarisch an der Seite Dänemarks. Wir werden jeden Versuch Russlands unterbinden, Europa durch Attentate, Anschläge oder Sabota…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-friedrich-merz-zur-erklaerung-der-daenischen-ministerpraesidentin-mette-frederiksen-2462242",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-4",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar: 15 Milliarden Euro Investitionen in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 16:20",
+    "datum": "20.11.2026",
     "tags": [],
     "zusammenfassung": "Bundeskanzler Friedrich Merz hat heute den Emir von Katar, Scheich Tamim bin Hamad Al Thani, anlässlich seines Staatsbesuchs in Deutschland im Bundeskanzleramt empfangen. Zentrales Ergebnis des Treffens ist eine gemeinsame Erklärung, in der Katar Investitionen in Höhe von 15 Milliarden Euro in Deutschland in den nächs…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-15-milliarden-euro-investitionen-in-deutschland-2462194",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-5",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
-    "datum": "Gestern, 16:09",
+    "datum": "20.11.2026",
     "tags": [
       "eeg",
       "netz"
@@ -568,40 +579,40 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-5",
+    "id": "news-6",
     "titel": "14 EU-Staaten schließen sich deutscher Initiative zum Schutz des digitalen Raums an – Staatsminister Weimer: „Starkes Urheberrecht und Juge…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 13:30",
+    "datum": "20.11.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer hat sich heute beim Rat der Europäischen Union für Bildung, Jugend, Sport und Kultur in Brüssel als Vertreter Deutschlands mit den europäischen Kultur- und Medienministerinnen und -ministern über die Stärkung des Urheberrechts und den Schutz junger Menschen im digitalen Raum ausgeta…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/14-eu-staaten-schliessen-sich-deutscher-initiative-zum-schutz-des-digitalen-raums-an-staatsminister-weimer-starkes-urheberrecht-und-jugendmedienschutz-haben-hoechste-prioritaet--2462122",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-7",
     "titel": "Bundeskanzler Merz empfängt NATO-Generalsekretär Rutte",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:00",
+    "datum": "20.11.2026",
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-nato-generalsekretaer-rutte-2462104",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-7",
+    "id": "news-8",
     "titel": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 01:30",
+    "datum": "20.11.2026",
     "tags": [],
     "zusammenfassung": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261120-deutsch-ukrainisches-wirtschaftsforum.html",
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-9",
     "titel": "Erstes Treffen mit neuer französischer Amtskollegin Catherine Pégard in Paris – Staatsminister Weimer: „Deutsch-französische Kulturbeziehun…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -609,10 +620,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Kulturstaatsminister Wolfram Weimer traf heute die neue französische Kulturministerin, Catherine Pégard, zu einem ersten gemeinsamen Gespräch in Paris. Im Mittelpunkt standen die deutsch-französische Zusammenarbeit zu Kultur und Medien sowie gemeinsame europäische Vorhaben. Beide tauschten sich über die Europäisierung…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/erstes-treffen-mit-neuer-franzoesischer-amtskollegin-catherine-p%C3%A9gard-in-paris-staatsminister-weimer-deutsch-franzoesische-kulturbeziehungen-sind-das-pulsierende-herz-europas--2461946",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-9",
+    "id": "news-10",
     "titel": "Staatsminister Weimer zum vierten weltweiten Religionsbericht: „Religionsfreiheit auch in Deutschland verteidigen“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -620,10 +631,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Das Bundeskabinett hat gestern den vierten Bericht der Bundesregierung zur weltweiten Lage der Religions- und Weltanschauungsfreiheit beschlossen. Der Bericht macht deutlich, dass die Religions- und Weltanschauungsfreiheit zunehmend bedroht ist. Anlässlich des Berichts betonte Staatsminister für Kultur und Medien Wolf…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/staatsminister-weimer-zum-vierten-weltweiten-religionsbericht-religionsfreiheit-auch-in-deutschland-verteidigen--2461940",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-10",
+    "id": "news-11",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -631,10 +642,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Sehr geehrter Herr Ministerpräsident, zu Ihrer Wiederwahl gratuliere ich Ihnen sehr herzlich. Ich schätze unsere enge und vertrauensvolle Zusammenarbeit als Partner in der Europäischen Union und Verbündete in der NATO und freue mich darauf, diesen Weg gemeinsam mit Ihnen fortzusetzen. Ich wünsche Ihnen für Ihre weiter…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-gratuliert-dem-ministerpraesidenten-der-republik-lettland-andris-kulbergs-2461866",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-11",
+    "id": "news-12",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -645,7 +656,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-12",
+    "id": "news-13",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -653,10 +664,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261119-zitat-reiche-handelskongress-hde.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-13",
+    "id": "news-14",
     "titel": "TikTok europäisch denken: Start für eine europäische Initiative aus Deutschland und Österreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -664,10 +675,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Medienstaatsminister Wolfram Weimer und der österreichische Staatssekretär für Digitalisierung, Alexander Pröll, haben heute eine gemeinsame Erklärung zur europäischen Debatte über TikTok und die Souveränität unserer digitalen Öffentlichkeit veröffentlicht. Im Mittelpunkt steht die Frage, wie Europa mehr Kontrolle übe…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/tiktok-europaeisch-denken-start-fuer-eine-europaeische-initiative-aus-deutschland-und-oesterreich-2461632",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-15",
     "titel": "Verschollenes Le Brun-Meisterwerk kehrt nach über 80 Jahren nach Sanssouci zurück – Staatsminister Weimer: „Diese Rückkehr ist eine kulturh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -675,10 +686,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Ein verloren geglaubtes Meisterwerk ist zurück in Potsdam. Charles Le Bruns Gemälde „Heilige Familie“ ist nach mehr als 80 Jahren an seinen historischen Platz im Neuen Palais zurückgekehrt. Das Werk des französischen Barockmalers und Hofmalers Ludwigs XIV. war nach dem Zweiten Weltkrieg aus den preußischen Sammlungen…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/verschollenes-le-brun-meisterwerk-kehrt-nach-ueber-80-jahren-nach-sanssouci-zurueck-staatsminister-weimer-diese-rueckkehr-ist-eine-kulturhistorische-sensation--2461558",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-15",
+    "id": "news-16",
     "titel": "Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -686,10 +697,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Das Kabinett hat heute ein Arbeitsrechtspaket beschlossen, das den öffentlichen Bibliotheken künftig die Öffnung an Sonn- und Feiertagen ermöglichen soll. Damit werden die Beschlüsse des Koalitionsausschusses vom 1. Juli 2026 umgesetzt, die die Sonntagsöffnung öffentlicher Bibliotheken vorsehen. Bibliotheken werden da…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/kabinett-beschliesst-sonntagsoeffnung-von-bibliotheken-staatsminister-weimer-wir-schaffen-mehr-zeit-fuer-bildung-begegnung-und-kulturelle-teilhabe--2461544",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-17",
     "titel": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -697,10 +708,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261118-preis-berufsbildung-ohne-grenzen.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-18",
     "titel": "Wettbewerb für das „Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland“ entschieden",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -708,10 +719,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Pressemitteilung finden Sie im Anhang.",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/wettbewerb-fuer-das-denkmal-zur-mahnung-und-erinnerung-an-die-opfer-der-kommunistischen-diktatur-in-deutschland-entschieden-2461476",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-19",
     "titel": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepak…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -721,10 +732,10 @@ const NEWS = [
     ],
     "zusammenfassung": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepaket für energieintensive Industrie",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261117-industriestrompreis.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-20",
     "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -738,7 +749,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-21",
     "titel": "Deutscher Kurzfilmpreis feiert 70. Jubiläum – Staatsminister Weimer: „Kurzfilm trendet gerade beim jungen Publikum“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -746,10 +757,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Seit 70 Jahren würdigt der Bund herausragende Leistungen bei der Produktion von Kurzfilmen mit der Goldenen Lola – so auch heute bei der Verleihung des Deutschen Kurzfilmpreises auf Kampnagel in Hamburg. Dort wurde die bedeutendste und höchstdotierte Auszeichnung für die kurze filmische Form in Deutschland vergeben, v…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-feiert-70-jubilaeum-staatsminister-weimer-kurzfilm-trendet-gerade-beim-jungen-publikum--2461240",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-22",
     "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -757,10 +768,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-23",
     "titel": "Bund und Länder unterzeichnen Finanzierungsabkommen für die Stiftung Preußische Schlösser und Gärten – 54,5 Millionen Euro jährlich für den…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -768,10 +779,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die Stiftung Preußische Schlösser und Gärten Berlin-Brandenburg (SPSG) erhält auch in den kommenden Jahren eine verlässliche Finanzierung. Der Bund sowie die Länder Berlin und Brandenburg unterzeichneten heute im Berliner Schloss Charlottenburg das neue Finanzierungsabkommen für die Stiftung. Dieses gilt ab dem 1. Jan…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bund-und-laender-unterzeichnen-finanzierungsabkommen-fuer-die-stiftung-preussische-schloesser-und-gaerten-54-5-millionen-euro-jaehrlich-fuer-den-erhalt-von-schloessern-gaerten-und-kunstsammlungen-2461154",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-24",
     "titel": "Erneut Rekordetat von knapp 2,6 Milliarden Euro für Kultur und Medien – Staatsminister Weimer: „Kraftvoller Vertrauensbeweis für die Kultur…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -779,10 +790,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Mit 2,58 Milliarden Euro steht für 2027 ein Kultur- und Medienetat auf Rekordniveau bereit. Damit steigt der Haushalt von Staatsminister Wolfram Weimer gegenüber dem Regierungsentwurf um mehr als 220 Millionen Euro. Dies beschloss der Haushaltsausschuss des Deutschen Bundestages in der entscheidenden Sitzung zum Bunde…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/erneut-rekordetat-von-knapp-2-6-milliarden-euro-fuer-kultur-und-medien-staatsminister-weimer-kraftvoller-vertrauensbeweis-fuer-die-kulturnation-deutschland--2461042",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-25",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar, Scheich Tamim bin Hamad Al Thani",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -790,10 +801,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-emir-von-katar-scheich-tamim-bin-hamad-al-thani-2461046",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-26",
     "titel": "Bundeskanzler Merz lädt zu Treffen der „Koalition der Willigen“ am 19. November in Berlin ein",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -801,10 +812,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-laedt-zu-treffen-der-koalition-der-willigen-am-19-november-in-berlin-ein-2461054",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-27",
     "titel": "Bundeskanzler Merz empfängt den finnischen Staatspräsidenten Stubb",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,10 +823,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Sebastian Hille, teilt mit:",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-empfaengt-den-finnischen-staatspraesidenten-stubb-2461048",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-28",
     "titel": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -823,10 +834,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Italienisches Finanzministerium richtet erstes deutsch-italienisches makroökonomisches Forum in Rom aus",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Aussenwirtschaft/erstes-makrooekonomisches-Forum-de-it.html",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-29",
     "titel": "Wolf Biermann wird 90 – Staatsminister Weimer würdigt den Liedermacher als unbeugsame Stimme der Freiheit",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -834,10 +845,10 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Staatsminister für Kultur und Medien Wolfram Weimer gratuliert dem Liedermacher und Lyriker Wolf Biermann zu dessen 90. Geburtstag am 15. November 2026. Staatsminister Weimer erklärte vorab: „Wolf Biermann ist ein außergewöhnlicher Künstler und eine der prägenden Stimmen des Widerstands gegen die SED-Diktatur. Mit sei…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/wolf-biermann-wird-90-staatsminister-weimer-wuerdigt-den-liedermacher-als-unbeugsame-stimme-der-freiheit-2460918",
-    "gelesen": false
+    "gelesen": true
   },
   {
-    "id": "news-29",
+    "id": "news-30",
     "titel": "Die wirtschaftliche Lage in Deutschland im November 20261",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -845,18 +856,7 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Die wirtschaftliche Lage in Deutschland im November 20261",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/Wirtschaftliche-Lage/2026/20261113-wirt-lage-deutschland-nov-2026.html",
-    "gelesen": false
-  },
-  {
-    "id": "news-30",
-    "titel": "Der Orden Pour le mérite hat Bernhard Schölkopf, Anne L’Huillier und Christoph Ransmayr als neue Mitglieder gewählt – Staatsminister Weimer…",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "12.11.2026",
-    "tags": [],
-    "zusammenfassung": "Das Kapitel des Ordens hat in seiner Sitzung am 27. September 2026 in Hamburg den Informatiker Bernhard Schölkopf als inländisches Mitglied und die französisch-schwedische Physikerin und Nobelpreisträgerin Anne L’Huillier sowie den österreichischen Schriftsteller Christoph Ransmayr als ausländische Mitglieder in den O…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/der-orden-pour-le-m%C3%A9rite-hat-bernhard-schoelkopf-anne-l-huillier-und-christoph-ransmayr-als-neue-mitglieder-gewaehlt-staatsminister-weimer-ihre-arbeiten-stehen-fuer-die-kraft-menschlicher-erkenntnis-fuer-kreativitaet-und-freiheitliches-denken--2460698",
-    "gelesen": false
+    "gelesen": true
   }
 ];
 
