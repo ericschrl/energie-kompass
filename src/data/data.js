@@ -133,9 +133,7 @@ const GESETZE = [
         "kommentar": "Systemwirtschaftliche Bedenken beim Ausbautempo"
       }
     ],
-    "news": [
-      "news-28"
-    ],
+    "news": [],
     "quelle": {
       "url": "https://dserver.bundestag.de/btp/21/21083.pdf#P.10051",
       "datum": "2026-06-11",
@@ -255,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-13"
+      "news-16"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -508,8 +506,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-10",
-      "news-13"
+      "news-13",
+      "news-16"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -522,61 +520,94 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Monitoringbericht 2026: Wettbewerbliche und regulatorische Herausforderungen auf den Energiemärkten in Zeiten des Wandels",
+    "titel": "Strategiepapier Resilienz der Telekommunikationsnetze: Bundesnetzagentur veröffentlicht Fortschreibung",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
     "datum": "Heute, 13:00",
+    "tags": [],
+    "zusammenfassung": "Strategiepapier Resilienz der Telekommunikationsnetze: Bundesnetzagentur veröffentlicht Fortschreibung",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261126_Strategiepapier.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "„Europa muss die Systemfrage zu TikTok stellen“ – Staatsminister Weimer und Staatssekretär Pröll treiben Allianz für europäische Lösung wei…",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 10:00",
+    "tags": [],
+    "zusammenfassung": "Kultur- und Medienstaatsminister, Wolfram Weimer, und Österreichs Staatssekretär für Digitalisierung, Alexander Pröll, haben heute bei einem gemeinsamen Treffen im Bundeskanzleramt in Wien ihre Initiative „TikTok europäisch denken“ bekräftigt. Ziel ist eine europäische Eigentümerstruktur für das Europageschäft von Tik…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/-europa-muss-die-systemfrage-zu-tiktok-stellen-staatsminister-weimer-und-staatssekretaer-proell-treiben-allianz-fuer-europaeische-loesung-weiter-voran-2462676",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Österreich und Deutschland verleihen erstmals gemeinsamen Lyrikpreis: Esther Kinsky und Ann Cotten ausgezeichnet",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Gestern, 19:45",
+    "tags": [],
+    "zusammenfassung": "Anlässlich des 100. Geburtstags von Ingeborg Bachmann haben Österreich und Deutschland den Österreichisch-Deutschen Lyrikpreis ins Leben gerufen. Die beiden Preisträgerinnen Esther Kinsky und Ann Cotten wurden heute im Rahmen der Buch Wien ausgezeichnet. Der gemeinsam vom österreichischen Staatssekretär für Auslandsku…",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/oesterreich-und-deutschland-verleihen-erstmals-gemeinsamen-lyrikpreis-esther-kinsky-und-ann-cotten-ausgezeichnet-2462544",
+    "gelesen": false
+  },
+  {
+    "id": "news-4",
+    "titel": "Monitoringbericht 2026: Wettbewerbliche und regulatorische Herausforderungen auf den Energiemärkten in Zeiten des Wandels",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Gestern, 13:00",
     "tags": [],
     "zusammenfassung": "Monitoringbericht 2026: Wettbewerbliche und regulatorische Herausforderungen auf den Energiemärkten in Zeiten des Wandels",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261125_Monitoringbericht.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-5",
     "titel": "25 Jahre deutsch-französisches Filmabkommen – Staatsminister Weimer: „Minitraité verleiht europäischer Filmkultur eigene Stimme auf interna…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 15:12",
+    "datum": "24.11.2026",
     "tags": [],
     "zusammenfassung": "Ein ‚kleines Abkommen‘ feiert große Erfolgsgeschichte: Mit einem Festakt im Roten Rathaus von Berlin würdigen Vertreterinnen und Vertreter der Bundesregierung, der Berliner Senatskanzlei und der Filmbranche aus Frankreich und Deutschland heute Abend das 25. Jubiläum des deutsch-französischen Filmabkommens Minitraité.…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/25-jahre-deutsch-franzoesisches-filmabkommen-staatsminister-weimer-minitrait%C3%A9-verleiht-europaeischer-filmkultur-eigene-stimme-auf-internationaler-festivalbuehne--2462394",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-6",
     "titel": "1,5 Millionen Euro für den Sound von morgen – APPLAUS-Award 2026: Staatsminister Weimer stellt Deutsche Clubszene ins Rampenlicht",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 12:48",
+    "datum": "24.11.2026",
     "tags": [],
     "zusammenfassung": "Kulturstaatminister Wolfram Weimer hat heute in Potsdam die APPLAUS-Awards 2026 an Musikclubs und Veranstaltungsreihen verliehen. Die Auszeichnung würdigt kleine und mittlere Livemusikspielstätten sowie Veranstaltungsreihen in den Bereichen Popularmusik und Jazz für ihr herausragende Arbeit in der unabhängigen Livemus…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/1-5-millionen-euro-fuer-den-sound-von-morgen-applaus-award-2026-staatsminister-weimer-stellt-deutsche-clubszene-ins-rampenlicht-2462386",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-7",
     "titel": "Industriekonferenz 2026: „Die industrielle Zukunft gestalten“",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:45",
+    "datum": "24.11.2026",
     "tags": [],
     "zusammenfassung": "Industriekonferenz 2026: „Die industrielle Zukunft gestalten“",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261124-industriekonferenz-2026.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-8",
     "titel": "Verordnung zur Konkretisierung der Regelungen zur Anrechenbarkeit von Investitionen auf das Erreichen der Mindestinvestitionsschwellen bei…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
-    "datum": "Gestern, 10:00",
+    "datum": "24.11.2026",
     "tags": [],
     "zusammenfassung": "Verordnung zur Konkretisierung der Regelungen zur Anrechenbarkeit von Investitionen auf das Erreichen der Mindestinvestitionsschwellen bei Brennstoffwechselprojekten",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Artikel/Service/Gesetzesvorhaben/2026/20261124-brennstoffwechselanrechnungsverordnung.html",
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-9",
     "titel": "Aktueller Ausblick des Deutschen Wetterdienstes auf den Winter 2026/2027 in Deutschland",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -587,7 +618,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-10",
     "titel": "Reformierter Nationaler Wasserstoffrat nimmt Arbeit auf und berät Bundesregierung für effiziente Wasserstoffpolitik",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -600,7 +631,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-11",
     "titel": "Drittes Deutsch-Italienisches Ministerforum: Deutschland und Italien setzen gemeinsam Impulse für mehr Wettbewerbsfähigkeit und Zukunftstec…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -611,7 +642,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-12",
     "titel": "Erklärung von Bundeskanzler Friedrich Merz zum Mehrjährigen Finanzrahmen 2028-2034",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -622,7 +653,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-13",
     "titel": "Nach Beitritt Spaniens: Europäisierung von ARTE entschlossen voranbringen – Staatsminister Weimer: „Eine Blaupause für weitere europäische…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -633,7 +664,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-14",
     "titel": "Bundeskanzler Friedrich Merz zur Erklärung der dänischen Ministerpräsidentin Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -644,7 +675,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-15",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar: 15 Milliarden Euro Investitionen in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -655,7 +686,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-16",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -669,7 +700,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-14",
+    "id": "news-17",
     "titel": "14 EU-Staaten schließen sich deutscher Initiative zum Schutz des digitalen Raums an – Staatsminister Weimer: „Starkes Urheberrecht und Juge…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -680,7 +711,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-18",
     "titel": "Bundeskanzler Merz empfängt NATO-Generalsekretär Rutte",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -691,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-16",
+    "id": "news-19",
     "titel": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -702,7 +733,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-17",
+    "id": "news-20",
     "titel": "Erstes Treffen mit neuer französischer Amtskollegin Catherine Pégard in Paris – Staatsminister Weimer: „Deutsch-französische Kulturbeziehun…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -713,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-18",
+    "id": "news-21",
     "titel": "Staatsminister Weimer zum vierten weltweiten Religionsbericht: „Religionsfreiheit auch in Deutschland verteidigen“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -724,7 +755,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-22",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -735,7 +766,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-20",
+    "id": "news-23",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -746,7 +777,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-24",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -757,7 +788,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-25",
     "titel": "TikTok europäisch denken: Start für eine europäische Initiative aus Deutschland und Österreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -768,7 +799,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-26",
     "titel": "Verschollenes Le Brun-Meisterwerk kehrt nach über 80 Jahren nach Sanssouci zurück – Staatsminister Weimer: „Diese Rückkehr ist eine kulturh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -779,7 +810,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-27",
     "titel": "Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -790,7 +821,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-28",
     "titel": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -801,7 +832,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-29",
     "titel": "Wettbewerb für das „Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland“ entschieden",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -812,7 +843,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-30",
     "titel": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepak…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -822,42 +853,6 @@ const NEWS = [
     ],
     "zusammenfassung": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepaket für energieintensive Industrie",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261117-industriestrompreis.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-28",
-    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
-    "quelle": "Bundestag DIP",
-    "quelleColor": "#3f6e8c",
-    "datum": "17.11.2026",
-    "tags": [
-      "eeg",
-      "markt"
-    ],
-    "zusammenfassung": "Abgelehnt — Umsetzung unionsrechtlicher Vorgaben zur Abschöpfung von Mehrerlösen von geförderten Erneuerbare-Energien-Anlagen in Hochpreisphasen durch Einführung eines Finanzierungsmodells in Form von zweiseitigen Differenzverträgen (&quot;Contracts for Difference&quot;, CfDs): Ergänzung des vorhandenen Systems der ge…",
-    "link": "https://dip.bundestag.de/vorgang/336979",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Deutscher Kurzfilmpreis feiert 70. Jubiläum – Staatsminister Weimer: „Kurzfilm trendet gerade beim jungen Publikum“",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "17.11.2026",
-    "tags": [],
-    "zusammenfassung": "Seit 70 Jahren würdigt der Bund herausragende Leistungen bei der Produktion von Kurzfilmen mit der Goldenen Lola – so auch heute bei der Verleihung des Deutschen Kurzfilmpreises auf Kampnagel in Hamburg. Dort wurde die bedeutendste und höchstdotierte Auszeichnung für die kurze filmische Form in Deutschland vergeben, v…",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/deutscher-kurzfilmpreis-feiert-70-jubilaeum-staatsminister-weimer-kurzfilm-trendet-gerade-beim-jungen-publikum--2461240",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
-    "quelle": "Bundesnetzagentur",
-    "quelleColor": "#004B87",
-    "datum": "16.11.2026",
-    "tags": [],
-    "zusammenfassung": "Die Bundesnetzagentur vergibt erstes Label für Datenvermittlungsdienste nach dem Data Governance Act (DGA)",
-    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261116_DataAct.html",
     "gelesen": true
   }
 ];
