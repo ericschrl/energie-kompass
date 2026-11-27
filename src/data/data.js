@@ -253,7 +253,7 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-16"
+      "news-18"
     ],
     "quelle": {
       "url": "https://dserver.bundestag.de/btd/21/077/2107734.pdf",
@@ -506,8 +506,8 @@ const GESETZE = [
       }
     ],
     "news": [
-      "news-13",
-      "news-16"
+      "news-15",
+      "news-18"
     ],
     "quelle": {
       "url": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20260527_Agnes.html",
@@ -520,50 +520,72 @@ const GESETZE = [
 const NEWS = [
   {
     "id": "news-1",
-    "titel": "Strategiepapier Resilienz der Telekommunikationsnetze: Bundesnetzagentur veröffentlicht Fortschreibung",
+    "titel": "Bundesnetzagentur erlässt Festlegung HEDWIG zur Erhebung und Veröffentlichung von Energiemarktdaten",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
     "datum": "Heute, 13:00",
+    "tags": [],
+    "zusammenfassung": "Bundesnetzagentur erlässt Festlegung HEDWIG zur Erhebung und Veröffentlichung von Energiemarktdaten",
+    "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261127_Hedwig.html",
+    "gelesen": false
+  },
+  {
+    "id": "news-2",
+    "titel": "Bundeskanzler Merz reist vom 29. bis 30. November nach Rom",
+    "quelle": "Bundesregierung",
+    "quelleColor": "#444",
+    "datum": "Heute, 12:20",
+    "tags": [],
+    "zusammenfassung": "Der stellvertretende Sprecher der Bundesregierung, Steffen Meyer, teilt mit:",
+    "link": "https://www.bundesregierung.de/breg-de/aktuelles/bundeskanzler-merz-reist-vom-29-bis-30-november-nach-rom-2463004",
+    "gelesen": false
+  },
+  {
+    "id": "news-3",
+    "titel": "Strategiepapier Resilienz der Telekommunikationsnetze: Bundesnetzagentur veröffentlicht Fortschreibung",
+    "quelle": "Bundesnetzagentur",
+    "quelleColor": "#004B87",
+    "datum": "Gestern, 13:00",
     "tags": [],
     "zusammenfassung": "Strategiepapier Resilienz der Telekommunikationsnetze: Bundesnetzagentur veröffentlicht Fortschreibung",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261126_Strategiepapier.html",
     "gelesen": false
   },
   {
-    "id": "news-2",
+    "id": "news-4",
     "titel": "„Europa muss die Systemfrage zu TikTok stellen“ – Staatsminister Weimer und Staatssekretär Pröll treiben Allianz für europäische Lösung wei…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Heute, 10:00",
+    "datum": "Gestern, 10:00",
     "tags": [],
     "zusammenfassung": "Kultur- und Medienstaatsminister, Wolfram Weimer, und Österreichs Staatssekretär für Digitalisierung, Alexander Pröll, haben heute bei einem gemeinsamen Treffen im Bundeskanzleramt in Wien ihre Initiative „TikTok europäisch denken“ bekräftigt. Ziel ist eine europäische Eigentümerstruktur für das Europageschäft von Tik…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/-europa-muss-die-systemfrage-zu-tiktok-stellen-staatsminister-weimer-und-staatssekretaer-proell-treiben-allianz-fuer-europaeische-loesung-weiter-voran-2462676",
     "gelesen": false
   },
   {
-    "id": "news-3",
+    "id": "news-5",
     "titel": "Österreich und Deutschland verleihen erstmals gemeinsamen Lyrikpreis: Esther Kinsky und Ann Cotten ausgezeichnet",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
-    "datum": "Gestern, 19:45",
+    "datum": "25.11.2026",
     "tags": [],
     "zusammenfassung": "Anlässlich des 100. Geburtstags von Ingeborg Bachmann haben Österreich und Deutschland den Österreichisch-Deutschen Lyrikpreis ins Leben gerufen. Die beiden Preisträgerinnen Esther Kinsky und Ann Cotten wurden heute im Rahmen der Buch Wien ausgezeichnet. Der gemeinsam vom österreichischen Staatssekretär für Auslandsku…",
     "link": "https://www.bundesregierung.de/breg-de/aktuelles/oesterreich-und-deutschland-verleihen-erstmals-gemeinsamen-lyrikpreis-esther-kinsky-und-ann-cotten-ausgezeichnet-2462544",
     "gelesen": false
   },
   {
-    "id": "news-4",
+    "id": "news-6",
     "titel": "Monitoringbericht 2026: Wettbewerbliche und regulatorische Herausforderungen auf den Energiemärkten in Zeiten des Wandels",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
-    "datum": "Gestern, 13:00",
+    "datum": "25.11.2026",
     "tags": [],
     "zusammenfassung": "Monitoringbericht 2026: Wettbewerbliche und regulatorische Herausforderungen auf den Energiemärkten in Zeiten des Wandels",
     "link": "http://www.bundesnetzagentur.de/SharedDocs/Pressemitteilungen/DE/2026/20261125_Monitoringbericht.html",
     "gelesen": false
   },
   {
-    "id": "news-5",
+    "id": "news-7",
     "titel": "25 Jahre deutsch-französisches Filmabkommen – Staatsminister Weimer: „Minitraité verleiht europäischer Filmkultur eigene Stimme auf interna…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -574,7 +596,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-6",
+    "id": "news-8",
     "titel": "1,5 Millionen Euro für den Sound von morgen – APPLAUS-Award 2026: Staatsminister Weimer stellt Deutsche Clubszene ins Rampenlicht",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -585,7 +607,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-7",
+    "id": "news-9",
     "titel": "Industriekonferenz 2026: „Die industrielle Zukunft gestalten“",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -596,7 +618,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-8",
+    "id": "news-10",
     "titel": "Verordnung zur Konkretisierung der Regelungen zur Anrechenbarkeit von Investitionen auf das Erreichen der Mindestinvestitionsschwellen bei…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -607,7 +629,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-9",
+    "id": "news-11",
     "titel": "Aktueller Ausblick des Deutschen Wetterdienstes auf den Winter 2026/2027 in Deutschland",
     "quelle": "Bundesnetzagentur",
     "quelleColor": "#004B87",
@@ -618,7 +640,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-10",
+    "id": "news-12",
     "titel": "Reformierter Nationaler Wasserstoffrat nimmt Arbeit auf und berät Bundesregierung für effiziente Wasserstoffpolitik",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -631,7 +653,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-11",
+    "id": "news-13",
     "titel": "Drittes Deutsch-Italienisches Ministerforum: Deutschland und Italien setzen gemeinsam Impulse für mehr Wettbewerbsfähigkeit und Zukunftstec…",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -642,7 +664,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-12",
+    "id": "news-14",
     "titel": "Erklärung von Bundeskanzler Friedrich Merz zum Mehrjährigen Finanzrahmen 2028-2034",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -653,7 +675,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-13",
+    "id": "news-15",
     "titel": "Nach Beitritt Spaniens: Europäisierung von ARTE entschlossen voranbringen – Staatsminister Weimer: „Eine Blaupause für weitere europäische…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -664,7 +686,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-14",
+    "id": "news-16",
     "titel": "Bundeskanzler Friedrich Merz zur Erklärung der dänischen Ministerpräsidentin Mette Frederiksen",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -675,7 +697,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-15",
+    "id": "news-17",
     "titel": "Bundeskanzler Merz empfängt den Emir von Katar: 15 Milliarden Euro Investitionen in Deutschland",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -686,7 +708,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-16",
+    "id": "news-18",
     "titel": "Gesetz zur Änderung des Energiewirtschaftsgesetzes zur Gewährung eines Zuschusses zu den Übertragungsnetzkosten für die Jahre 2027 bis 2029",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -700,7 +722,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-17",
+    "id": "news-19",
     "titel": "14 EU-Staaten schließen sich deutscher Initiative zum Schutz des digitalen Raums an – Staatsminister Weimer: „Starkes Urheberrecht und Juge…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -711,7 +733,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-18",
+    "id": "news-20",
     "titel": "Bundeskanzler Merz empfängt NATO-Generalsekretär Rutte",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -722,7 +744,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-19",
+    "id": "news-21",
     "titel": "Bundesministerin Reiche auf dem 9. Deutsch-Ukrainischen Wirtschaftsforum",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -733,7 +755,7 @@ const NEWS = [
     "gelesen": false
   },
   {
-    "id": "news-20",
+    "id": "news-22",
     "titel": "Erstes Treffen mit neuer französischer Amtskollegin Catherine Pégard in Paris – Staatsminister Weimer: „Deutsch-französische Kulturbeziehun…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -744,7 +766,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-21",
+    "id": "news-23",
     "titel": "Staatsminister Weimer zum vierten weltweiten Religionsbericht: „Religionsfreiheit auch in Deutschland verteidigen“",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -755,7 +777,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-22",
+    "id": "news-24",
     "titel": "Bundeskanzler Merz gratuliert dem Ministerpräsidenten der Republik Lettland, Andris Kulbergs",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -766,7 +788,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-23",
+    "id": "news-25",
     "titel": "Gesetz zur unionsrechtskonformen Präzisierung des Begriffs der Kundenanlage im Energiewirtschaftsgesetz",
     "quelle": "Bundestag DIP",
     "quelleColor": "#3f6e8c",
@@ -777,7 +799,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-24",
+    "id": "news-26",
     "titel": "Bundesministerin für Wirtschaft und Energie Katherina Reiche anlässlich des Handelskongresses des Handelsverband Deutschlands (HDE)",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -788,7 +810,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-25",
+    "id": "news-27",
     "titel": "TikTok europäisch denken: Start für eine europäische Initiative aus Deutschland und Österreich",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -799,7 +821,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-26",
+    "id": "news-28",
     "titel": "Verschollenes Le Brun-Meisterwerk kehrt nach über 80 Jahren nach Sanssouci zurück – Staatsminister Weimer: „Diese Rückkehr ist eine kulturh…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -810,7 +832,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-27",
+    "id": "news-29",
     "titel": "Kabinett beschließt Sonntagsöffnung von Bibliotheken – Staatsminister Weimer: „Wir schaffen mehr Zeit für Bildung, Begegnung und kulturelle…",
     "quelle": "Bundesregierung",
     "quelleColor": "#444",
@@ -821,7 +843,7 @@ const NEWS = [
     "gelesen": true
   },
   {
-    "id": "news-28",
+    "id": "news-30",
     "titel": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "quelle": "BMWE",
     "quelleColor": "#1d4ed8",
@@ -829,30 +851,6 @@ const NEWS = [
     "tags": [],
     "zusammenfassung": "Unternehmenspreis des Netzwerks „Berufsbildung ohne Grenzen“: Auszeichnung für die Förderung von internationaler Lernmobilität",
     "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261118-preis-berufsbildung-ohne-grenzen.html",
-    "gelesen": true
-  },
-  {
-    "id": "news-29",
-    "titel": "Wettbewerb für das „Denkmal zur Mahnung und Erinnerung an die Opfer der kommunistischen Diktatur in Deutschland“ entschieden",
-    "quelle": "Bundesregierung",
-    "quelleColor": "#444",
-    "datum": "17.11.2026",
-    "tags": [],
-    "zusammenfassung": "Die Pressemitteilung finden Sie im Anhang.",
-    "link": "https://www.bundesregierung.de/breg-de/aktuelles/wettbewerb-fuer-das-denkmal-zur-mahnung-und-erinnerung-an-die-opfer-der-kommunistischen-diktatur-in-deutschland-entschieden-2461476",
-    "gelesen": true
-  },
-  {
-    "id": "news-30",
-    "titel": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepak…",
-    "quelle": "BMWE",
-    "quelleColor": "#1d4ed8",
-    "datum": "17.11.2026",
-    "tags": [
-      "markt"
-    ],
-    "zusammenfassung": "Industriestrompreis wird ausgeweitet, Strompreiskompensation wird vereinfacht und verstetigt – Europäische Kommission genehmigt Beihilfepaket für energieintensive Industrie",
-    "link": "https://www.bundeswirtschaftsministerium.de/Redaktion/DE/Pressemitteilungen/2026/11/20261117-industriestrompreis.html",
     "gelesen": true
   }
 ];
